@@ -1,0 +1,33 @@
+
+LOGIN INFORMATION THAT IS REMOVED:
+
+    sheetsAPI.php:
+        function initClient():
+            API_KEY
+            CLIENT_ID
+
+    checkSID.php:
+        $servername
+        $username
+        $password
+        $dbname
+
+    setSID.php:
+        $servername
+        $username
+        $password
+        $dbname
+
+    matchRecordSubmit.php:
+        $servername
+        $username
+        $password
+        $dbname
+
+    login.php:
+        $servername
+        $username
+        $password
+        $dbname
+
+

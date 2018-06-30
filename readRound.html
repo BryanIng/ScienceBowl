@@ -1,0 +1,83 @@
+<html>
+    <head>
+        <script>
+
+            var questionSetInfo = [];
+            function parseMatchText(textLines) {
+                var l = textLines.length;
+                var i = 0;
+                while (i < l) {
+                    var text = textLines[i];
+                    if (text.search("QUESTION: ") != -1) {
+                        var qNum = text.substr(10);
+                        i++;
+                        text = textLines[i];
+                        var type = text.substr(10);
+                        i++;
+                        text = textLines[i];
+                        var subj = text.substr(10);
+                        i++;
+                        text = textLines[i];
+                        var form = text.substr(10);
+                        i++;
+                        text = textLines[i];
+                        var quest = text.substr(10);
+                        var choices = [0,0,0,0];
+
+                        if (form == "multiple choice") {
+                            i++;
+                            choices[0] = textLines[i];
+                            i++;
+                            choices[1] = textLines[i];
+                            i++;
+                            choices[2] = textLines[i];
+                            i++;
+                            choices[3] = textLines[i];
+                        }
+
+                        i++;
+                        text = textLines[i];
+                        var answer = text.substr(10);
+                        
+                        var questionSetRoundInfo = [qNum, type, subj, form, quest, choices, answer];
+                        questionSetInfo.push(questionSetRoundInfo);
+                    }
+                    i++;
+                }
+            }
+
+            var allText;
+            function readTextFile(url) {
+                var rawFile = new XMLHttpRequest();
+                rawFile.open("GET", url, true);
+                rawFile.onreadystatechange = function() {
+                    if (rawFile.readyState === 4) {
+                        allText = rawFile.responseText;
+                        //document.getElementById("textSection").innerHTML = allText;
+                        var lineText = allText.split("\n");
+                        parseMatchText(lineText);
+                    }
+                }
+                rawFile.send();
+            }
+
+
+
+            var text;
+            var startfunction = function() {
+                var url = "https://scibowl.rf.gd/questionSets/scibowlpdfs/" + "set1round1.txt";
+                readTextFile(url);
+                //document.getElementById("puttexthere").innerHTML = readText;
+            }    
+        </script>
+    </head>
+    <body>
+        BLAH
+        <p id="textSection">
+
+        </p>
+        <button onclick="startfunction();">
+            blah
+        </button>
+    </body>
+</html>
