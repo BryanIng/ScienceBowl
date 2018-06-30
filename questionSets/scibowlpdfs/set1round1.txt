@@ -1,0 +1,409 @@
+QUESTION: 1
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the most common term used in genetics to describe the observable physical characteristics of an organism caused by the expression of a gene or set of genes? 
+ANSWER:   PHENOTYPE 
+
+QUESTION: 1
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the biological term most often used for the act of a cell engulfing a particle by extending its pseudopodia (read as: SU-doe-POH-dee-ah) around the particle? 
+ANSWER:   PHAGOCYTOSIS 
+
+QUESTION: 2
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: An aqueous solution in which the concentration of OH ions is greater than that of H+ ions is: 
+		W) basic 
+		X) acidic 
+		Y) neutral 
+		Z) in equilibrium 
+ANSWER:   W) BASIC 
+
+QUESTION: 2
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Find the mass of 1 mole of cuprous oxide, or Cu2O. Assume the atomic mass of copper is 64 and oxygen is 16. 
+ANSWER:   144 High School Round 1 Page 2 
+
+QUESTION: 3
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What property of a sound wave is most commonly associated with loudness? 
+ANSWER:   AMPLITUDE 
+
+QUESTION: 3
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What is the MOST common term for the behavior of light where it appears to bend around small obstacles or the spreading out of waves as light passes through pinholes or slits? 
+ANSWER:   DIFFRACTION 
+
+QUESTION: 4
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What term BEST describes 2 angles with 90 as the sum of their measurements? 
+ANSWER:   COMPLEMENTARY 
+
+QUESTION: 4
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Divide the following and give your answer in scientific notation: 2147)104(108 
+ANSWER:   4 105 High School Round 1 Page 3 
+
+QUESTION: 5
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: The overall charge at the top and bottom, respectively, of a towering cumulonimbus cloud during a thunderstorm is: 
+		W) positive, positive 
+		X) positive, negative 
+		Y) negative, positive 
+		Z) negative, negative 
+ANSWER:   X) POSITIVE, NEGATIVE 
+
+QUESTION: 5
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: A lightning bolt is seen and its accompanying thunder is heard 15 seconds later. This means the storm is most likely how many miles away: 
+		W) 3 
+		X) 6 
+		Y) 9 
+		Z) 15 
+ANSWER:   W) 3 
+
+QUESTION: 6
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: How many significant figures are in the number 0.00750? 
+ANSWER:   3 
+
+QUESTION: 6
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: Subtract the following 2 numbers and give your answer with the proper significant figures: 25.101 0.9608 
+ANSWER:   24.140 High School Round 1 Page 4 
+
+QUESTION: 7
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: What is the proper name of the star that is most commonly noted to have coordinates closest to the north celestial pole? 
+ANSWER:   NORTH STAR (ACCEPT: POLARIS or ALPHA URSA MINORIS) 
+
+QUESTION: 7
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: What is the most well-known asterism in Ursa Major? 
+ANSWER:   BIG DIPPER 
+
+QUESTION: 8
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Human epidermis is mostly composed of which of the following basic animal tissues types: 
+		W) epithelial 
+		X) connective 
+		Y) nervous 
+		Z) muscle 
+ANSWER:   W) EPITHELIAL 
+
+QUESTION: 8
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What are the 2 basic categories of lymphocyte cells? 
+ANSWER:   T AND B (ACCEPT: B AND T CELLS) High School Round 1 Page 5 
+
+QUESTION: 9
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What general type of bonding is found in molecules in which electrons are shared by nuclei? 
+ANSWER:   COVALENT 
+
+QUESTION: 9
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Name all of the following 4 processes where latent heat is absorbed: evaporation; condensation; water melts; water freezes 
+ANSWER:   EVAPORATION; WATER MELTS 
+
+QUESTION: 10
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Although not known as such at the time, what was the first form of spectacular electric discharge seen by humans? 
+ANSWER:   LIGHTNING 
+
+QUESTION: 10
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: A constant force acting on a body experiencing no change in its environment will give the body: 
+		W) constant acceleration 
+		X) constant speed 
+		Y) constant velocity 
+		Z) zero acceleration 
+ANSWER:   W) CONSTANT ACCELERATION High School Round 1 Page 6 
+
+QUESTION: 11
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Simplify the following expression, where a is not equal to zero if b = 0 or if b = 1: ))((2bbaa 
+ANSWER:   bba2 
+
+QUESTION: 11
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Giving your answer in inches and in simplest radical form, if the hypotenuse of a 45-45-90 triangle is 10 inches, find the length of the other sides: 
+ANSWER:   52 (ACCEPT: BOTH 52) 
+
+QUESTION: 12
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is a sedimentary rock: 
+		W) slate 
+		X) marble 
+		Y) basalt 
+		Z) sandstone 
+ANSWER:   Z) SANDSTONE 
+
+QUESTION: 12
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is LEAST accurate about minerals: 
+		W) calcite has a hardness of 3 on most of its surfaces but a hardness of 4 along the crystal face perpendicular to its long axis 
+		X) the Mohs scale measures the absolute hardness of minerals 
+		Y) a minerals chemical composition largely determines its crystal shape and cleavage pattern 
+		Z) a minerals color is the same as its streak 
+ANSWER:   Z) A MINERALS COLOR IS THE SAME AS ITS STREAK High School Round 1 Page 7 
+
+QUESTION: 13
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Which of the following is closest to the meaning of the suffix lith: 
+		W) outside 
+		X) stone 
+		Y) side 
+		Z) surface 
+ANSWER:   X) STONE 
+
+QUESTION: 13
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: Rounded to the nearest whole number, how many feet does light travel in one-billionth of one second? 
+ANSWER:   1 
+
+QUESTION: 14
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: What star has the greatest apparent magnitude? 
+ANSWER:   SUN 
+
+QUESTION: 14
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: What planet is known to be most like Earth in size and density? 
+ANSWER:   VENUS High School Round 1 Page 8 
+
+QUESTION: 15
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: How many embryonic seed leaves does a bean seedling have? 
+ANSWER:   2 
+
+QUESTION: 15
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Name all of the following 5 plants that are dicots: wheat; geranium; garlic; bamboo; rose 
+ANSWER:   GERANIUM; ROSE 
+
+QUESTION: 16
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following is a metallic element, composes about 5% of the Earths crust, oxidizes very easily, and when pure is a dark, silver-grey metal: 
+		W) cobalt 
+		X) nickel 
+		Y) iron 
+		Z) titanium 
+ANSWER:   Y) IRON 
+
+QUESTION: 16
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: In general, metals are relatively hard except for what group of metals in the Periodic Table? 
+ANSWER:   ONE (ACCEPT: GROUP 1A or ALKALI METALS) High School Round 1 Page 9 
+
+QUESTION: 17
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Upon which of the following does the mass of a body MOST directly depend: 
+		W) its magnetic properties 
+		X) how much volume it has 
+		Y) the amount of matter it contains 
+		Z) its location 
+ANSWER:   Y) THE AMOUNT OF MATTER IT CONTAINS 
+
+QUESTION: 17
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Mary and Joe are on a merry-go-round. Mary is seated near the center of rotation and Joe is on the outer edge. Which of the following BEST describes their motion: 
+		W) Mary has a greater acceleration than Joe 
+		X) Joe has a greater acceleration than Mary 
+		Y) neither Mary nor Joe are accelerating 
+		Z) both Mary and Joe have the same acceleration 
+ANSWER:   X) JOE HAS A GREATER ACCELERATION THAN MARY 
+
+QUESTION: 18
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: the arc-length of a semi-circle whose diameter is 18 inches?
+ANSWER:    18) MATH Short Answer the arc-length of a semi-circle whose diameter is 18 inches? 
+
+QUESTION: 18
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What is the area, in square feet, of a triangle whose perpendicular height is 20 feet with a base of 12 feet? 
+ANSWER:   120 (Solution: A = bh = (12)(20) = 120 ft2) High School Round 1 Page 10 
+
+QUESTION: 19
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following terms best describes the albedo of a planet: 
+		W) electromagnetic energy 
+		X) density 
+		Y) reflectivity 
+		Z) absorption 
+ANSWER:   Y) REFLECTIVITY 
+
+QUESTION: 19
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT true of what occurs during an equinox: 
+		W) equal length of day and night except at the poles 
+		X) the Earth is not tilted with respect to the ecliptic 
+		Y) the Sun is directly overhead at the equator 
+		Z) the Moon is directly overhead at the poles 
+ANSWER:   Z) THE MOON IS DIRECTLY OVERHEAD AT THE POLES 
+
+QUESTION: 20
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: What gas is most directly responsible for the bends or decompression sickness that divers may experience? 
+ANSWER:   NITROGEN (ACCEPT: N2) 
+
+QUESTION: 20
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: In degrees Celsius to the nearest whole number, what is the normal core body temperature of a human being? 
+ANSWER:   37 High School Round 1 Page 11 
+
+QUESTION: 21
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: What is the declination of the north celestial pole? 
+ANSWER:   90 (ACCEPT: +90) 
+
+QUESTION: 21
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: The Sagittarius Arm is part of what galaxy? 
+ANSWER:   THE MILKY WAY 
+
+QUESTION: 22
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: If a plant had a taproot, it would also most likely have: 
+		W) parallel leaf venation 
+		X) two cotyledons in its seedling stage 
+		Y) diffusely arranged vascular bundles in its stem 
+		Z) no stomata on the upper surfaces of its leaves 
+ANSWER:   X) TWO COTYLEDONS IN ITS SEEDLING STAGE 
+
+QUESTION: 22
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Using the traditional system of classification, when organisms belong to the same class, name all of the following 4 taxonomic categories to which they must also belong: order; family; phylum; kingdom 
+ANSWER:   PHYLUM; KINGDOM High School Round 1 Page 12 
+
+QUESTION: 23
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: According to standard chemical nomenclature and indicating the proper charge, what is the formula for hydrogen sulfide? 
+ANSWER:   H2S 
+
+QUESTION: 23
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Of the following group of 4 cations, which are the LARGEST and SMALLEST ions, respectively: K+; Na+; Rb+; Li+ 
+ANSWER:   LARGEST = Rb+; SMALLEST = Li+ (ACCEPT: RUBIDIUM AND LITHIUM) 
+
+QUESTION: 24
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Martin is swinging a yo-yo in a large room with a circular motion perpendicular to a level floor. If the yo-yo breaks away from its string at the top of the yo-yos circular path, in what direction will the yo-yo initially move: 
+		W) at an angle between horizontal and vertical 
+		X) straight up, toward the ceiling 
+		Y) straight down, to the floor 
+		Z) horizontally, tangent to its original circular path 
+ANSWER:   Z) HORIZONTALLY, TANGENT TO ITS ORIGINAL CIRCULAR PATH 
+
+QUESTION: 24
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What is the BEST term for the tendency of any mass at rest to remain at rest? 
+ANSWER:   INERTIA High School Round 1 Page 13 
+
+QUESTION: 25
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the genus name of the most thoroughly studied bacterium? 
+ANSWER:   Escherichia 
+
+QUESTION: 25
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Name all of the following 3 processes that do NOT occur in E. coli: glycolysis; photosynthesis; glycogenolysis (read as: GLYKO-jen-oh-LY-sis) 
+ANSWER:   PHOTOSYNTHESIS 
