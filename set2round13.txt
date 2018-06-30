@@ -1,0 +1,442 @@
+QUESTION: 1
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Which of the human plasma proteins plays the greatest role in osmoregulation? 
+ANSWER:   ALBUMIN 
+
+QUESTION: 1
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Which 2 of the following 5 genera of organisms are not Monerans? Leishmania, (read: LIE-shh-mania), Rickettsia, Neisseria, (read: NYE-sear-e-ah) Echinococcus, (read: E-kine-o-coccus), Klebsiella (read as: KLEB-see-ella) 
+ANSWER:   LEISHMANIA, ECHINOCOCCUS 
+
+QUESTION: 2
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: In the typical titration of a weak acid, such as 0.1 molar acetic acid, with a strong base, such as 0.1 molar sodium hydroxide, what is the best description of the characteristic titration curve: 
+		W) at the equivalence point, the pH is primarily controlled by the acetate ion 
+		X) at the equivalence point, the pH drops dramatically 
+		Y) the second equivalence point is primarily controlled by the hydroxide ion 
+		Z) the pH at the equivalence point is almost always 7 
+ANSWER:   W) AT THE EQUIVALENCE POINT, THE PH IS PRIMARILY CONTROLLED BY THE ACETATE ION 
+
+QUESTION: 2
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Calculate the density, in grams per liter, of diatomic helium gas at 100K and at a pressure of 2 atmospheres: 
+ANSWER:   2 (Solution: n/V = P/RT; = 2atm/(0.08L.atm/m.K)(100K); = .25m/L; (.25m/L)(8g/m)=2gHe2/L)) 2002 Regional Science Bowl B Round 13 Page 2 
+
+QUESTION: 3
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: If 8 coulombs of charge pass through a conductor in second, how many amperes did the conductor carry? 
+ANSWER:   16 AMPERES 
+
+QUESTION: 3
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Assuming the velocity of light is 300,000 kilometers per second in a vacuum, what is the velocity of light, in kilometers/sec, in a transparent substance with a refractive index of 1.25? 
+ANSWER:   240,000 (ACCEPT: 240,000 Km/sec) (Solution: Vm=V0n; 300,0001.25 = 240,000 Km/sec) 
+
+QUESTION: 4
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: Tripling the distance to a star will typically reduce its apparent brightness by about how many times? 
+ANSWER:   9 
+
+QUESTION: 4
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: Assuming that the Hubble constant = 40 km/sec/megaparsec, how far away, in megaparsecs, is a galaxy whose red shift is 20,000 km/sec? 
+ANSWER:   500 MEGAPARSECS (Solution: d = v/H0; = 20,000/40 = 500) 2002 Regional Science Bowl B Round 13 Page 3 
+
+QUESTION: 5
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: If one considers the distribution of the means of 5 groups, such a distribution is most accurately referred to as a: 
+		W) sample distribution 
+		X) sampling distribution 
+		Y) composite distribution 
+		Z) population distribution 
+ANSWER:   X) SAMPLING DISTRIBUTION 
+
+QUESTION: 5
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: If the area of a right triangle ABC is 6 and leg BC is one-third the length of leg AB, what is the length of AB? 
+ANSWER:   6 (Solution: A = bh; 6 = (x)(3x); = 2; 3 2 = 6) 
+
+QUESTION: 6
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is responsible for the changing of the seasons: 
+		W) the Earth's axis is not perpendicular to the ecliptic 
+		X) the Earth's orbit is elliptical 
+		Y) the Earth's axis precesses 
+		Z) the Sun moves through space 
+ANSWER:   W) THE EARTH'S AXIS IS NOT PERPENDICULAR TO THE ECLIPTIC 
+
+QUESTION: 6
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following surfaces would exhibit the highest albedo: 
+		W) bare rock 
+		X) an ocean at sunrise 
+		Y) an ocean at sunset 
+		Z) an ice field 
+ANSWER:   Z) AN ICE FIELD 2002 Regional Science Bowl B Round 13 Page 4 
+
+QUESTION: 7
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: The profundal zone of a lake is the: 
+		W) bottom of the lake 
+		X) area between the shore and water extending to a depth of about 10 meters 
+		Y) upper layer below which the temperature drops 
+		Z) deeper part where light does not penetrate 
+ANSWER:   Z) DEEPER PART WHERE LIGHT DOES NOT PENETRATE 
+
+QUESTION: 7
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Which of the following chemicals is most predominant in chocolate: 
+		W) tyrosine 
+		X) theophylline 
+		Y) theobromine 
+		Z) caffeine 
+ANSWER:   Y) THEOBROMINE 
+
+QUESTION: 8
+TYPE:     toss-up
+SUBJECT:  computer science
+FORMAT:   multiple choice
+QUESTION: One of the ways to start a computer running Windows 95 or 98 in Safe Mode is to: 
+		W) press control and F1 key at any time 
+		X) restart and hold the Escape key 
+		Y) press Control + Alt + Delete key at the same time 
+		Z) restart and hold down F5 key 
+ANSWER:   Z) RESTART AND HOLD DOWN F5 KEY 
+
+QUESTION: 8
+TYPE:     bonus
+SUBJECT:  computer science
+FORMAT:   short answer
+QUESTION: Give the Binary, Octal, and Hexadecimal equivalents for the decimal number 9: 
+ANSWER:   BINARY = 1001; OCTAL = 11; HEXADECIMAL = 9 2002 Regional Science Bowl B Round 13 Page 5 
+
+QUESTION: 9
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: When biologists use bacterial conjugation to map genomes, what electrical appliance is most often used to interrupt conjugation? 
+ANSWER:   BLENDER (ACCEPT: KITCHEN BLENDER) 
+
+QUESTION: 9
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following is the most accurate name for a molecule of glycerol with all three hydroxyl groups esterified to fatty acids : 
+		W) triacylglycerol (read as: tri-acyl-gliss-er-ol) 
+		X) fatty glycerol 
+		Y) esterified lipid 
+		Z) triesterglyceride (read as: tri-ester-gliss-er-ide) 
+ANSWER:   W) TRIACYLGLYCEROL 
+
+QUESTION: 10
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following is incorrect: 
+		W) C5H11CHO is an aldehyde 
+		X) C11H20 is an alkane 
+		Y) C5H11OH is an alcohol 
+		Z) C5H11NH2 is an amine 
+ANSWER:   X) C11H20 IS AN ALKANE 
+
+QUESTION: 10
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Order the following 4 ionic solids in terms of their lattice energies, going from the highest to the lowest: LiF; MgI2; KF; NaF 
+ANSWER:   MgI2; LiF; NaF; KF 2002 Regional Science Bowl B Round 13 Page 6 
+
+QUESTION: 11
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Murray Gell-Mann coined the name of these point-like entities that make up hadrons from a novel by James Joyce: 
+ANSWER:   QUARKS 
+
+QUESTION: 11
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: To the nearest meter per second, what is the speed of sound in air if the temperature of the air is 15C? 
+ANSWER:   340 (ACCEPT: 341 METERS PER SECOND) (Solution: add 0.6 meters/sec to 331 or 332 m/sec for each increase in 1C above 0oC) 
+
+QUESTION: 12
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Most astrophysicists believe that the universe is: 
+		W) isotropic and homogeneous 
+		X) isotropic and non-homogeneous 
+		Y) anistotropic and homogeneous 
+		Z) anisotropic and non-homogeneous 
+ANSWER:   W) ISOTROPIC AND HOMOGENEOUS 
+
+QUESTION: 12
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: Of the following 5 planets, name all that can be in opposition to the Sun: Venus, Saturn, Mercury, Mars, Jupiter 
+ANSWER:   SATURN, MARS, AND JUPITER (accept in any order) (Solution: Only superior planets can be in opposition) 2002 Regional Science Bowl B Round 13 Page 7 
+
+QUESTION: 13
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Who was the first person known to have proved that the number of primes is infinite, calling them numbers measured by no number but a unit alone? 
+ANSWER:   EUCLID 
+
+QUESTION: 13
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: A circle has a diameter of 20 and a minor arc whose interior angle is 90. In terms of , what is the arc length? 
+ANSWER:   5 (Solution: arc length = (90/360)(2r); = (20); = 5) 
+
+QUESTION: 14
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following best approximates the relative humidity in the stratosphere: 
+		W) 1% 
+		X) 10% 
+		Y) 35% 
+		Z) 50% 
+ANSWER:   W) 1% 
+
+QUESTION: 14
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   short answer
+QUESTION: Name the 3 cloud families based on their shape: 
+ANSWER:   CUMULUS, STRATUS, CIRRUS (in any order) 2002 Regional Science Bowl B Round 13 Page 8 
+
+QUESTION: 15
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: According to Aristotle, the celestial bodies are made of what fifth element? 
+ANSWER:   ETHER 
+
+QUESTION: 15
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: If you wanted to see the detailed internal structures of living unstained organisms, which type of microscope would you use: 
+		W) bright-field 
+		X) dark-field 
+		Y) phase-contrast 
+		Z) scanning-tunneling 
+ANSWER:   Y) PHASE-CONTRAST 
+
+QUESTION: 16
+TYPE:     toss-up
+SUBJECT:  computer science
+FORMAT:   multiple choice
+QUESTION: In workflow modeling, which of the following is NOT part of the ACID properties of transactions: 
+		W) Atomicity 
+		X) Consistency Preservation 
+		Y) Invertibility 
+		Z) Durability 
+ANSWER:   Y) INVERTIBLITY (Solution: I = Isolation) 
+
+QUESTION: 16
+TYPE:     bonus
+SUBJECT:  computer science
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT a storage class specification in C programming: 
+		W) auto 
+		X) switch 
+		Y) register 
+		Z) static 
+ANSWER:   X) SWITCH 2002 Regional Science Bowl B Round 13 Page 9 
+
+QUESTION: 17
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following would be LEAST likely to diffuse through a typical plasma membrane: 
+		W) propane 
+		X) methanol 
+		Y) potassium ions 
+		Z) carbon dioxide 
+ANSWER:   Y) POTASSIUM IONS 
+
+QUESTION: 17
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: In which of the following cell types does phosphocreatine provide the greatest role: 
+		W) hepatocyte 
+		X) parafollicular cell 
+		Y) endothelial cell 
+		Z) a skeletal muscle cell 
+ANSWER:   Z) A SKELETAL MUSCLE CELL 
+
+QUESTION: 18
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: An aldehyde is a class of compounds that contains a carbonyl group bonded to: 
+		W) 2 carbon atoms 
+		X) one or more hydrogen atoms 
+		Y) one or more nitrogen atoms 
+		Z) 2 sulfur atoms 
+ANSWER:   X) ONE OR MORE HYDROGEN ATOMS 
+
+QUESTION: 18
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Order the following three lipids from lowest to highest melting points: lauric acid, myristic acid, palmitic acid 
+ANSWER:   LAURIC ACID, MYRISTIC ACID, PALMITIC ACID 2002 Regional Science Bowl B Round 13 Page 10 
+
+QUESTION: 19
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: A jet traveling at 800 kilometers per hour has how many more times the kinetic energy than the same jet traveling at that speed? 
+ANSWER:   4 TIMES 
+
+QUESTION: 19
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What color would be produced when mixing magenta and cyan pigments? 
+ANSWER:   BLUE 
+
+QUESTION: 20
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: What planet is usually obscured by the sun and never seen against a dark sky: 
+		W) Mars 
+		X) Venus 
+		Y) Mercury 
+		Z) Jupiter 
+ANSWER:   Y) MERCURY 
+
+QUESTION: 20
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: In which of the following illustrative techniques would sunspots occur nearer the solar equator as the cycle of sunspot activity progresses: 
+		W) Kirkwoods chart 
+		X) Maunders diagram 
+		Y) Hubbles chart 
+		Z) HR diagram 
+ANSWER:   X) MAUNDERS DIAGRAM 2002 Regional Science Bowl B Round 13 Page 11 
+
+QUESTION: 21
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT true about statistical correlation: 
+		W) correlation typically distinguishes between explanatory and response variables 
+		X) the correlation r always lies between +1 and -1 
+		Y) a negative correlation indicates a negative association 
+		Z) correlation is usually strongly affected by outlying observations 
+ANSWER:   W) CORRELATION TYPICALLY DISTINGUISHES BETWEEN EXPLANATORY AND RESPONSE VARIABLES 
+
+QUESTION: 21
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What is the sine of the angle (pronounced: theta) whose terminal side passes through the points (4, -3)? 
+ANSWER:   -3/5 (ACCEPT: -0.6) (Solution: first find r = (42 + 32)1/2 = 5; sin = y/r; = -3/5) 
+
+QUESTION: 22
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: In meteorology, a center where air spirals inward around a low-pressure center and designated on weather maps by the letter L is called: 
+		W) a center of divergence 
+		X) coriolis inversion 
+		Y) gradient wind 
+		Z) cyclonic flow 
+ANSWER:   Z) CYCLONIC FLOW 
+
+QUESTION: 22
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   short answer
+QUESTION: In order and starting with the highest, name the 3 boundaries that separate the 4 thermal layers in the Earths atmosphere: 
+ANSWER:   MESOPAUSE, STRATOPAUSE, TROPOPAUSE 2002 Regional Science Bowl B Round 13 Page 12 
+
+QUESTION: 23
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: If one parent has an AB blood type and the other parent has an O blood type, what blood types will the children possibly inherit? 
+ANSWER:   A AND B (DO NOT ACCEPT: AB) 
+
+QUESTION: 23
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Southern blot is to DNA sequences as Northern blot is to: 
+		W) amino acid sequences 
+		X) RNA sequences 
+		Y) DNA sequences 
+		Z) hybrid DNA/RNA sequences 
+ANSWER:   X) RNA SEQUENCES 
+
+QUESTION: 24
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: The starch amylopectin is: 
+		W) unbranched with alpha 1,6 linkages between the monomers 
+		X) highly branched with alpha 1,4 linkages at its branch points 
+		Y) highly branched with alpha 1,6 linkages at its branch points 
+		Z) unbranched with alpha 1,4 linkages between the monomers 
+ANSWER:   Y) HIGHLY BRANCHED WITH ALPHA 1,6 LINKAGES AT ITS BRANCH POINTS 
+
+QUESTION: 24
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: In the following reaction, H2 + Cl2 2HCl, assume the bond dissociation of H2 is 430 kilojoules per mole, of Cl2 is 240 kilojoules per mole, and of HCl is 400 kilojoules per mole. What is the standard enthalpy change, or H, (read as: delta H degree) for the reaction, in kilojoules: 
+ANSWER:   -130 (Solution: H = (DH-H + DCl-Cl) (2DHCl); = (430 + 240) 800; = -130kJ) 2002 Regional Science Bowl B Round 13 Page 13 
+
+QUESTION: 25
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What are the four most common names for the four fundamental forces of nature: 
+ANSWER:   GRAVITATION, ELECTROMAGNETISM, STRONG, WEAK 
+
+QUESTION: 25
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: If a race car driver fully engages the brakes of his car traveling at 150 kilometers per hour, how many times farther will the car skid than if it was traveling at 50 kilometers per hour when the brakes were engaged? 
+ANSWER:   9 TIMES 
+

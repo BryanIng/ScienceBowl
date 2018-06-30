@@ -1,0 +1,450 @@
+QUESTION: 1
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: The triple point of a substance can be represented in what type of graphical representation: 
+		W) Lewis diagram 
+		X) phase diagram 
+		Y) energy diagram 
+		Z) time-temperature transformation diagram 
+ANSWER:   X) PHASE DIAGRAM 
+
+QUESTION: 1
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Based on the acid dissociation constants of the following acids, order the following 4 acids from the strongest to the weakest in acid strength: HBr; HCl; HF; HI 
+ANSWER:   HI; HBr; HCl; HF 
+
+QUESTION: 2
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Color photography and the eventual development of the color television was advanced most directly by: 
+		W) Plancks quantum theory of light 
+		X) Youngs and Helmholtzs three color theory of light 
+		Y) the three color pigment theory 
+		Z) Kichoffs understanding of the photoelectric effect 
+ANSWER:   X) YOUNGS AND HELMHOLTZS THREE COLOR THEORY OF LIGHT 
+
+QUESTION: 2
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Ignoring friction and assuming g = 9.8 m/s2, how high will a stone reach, in meters rounded to the first decimal place, if launched vertically from rest at 15 m/s? 
+ANSWER:   11.5 METERS 2002 Regional Science Bowl B Round 14 Page 2 
+
+QUESTION: 3
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Oligodendrocytes are responsible for producing what nerve coating that speeds nerve conduction: 
+ANSWER:   MYELIN SHEATH (ACCEPT: MYELIN) 
+
+QUESTION: 3
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following are mostly under the control of the hypothalamus: 
+		W) metabolism, heart rate, sleep 
+		X) metabolism, heart rate, ovulation 
+		Y) metabolism, heart rate, micturition 
+		Z) metabolism, heart rate, balance 
+ANSWER:   W) METABOLISM, HEART RATE, SLEEP 
+
+QUESTION: 4
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: To a stargazer in Ohio, a star far enough south of the celestial equator to be circumpolar such as Miaplacidus is: 
+		W) only seen for about 6 hours 
+		X) only seen briefly for about half an hour on the horizon 
+		Y) only seen on the winter solstice 
+		Z) never seen 
+ANSWER:   Z) NEVER SEEN 
+
+QUESTION: 4
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Non-circumpolar stars that lie north of the celestial equator when viewed from Michigan will: 
+		W) spend less than 6 hours above the horizon 
+		X) spend more than 6 hours but less than 12 hours above the horizon 
+		Y) spend more than 12 hours but less than 24 hours above the horizon 
+		Z) spend 24 hours above the horizon 
+ANSWER:   Y) SPEND MORE THAN 12 HOURS BUT LESS THAN 24 HOURS ABOVE THE HORIZON 2002 Regional Science Bowl B Round 14 Page 3 
+
+QUESTION: 5
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: Which of the following trigonometric relationships is TRUE: 
+		W) sine cotangent = 1 (read as theta) 
+		X) tangent cotangent = 1 
+		Y) secant cosine = 1 
+		Z) sine + cosecant = 1 
+ANSWER:   X) TANGENT COTANGENT = 1 
+
+QUESTION: 5
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Given the points, (0, 0) and (4/5, 3/5), find the distance between them: 
+ANSWER:   1 (ACCEPT: 1) (Solution: r2 = (x1 0)2 + (y1 0)2; = (4/5)2 + (3/5)2; = 1) 
+
+QUESTION: 6
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT classified as an intrusive igneous rock: 
+		W) granite 
+		X) diorite 
+		Y) rhyolite 
+		Z) gabbro 
+ANSWER:   Y) RHYOLITE 
+
+QUESTION: 6
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   short answer
+QUESTION: Order the following three types of magma based on their typical percentage of dissolved gas, starting with the lowest: andesitic, basaltic, rhyolitic 
+ANSWER:   BASALTIC, ANDESITIC, RHYOLITIC 2002 Regional Science Bowl B Round 14 Page 4 
+
+QUESTION: 7
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: The neutralization of the magnetic field around a body by encircling it with a conductor through which a current is maintained is called: 
+		W) demodulation 
+		X) degaussing 
+		Y) debugging 
+		Z) dehissing 
+ANSWER:   X) DEGAUSSING 
+
+QUESTION: 7
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: For his discovery of a new form of radiation in 1895, what person received the first Nobel prize in physics? 
+ANSWER:   WILHELM RNTGEN (ACCEPT: RNTGEN) 
+
+QUESTION: 8
+TYPE:     toss-up
+SUBJECT:  computer science
+FORMAT:   multiple choice
+QUESTION: In most microprocessors, cache memory built into the microprocessor is what kind of cache: 
+		W) L1 
+		X) L2 
+		Y) L3 
+		Z) L4 
+ANSWER:   W) L1 
+
+QUESTION: 8
+TYPE:     bonus
+SUBJECT:  computer science
+FORMAT:   short answer
+QUESTION: A component of the CPU, what does the acronym ALU stand for? 
+ANSWER:   ARITHIMETIC LOGIC UNIT 2002 Regional Science Bowl B Round 14 Page 5 
+
+QUESTION: 9
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Of the following, which is the most powerful tool available for the quantitative elemental analysis of metals in solutions: 
+		W) potentiometry 
+		X) nuclear magnetic resonance spectrometry 
+		Y) atomic absorption spectrometry 
+		Z) liquid chromatography 
+ANSWER:   Y) ATOMIC ABSORPTION SPECTROMETRY 
+
+QUESTION: 9
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: A sodium chloride solution in water has a weight percent of 6%. What mass of solution, in grams, contains 1.5 grams of sodium chloride? 
+ANSWER:   25 (Solution: mass = 1.5gNaCl 100g soln / 6gNaCl; = 25g solution) 
+
+QUESTION: 10
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following forms of ionizing radiation expends most of its energy over the shortest distance when passing through human tissue: 
+		W) alpha particles 
+		X) beta particles 
+		Y) x-rays 
+		Z) gamma particles 
+ANSWER:   W) ALPHA PARTICLES 
+
+QUESTION: 10
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Consider a sailor off the coast of Cape Cod, Massachusetts. How far from a fog horn, in meters, is the sailor if it takes 5 seconds to hear the horn at 10 C? 
+ANSWER:   1685 (ACCEPT: 1680 TO 1690) (Solution: 0 .6 x 10 = 6 6 + 331 = 337 337 x 5 = 1685 meters) 2002 Regional Science Bowl B Round 14 Page 6 
+
+QUESTION: 11
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Okazaki (read as: OH-kah-zak-ee) fragments are joined by what specific enzyme? 
+ANSWER:   DNA LIGASE (ACCEPT: DNA POLYMERASE I) 
+
+QUESTION: 11
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Assuming a man has Daltonism and marries a homozygous, normal woman, their children would most likely have which of the following genetic distributions: 
+		W) 100% of the females would be carriers and 50% of the males would be carriers 
+		X) 100% of the females would be carriers and 100% of the males would be normal 
+		Y) 50% of the females would be carriers and all of the males would have Daltonsim 
+		Z) both the females and the males would all have Daltonsim 
+ANSWER:   X) 100% OF THE FEMALES WOULD BE CARRIERS AND 100% OF THE MALES WOULD BE NORMAL 
+
+QUESTION: 12
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: What shape do interstellar dust particles have since the light emitted by stars is dimmed and partially polarized: 
+		W) sphere 
+		X) cube 
+		Y) disk 
+		Z) rodlike 
+ANSWER:   Z) RODLIKE 
+
+QUESTION: 12
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: What astronomical instrument, used to determine the position of celestial bodies, uses light in parallel rays falling on a mercury surface, which then pass through a prism and into a telescope? 
+ANSWER:   PRISMATIC ASTROLABE (ACCEPT: ASTROLABE OR IMPERSONAL ASTROLABE) 2002 Regional Science Bowl B Round 14 Page 7 
+
+QUESTION: 13
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: For a population of 100 individuals with a normal distribution, how many individuals will be found to fall greater than 1 standard deviation above the mean: 
+		W) 12 
+		X) 16 
+		Y) 32 
+		Z) 68 
+ANSWER:   X) 16 
+
+QUESTION: 13
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Solving for x, find the roots of the following equation: x2 2x 2 = 0 
+ANSWER:   x = 1 3 (ACCEPT: x = 1 + 3 AND x = 1 - 3) 
+
+QUESTION: 14
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following minerals has a hardness of 7, often has good crystal shape with 6 sides, varies from colorless to white, pink, purple and several other colors, and exhibits conchoidal fracture: 
+		W) quartz 
+		X) diamond 
+		Y) pyroxene 
+		Z) olivine 
+ANSWER:   W) QUARTZ 
+
+QUESTION: 14
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   short answer
+QUESTION: Calculate the percent relative humidity for air at 70F containing 10 millibars of water vapor if the saturation vapor pressure is 25.0 millibars at that temperature: 
+ANSWER:   40% (Solution: RH = 10/25 100% = 40) 2002 Regional Science Bowl B Round 14 Page 8 
+
+QUESTION: 15
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: In population ecology, which of the following best defines the number of individuals of a species per unit of area: 
+		W) population size 
+		X) population density 
+		Y) biomass 
+		Z) cohort 
+ANSWER:   X) POPULATION DENSITY 
+
+QUESTION: 15
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: Recent studies of Troglodytes indicate they are some of the most sensitive endangered life forms. In what specific environment do Troglodytes typically live? 
+ANSWER:   CAVES 
+
+QUESTION: 16
+TYPE:     toss-up
+SUBJECT:  computer science
+FORMAT:   multiple choice
+QUESTION: In Java, a vector is different from an array in that: 
+		W) it is unordered 
+		X) it has no API to support it 
+		Y) it can store only integers 
+		Z) its size does not need to be explicitly declared 
+ANSWER:   Z) ITS SIZE DOES NOT NEED TO BE EXPLICITLY DECLARED 
+
+QUESTION: 16
+TYPE:     bonus
+SUBJECT:  computer science
+FORMAT:   multiple choice
+QUESTION: Which of the following operating systems came first: 
+		W) UNIX 
+		X) Linux 
+		Y) Windows 3.1 
+		Z) OS/2 
+ANSWER:   W) UNIX 2002 Regional Science Bowl B Round 14 Page 9 
+
+QUESTION: 17
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following is the common name for the following compound: benzene with a methyl group on carbon #1 and a chlorine atom on carbon #2 
+		W) chlorotoluene (Pronounced: KLOR-o-tol-you-een) 
+		X) o-chlorotoluene 
+		Y) p-chlorotoluene 
+		Z) m-chlorotoluene 
+ANSWER:   X) o-CHLOROTOLUENE 
+
+QUESTION: 17
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What is the oxidation number of the sulfur atom in H2SO4? 
+ANSWER:   +6 (ACCEPT: 6) (Solution: 2(+1) + S + 4(-2) = 0; S = +6) 
+
+QUESTION: 18
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: If e is energy, f is frequency, and h is Plancks constant, which of the following is NOT possible according to Plancks quantum hypothesis: 
+		W) e = hf 
+		X) e = 0.5 hf 
+		Y) e = 1 hf 
+		Z) e = 2 hf 
+ANSWER:   X) E = 0.5 HF 
+
+QUESTION: 18
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Einstein proposed that the photoelectric effect was a test for which of the following: 
+		W) the wave nature of light 
+		X) that light traveled a constant speed in a vacuum 
+		Y) the photon theory of light 
+		Z) the wave particle duality of light 
+ANSWER:   Y) THE PHOTON THEORY OF LIGHT 2002 Regional Science Bowl B Round 14 Page 10 
+
+QUESTION: 19
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Give the common chemical name for where new bases are added to a DNA strand: 
+ANSWER:   3 PRIME HYDROXYL (ACCEPT: 3 PRIME END) 
+
+QUESTION: 19
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Which one of the following 5 intermediates of the citric acid cycle is considered a 6 carbon intermediate: citric acid, oxaloacetic acid, succinic acid, alpha ketogluteric acid, fumaric acidd 
+ANSWER:   CITRIC ACID 
+
+QUESTION: 20
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following is not a characteristic of the terrestrial planets: 
+		W) low average density 
+		X) closely spaced orbits 
+		Y) craters in old surfaces 
+		Z) very few moons 
+ANSWER:   W) LOW AVERAGE DENSITY 
+
+QUESTION: 20
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT true of Keplers works in astronomy: 
+		W) Kepler gathered most of his data from his monitoring of the planets with a quadrant 
+		X) Kepler very seldom observed the planets and looked through a telescope only a few times in his life 
+		Y) many of Keplers computations were based on data gathered by Tycho Brahe 
+		Z) Kepler assumed planetary motion was not circular 
+ANSWER:   W) KEPLER GATHERED MOST OF HIS DATA FROM HIS MONITORING OF THE PLANETS WITH A QUADRANT 2002 Regional Science Bowl B Round 14 Page 11 
+
+QUESTION: 21
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Find sin 2 (read as: sine 2 theta) given that tan (read as: tangent theta) equals minus three-fourths and is in the second quadrant: 
+ANSWER:   2524 (Solution: sin = 3/5; cos = -4/5; sin 2 = 2 sin cos ; = 2(3/5)(-4/5) = -24/25) 
+
+QUESTION: 21
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Find the solution set of the following equation: x2 + 6x + 6 = 0 
+ANSWER:   -3 3 
+
+QUESTION: 22
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: In keeping with developments in the science of physics, Freud incorporated which of the following into his personality theory: 
+		W) relativity 
+		X) quantum theory 
+		Y) conservation of energy 
+		Z) entropy constantly increases 
+ANSWER:   Y) CONSERVATION OF ENERGY 
+
+QUESTION: 22
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: Which of the following 5 metals has the lowest thermal conductivity: iron; lead; tin; magnesium; zinc 
+ANSWER:   LEAD (Solution: iron 80.2; lead - 35.3; tin 66.6; magnesium - 156; zinc 116) 2002 Regional Science Bowl B Round 14 Page 12 
+
+QUESTION: 23
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following is a naturally occurring amino acid that is NOT found in proteins? 
+		W) threonine (read as: three-oh-neen) 
+		X) histidine 
+		Y) ornithine (read as: oar-nih-thine) 
+		Z) isoleucine 
+ANSWER:   Y) ORNITHINE 
+
+QUESTION: 23
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Which two of the following 5 amino acids contain nonpolar R groups? valine, lysine, arginine, alanine, histidine 
+ANSWER:   VALINE, ALANINE 
+
+QUESTION: 24
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: If the Earth was the same mass but half its present diameter, by what multiple, to the first decimal place, would escape velocity increase? 
+ANSWER:   1.4 
+
+QUESTION: 24
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What is the energy used in Kilowatthours if a current of 2 amps flows though a circuit whose resistance is 5 ohms for one hour? 
+ANSWER:   0.020 (ACCEPT: 0.020 KILOWATT HOURS) (Solution: W = (2A)2 5 ohms 1 hr = .020 Kilowatt-hours) 2002 Regional Science Bowl B Round 14 Page 13 
+
+QUESTION: 25
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What common organic molecule has a hydrocarbon phytol tail and a multi-ring structure with a magnesium metal ion in the center? 
+ANSWER:   CHLOROPHYLL (ACCEPT: ANY CHLOROPHYLL) 
+
+QUESTION: 25
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Order the following 3 monosaccharides from the smallest to the largest: xylose, threose, glyceraldehyde 
+ANSWER:   GLYCERALDEHYDE, THREOSE, XYLOSE 
+

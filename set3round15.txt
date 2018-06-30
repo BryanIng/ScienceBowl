@@ -1,0 +1,458 @@
+QUESTION: 1
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: A material with a negative index of refraction has which of the following technologically significant implications: 
+		W) allowing imaging at resolutions below the diffraction limit of light 
+		X) superluminal light 
+		Y) improved spin coherence times 
+		Z) realization of high temperature superconductors 
+ANSWER:   W) ALLOWING IMAGING AT RESOLUTIONS BELOW THE DIFFRACTION LIMIT OF LIGHT 
+
+QUESTION: 1
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: The experimental technique of x-ray diffraction would be inappropriate for obtaining which of the following physical parameters of a material: 
+		W) periodicity of a quantum well structure 
+		X) the atomic spacing of a crystal lattice 
+		Y) the amount of strain in a crystal lattice 
+		Z) impurity concentration in an unknown crystalline sample 
+ANSWER:   Z) IMPURITY CONCENTRATION IN AN UNKOWN CRYSTALLINE SAMPLE 
+
+QUESTION: 2
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: What is the electronic pair geometry and the molecular geometry typical of the molecule with the general formula AB4U, where A represents the central atom, B represent the bonded atoms, and U represent the unbonded electron pair: 
+		W) tetrahedral and angular 
+		X) trigonal bipyramidal and seesaw 
+		Y) octahedral and square pyramidal 
+		Z) octahedral and square planar 
+ANSWER:   X) TRIGONAL BIPYRAMIDAL AND SEESAW 
+
+QUESTION: 2
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Give the net ionic equation that occurs when aqueous solutions of ammonium sulfate and barium nitrate are mixed: 
+ANSWER:   Ba2+ + SO42 ! BaSO4 2007 Regional Science Bowl Page 2 
+
+QUESTION: 3
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What elemental ion is MOST commonly excreted in large amounts if the human adrenals are producing low levels of corticosteroid? 
+ANSWER:   SODIUM (ACCEPT: Na+) 
+
+QUESTION: 3
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: If a person had low levels of corticosteroid, which of the following would be the BEST way to test whether the adrenal glands themselves are not functioning or if it is the fault of the pituitary gland: 
+		W) monitor the kidney for sodium excretion 
+		X) measure the blood plasma for high levels of potassium 
+		Y) inject small amounts of corticotropin and find if the adrenals produce corticosteroids 
+		Z) monitor the urine for high amounts of protein and sodium 
+ANSWER:   Y) INJECT SMALL AMOUNTS OF CORTICOTROPIN AND FIND IF THE ADRENALS PRODUCE CORTICOSTEROIDS 
+
+QUESTION: 4
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Solve the following trigonometric equation for x, giving your answer in radians such that 0 ! x < 2": sin2 x + sin x 2 = 0 
+ANSWER:   2! 
+
+QUESTION: 4
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Simplify the following trigonometric expression completely: !!!tancossec" 
+ANSWER:   sin ! 2007 Regional Science Bowl Page 3 
+
+QUESTION: 5
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following BEST describes a fold in a layered rock that arches into a downward, trough-shaped fold: 
+		W) anticline 
+		X) graben 
+		Y) heterocline 
+		Z) syncline 
+ANSWER:   Z) SYNCLINE 
+
+QUESTION: 5
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following statements is NOT true about tides: 
+		W) tidal range is not the same over a whole ocean basin 
+		X) tidal ranges generally increase with increasing distance from amphidromic points 
+		Y) tidal bores are true tidal waves 
+		Z) on average, tidal currents reach maximum velocity during flood current 
+ANSWER:   Z) ON AVERAGE, TIDAL CURRENTS REACH MAXIMUM VELOCITY DURING FLOOD CURRENT 
+
+QUESTION: 6
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: In Africa it is estimated that about 200 million people are infected with what water-borne parasitic disease known as Bilharzia? 
+ANSWER:   SHISTOSOMIASIS 
+
+QUESTION: 6
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: A steroid will dissolve BEST in which of the following: 
+		W) acetone 
+		X) 50% ethanol 
+		Y) 95% ethanol 
+		Z) distilled water 
+ANSWER:   W) ACETONE 2007 Regional Science Bowl Page 4 
+
+QUESTION: 7
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following is the BEST explanation of why Population One stars have a high metal content: 
+		W) old stars lose their metals as they age 
+		X) old stars convert their metals to non-metals 
+		Y) young stars acquire metals when they form from previous stars that created the metals 
+		Z) all stars accumulate metals early in their development 
+ANSWER:   Y) YOUNG STARS ACQUIRE METALS WHEN THEY FORM FROM PREVIOUS STARS THAT CREATED THE METALS 
+
+QUESTION: 7
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following is the BEST description of the composition of our Sun: 
+		W) 71% hydrogen, 27% helium, and 2% other 
+		X) 80% hydrogen, 19% helium, and 1% other 
+		Y) 90% hydrogen, 9% helium, and 1% other 
+		Z) 99% hydrogen, 1% helium 
+ANSWER:   W) 71% HYDROGEN, 27% HELIUM, AND 2% OTHER 
+
+QUESTION: 8
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Consider an electrician who is about to drill holes though a series of 2-inch by 10-inch by 16-foot floor joists that are supported only at their ends by walls. Which of the following hole locations would DECREASE the load strength of each joist the LEAST: 
+		W) 7 feet in from one of the supporting walls near the bottom edge 
+		X) 7 feet from one of the supporting walls near the top edge 
+		Y) 1 foot from one of the supporting walls near the bottom edge 
+		Z) 1 foot from one of the supporting walls half way down from the top edge 
+ANSWER:   Z) 1 FOOT FROM ONE OF THE SUPPORTING WALLS HALF WAY DOWN FROM THE TOP EDGE 
+
+QUESTION: 8
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: A metal alloy beam 10-meters long expands in length at 0.25% per kelvin at temperatures about room temperature. If the beam is heated from 0C to 30C, how many centimeters will it increase in length? 
+ANSWER:   75 (Solution: 30 0 = 30; 30 # 0.0025 = 0.075 # 10m = 0.75m = 75cm) 2007 Regional Science Bowl Page 5 
+
+QUESTION: 9
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Phenylalanine (read as: FEE-nal-AL-ah-neen) is converted into which of the following amino acids by the enzyme phenylalanine hydroxylase: 
+		W) tyrosine 
+		X) tryptophan 
+		Y) threonine 
+		Z) methionine 
+ANSWER:   W) TYROSINE 
+
+QUESTION: 9
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: In the equation for the Gibbs free energy change, if $H (read as: delta H) is positive and $S (read as: delta S) is positive, then the reactions are: 
+		W) product-favored only at high temperatures 
+		X) product-favored only at low temperatures 
+		Y) product-favored at all temperatures 
+		Z) reactant-favored at all temperatures 
+ANSWER:   W) PRODUCT-FAVORED ONLY AT HIGH TEMPERATURES 
+
+QUESTION: 10
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following would most hematologists agree is the MOST likely reason mammalian erythrocytes contain no nuclei or mitochondria: 
+		W) to prevent oxidation of hemoglobin 
+		X) to allow for more hemoglobin molecules per red blood cell 
+		Y) to limit the lifespan of the red cell to 120 days 
+		Z) to allow it to retain its bi-concave shape 
+ANSWER:   X) TO ALLOW FOR MORE HEMOGLOBIN MOLECULES PER RED BLOOD CELL 
+
+QUESTION: 10
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What molecule in the lac operon exerts its control by inactivating the repressor? 
+ANSWER:   ALLOLACTOSE 2007 Regional Science Bowl Page 6 
+
+QUESTION: 11
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Giving your answer in standard form, give the equation of a circle with center at (12, 7) and a radius of 4: 
+ANSWER:   (x 12)2 + (y 7)2 = 16 
+
+QUESTION: 11
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Find every value of k such that the following equation has exactly one real number root: 16x2 + kx + 9 = 0 
+ANSWER:   24 AND 24 (Solution: b2 - 4ac = 0; k2 4(16)(9) = 0; k2 = 576; k = 24, -24) 
+
+QUESTION: 12
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following BEST describes the dynamics of a typical alpine glacier: 
+		W) the relative position of particles within the ice remains stationary 
+		X) retreating glaciers carve out V-shaped valleys 
+		Y) high pressures created by the mass movement of ice can produce meltwater deep within a glacier 
+		Z) they move downhill primarily under the influence of ice avalanching 
+ANSWER:   Y) HIGH PRESSURES CREATED BY THE MASS MOVEMENT OF ICE CAN PRODUCE MELTWATER DEEP WITHIN A GLACIER 
+
+QUESTION: 12
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following BEST describes winds that form when the Sun sets atop a mountain and, since the air is cooler at the top, it flows down the mountain side into the valley: 
+		W) chinook 
+		X) katabatic 
+		Y) geostrophic 
+		Z) Ekman spirals 
+ANSWER:   X) KATABATIC 2007 Regional Science Bowl Page 7 
+
+QUESTION: 13
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Consider a pond that has high amounts of phosphorus and nitrogen. The pond shows signs of large amounts of algae. This pond would most likely be considered: 
+		W) anticlinic 
+		X) oligotrophic (read as: oh-lig-oh-tro-fick) 
+		Y) synclinic 
+		Z) eutrophic 
+ANSWER:   Z) EUTROPHIC 
+
+QUESTION: 13
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: The galvanic series typically lists metals in which of the following orders: 
+		W) cathodic versus anodic 
+		X) passive versus reactive 
+		Y) pure metal versus alloy 
+		Z) lowest to highest electrode potential 
+ANSWER:   W) CATHODIC VERSUS ANODIC 
+
+QUESTION: 14
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following is the BEST reason why the Suns corona primarily emits x-rays: 
+		W) it has a high-strength magnetic field 
+		X) it is where most of the neutrinos escape to outer space 
+		Y) it is a convecting zone 
+		Z) it is very hot 
+ANSWER:   Z) IT IS VERY HOT 
+
+QUESTION: 14
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following is a spacecraft that is stationed to continuously observe the Sun: 
+		W) Chandra 
+		X) Hubble 
+		Y) SOHO (read as: so-ho) 
+		Z) Galileo 3 
+ANSWER:   Y) SOHO 2007 Regional Science Bowl Page 8 
+
+QUESTION: 15
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: What is the name of the hybrid super computer in Yokohama, Japan, specifically designed for atmospheric modeling calculations? 
+ANSWER:   THE EARTH SIMULATOR 
+
+QUESTION: 15
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Which of the following BEST describes the field of study called spintronics: 
+		W) studying the angular momentum of celestial bodies 
+		X) using high strength centripetal forces to separate materials in solution 
+		Y) nanoscale electronics that involve manipulation and observation of electron spin 
+		Z) quantum manipulation of quark and gluon spin states 
+ANSWER:   Y) NANOSCALE ELECTRONICS THAT INVOLVE MANIPULATION AND OBSERVATION OF ELECTRON SPIN 
+
+QUESTION: 16
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following will NOT produce a precipitate after the two aqueous solutions are mixed: 
+		W) barium chloride and sodium sulfate 
+		X) lead nitrate and sodium chloride 
+		Y) sodium bromide and rubidium chloride 
+		Z) mercury one nitrate and calcium chloride 
+ANSWER:   Y) SODIUM BROMIDE AND RUBIDIUM CHLORIDE 
+
+QUESTION: 16
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT an example of a weak base: 
+		W) NH3 
+		X) NH4+ 
+		Y) CH3NH2 
+		Z) C6H5NH2 
+ANSWER:   X) NH4+ 2007 Regional Science Bowl Page 9 
+
+QUESTION: 17
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Giving your answer as a circle, parabola, ellipse, or hyperbola, if a conic section has an eccentricity that is 0.333, what type is it? 
+ANSWER:   ELLIPSE 
+
+QUESTION: 17
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Give the center and radius of the following equation of a circle: x2 + y2 + 8x 2y + 13 = 0 
+ANSWER:   CENTER = (4, 1); RADIUS = 2 
+
+QUESTION: 18
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following BEST explains how a linear accelerator speeds up charged particles: 
+		W) creating large electric fields that push particles along on electromagnetic waves 
+		X) using magnets to push them along their trajectories 
+		Y) using superconducting magnets to accelerate particles to near light speed 
+		Z) using synchrotron radiation to ionize particles which are then accelerated by superconducting magnets 
+ANSWER:   W) CREATING LARGE ELECTRIC FIELDS THAT PUSH PARTICLES ALONG ON ELECTROMAGNETIC WAVES 
+
+QUESTION: 18
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Particle accelerators used by physicists are generally linear or circular. Which of the following is a major advantage of linear designs over circular: 
+		W) high energy electrons can only be obtained in linear accelerators 
+		X) linear accelerators do not need the large, expensive magnets of circular accelerators and do not have as much radiation loss 
+		Y) they typically can produce more chances for collisions because they use fixed targets 
+		Z) they can be used in fixed target experiments while circular accelerators cannot 
+ANSWER:   X) LINEAR ACCELERATORS DO NOT NEED THE LARGE, EXPENSIVE MAGNETS OF CIRCULAR ACCELERATORS AND DO NOT HAVE AS MUCH RADIATION LOSS 2007 Regional Science Bowl Page 10 
+
+QUESTION: 19
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following probably originated in the Jurassic Period from thecodonts or early theropod dinosaurs: 
+		W) ammonoids 
+		X) marsupials 
+		Y) proboscidians 
+		Z) birds 
+ANSWER:   Z) BIRDS 
+
+QUESTION: 19
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: In soil taxonomy, which of the following is a leached acidic soil rich in iron oxides and aluminum and typically found in the Eastern U.S. and Canada under forest landscapes: 
+		W) pedocals 
+		X) pedalfers 
+		Y) particulites 
+		Z) laterites 
+ANSWER:   X) PEDALFERS 
+
+QUESTION: 20
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following is the most effective allosteric inhibitor of enzymes such as phosphofructokinase (read as: phos-foe-FRUCK-toe-kynase), in glycolysis: 
+		W) ADP 
+		X) ATP 
+		Y) cyclic AMP 
+		Z) NAD+ 
+ANSWER:   X) ATP 
+
+QUESTION: 20
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: In a human heart, if the end diastolic volume is a constant 30 cubic centimeters and the heart rate is a constant 60 beats per minute, what is the cardiac output, in milliliters, if the stroke volume is 80 milliliters? 
+ANSWER:   4800 (Solution: cardiac output 60 # 80 = 4800) 2007 Regional Science Bowl Page 11 
+
+QUESTION: 21
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: In what region of the electromagnetic spectrum is a supernova most commonly detected? 
+ANSWER:   ULTRAVIOLET (ACCEPT: UV) 
+
+QUESTION: 21
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: What are the 3 general layers of the Suns atmosphere from INNERMOST to OUTERMOST? 
+ANSWER:   PHOTOSPHERE; CHROMOSPHERE; CORONA 
+
+QUESTION: 22
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What are the respective frequencies of the second and third harmonics of a string with a fundamental frequency of 262 hertz? 
+ANSWER:   524 AND 786 
+
+QUESTION: 22
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Assuming that they roll without sliding, order the following 3 objects from the one with the SMALLEST rotational velocity down an arbitrarily long inclined plane to the one with the LARGEST, after 5 seconds: a one-inch-diameter o-ring; a three-quarter inch-diameter marble; a quarter 
+ANSWER:   A ONE-INCH-DIAMETER O-RING; A QUARTER; A THREE-QUARTER INCH-DIAMETER MARBLE 2007 Regional Science Bowl Page 12 
+
+QUESTION: 23
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What rule states that electrons occupy all the orbitals of a given subshell singly before pairing begins and that these unpaired electrons have parallel spins? 
+ANSWER:   HUNDS RULE (ACCEPT: HUNDS RULE OF MAXIMUM MULTIPLICITY) 
+
+QUESTION: 23
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Knowing that gallium is in group 13 and Period 4, give the simplified ground-state electron configuration, starting with the last filled noble gas configuration of argon: 
+ANSWER:   [Ar]4s23d104p1 (ACCEPT: [Ar]3d104s24p1 or 4s23d104p1 or 3d104s24p1) 
+
+QUESTION: 24
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: A tetrad in prophase one of meiosis has how many chromosomes and chromatids, respectively? 
+ANSWER:   CHROMOSOMES = 2; CHROMATIDS = 4 
+
+QUESTION: 24
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: In beta oxidation of fats, long-chain hydrocarbon fatty acids feed into the Krebs cycle most commonly via what central molecule of glucose metabolism? 
+ANSWER:   ACETYL CoA (ACCEPT: ACETYL CO-ENZYME A) 2007 Regional Science Bowl Page 13 
+
+QUESTION: 25
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What is the only amino acid that is not optically active? 
+ANSWER:   GLYCINE 
+
+QUESTION: 25
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Consider two tanks that are connected by a closed valve. Tank A contains 6 liters of nitrogen gas at a pressure of 24 atmospheres and tank B contains 2 liters of oxygen gas at a pressure of 16 atmospheres. If the temperature is constant and the valve is opened, what is the pressure, in atmospheres, of the gas mixture at equilibrium? 
+ANSWER:   22 (Solution: P1V1 = P2V2; (24atm)(6L) = (PN2)(8L) = 18atm; (16atm)(2L) = (PO2)(8L) = 4atm; Ptotal = 18 + 4 = 22atm) 
+

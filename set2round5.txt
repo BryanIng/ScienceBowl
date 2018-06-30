@@ -1,0 +1,434 @@
+QUESTION: 1
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Bacteria that can oxidize inorganic substances for energy are called: 
+ANSWER:   CHEMOAUTOTROPHS (ACCEPT: CHEMOTROPHS, CHEMOSYNTHETICS, OR CHEMOLITHOTROPHS) 
+
+QUESTION: 1
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the common botanical term for the response a cell or plant has towards or away from a stimulus? 
+ANSWER:   TAXIS 
+
+QUESTION: 2
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: If you were looking to purchase magnesium sulfate in a retail store in the U.S., which of the following would you be correct in buying: 
+		W) alum 
+		X) cream of tartar 
+		Y) soda ash 
+		Z) Epsom salt 
+ANSWER:   Z) EPSOM SALT 
+
+QUESTION: 2
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Using proper chemical nomenclature, finish balancing the following equation: Fe2O3 + 3CO yields what, assuming the iron is totally reduced: 
+ANSWER:   2Fe + 3CO2 2002 Regional Science Bowl B Round 5 Page 2 
+
+QUESTION: 3
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What is the current, in amperes, running through a 200-watt light bulb running on a 100 volt power source: 
+ANSWER:   2 AMPERES (Solution: current = watts/volts; 200/100 = 2 amperes) 
+
+QUESTION: 3
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What is the centripetal force, in Newtons, required for a 12 kilogram body traveling at 2 meters per second in a perfect circle with a radius of 4 meters? 
+ANSWER:   12 NEWTONS (Solution: CF = m v 2 / r = 12 x 22 / 4 = 12 ) 
+
+QUESTION: 4
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: Adastea, Amalthea and Callisto are moons of what planet? 
+ANSWER:   JUPITER 
+
+QUESTION: 4
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: What is the standard distance a star would need to be placed for it to appear as bright as its absolute magnitude? 
+ANSWER:   10 PARSECS (ACCEPT: 26 LIGHT YEARS) 2002 Regional Science Bowl B Round 5 Page 3 
+
+QUESTION: 5
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: In algebra, what is a second degree polynomial equation most commonly called? 
+ANSWER:   QUADRATIC (ACCEPT: QUADRATIC EQUATION) 
+
+QUESTION: 5
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What is the area of an equilateral triangle whose side is 6? 
+ANSWER:   93 (ACCEPT: 15 16) (Solution: A = 39432s) 
+
+QUESTION: 6
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Cleavage is caused by a mineral's crystal lattice having: 
+		W) planes that contain relatively fewer or weaker chemical bonds 
+		X) planes that contain relatively more numerous or stronger chemical bonds 
+		Y) planes that contain many hydrogen bonds 
+		Z) planes that contain only covalent chemical bonds 
+ANSWER:   W) PLANES THAT CONTAIN RELATIVELY FEWER OR WEAKER CHEMICAL BONDS 
+
+QUESTION: 6
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following best describes glacial till: 
+		W) well sorted and stratified 
+		X) well sorted and poorly stratified 
+		Y) poorly stratified and poorly sorted 
+		Z) stratified and poorly sorted 
+ANSWER:   Y) POORLY STRATIFIED AND POORLY SORTED 2002 Regional Science Bowl B Round 5 Page 4 
+
+QUESTION: 7
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: What color light does water absorb the most: 
+		W) red 
+		X) yellow 
+		Y) green 
+		Z) blue 
+ANSWER:   W) RED 
+
+QUESTION: 7
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: The primary contributors of phosphorous to the Phosphorous Cycle are: 
+		W) animal waste products 
+		X) volcanic gasses 
+		Y) weathering of rocks 
+		Z) lightning 
+ANSWER:   Y) WEATHERING OF ROCKS 
+
+QUESTION: 8
+TYPE:     toss-up
+SUBJECT:  computer science
+FORMAT:   short answer
+QUESTION: How fast data flows on a given transmission path and the width of the range of frequencies that a signal occupies on a given transmission medium is generally known as: 
+ANSWER:   BANDWIDTH 
+
+QUESTION: 8
+TYPE:     bonus
+SUBJECT:  computer science
+FORMAT:   short answer
+QUESTION: Data travels on a 100MHz, 64-bit bus at how many megabytes per second? 
+ANSWER:   800 2002 Regional Science Bowl B Round 5 Page 5 
+
+QUESTION: 9
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Animals that produce eggs that develop and hatch outside of the body are called: 
+		W) viviparous (pronounced: viv-IP-a-rous) 
+		X) ovoviviparous (pronounced: oh-voe-viv-IP-a-rous) 
+		Y) oviparous (pronounced: oh-VIP-a-rous) 
+		Z) parity 
+ANSWER:   Y) OVIPAROUS 
+
+QUESTION: 9
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Cherries, plums, and peaches belong to what genus? 
+ANSWER:   PRUNUS 
+
+QUESTION: 10
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: A tetrahedral arrangement of electronic orbitals around an atom in a molecule generally implies what type of hybridization: 
+		W) sp 
+		X) sp2 
+		Y) sp3 
+		Z) sp3d 
+ANSWER:   Y) SP3 
+
+QUESTION: 10
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What is the name for a plastic or ceramic funnel that has a flat stage on which a filter paper can be placed that is intended for use under suction with a thick-walled side-arm flask designed to withstand the changes in pressure that occur when the flask is connected to a suction pump? 
+ANSWER:   BCHNER FUNNEL (ACCEPT: BCHNER) 2002 Regional Science Bowl B Round 5 Page 6 
+
+QUESTION: 11
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: If a 60 kilogram object displaces 30 kilograms of water when immersed, what will its apparent weight be? 
+ANSWER:   30 KILOGRAMS (ACCEPT: 30 KG OR 30,000 GRAMS) 
+
+QUESTION: 11
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Assuming all the following substances are in pure form, order them from the WORST electrical conductor to the BEST electrical conductor: aluminum, water, iron, gold 
+ANSWER:   WATER, IRON, ALUMINUM, GOLD 
+
+QUESTION: 12
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: At less than 8% solar mass, what is the common term for a potential star that does not gather enough mass to initiate core nuclear fusion and become a main sequence star? 
+ANSWER:   BROWN DWARF 
+
+QUESTION: 12
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Why did ancient Greek astronomers ascribe the term planet to certain celestial objects? 
+		W) they shined very brightly 
+		X) they wandered in their paths through the heavens 
+		Y) they were believed to be the home of the gods 
+		Z) they did not twinkle 
+ANSWER:   X) THEY WANDERED IN THEIR PATHS THROUGH THE HEAVENS 2002 Regional Science Bowl B Round 5 Page 7 
+
+QUESTION: 13
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What is the sum of the interior angles of a 6-sided polygon? 
+ANSWER:   720 
+
+QUESTION: 13
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Find the solution set of the following equation: )14(2)32(2xx 
+ANSWER:   2 
+
+QUESTION: 14
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is a long, narrow, steep-sided arm of the sea, usually formed by entrance of the sea into a deep glacial trough: 
+		W) fjord (pronounced: fee-ord) 
+		X) moraine 
+		Y) delta 
+		Z) alluvial fan 
+ANSWER:   W) FJORD 
+
+QUESTION: 14
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Ocean sediments that form from the precipitation of dissolved organic chemicals in seawater are classified as: 
+		W) terrigenous 
+		X) hydrogenous 
+		Y) biogenous 
+		Z) siliceous 
+ANSWER:   X) HYDROGENOUS 2002 Regional Science Bowl B Round 5 Page 8 
+
+QUESTION: 15
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: An animal that primarily eats fruit is called a: 
+		W) frugivore 
+		X) herbivore 
+		Y) omnivore 
+		Z) detritivore 
+ANSWER:   W) FRUGIVORE 
+
+QUESTION: 15
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Modified tropical grasslands characterized by alternating wet and dry seasons that produce areas typical of grasslands are called: 
+		W) tall grass prairies 
+		X) short grass prairies 
+		Y) chaparrals 
+		Z) savannas 
+ANSWER:   Z) SAVANNAS 
+
+QUESTION: 16
+TYPE:     toss-up
+SUBJECT:  computer science
+FORMAT:   multiple choice
+QUESTION: Software for which the source code is furnished and users agree NOT to limit the distribution of improvements is called: 
+		W) public-domain 
+		X) freeware 
+		Y) open-source 
+		Z) shareware 
+ANSWER:   Y) OPEN-SOURCE 
+
+QUESTION: 16
+TYPE:     bonus
+SUBJECT:  computer science
+FORMAT:   short answer
+QUESTION: What is the three-bit natural binary code equivalent of the decimal value 58 ? 
+ANSWER:   0.101 2002 Regional Science Bowl B Round 5 Page 9 
+
+QUESTION: 17
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following trees has a distinctive variegated bark with a leopard-like pattern of light and dark greens? 
+		W) American Sycamore 
+		X) Linden 
+		Y) Manchurian Maple 
+		Z) Persimmon 
+ANSWER:   W) AMERICAN SYCAMORE 
+
+QUESTION: 17
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: According to the classical taxonomical system, order the following from the most general taxonomic group to the most specific group: order, genus, kingdom, class, family, species 
+ANSWER:   KINGDOM, CLASS, ORDER, FAMILY, GENUS, SPECIES 
+
+QUESTION: 18
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What laboratory method uses a Liebig condenser arranged almost horizontally such that when the liquid mixture is heated and vapors are produced, they enter the condenser and then flow away from the flask to be collected, and is used when only one volatile fraction is to be collected: 
+ANSWER:   SIMPLE DISTILLATION (ACCEPT: DISTILLATION) (DO NOT ACCEPT: FRACTIONAL DISTILLATION) 
+
+QUESTION: 18
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Of the following liquids, which is normally basic: 
+		W) milk 
+		X) Pepsi 
+		Y) laundry detergent 
+		Z) pure water 
+ANSWER:   Y) LAUNDRY DETERGENT 2002 Regional Science Bowl B Round 5 Page 10 
+
+QUESTION: 19
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT considered a form of transverse wave: 
+		W) radio wave 
+		X) electromagnetic wave 
+		Y) sound wave 
+		Z) ocean wave 
+ANSWER:   Y) SOUND WAVE 
+
+QUESTION: 19
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: What is the average acceleration of a cyclist traveling on a straight path from 0 to 25 kilometers per hour in a minute and 40 seconds: 
+		W) 2.5 km per hour 
+		X) 0.25 km per hour 
+		Y) 2.5 km per hour per second 
+		Z) 0.25 km per hour per second 
+ANSWER:   Z) 0.25 KM PER HOUR PER SECOND (Solution: 25/100 = 0.25 km/hr/sec) 
+
+QUESTION: 20
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: What is the main part of the Small Bear constellation also commonly called? 
+ANSWER:   LITTLE DIPPER 
+
+QUESTION: 20
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: Which law states that galaxies are receding from one another at velocities directly proportional to the distances separating them? 
+ANSWER:   HUBBLES LAW (ACCEPT: HUBBLE OR HUBBLES) 2002 Regional Science Bowl B Round 5 Page 11 
+
+QUESTION: 21
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Convert 300 into radians: 
+ANSWER:   53 
+
+QUESTION: 21
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Find the following number: When the number, one-half of the number, and one-quarter of the number are added, and then 8 is subtracted, the result is 2 less than twice the number: 
+ANSWER:   -24 (Solution: n + 1/2n + 1/4n 8 = 2n -2) 
+
+QUESTION: 22
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: In Plate Tectonic theory, a transform fault is associated with: 
+		W) places where crust is being generated 
+		X) places where crust is being destroyed 
+		Y) places where crust is being neither generated nor destroyed 
+		Z) places where crust is being both generated and destroyed 
+ANSWER:   Y) PLACES WHERE CRUST IS BEING NEITHER GENERATED NOR DESTROYED 
+
+QUESTION: 22
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   short answer
+QUESTION: Fossil are most commonly found in what general type of rock? 
+ANSWER:   SEDIMENTARY 2002 Regional Science Bowl B Round 5 Page 12 
+
+QUESTION: 23
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the most common name for the horizontal enlarged stem of Solanum tuberosum? 
+ANSWER:   POTATO (ACCEPT: TUBER) 
+
+QUESTION: 23
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following biomes is NOT properly matched with its description: 
+		W) tundra has extreme cold and presence of permafrost 
+		X) taiga has moderately wet summers and long cold winters 
+		Y) chaparral has hot wet summers and moderate dry winters 
+		Z) temperate grasslands have occasional droughts with warm summers and cool to cold winters 
+ANSWER:   Y) CHAPARRAL HAS HOT WET SUMMERS AND MODERATE DRY WINTERS 
+
+QUESTION: 24
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: The largest worldwide use for hydrogen gas is in the production of: 
+		W) methanol 
+		X) ammonia 
+		Y) water 
+		Z) hydrogen fluoride 
+ANSWER:   X) AMMONIA 
+
+QUESTION: 24
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: If you wanted to prepare the ester, methyl acetate, which of the following could you start with: 
+		W) formic acid and ethanol 
+		X) acetic acid and ethanol 
+		Y) acetic acid and methanol 
+		Z) formic acid and methanol 
+ANSWER:   Y) ACETIC ACID AND METHANOL 2002 Regional Science Bowl B Round 5 Page 13 
+
+QUESTION: 25
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Which scientists publication entitled New Experiments Physio-mechanical, Touching the Spring of the Air, and its Effects first enunciated the empirical relationship that states that the pressure of a given quantity of gas varies inversely as its volume, at constant temperature? 
+ANSWER:   ROBERT BOYLE (ACCEPT: BOYLE) 
+
+QUESTION: 25
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: If a car, traveling at 15 miles/hr, travels 22 feet per second, how many feet per second will it travel at 120 miles/hr? 
+ANSWER:   176 
+

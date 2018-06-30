@@ -1,0 +1,426 @@
+QUESTION: 1
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: In the cell, this structure is composed of numerous sets of smooth cisternae, forming a structure that looks like a stack of plates. Within the structure, vesicles are used to send molecules to the cellular membrane. What structure is this? 
+ANSWER:   GOLGI APPARATUS (ACCEPT: GOLGI COMPLEX) 
+
+QUESTION: 1
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Kent holds up a potato at dinner and announces to his family that the spud is actually made up of cells with lots of large organelles that contain the carbohydrates stored by the plant. What are these organelles called? 
+ANSWER:   LEUCOPLASTS 
+
+QUESTION: 2
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: The lengths of two sides of a triangle are 30 centimeters and 35 centimeters, respectively. Between what values, in centimeters, must the length of the third side lie? 
+ANSWER:   BETWEEN 5 AND 65 
+
+QUESTION: 2
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Factor the following expression completely over the integers: 
+ANSWER:   Round 12 Page 2 !
+
+QUESTION: 3
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: What metabolic process occurs frequently in the top 100 meters of the worlds oceans and is nearly absent at greater depths? 
+ANSWER:   PHOTOSYNTHESIS (read as: f!e-t!e-SIN-teh-sis) 
+
+QUESTION: 3
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: Phytoplankton, like other single celled organisms, are limited in how large they can grow. What geometric relationship describes this limitation? 
+ANSWER:   SURFACE AREA TO VOLUME RATIO 
+
+QUESTION: 4
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: A student at your school conducts a survey about hair products. He determines the hair color of 50 of his classmates, and then randomly selects 5 redheads and 5 brunettes to participate in his survey. What type of sampling did he use? 
+		W) Simple random 
+		X) Stratified random 
+		Y) Cluster 
+		Z) Systematic 
+ANSWER:   Y) CLUSTER 
+
+QUESTION: 4
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What are the first three terms of the Taylor series for ex at 0? 
+ANSWER:   1, x, x2/2 (ACCEPT: 1, x/1!, x2/2!) Round 12 Page 3 !
+
+QUESTION: 5
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following is not a colligative property of solutions? 
+		W) Vapor pressure elevation 
+		X) Freezing point depression 
+		Y) Boiling point elevation 
+		Z) Osmotic pressure 
+ANSWER:   W) VAPOR PRESSURE ELEVATION 
+
+QUESTION: 5
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: By name or number, which of the following four types of mixtures are generally considered homogeneous? 1) alloy, 2) suspension, 3) emulsion, 4) colloid 
+ANSWER:   1) ALLOY 
+
+QUESTION: 6
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What are the three metals that generally comprise ferromagnetic materials? 
+ANSWER:   IRON, COBALT AND NICKEL 
+
+QUESTION: 6
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: How many turns of wire should a solenoid have if you wish the magnetic field inside the solenoid to be 5 times as great as that of a solenoid with 100 turns of wire, if both have the same length and current? 
+ANSWER:   500 Round 12 Page 4 !
+
+QUESTION: 7
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: Which of the following is not a valid water mass defined by a unique temperature and salinity signature? 
+		W) Antarctic bottom water 
+		X) North Atlantic deep water 
+		Y) Antarctic intermediate water 
+		Z) Indian Ocean deep water 
+ANSWER:   Z) INDIAN OCEAN DEEP WATER 
+
+QUESTION: 7
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: What is the effect of plate tectonics on the width of the Atlantic Ocean? 
+ANSWER:   IT IS BECOMING LARGER (ACCEPT: BECOMING WIDER) 
+
+QUESTION: 8
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Birds and bats belong to which taxonomic phylum? 
+ANSWER:   CHORDATA 
+
+QUESTION: 8
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What term describes the specific type of hybridization that occurs between two subspecies of the same species, such as the Bengal Tiger and the Siberian Tiger? 
+ANSWER:   INTRA-SPECIFIC HYBRIDS Round 12 Page 5 !
+
+QUESTION: 9
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: The standard heat of formation of calcium oxide is 635.5 kilojoules per mole. What is the complete, balanced equation for the formation of calcium oxide, including the energy value? 
+ANSWER:   Ca(s) + " O2(g) ! CaO(S) + 635.5 kJ (read as: Ca solid plus one half O2 gas yields CaO solid plus 635.5 kilojoules) ALSO ACCEPT: 2Ca(s) + O(2)(g) ! 2CaO(s) + 1271 kJ (NOTE: STUDENTS MUST INDICATE SOLID AND GAS) 
+
+QUESTION: 9
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: The following reaction between hydrogen and oxygen takes place in a closed container and at a temperature that maintains the water vapor in the gas phase: 2 H2O(g) (read as: in equilibrium with) 2 H2(g) + O2(g). In one experiment, the equilibrium concentrations of the gases are as follows: [H2] = 2.0M, [O2] = 3.0M and [H2O] = 4.0M. Calculate the value of Keq for this reaction. 
+ANSWER:   Keq = 0.75 
+
+QUESTION: 10
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Albumins, globulins and fibrinogen are all examples of: 
+		W) Capillary hormones 
+		X) Myocardial (read as: my-oh-KAHR-di(ah)l) antigens 
+		Y) Plasma proteins 
+		Z) White blood cells 
+ANSWER:   Y) PLASMA PROTEINS 
+
+QUESTION: 10
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Cranial nerves two, three, seven, and ten refer to which cranial nerves, respectively? 
+		W) Occulomotor, trochlear, optic and facial 
+		X) Optic, occulomotor, facial and vagus 
+		Y) Trigeminal, olfactory, trochlear and vagus 
+		Z) Olfactory, vagus, facial and optic 
+ANSWER:   X) OPTIC, OCCULOMOTOR, FACIAL AND VAGUS Round 12 Page 6 !
+
+QUESTION: 11
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What is the acceleration of a falling body in meters per second squared after it reaches terminal velocity? 
+ANSWER:   0 
+
+QUESTION: 11
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: An object is dropped from an office window. The amount of air resistance is unknown. After 1 second of falling, which of the following cannot be true? 
+		W) The velocity is 1 meter per second 
+		X) The velocity is 11 meters per second 
+		Y) The acceleration is 0 meters per second squared 
+		Z) The acceleration is 5 meters per second squared 
+ANSWER:   X) THE VELOCITY IS 11 METERS PER SECOND 
+
+QUESTION: 12
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: Which soil horizon is likely to have the most organic material? 
+		W) O 
+		X) A 
+		Y) C 
+		Z) B 
+ANSWER:   W) O 
+
+QUESTION: 12
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: As recognizable organic matter on top of the ground begins to decompose, what type of soil does it become? 
+ANSWER:   HUMUS Round 12 Page 7 !
+
+QUESTION: 13
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Express the complex number i8 in standard a + bi form equivalent. 
+ANSWER:   1 (ACCEPT: 1 + 0i) 
+
+QUESTION: 13
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What is the complex conjugate of the product of 3 + 6i and -10 7i? 
+ANSWER:   12 + 81i 
+
+QUESTION: 14
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Monster Ralph and Monster Hilda get married and hatch Friendly Freddy, their son. Freddy has purple and red striped hair and four eyes: 2 green and 2 gray. Freddy's hair and eye color are his: 
+		W) Phenotype 
+		X) Genotype 
+		Y) Alleles (read as: ah-LEELS) 
+		Z) Genes 
+ANSWER:   W) PHENOTYPE 
+
+QUESTION: 14
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following is true of genetic mutations? 
+		W) They are always harmful and usually hurt the organism 
+		X) They are always beneficial and frequently help the organism adapt to the environment 
+		Y) They are not natural and should not happen unless something goes wrong 
+		Z) They can be harmful, helpful, or have no effect on the organism 
+ANSWER:   Z) THEY CAN BE HARMFUL, HELPFUL, OR HAVE NO EFFECT ON THE ORGANISM Round 12 Page 8 !
+
+QUESTION: 15
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What do we call the ability of a single molecule to act both as a base and an acid? 
+ANSWER:   AMPHOTERISM 
+
+QUESTION: 15
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Of which of the following acid-base titrations would the pH be less than 7 at the equivalence point? 
+		W) Strong base, weak acid 
+		X) Strong base, strong acid 
+		Y) Weak base, weak acid 
+		Z) Strong acid, weak base 
+ANSWER:   Z) STRONG ACID, WEAK BASE 
+
+QUESTION: 16
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: In an alternating electric current, what is the term most commonly used to describe the tendency of charged particles to travel along the surface of their conductor? 
+ANSWER:   SKIN EFFECT 
+
+QUESTION: 16
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: A transformer is often used in electric circuits to alter what quantity? 
+ANSWER:   VOLTAGE (ACCEPT: ELECTRIC POTENTIAL, POTENTIAL, POTENTIAL DIFFERENCE, ELECTRIC POTENTIAL DIFFERENCE) Round 12 Page 9 !
+
+QUESTION: 17
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: A solution of barium hydroxide is neutralized with a phosphoric acid solution. Identify the molecular forms of the two products that are produced in this reaction. 
+ANSWER:   Ba3(PO4)2 AND H2O 
+
+QUESTION: 17
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: The strength of the dispersion forces between two non-polar molecules increases with: 
+		W) The number of hydrogen atoms in the molecule 
+		X) The number of electrons in the molecule 
+		Y) The magnitude of the largest electronegativity of the atoms involved 
+		Z) The magnitude of the difference in electronegativity between the atoms 
+ANSWER:   X) THE NUMBER OF ELECTRONS IN THE MOLECULE 
+
+QUESTION: 18
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What is the slope of a vector in standard position with an angle of 45 below the positive x axis? 
+ANSWER:   -1 
+
+QUESTION: 18
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Solve the following equation for x: 
+ANSWER:   x = 25 (DO NOT ACCEPT: x = 9) Round 12 Page 10 !
+
+QUESTION: 19
+TYPE:     toss-up
+SUBJECT:  energy
+FORMAT:   short answer
+QUESTION: Which law of thermodynamics could be stated as: energy tends to distribute itself among the greatest number of particles possible? 
+ANSWER:   2ND (ACCEPT: LAW OF ENTROPY) 
+
+QUESTION: 19
+TYPE:     bonus
+SUBJECT:  energy
+FORMAT:   short answer
+QUESTION: When the same amount of energy is applied to 1-gram portions of water, ethanol, copper and iron, for which one does the temperature increase the least? 
+ANSWER:   WATER 
+
+QUESTION: 20
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: The Haber-Bosch process revolutionized agriculture by providing a cheap, easy method to make fertilizers of an element essential for plant growth. Which of the following is this essential element? 
+		W) Iron 
+		X) Potassium 
+		Y) Phosphorus 
+		Z) Nitrogen 
+ANSWER:   Z) NITROGEN 
+
+QUESTION: 20
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: What is the term that describes the increase in primary production of an aquatic ecosystem following enrichment with chemical nutrients? 
+ANSWER:   EUTROPHICATION (read as: yuh-tr!e-fi-KAY-shohn) Round 12 Page 11 !
+
+QUESTION: 21
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What term describes momentum transfer from a photon to a physical object ? 
+ANSWER:   RADIATION PRESSURE (ACCEPT: LIGHT PRESSURE) 
+
+QUESTION: 21
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Nuclear reactions, such as those that occur in power generating reactors, are said to be critical when: 
+		W) They are able to sustain their level of activity without an external neutron source 
+		X) They have been shut down by the introduction of neutron poisons such as boron 
+		Y) They are increasing in power at a rate faster than expected 
+		Z) They are producing more thorium than uranium 
+ANSWER:   W) THEY ARE ABLE TO SUSTAIN THEIR LEVEL OF ACTIVITY WITHOUT AN EXTERNAL NEUTRON SOURCE 
+
+QUESTION: 22
+TYPE:     toss-up
+SUBJECT:  energy
+FORMAT:   multiple choice
+QUESTION: Wind can be harnessed to generate electricity via turbines. Which of the following is the greatest challenge to widespread use of wind for electricity? 
+		W) Wind turbines are huge, expensive, and not particularly aesthetic 
+		X) Wind has major negative ecological and environmental effects 
+		Y) Suitable locations for wind farms with sufficiently constant and fast winds are limited 
+		Z) Wind farms lead to significant loss of agricultural lands 
+ANSWER:   Y) SUITABLE LOCATIONS FOR WIND FARMS WITH SUFFICIENTLY CONSTANT AND FAST WINDS ARE LIMITED 
+
+QUESTION: 22
+TYPE:     bonus
+SUBJECT:  energy
+FORMAT:   short answer
+QUESTION: Identical wind turbines are put in four locations: sea level, 5,000 feet, 10,000 feet, and 14,000 feet. Assuming the same wind speed, which turbine will produce the most energy? 
+ANSWER:   SEA LEVEL Round 12 Page 12 !
+
+QUESTION: 23
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: Which of the following intervals contains both solutions of x2 - 3x = 0? 
+		W) 0 less than x less than 2 
+		X) 0 less than x less than 4 
+		Y) 0 less than or equal to x less than 4 
+		Z) -3 less than x less than or equal to 2 
+ANSWER:   Y) 0 less than or equal to x less than 4 
+
+QUESTION: 23
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Find the sum of every odd integer between 5 and 55, inclusive. 
+ANSWER:   780 
+
+QUESTION: 24
+TYPE:     toss-up
+SUBJECT:  energy
+FORMAT:   multiple choice
+QUESTION: How is geothermal power produced? 
+		W) Heat energy is extracted from high temperature lava after eruptions 
+		X) Water from extremely hot springs is circulated in pipes in nearby homes for heating 
+		Y) Hot dry volcanic rocks are extracted from deep underground and processed in place at a geothermal plant 
+		Z) Mile-or-more-deep wells are drilled into underground reservoirs to tap steam and very hot water that drive turbines 
+ANSWER:   Z) MILE-OR-MORE-DEEP WELLS ARE DRILLED INTO UNDERGROUND RESERVOIRS TO TAP STEAM AND VERY HOT WATER THAT DRIVE TURBINES 
+
+QUESTION: 24
+TYPE:     bonus
+SUBJECT:  energy
+FORMAT:   multiple choice
+QUESTION: In order to replenish the supply of steam at the geothermal plant called The Geysers, which of the following does an underground pipeline deliver? 
+		W) Wastewater 
+		X) River water 
+		Y) Ocean water 
+		Z) Rain water 
+ANSWER:   W) WASTEWATER Round 12 Page 13 !
+
+QUESTION: 25
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: Which type of rock is most likely to be drilled for oil? 
+		W) Granite 
+		X) Limestone 
+		Y) Sandstone 
+		Z) Basalt 
+ANSWER:   Y) SANDSTONE 
+
+QUESTION: 25
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: Which of the following types of rock is likely to cap a layer of rock rich in oil? 
+		W) Sandstone 
+		X) Shale 
+		Y) Slate 
+		Z) Granite 
+ANSWER:   X) SHALE 
+

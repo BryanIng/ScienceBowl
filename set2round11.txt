@@ -1,0 +1,462 @@
+QUESTION: 1
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: In their studies of trans-uranium elements and crystallization studies of barium, Hahn and Meitner discovered what process? 
+ANSWER:   FISSION (ACCEPT: NUCLEAR FISSION) 
+
+QUESTION: 1
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Assuming g = -32 feet/sec2 and friction is negligible, if a coffee bean is thrown upward from the top of a building with a vertical velocity of +32 ft/sec, what will its velocity be in ft/sec after 3 seconds? 
+ANSWER:   -64 (ACCEPT: -64 or 64 DOWN) 
+
+QUESTION: 2
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Afferent neuron is to sensory neuron as efferent neuron is to: 
+ANSWER:   MOTOR NEURON 
+
+QUESTION: 2
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following is most accurate about the pasteurization of milk: 
+		W) it heats milk to the boiling point for about 1minute 
+		X) it kills all bacteria by passing steam through the milk 
+		Y) it kills most of the germs in the milk by moderate heating 
+		Z) it kills all the bacteria but not the viruses in the milk 
+ANSWER:   Y) IT KILLS MOST OF THE GERMS IN THE MILK BY MODERATE HEATING 2002 Regional Science Bowl B Round 11 Page 2 
+
+QUESTION: 3
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Hydrocarbons that contain a carbon-carbon double bond are generally know as what: 
+ANSWER:   ALKENES (ACCEPT: OLEFINS) 
+
+QUESTION: 3
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: If you have 1 milliliter of a 75% ethanol stock solution, how much water, in milliliters, must be added to the 1 milliliter stock solution to obtain a 25% ethanol solution? 
+ANSWER:   2 (Solution: 75%/25% = 3df; 1 part stock + 2 parts water = 3df) 
+
+QUESTION: 4
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: The total amount of energy of a stars surface radiated into space each second is most commonly referred to as what? 
+ANSWER:   ABSOLUTE LUMINOSITY (ACCEPT: LUMINOSITY, INTRINSIC BRIGHTNESS, OR ABSOLUTE BRIGHTNESS) 
+
+QUESTION: 4
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: If you could shrink the Earth to a quarter its present diameter while maintaining its mass, by what factor would the escape velocity change? 
+		W) the escape velocity would be doubled 
+		X) the escape velocity would be four times larger 
+		Y) the escape velocity would remain unchanged 
+		Z) the escape velocity would be reduced by half 
+ANSWER:   W) THE ESCAPE VELOCITY WOULD BE DOUBLED (Solution: escape velocity ~ (M/R)1/2; Ve = 2GM/r) 2002 Regional Science Bowl B Round 11 Page 3 
+
+QUESTION: 5
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What is the term for the part of the secant contained between the points of intersection on a curve? 
+ANSWER:   CHORD 
+
+QUESTION: 5
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Find the solution set of the following inequality: x2 x 2 0 
+ANSWER:   -1 x 2 
+
+QUESTION: 6
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: The Hawaiian Islands originated from magma: 
+		W) intruding along the boundary between two lithospheric plates 
+		X) formed within an island arc 
+		Y) injected along a mid-ocean fracture zone 
+		Z) coming from a hotspot within the mantle 
+ANSWER:   Z) COMING FROM A HOTSPOT WITHIN THE MANTLE 
+
+QUESTION: 6
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is classified as a silicate mineral: 
+		W) gypsum 
+		X) malachite 
+		Y) halite 
+		Z) quartz 
+ANSWER:   Z) QUARTZ 2002 Regional Science Bowl B Round 11 Page 4 
+
+QUESTION: 7
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: A severe and chronic deficiency in what vitamin causes the disease known as pellagra: 
+		W) vitamin C 
+		X) vitamin D 
+		Y) niacin 
+		Z) thiamine 
+ANSWER:   Y) NIACIN 
+
+QUESTION: 7
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: What tree in the North-Central to Northeast US has heart-shaped leaves and a light-colored wood which is prized by wood carvers 
+		W) pin oak 
+		X) cottonwood 
+		Y) American sycamore 
+		Z) basswood 
+ANSWER:   Z) BASSWOOD 
+
+QUESTION: 8
+TYPE:     toss-up
+SUBJECT:  computer science
+FORMAT:   multiple choice
+QUESTION: This distributed information system was prevalent in the years before the World Wide Web: 
+		W) Gopher 
+		X) SSL 
+		Y) LINUX 
+		Z) Fox 
+ANSWER:   W) GOPHER 
+
+QUESTION: 8
+TYPE:     bonus
+SUBJECT:  computer science
+FORMAT:   multiple choice
+QUESTION: Dynamic RAM is called such because: 
+		W) the value it holds can be dynamically changed at any time 
+		X) the address space the RAM refers to can be dynamically changed 
+		Y) the value it holds must be dynamically refreshed every few milliseconds 
+		Z) the value it holds must be dynamically refreshed once a session 
+ANSWER:   Y) THE VALUE IT HOLDS MUST BE DYNAMICALLY REFRESHED EVERY FEW MILLISECONDS 2002 Regional Science Bowl B Round 11 Page 5 
+
+QUESTION: 9
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following exhibits the least resistivity at 20C: 
+		W) gold 
+		X) tungsten 
+		Y) iron 
+		Z) copper 
+ANSWER:   Z) COPPER 
+
+QUESTION: 9
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: If a violin string is 0.5 meters long and has a mass of 3.0 grams, what tension, in Newtons, must be on the string to give a wave velocity of 14.14 meters per second? 
+ANSWER:   1.2 (Solution: V = lmT/; = m/l v2 = T; (0.003/0.5)(200) = 1.2 newtons) 
+
+QUESTION: 10
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: The coronal suture is found between what two bones? 
+ANSWER:   PARIETAL AND FRONTAL (accept in any order) 
+
+QUESTION: 10
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following infectious agents is NOT properly matched with its disease: 
+		W) Trichophyton (read as:TRI-co-fie-ton) and ringworm 
+		X) Hepatitis A and serum hepatitis 
+		Y) Rubella and German measles 
+		Z) Epstein Barr and infectious mononucleosis 
+ANSWER:   X) HEPATITIS A AND SERUM HEPATITIS (Solution: Hepatitis A causes infectious hepatitis) 2002 Regional Science Bowl B Round 11 Page 6 
+
+QUESTION: 11
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Polystyrene is produced by which of the following reactions: 
+		W) free radical vinyl polymerization from the monomer styrene 
+		X) metalocene catalysis polymerization 
+		Y) graft copolymerization 
+		Z) butadiene polymerization 
+ANSWER:   W) FREE RADICAL VINYL POLYMERIZATION FROM THE MONOMER STYRENE 
+
+QUESTION: 11
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following molecular shapes would you expect from O3: 
+		W) bent 
+		X) trigonal planar 
+		Y) linear 
+		Z) see-saw 
+ANSWER:   W) BENT 
+
+QUESTION: 12
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: When a one solar mass star becomes a red giant for the first time, its energy comes mainly from the fusion of helium forming into what final element? 
+ANSWER:   CARBON 
+
+QUESTION: 12
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following distance-measuring techniques measures the farthest: 
+		W) radar ranging 
+		X) stellar parallax 
+		Y) variable stars 
+		Z) standard candle/Tully-Fisher relation 
+ANSWER:   Z) STANDARD CANDLE/TULLY-FISHER RELATION 2002 Regional Science Bowl B Round 11 Page 7 
+
+QUESTION: 13
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: In a normal distribution, a mean of a sample population, plus or minus 1 standard deviation, includes what percentage of the sample: 
+		W) 16% 
+		X) 32% 
+		Y) 68% 
+		Z) 95% 
+ANSWER:   Y) 68% 
+
+QUESTION: 13
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What is the 13th term in the following arithmetic progression: 2, 7, 12 
+ANSWER:   62 (Solution: an = 2 + (13 1)5) 
+
+QUESTION: 14
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: When two halves of a crystal aggregate are mirror images of each other and joined together in some definite, shared crystallographic orientation, such crystals are referred to as being: 
+		W) polymorphs 
+		X) symmetrical 
+		Y) twinned 
+		Z) anhedral 
+ANSWER:   Y) TWINNED 
+
+QUESTION: 14
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is FALSE about the Coriolis Effect: 
+		W) it is an apparent force due to the precession of the Earth 
+		X) it is an apparent force due to the rotation of the Earth 
+		Y) it causes winds in the Northern Hemisphere to be deflected to the right 
+		Z) it causes winds in the Southern Hemisphere to be deflected to the left 
+ANSWER:   W) IT IS AN APPARENT FORCE DUE TO THE PRECESSION OF THE EARTH 2002 Regional Science Bowl B Round 11 Page 8 
+
+QUESTION: 15
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: A wave with a wavelength of 40 meters and a height of 2 meters, will NOT be refracted in water with a depth of more than: 
+		W) 1 meter 
+		X) 2 meters 
+		Y) 10 meters 
+		Z) 20 meters 
+ANSWER:   Z) 20 METERS 
+
+QUESTION: 15
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: The mass of a new 2002 USA quarter is about how many grams: 
+		W) 3.0 
+		X) 4.5 
+		Y) 5.5 
+		Z) 7.0 
+ANSWER:   Y) 5.5 
+
+QUESTION: 16
+TYPE:     toss-up
+SUBJECT:  computer science
+FORMAT:   multiple choice
+QUESTION: Which printer uses bits of plastic that effectively are melted onto the surface of the paper: 
+		W) thermal 
+		X) ink jet 
+		Y) laser 
+		Z) dot matrix 
+ANSWER:   Y) LASER 
+
+QUESTION: 16
+TYPE:     bonus
+SUBJECT:  computer science
+FORMAT:   multiple choice
+QUESTION: Which of the following is true for a binary tree but not for a regular tree: 
+		W) it stores only zeros and ones 
+		X) each parent node has no more than two children 
+		Y) its branches are ordered 
+		Z) nodes without children are called leaves 
+ANSWER:   X) EACH PARENT NODE HAS NO MORE THAN TWO CHILDREN 2002 Regional Science Bowl B Round 11 Page 9 
+
+QUESTION: 17
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Red light has a wavelength of: 
+		W) 300-350 nanometers 
+		X) 450-500 nanometers 
+		Y) 550-600 nanometers 
+		Z) 650-700 nanometers 
+ANSWER:   Z) 650-700 NANOMETERS 
+
+QUESTION: 17
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Bose-Einstein condensates were initially created by using elements from what specific part of the periodic table: 
+ANSWER:   GROUP 1 (ACCEPT: ALKALI METALS) 
+
+QUESTION: 18
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: From what vitamin is NAD derived? 
+ANSWER:   NIACIN 
+
+QUESTION: 18
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Penicillium notatum is to penicillin as Bacillus subtilis (pronounced: SUT-ill-iss) is to: 
+ANSWER:   BACITRACIN 2002 Regional Science Bowl B Round 11 Page 10 
+
+QUESTION: 19
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following radioactive isotopes emits alpha particles: 
+		W) hydrogen-3 
+		X) cobalt-60 
+		Y) carbon-14 
+		Z) radium-226 
+ANSWER:   Z) RADIUM-226 
+
+QUESTION: 19
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What is the molecular formula for the conjugate acid of the following Brnsted-Lowry base: HCO3 
+ANSWER:   H2CO3 
+
+QUESTION: 20
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: In North America, what is typically the most spectacular meteor shower in the month of August? 
+ANSWER:   PERSEIDS 
+
+QUESTION: 20
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: A bolometer (pronounced: bowl-O-meter) is used to: 
+		W) measure the energy output of the Sun 
+		X) measure the length of a bowling alley 
+		Y) measure the size of celestial bodies 
+		Z) standardize the azimuth of a sextant 
+ANSWER:   W) MEASURE THE ENERGY OUTPUT OF THE SUN 2002 Regional Science Bowl B Round 11 Page 11 
+
+QUESTION: 21
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: As the intensity of metamorphism increases, which of the following transformations occurs: 
+		W) granite to slate 
+		X) schist to slate 
+		Y) gneiss to quartzite 
+		Z) limestone to marble 
+ANSWER:   Z) LIMESTONE TO MARBLE 
+
+QUESTION: 21
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: In which of the following latitudes would you expect belts of high pressure to typically develop: 
+		W) 30 North 
+		X) 0 
+		Y) 50 North 
+		Z) 60 South 
+ANSWER:   W) 30 NORTH 
+
+QUESTION: 22
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Which of the following is classified as a water-insoluble fiber: 
+		W) algal polysaccharides 
+		X) pectin 
+		Y) lignin 
+		Z) gums 
+ANSWER:   Y) LIGNIN 
+
+QUESTION: 22
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: Methods that cause hair to have curls usually rely on manipulating disulfide bonds in what amino acid? 
+ANSWER:   CYSTINE 2002 Regional Science Bowl B Round 11 Page 12 
+
+QUESTION: 23
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: The line spectra of low density gases is usually produced by the emission or absorption of light by: 
+		W) molecules 
+		X) crystals 
+		Y) crystal lattices 
+		Z) individual atoms 
+ANSWER:   Z) INDIVIDUAL ATOMS 
+
+QUESTION: 23
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What was the last name of the father and son team that developed the theory and technique of X-ray diffraction by crystals? 
+ANSWER:   BRAGG 
+
+QUESTION: 24
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Avery and Macleod attributed the transforming principle to what substance? 
+ANSWER:   DNA 
+
+QUESTION: 24
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What other vitamin acts like an antagonist and has the most similar structure to vitamin K? 
+ANSWER:   VITAMIN E (Solution: both are isoprenoids) 2002 Regional Science Bowl B Round 11 Page 13 
+
+QUESTION: 25
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Reaction with a copper compound is a qualitative test for which functional group: 
+		W) alcohol 
+		X) aldehyde 
+		Y) ketone 
+		Z) carboxylic acid 
+ANSWER:   X) ALDEHYDE 
+
+QUESTION: 25
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Name the two elements that have atomic numbers less than that of lead that have no stable isotopes: 
+ANSWER:   TECHNETIUM AND PROMETHIUM (ACCEPT: Tc and Pm) 
+

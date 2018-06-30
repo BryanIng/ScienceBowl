@@ -1,0 +1,434 @@
+QUESTION: 1
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: For two sound sources heard simultaneously, one of which vibrates at 444 hertz and the other vibrates at 456 hertz, what is the beat frequency in beats per second? 
+ANSWER:   12 BEATS PER SECOND 
+
+QUESTION: 1
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: In the 1950s, the Oak Ridge National Laboratory made a significant impact on medical treatment and diagnosis by providing which of the following to researchers and clinicians: 
+		W) x-ray machines 
+		X) power sources for pace makers 
+		Y) radioisotopes 
+		Z) large amounts of technetium 
+ANSWER:   Y) RADIOISOTOPES 
+
+QUESTION: 2
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: In microbiology, a standard method of obtaining a pure culture is: 
+		W) centrifugation 
+		X) streak plate 
+		Y) stab culture 
+		Z) liquid fermantation 
+ANSWER:   X) STREAK PLATE 
+
+QUESTION: 2
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following best describes REM sleep: 
+		W) active dreaming with desynchronized EEG 
+		X) atonia, (read as: A-tone-ee-ah) with deep sleep 
+		Y) deep sleep with atonia and active dreaming 
+		Z) deep sleep with active dreaming 
+ANSWER:   W) ACTIVE DREAMING WITH DESYNCHRONIZED EEG 2002 Regional Science Bowl B Round 10 Page 2 
+
+QUESTION: 3
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Using standard chemical nomenclature, what is the chemical formula for perchloric acid? 
+ANSWER:   HClO4 
+
+QUESTION: 3
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Which element is used in scientific research as a cooling agent for extremely low-temperature studies because at 4.2 K, it has the lowest boiling point of any known substance? 
+ANSWER:   HELIUM (ACCEPT: LIQUID HELIUM OR He) 
+
+QUESTION: 4
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: A circle with a dot in the center is most commonly the astronomers symbol for what? 
+ANSWER:   SUN 
+
+QUESTION: 4
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: What is the name for the constellation with the brightest star? 
+ANSWER:   CANIS MAJOR (ACCEPT: THE BIG DOG) 2002 Regional Science Bowl B Round 10 Page 3 
+
+QUESTION: 5
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Convert to both radians and degrees the angle that equals one-half of 34 radians: 
+ANSWER:   38 AND 67.5 
+
+QUESTION: 5
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: A merchant wants to mix 2 types of sugar that sell for $0.40 per gram and $0.60 per gram, respectively. If he wants a mixture of 5 grams that sells for $0.58 per gram, how many grams of each should he mix? 
+ANSWER:   0.5 GRAMS OF $0.40 PLUS 4.5 GRAMS OF $0.60 
+
+QUESTION: 6
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Approximately what percent of the water in the hydrosphere is groundwater: 
+		W) 10 
+		X) 5 
+		Y) 2.5 
+		Z) less than 1 
+ANSWER:   Z) LESS THAN 1 
+
+QUESTION: 6
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   short answer
+QUESTION: What is the term for a tidally generated wave that propagates up a relatively shallow and sloping estuary or river in a solitary wave form, the leading edge of which presents an abrupt rise in level? 
+ANSWER:   TIDAL BORE (ACCEPT: BORE) 2002 Regional Science Bowl B Round 10 Page 4 
+
+QUESTION: 7
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: The development of this is usually considered by anthropologists and sociologists the main prerequisite for an advanced social, economic and political structure: 
+		W) art 
+		X) technology 
+		Y) monetary system 
+		Z) agriculture 
+ANSWER:   Z) AGRICULTURE 
+
+QUESTION: 7
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: What term derived from the Greek word for shortcoming generally means an apparent lag in effect behind what is causing it? 
+ANSWER:   HYSTERESIS 
+
+QUESTION: 8
+TYPE:     toss-up
+SUBJECT:  computer science
+FORMAT:   multiple choice
+QUESTION: In the Windows environment, which of the following file extensions represents a hidden file to replace pages or segments of data in memory: 
+		W) .dll (read as: dot, D, L, L) 
+		X) .swp 
+		Y) .exe 
+		Z) .ini 
+ANSWER:   X) .SWP 
+
+QUESTION: 8
+TYPE:     bonus
+SUBJECT:  computer science
+FORMAT:   multiple choice
+QUESTION: Which of the following best represents the data transmission speed of a USB port: 
+		W) 128 kilobits per second 
+		X) 480 megabits per second 
+		Y) 650 megabits per second 
+		Z) 12 megabits per second 
+ANSWER:   X) 480 MEGABITS PER SECOND 2002 Regional Science Bowl B Round 10 Page 5 
+
+QUESTION: 9
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: As exemplified in beta decay, as an atoms atomic mass increases, more of these particles are needed to maintain nuclear stability: 
+ANSWER:   NEUTRONS 
+
+QUESTION: 9
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: If C is capacitance, Q is charge, and V is voltage across the capacitor, what mathematical formula is the most direct representation of the capacitance of a parallel plate capacitor: 
+ANSWER:   C = Q/V 
+
+QUESTION: 10
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What specific physical state does Bacillus anthracis form that allows it to survive in an exposed environment for decades? 
+ANSWER:   SPORE (ACCEPT: ENDOSPORE) 
+
+QUESTION: 10
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: In apoptosis, what is programmed into the cell: 
+ANSWER:   DEATH (ACCEPT: CELL DEATH) 2002 Regional Science Bowl B Round 10 Page 6 
+
+QUESTION: 11
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: A trigonal planar arrangement of electronic orbitals around an atom in a molecule most generally implies what type of hybridization: 
+		W) sp 
+		X) sp2 
+		Y) sp3 
+		Z) sp3d 
+ANSWER:   X) SP2 
+
+QUESTION: 11
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What is the general term for the process in which a crystalline hydrated solid loses water of crystallization to the air, whereby a powdery deposit is gradually formed: 
+ANSWER:   EFFLORESCENCE 
+
+QUESTION: 12
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following is believed to be the most likely composition of cosmic dust: 
+		W) carbonaceous, silicate or iron-bearing materials with some frozen gases 
+		X) hydrogen, helium and lithium crystals 
+		Y) thorium, uranium and lead particles from dead stars 
+		Z) pure ice crystals with small amounts of ionized hydrogen 
+ANSWER:   W) CARBONACEOUS, SILICATE OR IRON-BEARING MATERIALS WITH SOME FROZEN GASES 
+
+QUESTION: 12
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: The precise measurements of Wilson and Penzias of cosmic background radiation was in what region of the electromagnetic spectrum? 
+ANSWER:   MICROWAVE (ACCEPT: 7.35 CM) 2002 Regional Science Bowl B Round 10 Page 7 
+
+QUESTION: 13
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: The sine of (read as: theta) is positive if the angle terminates in what two Quadrants of the Cartesian coordinate system? 
+ANSWER:   I AND II (ACCEPT: 1 AND 2) 
+
+QUESTION: 13
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What is the slope of a line that passes through the points (5, 3) and (-1, 1)? 
+ANSWER:   1/3 
+
+QUESTION: 14
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: About how many years ago is it thought that the dominant ice-age cycle changed from 40,000 year periods to 100,000 year intervals with very large fluctuation: 
+		W) 200,000 400,000 
+		X) 600,000 800,000 
+		Y) 2 million 2.5 million 
+		Z) 4 million 4.5 million 
+ANSWER:   X) 600,000 800,000 
+
+QUESTION: 14
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is known to have created one of the largest tsunamis, also known as a mega-tsunami: 
+		W) subterranean earthquakes 
+		X) suboceanic earthquakes 
+		Y) landslides 
+		Z) volcanic eruptions 
+ANSWER:   Y) LANDSLIDES 2002 Regional Science Bowl B Round 10 Page 8 
+
+QUESTION: 15
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: Which scientist and scholar is well known for such terms as transcendental function, archetypes and collective unconscious? 
+ANSWER:   CARL JUNG (ACCEPT: JUNG) 
+
+QUESTION: 15
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Which famous primatologist, a protg of Louis Leaky, dedicated her life to research of gorillas and was most likely murdered by poachers in 1985: 
+		W) Jane Goodall 
+		X) Shirley Sparling 
+		Y) Margaret Mead 
+		Z) Dian Fossey 
+ANSWER:   Z) DIAN FOSSEY 
+
+QUESTION: 16
+TYPE:     toss-up
+SUBJECT:  computer science
+FORMAT:   multiple choice
+QUESTION: What kind of viruses modify their appearance and change their program code periodically: 
+		W) multipartite 
+		X) non-resident file 
+		Y) stealth 
+		Z) polymorphic 
+ANSWER:   Z) POLYMORPHIC 
+
+QUESTION: 16
+TYPE:     bonus
+SUBJECT:  computer science
+FORMAT:   multiple choice
+QUESTION: When working optimally, which broadband connection to the internet provides the fastest download speeds: 
+		W) cable 
+		X) DSL 
+		Y) wireless satellite 
+		Z) MMDS 
+ANSWER:   Z) MMDS 2002 Regional Science Bowl B Round 10 Page 9 
+
+QUESTION: 17
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following colors of light has the SMALLEST angle of refraction in normal glass: 
+		W) violet 
+		X) green 
+		Y) orange 
+		Z) red 
+ANSWER:   Z) RED 
+
+QUESTION: 17
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: At 10 cents per kilowatt hour, how much does it cost to run a 1200 watt heater for 4 hours? 
+ANSWER:   48 CENTS (Solution: 1200 watts = 1.2 Kw1.2 Kw x 4 hrs x 10 cents = 48 cents) 
+
+QUESTION: 18
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following classes of antibodies will predominate upon a second exposure to an antigen: 
+		W) IgG 
+		X) IgE 
+		Y) IgA 
+		Z) IgN 
+ANSWER:   W) IgG 
+
+QUESTION: 18
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What two monosaccharides make up the disaccharide sucrose? 
+ANSWER:   FRUCTOSE AND GLUCOSE (accept in any order) 2002 Regional Science Bowl B Round 10 Page 10 
+
+QUESTION: 19
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Which of the gas laws specifically states that the volume of a fixed amount of gas at a constant pressure varies directly with its absolute temperature? 
+ANSWER:   CHARLES LAW 
+
+QUESTION: 19
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What common product is made by taking water that is filtered through hardwood ashes, evaporating it in iron pots, mixing what remains with tallow, and allowing it to cure for a few weeks: 
+ANSWER:   SOAP 
+
+QUESTION: 20
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: The angular distance of a star east of the Prime Meridian is most commonly referred to as the stars: 
+		W) deviation 
+		X) gnomon angle 
+		Y) zenith point 
+		Z) right ascension 
+ANSWER:   Z) RIGHT ASCENSION 
+
+QUESTION: 20
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: The nominal galactic center lies on the galactic plane in the direction of what constellation? 
+ANSWER:   SAGITTARIUS (ACCEPT: THE ARCHER) 2002 Regional Science Bowl B Round 10 Page 11 
+
+QUESTION: 21
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Neglecting any amplification effects that might be produced by shoreline irregularities, what is the tallest wave-height that can reasonably be created by an earthquake-generated tsunami: 
+		W) 3 meters 
+		X) 15 meters 
+		Y) 75 meters 
+		Z) 150 meters 
+ANSWER:   X) 15 METERS 
+
+QUESTION: 21
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   short answer
+QUESTION: Launched by NASA in December of 1999 as part of the EOS Terra payload, what is the name of the instrument which provides high radiometric sensitivity that can study atmospheric, land, and ocean imaging in a single instrument that can also be custom tailored to the individual needs of the user: 
+ANSWER:   MODIS (ACCEPT: MODERATE-RESOLUTION IMAGING SPECTRORADIOMETER) 
+
+QUESTION: 22
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Which of the following best describes how well a balance can repeatedly indicate the same mass over a series of identical weighings under similar environmental conditions: 
+		W) precision 
+		X) accuracy 
+		Y) linearity 
+		Z) readability 
+ANSWER:   W) PRECISION 
+
+QUESTION: 22
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: Which genus of bacteria has been found to be the most successful at restoring the intestinal flora and relieving the symptoms of irritable bowel syndrome? 
+ANSWER:   LACTOBACILLUS 2002 Regional Science Bowl B Round 10 Page 12 
+
+QUESTION: 23
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What was the name eventually given to the particles that make up cathode rays? 
+ANSWER:   ELECTRONS 
+
+QUESTION: 23
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Neglecting friction, what is the net force required, in Newtons, to accelerate a 500 Kg object at 3 m/sec2 in a horizontal direction: 
+ANSWER:   1500 NEWTONS (Solution: A x M = F = 3 x 500 = 1,500 newtons) 
+
+QUESTION: 24
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Seventy percent of the platelets released from the bone marrow are in the peripheral circulation. Where are most of the rest stored? 
+ANSWER:   SPLEEN 
+
+QUESTION: 24
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following is a naturally occurring amino acid that is NOT found in proteins? 
+		W) asparagine 
+		X) phenylalanine 
+		Y) citrulline 
+		Z) threonine 
+ANSWER:   Y) CITRULLINE 2002 Regional Science Bowl B Round 10 Page 13 
+
+QUESTION: 25
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: When bonded together, which of the following pairs has the highest average bond dissociation energy: 
+		W) H and Br 
+		X) H and F 
+		Y) C and Br 
+		Z) N and Cl 
+ANSWER:   X) H AND F (Solution: H-F = 570; H-Br = 366; C-Br = 270; N-Cl = 200) 
+
+QUESTION: 25
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Using standard chemical nomenclature, what is the chemical formula for phosphine? 
+ANSWER:   PH3 
+

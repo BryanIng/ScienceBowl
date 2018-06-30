@@ -1,0 +1,458 @@
+QUESTION: 1
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: In Barbara McClintocks famous experiments revealing the existence of transposable genes, she primarily used which of the following as her experimental organism: 
+		W) drosophila 
+		X) E. coli 
+		Y) lambda phage 
+		Z) corn plants 
+ANSWER:   Z) CORN PLANTS 
+
+QUESTION: 1
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT properly matched with its function or operation: 
+		W) conjugation and transfer of genetic material between bacteria 
+		X) F plasmids and reversible incorporation into bacterial genome 
+		Y) transposons and plasmids interchanging genes 
+		Z) R plasmids and antibiotic resistance 
+ANSWER:   Y) TRANSPOSONS AND PLASMIDS INTERCHANGING GENES 
+
+QUESTION: 2
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following would be the MOST soluble in water at room temperature: 
+		W) Aluminum sulfate 
+		X) Barium sulfate 
+		Y) Lead sulfate 
+		Z) Calcium sulfate 
+ANSWER:   W) ALUMINUM SULFATE 
+
+QUESTION: 2
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What is the empirical formula for acetic acid? 
+ANSWER:   CH2O (Solution: C2H4O2 in 1:2:1 ratio) 2007 Regional Science Bowl Page 2 
+
+QUESTION: 3
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Astrophysicists, when referring to interstellar gases, typically use the Roman numeral I to indicate that an atom is: 
+		W) singly ionized 
+		X) doubly ionized 
+		Y) contains one proton 
+		Z) neutral 
+ANSWER:   Z) NEUTRAL 
+
+QUESTION: 3
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: A draft horse has a hoof print of 50 square inches per hoof. If the horse weighs 1,400 pounds, what is the pressure it exerts, in pounds per square inch, on the ground when all its hooves equally distribute its weight on the ground? 
+ANSWER:   7 (Solution: P = F/A; 1400lbs/200in2 = 7 lb/in2) 
+
+QUESTION: 4
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: If a 6-foot tall person who is standing next to a vertical pole casts a shadow of 8 feet and the pole casts a shadow of 40 feet, how many feet tall is the pole? 
+ANSWER:   30 (Solution: x/40 = 6/8; x = 30ft) 
+
+QUESTION: 4
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Solve the following equation for x: 1820)10()9(=++xx 
+ANSWER:   -19 2007 Regional Science Bowl Page 3 
+
+QUESTION: 5
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT a type of meteorite: 
+		W) chondrites 
+		X) achondrites 
+		Y) stoney-irons 
+		Z) andesites 
+ANSWER:   Z) ANDESITES 
+
+QUESTION: 5
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: The dead zone that has been occurring off the central Oregon coast since 2002 and recently expanding is thought to be caused by which of the following: 
+		W) toxic sulfur gas from undersea vents 
+		X) abnormal upwelling processes due to highly variable winds 
+		Y) an increased presence of invasive predatory species 
+		Z) toxic release of waste products from oil refineries 
+ANSWER:   X) ABNORMAL UPWELLING PROCESSES DUE TO HIGHLY VARIABLE WINDS 
+
+QUESTION: 6
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: As a close relative to the bacteria that cause botulism and gas gangrene, which of the following bacteria are a growing concern in hospitals, killing patients who have been treated with antibiotics: 
+		W) Bacillus anthracis (read as: an-THRAY-sis) 
+		X) Clostridium difficile 
+		Y) Treponema pallidium (read as: Trep-oh-KNEE-mah pal-LID-ee-um) 
+		Z) Vibrio cholera 
+ANSWER:   X) CLOSTRIDIUM DIFFICILE 
+
+QUESTION: 6
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: The length of the longest side of a U.S. dollar bill is about how many nanometers in length: 
+		W) 70 million 
+		X) 1.10 ! 106 
+		Y) 1.55 ! 108 
+		Z) 600 million 
+ANSWER:   Y) 1.55 ! 108 2007 Regional Science Bowl Page 4 
+
+QUESTION: 7
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following sets of constellations would be found nearest the ecliptic to an observer in mid-northern latitudes: 
+		W) Leo, Virgo, and Scorpius 
+		X) Pisces, Aries, and Draco 
+		Y) Cancer, Gemini, and Cassiopeia 
+		Z) Taurus, Ursa Minor, and Pisces 
+ANSWER:   W) LEO, VIRGO, AND SCORPIUS 
+
+QUESTION: 7
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following will MOST likely occur if the Earth crosses the orbit of a comet: 
+		W) a meteor shower could be seen from Earth 
+		X) an asteroid will likely strike the Earth 
+		Y) red sprites and bolides will be seen both day and night 
+		Z) the Earth would temporarily lose its Van Allen belts 
+ANSWER:   W) A METEOR SHOWER COULD BE SEEN FROM EARTH 
+
+QUESTION: 8
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: During photosynthesis, from what substance does the oxygen that is liberated originate: 
+		W) glucose 
+		X) air 
+		Y) water 
+		Z) carbon dioxide 
+ANSWER:   Y) WATER 
+
+QUESTION: 8
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: The oxidized form of nicotinamide adenine dinucleotide has what specific charge? 
+ANSWER:   +1 (ACCEPT: 1 PLUS or ONE POSITIVE) 2007 Regional Science Bowl Page 5 
+
+QUESTION: 9
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT true of halogens: 
+		W) iodine is the least reactive of the stable halogens 
+		X) elemental halogens exist as diatomic molecules containing single covalent bonds 
+		Y) their outermost electron configuration is represented by ns2np6 
+		Z) halides of typical metals are ionic 
+ANSWER:   Y) THEIR OUTERMOST ELECTRON CONFIGURATION IS REPRESENTED BY NS2NP6 
+
+QUESTION: 9
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: If the total number of moles of gas in a mixture of oxygen and nitrogen gases is 12 moles, and the mole fraction of oxygen is 0.6, how many moles of oxygen gas are present, to the first decimal place? 
+ANSWER:   7.2 (Solution: XO = nO/nt; 0.6 = nO/12 mol = 7.2 mol) 
+
+QUESTION: 10
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: In the ray approximation in optics, which of the following is NOT true for a converging lens: 
+		W) a ray parallel to the optical axis passes through the focus 
+		X) a ray passing through the center of the lens is bent parallel to the optical axis 
+		Y) an object at infinity is imaged at the focus 
+		Z) a ray passing through the focus is bent parallel to the optical axis 
+ANSWER:   X) A RAY PASSING THROUGH THE CENTER OF THE LENS IS BENT PARALLEL TO THE OPTICAL AXIS 
+
+QUESTION: 10
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT true: 
+		W) electrical utilities deliver electricity over long distances at high voltages to reduce power loss 
+		X) in typical modern vacuum tubes, the cathode supplies the electrons 
+		Y) Faradays law of induction is a general guide for induction of EMF with a magnetic field 
+		Z) a typical voltmeter can be used to reliably test how much life is left in a double-A battery 
+ANSWER:   Z) A TYPICAL VOLTMETER CAN BE USED TO RELIABLY TEST HOW MUCH LIFE IS LEFT IN A DOUBLE-A BATTERY 2007 Regional Science Bowl Page 6 
+
+QUESTION: 11
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Remove all negative exponents and simplify the following expression for all non-zero values of x, y, and z: )2()2(5430312!!!!zyxzyx 
+ANSWER:   2543zyx (ACCEPT: 54321zyx) 
+
+QUESTION: 11
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What is the slope-intercept equation of the line that passes through the point (4, -1) and is parallel to the line with equation 2x 3y = 9? 
+ANSWER:   y = 32x 311 
+
+QUESTION: 12
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is a brief yet destructive windstorm marked by cool moist air descending from a thunderstorm that is sometimes mistaken for a tornado because of the damage it produces: 
+		W) Chinook 
+		X) zephyr 
+		Y) dust devil 
+		Z) microburst 
+ANSWER:   Z) MICROBURST 
+
+QUESTION: 12
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT true about Earths water: 
+		W) more fresh water exists underground than in streams and lakes 
+		X) the total amount of water in the global system varies greatly from year to year 
+		Y) ground water can take thousands or millions of years to recharge naturally 
+		Z) a rock is permeable if water can pass through it 
+ANSWER:   X) THE TOTAL AMOUNT OF WATER IN THE GLOBAL SYSTEM VARIES GREATLY FROM YEAR TO YEAR (Solution: the amount of water on Earth is constant) 2007 Regional Science Bowl Page 7 
+
+QUESTION: 13
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: In a recent breakthrough announcement by the CDC, which of the following diseases has been shown to have both a genetic and physiological component: 
+		W) malaria 
+		X) chronic fatigue syndrome 
+		Y) Tay Sachs disease 
+		Z) sleeping sickness 
+ANSWER:   X) CHRONIC FATIGUE SYNDROME 
+
+QUESTION: 13
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: Name all of the following 4 diseases that are NOT caused by bacteria: cholera; bubonic plague; syphilis; mumps 
+ANSWER:   MUMPS 
+
+QUESTION: 14
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following BEST describes the location of the heliosphere: 
+		W) the region that extends a few thousand kilometers outside of the Suns corona 
+		X) the region that extends from the Suns corona to the end of the solar system 
+		Y) the region that extends from the Suns core to the end of the solar system 
+		Z) the region of the expanding solar wind between the sun and the heliopause 
+ANSWER:   Z) THE REGION OF THE EXPANDING SOLAR WIND BETWEEN THE SUN AND THE HELIOPAUSE 
+
+QUESTION: 14
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following BEST describes the position of the first quarter Moon to an observer in northern mid-latitudes on a clear summer night just after sunset: 
+		W) rising in the east 
+		X) setting in the west 
+		Y) high in the south 
+		Z) unable to be seen 
+ANSWER:   Y) HIGH IN THE SOUTH 2007 Regional Science Bowl Page 8 
+
+QUESTION: 15
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Bacterial transduction is primarily caused by the transference of what specific biological substance? 
+ANSWER:   DNA 
+
+QUESTION: 15
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Name all of the following 4 organisms that are human ectoparasites: Plasmodium ovale; Ascaris; Trichinella spiralis (read as: Trick-ih-nel-la spear-rah-liss); Ixodes (read as: icks-OH-dees) 
+ANSWER:   IXODES 
+
+QUESTION: 16
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: When iron becomes the ion Fe2+, it 
+		W) loses two, 3d electrons 
+		X) loses two, 4s electrons 
+		Y) gains two, 3d electrons 
+		Z) gains two, 4s electrons 
+ANSWER:   X) LOSES TWO, 4S ELECTRONS (Solution: electrons are lost from orbital with highest n quantum number) 
+
+QUESTION: 16
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following statements regarding the kinetic molecular theory of ideal gases is TRUE: 
+		W) the average kinetic energy of gaseous molecules is directly proportional to the absolute temperature of the sample 
+		X) the volume occupied by the atoms and/or molecules in a gas is large 
+		Y) collisions between gas particles are both elastic and inelastic 
+		Z) between collisions, molecules exert both attractive and repulsive forces on each other 
+ANSWER:   W) THE AVERAGE KINETIC ENERGY OF GASEOUS MOLECULES IS DIRECTLY PROPORTIONAL TO THE ABSOLUTE TEMPERATURE OF THE SAMPLE 2007 Regional Science Bowl Page 9 
+
+QUESTION: 17
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Huygens principle can be used to most directly derive which of the following: 
+		W) the speed of light 
+		X) the law of diffraction 
+		Y) the laws of reflection and refraction 
+		Z) Fermats Principle 
+ANSWER:   Y) THE LAWS OF REFLECTION AND REFRACTION 
+
+QUESTION: 17
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: When utilizing dissimilar metals in a device that operates over a large temperature range, which of the following factors is most important to consider in determining internal stresses: 
+		W) ductility 
+		X) hardenability 
+		Y) conductivity 
+		Z) coefficients of thermal expansion 
+ANSWER:   Z) COEFFICIENTS OF THERMAL EXPANSION 
+
+QUESTION: 18
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Remove all negative exponents and simplify the following expression for all non-zero values of x: 525)32(!!x 
+ANSWER:   241x 
+
+QUESTION: 18
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: Which of the following is a prime polynomial over the integers: 
+		W) 5x2 8x + 2 
+		X) 4x2 4x 8 
+		Y) 3x2 4x 4 
+		Z) 3x2 10x2 + 3x 
+ANSWER:   W) 5x2 8x + 2 (Solution: it cannot be factored) 2007 Regional Science Bowl Page 10 
+
+QUESTION: 19
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   short answer
+QUESTION: What type of volcano is made mostly of andesite and typically erupts violently and dangerously with pyroclastic flows, an example of which is Mount Fuji in Japan? 
+ANSWER:   STRATOVOLCANO (ACCEPT: COMPOSITE VOLCANO) 
+
+QUESTION: 19
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Hematite belongs to which of the following mineral groups: 
+		W) oxide 
+		X) carbonate 
+		Y) halide 
+		Z) silicate 
+ANSWER:   W) OXIDE (Solution: Fe2O3) 
+
+QUESTION: 20
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: How many carbon and hydrogen atoms are in an octane molecule? 
+ANSWER:   CARBON = 8; HYDROGEN = 18 
+
+QUESTION: 20
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Which of the following statements is LEAST accurate: 
+		W) systemic autoimmunity often targets a persons own nucleic acids 
+		X) the protonated hydrogen molecule is the most abundant molecular ion in the universe 
+		Y) carbenes are highly reactive intermediates in certain organic reactions 
+		Z) recent studies show that the female brain releases up to 3-times more dopamine as compared to males which may account for higher addiction rates in females 
+ANSWER:   Z) RECENT STUDIES SHOW THAT THE FEMALE BRAIN RELEASES UP TO 3-TIMES MORE DOPAMINE AS COMPARED TO MALES WHICH MAY ACCOUNT FOR HIGHER ADDICTION RATES IN FEMALES (Solution: males have higher rates of addiction) 2007 Regional Science Bowl Page 11 
+
+QUESTION: 21
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: At how many parsecs is a stars absolute magnitude the same as its apparent magnitude? 
+ANSWER:   10 
+
+QUESTION: 21
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: A photon of only a certain wavelength is able to be absorbed only by an electron at a specific energy level of an atom. This is the basis of what commonly used astronomical technique? 
+ANSWER:   SPECTROSCOPY (ACCEPT: ABSORPTION SPECTROSCOPY) 
+
+QUESTION: 22
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: In plants, water molecules are generally protected from water loss to the outside environment by what lipid-based structure covering the epidermis? 
+ANSWER:   CUTICLE 
+
+QUESTION: 22
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Name all of the following 4 plant structures that are typically modified leaves: corms; tendrils; cacti spines; bracts 
+ANSWER:   TENDRILS; CACTI SPINES; BRACTS 2007 Regional Science Bowl Page 12 
+
+QUESTION: 23
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: The principle quantum number n of an electron largely determines its: 
+		W) energy 
+		X) spin 
+		Y) shape 
+		Z) orientation 
+ANSWER:   W) ENERGY 
+
+QUESTION: 23
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Name all of the following compounds that exhibit ONLY London forces: CH4; N2; BaCl2; NH3 
+ANSWER:   CH4; N2 
+
+QUESTION: 24
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: How many times as intense is 60 decibels than 30 decibels? 
+ANSWER:   1,000 
+
+QUESTION: 24
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What is the minimal force, in newtons to the first decimal place, that a mother must exert to vertically lift her 4 kilogram baby out of her play pen? 
+ANSWER:   39.2 (Solution: w = mg = (4kg)(9.8m/s2) = 39.2N) 2007 Regional Science Bowl Page 13 
+
+QUESTION: 25
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What biological substance is the SECOND MOST abundant organic compound on Earth after cellulose, and is especially abundant in sclereids, xylem fibers and tracheids? 
+ANSWER:   LIGNIN 
+
+QUESTION: 25
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Name all of the following 4 choices that are complex carbohydrates: chitin (read as: KIE-tin); amylase; cellulose; glycogen 
+ANSWER:   CHITIN; CELLULOSE; GLYCOGEN 
+

@@ -1,0 +1,450 @@
+QUESTION: 1
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Robert Hooke coined the term cell mostly because of: 
+		W) his observations of red blood cells 
+		X) his observations of cork cells 
+		Y) his analysis of hundreds of different protozoans 
+		Z) his readings of the works of other early microscopists 
+ANSWER:   X) HIS OBSERVATIONS OF CORK CELLS 
+
+QUESTION: 1
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Name all of the following 4 organisms that would be considered to have radial symmetry: flatworms; cestodes; Echinoderms; sea urchins 
+ANSWER:   ECHINODERMS; SEA URCHINS 
+
+QUESTION: 2
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following properties BEST explains why small liquid water droplets on a clean sheet of glass often coalesce into larger spherical water droplets: 
+		W) tensile strength 
+		X) capillary action 
+		Y) surface tension 
+		Z) viscosity 
+ANSWER:   Y) SURFACE TENSION 
+
+QUESTION: 2
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Arrange the following 3 liquids in order of DECREASING surface tension at 20C: water; ethanol; mercury 
+ANSWER:   MERCURY; WATER; ETHANOL 2007 Regional Science Bowl Page 2 
+
+QUESTION: 3
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: For a given time interval, when is the average velocity of an object equal to the instantaneous velocity for every time in the interval: 
+		W) never 
+		X) always 
+		Y) only when the velocity is changing at a constant rate 
+		Z) only when the velocity is constant 
+ANSWER:   Z) ONLY WHEN THE VELOCITY IS CONSTANT 
+
+QUESTION: 3
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: In a tug-of-war, each person on a team pulls with an average force of 500 newtons. What is the tension in the center of the rope if there are 10-man teams on each side: 
+		W) 0 newtons 
+		X) 2,500 newtons 
+		Y) 5,000 newtons 
+		Z) 10,000 newtons 
+ANSWER:   Y) 5,000 NEWTONS 
+
+QUESTION: 4
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: Which of the following numbers is evenly divisible by 4: 
+		W) 1,722 
+		X) 2,636 
+		Y) 4,114 
+		Z) 6,126 
+ANSWER:   X) 2,636 (Solution: 36, the last 2 digits, is a multiple of 4) 
+
+QUESTION: 4
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Rounded to the nearest centimeter, if side A of a right triangle measures 2 centimeters and side B measures 10 centimeters, what is the length of the hypotenuse? 
+ANSWER:   10 (Solution: 22 + 102 = c2; c = 10.20 = 10) 2007 Regional Science Bowl Page 3 
+
+QUESTION: 5
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following BEST describes Earths current climate type: 
+		W) glacial 
+		X) interglacial 
+		Y) pre-ice age 
+		Z) post-ice age 
+ANSWER:   X) INTERGLACIAL 
+
+QUESTION: 5
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT true about volcanoes: 
+		W) stratovolcanoes are typically found at convergent plate boundaries 
+		X) 80% of all magma erupted by volcanoes on Earth is basaltic 
+		Y) Mount Kilimanjaro is a stratovolcano 
+		Z) the Ring of Fire is dominated by volcanoes that erupt basaltic magma 
+ANSWER:   Z) THE RING OF FIRE IS DOMINATED BY VOLCANOES THAT ERUPT BASALTIC MAGMA 
+
+QUESTION: 6
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Which of the following numbers has 6 significant figures: 
+		W) 55.0000 
+		X) 555,000 
+		Y) 0.00500 
+		Z) 0.55000 
+ANSWER:   W) 55.0000 
+
+QUESTION: 6
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: What is the Roman numeral equivalent of the year 1776? 
+ANSWER:   MDCCLXXVI 2007 Regional Science Bowl Page 4 
+
+QUESTION: 7
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT true: 
+		W) Vega is part of the summer triangle 
+		X) the Seven Sisters is a star cluster 
+		Y) Cassiopeia is a constellation generally shaped like a W 
+		Z) cosmic rays are electromagnetic radiation of very high energies 
+ANSWER:   Z) COSMIC RAYS ARE ELECTROMAGNETIC RADIATION OF VERY HIGH ENERGIES 
+
+QUESTION: 7
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: The north magnetic pole of the Sun reverses every so many years. How many years does it take for one complete cycle for the Sun to return to its original state or what might be looked at as two reversals? 
+ANSWER:   22 
+
+QUESTION: 8
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: The cloaca (read as: klo-AY-ka) is a reproductive structure of: 
+		W) female bird 
+		X) male shark 
+		Y) female cestode 
+		Z) male lobster 
+ANSWER:   W) FEMALE BIRD 
+
+QUESTION: 8
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following does NOT belong to the Arthropoda: 
+		W) Arachnida 
+		X) Diplopoda 
+		Y) Chilopoda 
+		Z) Nematoda 
+ANSWER:   Z) NEMATODA 2007 Regional Science Bowl Page 5 
+
+QUESTION: 9
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: The conversion of olein, a liquid oil, into stearin, a solid fat, by the addition of hydrogen in the presence of a catalyst and high heat is commonly known as what type of reaction? 
+ANSWER:   HYDROGENATION 
+
+QUESTION: 9
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: How many parts per million of arsenic are in a 2-gram water sample if it contains 8.0 micrograms of arsenic? 
+ANSWER:   4 (Solution: 8 ! 10-6g/2g = 4 ! 10-6g = 4 ppm) 
+
+QUESTION: 10
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What are typically given as the two parameters of a velocity vector? 
+ANSWER:   MAGNITUDE AND DIRECTION (ACCEPT: SPEED FOR MAGNITUDE) 
+
+QUESTION: 10
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following conditions must be true for Hookes law to apply: 
+		W) the spring must be within its proportional elastic limit 
+		X) the spring must me made of cold formed steel coils 
+		Y) the deflection of the spring must be less than one tenth the springs free length 
+		Z) the carbon content of the metal must be over 0.023 percent 
+ANSWER:   W) THE SPRING MUST BE WITHIN ITS PROPORTIONAL ELASTIC LIMIT 2007 Regional Science Bowl Page 6 
+
+QUESTION: 11
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Boolean algebra involves ideas or subjects that have how many possible states? 
+ANSWER:   2 
+
+QUESTION: 11
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What is the least common denominator of the following 3 fractions: 52, 67 and 127 
+ANSWER:   60 
+
+QUESTION: 12
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: The zone of aeration is BEST described as pores in rock or soil that contain: 
+		W) only water 
+		X) only oil 
+		Y) air and water 
+		Z) oil and water 
+ANSWER:   Y) AIR AND WATER 
+
+QUESTION: 12
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is a compressional elastic seismic wave that causes rock particles to move back and forth parallel to wave direction: 
+		W) Rayleigh-wave 
+		X) P-wave 
+		Y) S-wave 
+		Z) L-wave 
+ANSWER:   X) P-WAVE 2007 Regional Science Bowl Page 7 
+
+QUESTION: 13
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Which of the following is MOST closely related to the mosquito: 
+		W) fly 
+		X) wasp 
+		Y) human body louse 
+		Z) dragonfly 
+ANSWER:   W) FLY 
+
+QUESTION: 13
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Which of the following vitamins is NOT properly matched with its function in humans: 
+		W) vitamin E and antioxidant action 
+		X) vitamin C and collagen production 
+		Y) vitamin D and calcium absorption 
+		Z) vitamin A and absorption of iron 
+ANSWER:   Z) VITAMIN A AND ABSORPTION OF IRON 
+
+QUESTION: 14
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following would have a Widmansttten Pattern: 
+		W) meteorite 
+		X) comet 
+		Y) planet 
+		Z) constellation 
+ANSWER:   W) METEORITE 
+
+QUESTION: 14
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following is the BEST description of the H-R Diagram: 
+		W) it plots apparent brightness versus age 
+		X) it plots luminosity versus surface temperature with highest temperatures on the right 
+		Y) it plots luminosity versus surface temperature with highest temperatures on the left 
+		Z) it plots apparent magnitude versus average stellar temperature 
+ANSWER:   Y) IT PLOTS LUMINOSITY VERSUS SURFACE TEMPERATURE WITH HIGHEST TEMPERATURES ON THE LEFT 2007 Regional Science Bowl Page 8 
+
+QUESTION: 15
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following is a function of the pollen tube in flowering plants: 
+		W) attaches pollen to the developing anther 
+		X) allows pollen to absorb nutrients as they develop in the anther 
+		Y) enables the ovule to breach through the micropyle 
+		Z) carries the sperm nuclei to the ovule 
+ANSWER:   Z) CARRIES THE SPERM NUCLEI TO THE OVULE 
+
+QUESTION: 15
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Most of the molecular oxygen in Earths atmosphere came from what biological process? 
+ANSWER:   PHOTOSYNTHESIS 
+
+QUESTION: 16
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What simple alcohol is commercially produced by reacting carbon monoxide and hydrogen gas under pressure and heat and in the presence of a catalyst? 
+ANSWER:   METHANOL (ACCEPT: CH3OH or METHYL ALCOHOL or WOOD ALCOHOL) (Solution: CO + 2H2 ! CH3OH) 
+
+QUESTION: 16
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: In standard chemical nomenclature, what is the ground-state electron configuration for fluorine? 
+ANSWER:   1s22s22p5 (ACCEPT: [He]2s22p5) 2007 Regional Science Bowl Page 9 
+
+QUESTION: 17
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Which one of the following 5 colors of light has the LEAST angle of refraction in normal glass: blue; green; orange; yellow; red 
+ANSWER:   RED 
+
+QUESTION: 17
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: For a standing wave on a guitar string, the first overtone represents what harmonic? 
+ANSWER:   SECOND 
+
+QUESTION: 18
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Simplify the following, giving your answer in simplest radical form: 96x (read as: the ninth root of x to the sixth power) 
+ANSWER:   32x 
+
+QUESTION: 18
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Multiply the following, giving your answer in standard form and without negative exponents or radicals: 23232)(ba+ 
+ANSWER:   343232342bbaa++ 2007 Regional Science Bowl Page 10 
+
+QUESTION: 19
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Glacial till is: 
+		W) sorted and stratified 
+		X) sorted and unstratified 
+		Y) unsorted and stratified 
+		Z) unsorted and unstratified 
+ANSWER:   Z) UNSORTED AND UNSTRATIFIED 
+
+QUESTION: 19
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: In which period of the Geological Time Scale did trilobites first appear: 
+		W) Permian 
+		X) Cambrian 
+		Y) Devonian 
+		Z) Silurian 
+ANSWER:   X) CAMBRIAN 
+
+QUESTION: 20
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT true: 
+		W) phosphorous is used in the manufacture of detergents 
+		X) nitric acid is used in the manufacture of fertilizers 
+		Y) lead ore is most commonly mined in bauxite 
+		Z) flotation separation is used in the preparation of ores 
+ANSWER:   Y) LEAD ORE IS MOST COMMONLY MINED IN BAUXITE (Solution: lead ore is galena) 
+
+QUESTION: 20
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Which of the following is one of the MAIN ways of preventing Brucellosis in humans: 
+		W) avoid person-to-person contact 
+		X) consume only pasteurized dairy products 
+		Y) avoid flea bites 
+		Z) boil all drinking water 
+ANSWER:   X) CONSUME ONLY PASTEURIZED DAIRY PRODUCTS 2007 Regional Science Bowl Page 11 
+
+QUESTION: 21
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following constellations are circumpolar for people in North America and are found on opposite sides and close to Polaris: 
+		W) Cassiopeia and Ursa Major 
+		X) Orion and Leo 
+		Y) Aquarius and Capricorn 
+		Z) Leo and Sagittarius 
+ANSWER:   W) CASSIOPEIA AND URSA MAJOR 
+
+QUESTION: 21
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: What is the astronomical distance at which a star would have a parallax of 1 arcsecond? 
+ANSWER:   PARSEC 
+
+QUESTION: 22
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the scientific name for the openings in the grasshopper body through which air enters? 
+ANSWER:   SPIRACLES 
+
+QUESTION: 22
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Name all of the following 4 cellular structures that are NOT typically found in diploid higher plant cells: centrioles; flagella; lysosomes; plasmodesmata 
+ANSWER:   CENTRIOLES; FLAGELLA; LYSOSOMES (Solution: flagella are found in certain plants sperm cells; centrioles in some algae) 2007 Regional Science Bowl Page 12 
+
+QUESTION: 23
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following classifications of crystalline solids is NOT true: 
+		W) quartz is a covalent network solid 
+		X) calcium carbonate is an ionic solid 
+		Y) sucrose is a molecular solid 
+		Z) iron sulfide is a glassy solid 
+ANSWER:   Z) IRON SULFIDE IS A GLASSY SOLID 
+
+QUESTION: 23
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What is the empirical formula for the following: C18H33N6O3 
+ANSWER:   C6H11N2O 
+
+QUESTION: 24
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: At normal operating speed for a motor vehicle, how many times as much kinetic energy does a car have if its velocity is doubled? 
+ANSWER:   4 TIMES 
+
+QUESTION: 24
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Relative to the floor, what is the gravitational potential energy, in joules, of a 25-newton bag of beans on a shelf 5 meters above the floor? 
+ANSWER:   125 (Solution: PE = 25 N ! 5 m = 125 J) 2007 Regional Science Bowl Page 13 
+
+QUESTION: 25
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Organisms that have radial symmetry and belong to the Radiata typically have how many germ layers? 
+ANSWER:   2 
+
+QUESTION: 25
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Name all of the following 5 animal groups that are NOT echinoderms: sea urchins; sand dollars; tunicates; rotifers; brittle stars 
+ANSWER:   TUNICATES; ROTIFERS 
+

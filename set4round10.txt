@@ -1,0 +1,466 @@
+QUESTION: 1
+TYPE:     toss-up
+SUBJECT:  energy
+FORMAT:   short answer
+QUESTION: In an electrolytic cell, what is the sign of the charge associated with the anode? 
+ANSWER:   POSITIVE (ACCEPT: PLUS) 
+
+QUESTION: 1
+TYPE:     bonus
+SUBJECT:  energy
+FORMAT:   multiple choice
+QUESTION: Which of the following has NOT been shown to be a practical use of electrolytic cells? 
+		W) Recovering pure metal from alloys 
+		X) Electrolysis 
+		Y) Plating of one metal with another 
+		Z) Manufacturing of sodium hydroxide 
+ANSWER:   X) ELECTROLYSIS 
+
+QUESTION: 2
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: What is the empirical formula for C6H12O6? 
+		W) C3H4O3 
+		X) CHO 
+		Y) CH2O 
+		Z) C6H12O6 
+ANSWER:   Y) CH2O 
+
+QUESTION: 2
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: What is the formula for iron II phosphate? 
+		W) Fe3P2 
+		X) FePO4 
+		Y) Fe3(PO4)2 
+		Z) Fe3(PO3)2 
+ANSWER:   Y) Fe3(PO4)2 Round 10 Page 2 !
+
+QUESTION: 3
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: Find the derivative of 2xex (read as: 2x e to the x). 
+		W) xe22x+ 
+		X) 2xex + ex 
+		Y) 2xex + 2ex 
+		Z) 2xex 
+ANSWER:   Y) 2xex + 2ex 
+
+QUESTION: 3
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What matrix is the multiplicative inverse of the 2 by 2 matrix (read as: row 1: 3, 1; row 2: 5, 2). 
+ANSWER:   
+
+QUESTION: 4
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: How can 2 batteries and three capacitors be arranged to store the maximum amount of energy? 
+		W) Connect the capacitors in parallel and the batteries in series 
+		X) Connect the capacitors in series and the batteries in parallel 
+		Y) Connect the capacitors and batteries in parallel 
+		Z) Connect the capacitors and batteries in series 
+ANSWER:   W) CONNECT THE CAPACITORS IN PARALLEL AND THE BATTERIES IN SERIES 
+
+QUESTION: 4
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What would be the total capacitance in microfarads and total voltage of 3 four-microfarad capacitors in parallel and two 1.5 volt batteries in series in a circuit? 
+ANSWER:   12 MICROFARADS AND 3 VOLTS Round 10 Page 3 !
+
+QUESTION: 5
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: Which of the following best explains why eliminating one trophic level in an ecosystem often results in a decrease in organisms two trophic levels down? 
+		W) Abundance of prey in the eliminated trophic level 
+		X) Increased predation by organisms one trophic level down 
+		Y) Increased predation by organisms two trophic levels down 
+		Z) Increased predator diversity 
+ANSWER:   X) INCREASED PREDATION BY ORGANISMS ONE TROPHIC LEVEL DOWN 
+
+QUESTION: 5
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: What property of diatoms make them useful as climate proxies? 
+		W) The chemical makeup of their shells reflects the water chemistry at their time of formation 
+		X) The narrow temperature range in which they exist makes them markers for paleo0ocean temperatures 
+		Y) Their well-preserved digestive system provide ample evidence for ancient food webs 
+		Z) Their limited diversity and low adaptability make them key indicators of specific aquatic environments 
+ANSWER:   W) THE CHEMICAL MAKEUP OF THEIR SHELLS REFLECTS THE WATER CHEMISTRY AT THEIR TIME OF FORMATION 
+
+QUESTION: 6
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What is the largest triangular number less than 25? 
+ANSWER:   21 
+
+QUESTION: 6
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: A man who is 6 feet tall spots a bird at the top of a 14-foot telephone pole. If the angle of elevation from his eyes to the top of the pole is 30 degrees, then to the nearest foot, how far away is he standing from the base of the pole? 
+ANSWER:   14 Round 10 Page 4 !
+
+QUESTION: 7
+TYPE:     toss-up
+SUBJECT:  energy
+FORMAT:   multiple choice
+QUESTION: The human brain contains as many as 100 billion neurons. The neurons communicate with each other through electrochemical signals. Which of the following is NOT true? 
+		W) Each neuron can connect to at least 1,000 other neurons 
+		X) Neurons have a short life span 
+		Y) Brain signals involve less than one-tenth the voltage of an ordinary flashlight battery 
+		Z) Some messages pass through the nervous system more quickly than others 
+ANSWER:   X) NEURONS HAVE A SHORT LIFE SPAN 
+
+QUESTION: 7
+TYPE:     bonus
+SUBJECT:  energy
+FORMAT:   multiple choice
+QUESTION: Brain computer interfaces can measure minute differences in the voltage between neurons, amplify and filter the signal, and then a computer interprets it. All of the following are current applications of brain computer interfaces, except: 
+		W) Controlling a computer cursor via mental commands 
+		X) Interpreting brain signals for movement for someone who cant physically move 
+		Y) Providing a communication link for people who suffer from locked in syndrome 
+		Z) Repairing damaged neurons 
+ANSWER:   Z) REPAIRING DAMAGED NEURONS 
+
+QUESTION: 8
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: During a safety test, a small car and a truck move toward each other at the same speed and experience a head-on collision. Afterward, the two objects move away from each other along the same line. Which of the following is correct? 
+		W) The truck will experience a greater speed than the car 
+		X) The car will experience a greater speed than the truck 
+		Y) The speeds of the truck and the car will be the same 
+		Z) Sometimes the truck will experience a greater speed and sometimes the car will experience the greater speed 
+ANSWER:   X) THE CAR WILL EXPERIENCE A GREATER SPEED THAN THE TRUCK 
+
+QUESTION: 8
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Mercury or other liquid barometers work by balancing the force exerted by the atmosphere with what? 
+ANSWER:   FORCE EXERTED BY THE LIQUID Round 10 Page 5 !
+
+QUESTION: 9
+TYPE:     toss-up
+SUBJECT:  energy
+FORMAT:   multiple choice
+QUESTION: Hydrogen fuel cells use hydrogen to generate energy. Which of the following is true about hydrogen fuel cells? 
+		W) Fuel cells are similar to batteries and store hydrogen, which is an energy source by itself 
+		X) Fuel cells extract the hydrogen from other compounds in nature 
+		Y) Fuel cells dissolve water into hydrogen, creating oxygen and energy 
+		Z) Fuel cells convert chemical energy in hydrogen into electrical energy by combining hydrogen gas with oxygen from the air to produce water and energy 
+ANSWER:   Z) FUEL CELLS CONVERT CHEMICAL ENERGY INTO ELECTRICAL ENERGY BY COMBINING HYDROGEN GAS WITH OXYGEN FROM THE AIR TO PRODUCE WATER AND ENERGY 
+
+QUESTION: 9
+TYPE:     bonus
+SUBJECT:  energy
+FORMAT:   multiple choice
+QUESTION: If you were to use hydrogen fuel cells in spacecraft, what kind of fuel cell type would you most likely prefer? 
+		W) Phosphoric acid 
+		X) Molten carbonate 
+		Y) Solid oxide 
+		Z) Alkaline 
+ANSWER:   Z) ALKALINE 
+
+QUESTION: 10
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: Three of these things belong together. Which rock does NOT belong: 1) gneiss, 2) granite, 3) basalt, or 4) limestone? 
+ANSWER:   LIMESTONE (ACCEPT: 4) 
+
+QUESTION: 10
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: What kind of minerals do copper ores tend to be? 
+		W) Native element 
+		X) Carbonate and sulfide 
+		Y) Oxide and phosphate 
+		Z) Hydrocarbon and halide 
+ANSWER:   X) CARBONATE AND SULFIDE Round 10 Page 6 !
+
+QUESTION: 11
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: What kind of behavior causes bees to visit flowers to collect nectar and pollen? 
+		W) Learned 
+		X) Conditioned 
+		Y) Sensitization 
+		Z) Instinctual 
+ANSWER:   Z) INSTINCTUAL 
+
+QUESTION: 11
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Honey doesn't spoil easily because bacteria falling into the honey are often killed. The water in the bacteria rushes out of the cell and the bacteria shrivel up because honey is a: 
+		W) Isotonic solution 
+		X) Hypertonic solution 
+		Y) Hypotonic solution 
+		Z) Inorganic solution 
+ANSWER:   X) HYPERTONIC SOLUTION 
+
+QUESTION: 12
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: What are the solutions for x in the following equation: 82=!xx2? 
+		W) 0 
+		X) 0 and 2 
+		Y) 4 and -2 
+		Z) -4 and 2 
+ANSWER:   Y) 4 AND -2 
+
+QUESTION: 12
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Solve for x in simplest form for 2232=+xx. 
+ANSWER:   371!=x (ACCEPT: -1/3 /3) Round 10 Page 7 !
+
+QUESTION: 13
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: Other than precipitation, what is the most important factor defining a biome? 
+ANSWER:   TEMPERATURE 
+
+QUESTION: 13
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: Put the following parts of an ecosystem in order from smallest to largest: biome, community, population, ecosystem, organism, species. 
+ANSWER:   ORGANISM, SPECIES, POPULATION, COMMUNITY, ECOSYSTEM, BIOME 
+
+QUESTION: 14
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Factor the following expression completely over the integers: 
+ANSWER:   (a 2)( 
+
+QUESTION: 14
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Factor the following expression completely over the integers: . 
+ANSWER:   (a + 2) Round 10 Page 8 !
+
+QUESTION: 15
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Onions, shallots and leeks contain substances that cause our eyes to water. What element is common to the substances? 
+ANSWER:   SULFUR 
+
+QUESTION: 15
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following 1.0 molar solutions will have the largest change in boiling point from that of pure water? 
+		W) Sodium bromide 
+		X) Magnesium iodide 
+		Y) Sucrose 
+		Z) Potassium phosphate 
+ANSWER:   Z) POTASSIUM PHOSPHATE 
+
+QUESTION: 16
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Mirages, such as the silvery glimmer you sometimes see on a distant hot highway, are caused by heating of the air near the ground. What relevant property of the heated air is changed? 
+ANSWER:   INDEX OF REFRACTION (ACCEPT: DENSITY OF THE AIR) 
+
+QUESTION: 16
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: A steadily increasing force is applied to a box that remains at rest for some period of time and then begins to accelerate. Which of the following appropriately describes what happens to the frictional force during the experiment? 
+		W) The frictional force remains constant throughout the experiment 
+		X) The frictional force increases throughout the experiment 
+		Y) The frictional force increases and then suddenly drops to a lower, non-zero value 
+		Z) The frictional force increases and then suddenly drops to zero 
+ANSWER:   Y) THE FRICTIONAL FORCE INCREASES AND THEN SUDDENLY DROPS TO A LOWER, NONZERO VALUE Round 10 Page 9 !
+
+QUESTION: 17
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: As an airmass ascends into the atmosphere, its water vapor capacity changes, causing which of the following? 
+		W) Cloud formation and possible precipitation 
+		X) Evaporation and drying 
+		Y) Snow 
+		Z) Hurricane conditions 
+ANSWER:   W) CLOUD FORMATION AND POSSIBLE PRECIPITATION 
+
+QUESTION: 17
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: What are the names of the three primary atmospheric circulation cells that circulate air between the equator and poles? 
+ANSWER:   HADLEY CELL, FERREL (OR MID-LATITUDE) CELL, AND POLAR CELL 
+
+QUESTION: 18
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which process will almost certainly result in genetic variation of offspring? 
+		W) Population dispersion 
+		X) Enzyme production 
+		Y) Cell differentiation 
+		Z) Zygote fertilization 
+ANSWER:   Z) ZYGOTE FERTILIZATION 
+
+QUESTION: 18
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: If a parent organism experiences a mutation, then all subsequent offspring of that individual will: 
+		W) Always carry the mutated gene, but only as a recessive 
+		X) Always carry the gene, but never express it phenotypically 
+		Y) Only carry the mutated gene if it is heritable 
+		Z) Never carry the gene as mutations cannot be heritable 
+ANSWER:   Y) ONLY CARRY THE MUTATED GENE IF IT IS HERITABLE Round 10 Page 10 !
+
+QUESTION: 19
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What is the shape of the bonding structure of carbon in diamond? 
+ANSWER:   TETRAHEDRAL 
+
+QUESTION: 19
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What is the characteristic shape of tourmaline crystals? 
+ANSWER:   HEXAGONAL 
+
+QUESTION: 20
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Cutaneous sensation to the lateral aspect of the dorsum of the hand is primarily provided by which nerve? 
+ANSWER:   ULNAR 
+
+QUESTION: 20
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT true regarding vertebrate muscle contractions? 
+		W) Tropomyosin (read as: tr!e-poh-MY-oh-sin) binds the calcium ions and exposes the myosin binding sites on actin filaments 
+		X) The H zone and I band become shorter 
+		Y) T Tubules spread action potentials into the muscle fiber 
+		Z) The contraction is terminated when calcium ions are taken up by the sarcoplasmic reticulum 
+ANSWER:   W) TROPOMYOSIN BINDS THE CALCIUM IONS AND EXPOSES THE MYOSIN BINDING SITES ON ACTIN FILAMENTS Round 10 Page 11 !
+
+QUESTION: 21
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What is the total resistance, in ohms, of two resistors in parallel when both are 10 ohm resistors? 
+ANSWER:   5 
+
+QUESTION: 21
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: If the circuit breaker in a 110-volt circuit is listed at 30 amperes, how many 100 watt light bulbs could you have on that circuit, which includes a TV with 250 watts, a hair dryer of 1500 watts and a computer of 150 watts? 
+		W) 10 
+		X) 14 
+		Y) 18 
+		Z) 20 
+ANSWER:   X) 14 
+
+QUESTION: 22
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: Which of the following planets has the longest year? 
+		W) Neptune 
+		X) Mars 
+		Y) Earth 
+		Z) Mercury 
+ANSWER:   W) NEPTUNE 
+
+QUESTION: 22
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: What is it called when Mercury is observed to pass in front of the Sun? 
+ANSWER:   A TRANSIT OF MERCURY (ACCEPT: TRANSIT) Round 10 Page 12 !
+
+QUESTION: 23
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: A cylinder and a cone share the same radius and height. What is the ratio of the cylinders volume to the cones volume? 
+		W) 1:1 (read as: 1 to 1) 
+		X) 1.5:1 (read as: 1.5 to 1) 
+		Y) 2:1 (read as: 2 to 1) 
+		Z) 3:1 (read as: 3 to 1) 
+ANSWER:   Z) 3:1 
+
+QUESTION: 23
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: A math teacher is trying to describe her favorite triangle. The lengths of two sides are 4 centimeters and 6 centimeters. The angle opposite the 4 centimeter side is 12. How many non-congruent triangles fit this description? 
+		W) 0 
+		X) 1 
+		Y) 2 
+		Z) An infinite number 
+ANSWER:   Y) 2 
+
+QUESTION: 24
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Darwin's finches differ from other finches in the size and shape of their beaks. Which of the following factors has been identified as the major influence on the development of the differing beaks? 
+		W) Access to different food sources 
+		X) Sexual competition 
+		Y) Protection against predators 
+		Z) Genetic drift 
+ANSWER:   W) ACCESS TO DIFFERENT FOOD SOURCES 
+
+QUESTION: 24
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Darwin's finches all descended from one species, the Blue-Black Grassquit Finch. These finches evolved in overlapping and sometimes identical ranges, often occurring together on the same islands. What is the name for speciation that occurs in this way? 
+ANSWER:   SYMPATRIC Round 10 Page 13 !
+
+QUESTION: 25
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: The enthalpy in the reaction 3Q + 2R + 300 kilojoules ! (read as: yields) 6Y + Z is +150 kilojoules per mole of: 
+		W) Q 
+		X) R 
+		Y) Y 
+		Z) Z 
+ANSWER:   X) R 
+
+QUESTION: 25
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following changes will increase the reaction rate of the reaction between solid magnesium and gaseous oxygen: 2 Mg(s) + O2(g) ! (read as: yields) 2 MgO(s) + heat? 
+		W) Increasing the concentration of oxygen 
+		X) Removing the magnesium oxide as soon as it is formed 
+		Y) Reducing the temperature 
+		Z) Decreasing the concentration of oxygen 
+ANSWER:   W) INCREASING THE CONCENTRATION OF OXYGEN 
+

@@ -1,0 +1,442 @@
+QUESTION: 1
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following particles has not yet been detected but is generally theorized to exist: 
+		W) fermionic hadrons 
+		X) gluons 
+		Y) Higgs boson 
+		Z) mesons 
+ANSWER:   Y) HIGGS BOSON 
+
+QUESTION: 1
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Order the following from the substance with the lowest dielectric constant to the highest: air, quartz, rubber, pure water 
+ANSWER:   AIR, RUBBER, QUARTZ, PURE WATER (Solution: air = 1.0, rubber = 2.8, quartz = 4.3, pure water = 80.0) 
+
+QUESTION: 2
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: The formula Vn = k, at constant T and P, is a representation of what gas law? 
+ANSWER:   AVOGADROS LAW 
+
+QUESTION: 2
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Electron configurations can be specified using orbital-filling diagrams, in which electrons are represented in standard nomenclature by up and down arrows. Which of the following best describes the arrows representing the 4p orbitals in Arsenic, whose atomic number is 33: 
+		W) 3 single up arrows 
+		X) one pair of up and down arrows, and a single up arrow 
+		Y) 3 pairs of up and down arrows 
+		Z) two pairs of up and down arrows and a single down arrow 
+ANSWER:   W) 3 SINGLE UP ARROWS 2002 Regional Science Bowl B Round 17 Page 2 
+
+QUESTION: 3
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Of the primary, secondary, tertiary, and quaternary levels of protein structure, what level is most directly changed in an amino acid substitution? 
+ANSWER:   PRIMARY 
+
+QUESTION: 3
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following would be LEAST soluble in distilled water: 
+		W) propanoic acid 
+		X) phosphoglyceraldehyde 
+		Y) methanol 
+		Z) cholesterol 
+ANSWER:   Z) CHOLESTEROL 
+
+QUESTION: 4
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following eyepieces is a modified Ramsden eyepiece with an achromatic lens: 
+		W) Huygens 
+		X) orthoscopic 
+		Y) Kellner 
+		Z) Erfle 
+ANSWER:   Y) KELLNER 
+
+QUESTION: 4
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: Which two of the following five celestial bodies are not moons of Jupiter: Io, Charon, Titan, Ganymede, Callisto 
+ANSWER:   CHARON AND TITAN 2002 Regional Science Bowl B Round 17 Page 3 
+
+QUESTION: 5
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Using the Greek-derived names, what 5 polyhedra are often called platonic solids? 
+ANSWER:   TETRAHEDRON, HEXAHEDRON, OCTAHEDRON, DODECAHEDRON, ICOSAHEDRON (accept in any order) 
+
+QUESTION: 5
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Assuming that x 0, solve the following equation for x: 20483723xxx 
+ANSWER:   x = 7/24 (ACCEPT: x = 70/240 OR 3.43) 
+
+QUESTION: 6
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: In the general Circulation of the atmosphere, what is the name given to the middle latitude cell marked by sinking motion near 30 and rising motion near 60 latitude: 
+		W) Polar cell 
+		X) Ferrel cell 
+		Y) Hadley cell 
+		Z) Rossby cell 
+ANSWER:   X) FERREL CELL 
+
+QUESTION: 6
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   short answer
+QUESTION: What is the form of frost in which a thick coating of ice crystals builds upon leaves, twigs and fences as is often seen at the tops of snow-covered mountain peaks? 
+ANSWER:   RIME ICE (ACCEPT: RIME OR HOAR FROST) 2002 Regional Science Bowl B Round 17 Page 4 
+
+QUESTION: 7
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Which of the following would best be used for an application that required a metal that does not emit sparks, resists corrosion, becomes stronger under very cold temperatures, and is an excellent thermal conductor: 
+		W) iron 
+		X) tin 
+		Y) copper 
+		Z) aluminum 
+ANSWER:   Z) ALUMINUM 
+
+QUESTION: 7
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: Order the following 4 ecosystems from the highest percentage of the Earths surface to the lowest: tropical rainforest; continental shelf; tundra; estuary 
+ANSWER:   CONTINENTAL SHELF; TROPICAL RAINFOREST; TUNDRA; ESTUARY 
+
+QUESTION: 8
+TYPE:     toss-up
+SUBJECT:  computer science
+FORMAT:   multiple choice
+QUESTION: The purpose of an ISDN network is to: 
+		W) determine a servers IP address from a domain name 
+		X) translate binary files to text-based email messaging 
+		Y) coordinate packet information for the many IP packets and addresses in an online transmission 
+		Z) set a specification for digital transmission of data over analog phone lines 
+ANSWER:   Z) SET A SPECIFICATION FOR DIGITAL TRANSMISSION OF DATA OVER ANALOG PHONE LINES 
+
+QUESTION: 8
+TYPE:     bonus
+SUBJECT:  computer science
+FORMAT:   multiple choice
+QUESTION: In Oracle databases, a foreign key is: 
+		W) a field which designates the language in which the table is represented 
+		X) a key to decrypt the information in a table 
+		Y) a mapping from a field in one table to information in another table 
+		Z) a link to a web site about the table 
+ANSWER:   Y) A MAPPING FROM A FIELD IN ONE TABLE TO INFORMATION IN ANOTHER TABLE 2002 Regional Science Bowl B Round 17 Page 5 
+
+QUESTION: 9
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Oersted, during a classroom demonstration, accidentally showed the first example of: 
+		W) capacitance 
+		X) artificial lightening 
+		Y) electricity being stored in a capacitor 
+		Z) the connection between magnetism and electricity 
+ANSWER:   Z) THE CONNECTION BETWEEN MAGNETISM AND ELECTRICITY 
+
+QUESTION: 9
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Assuming the specific heat of aluminum is 0.9 Joules per gram per degree, how much energy, in kilojoules rounded to the first decimal place, must be added to 500 grams of aluminum to raise its temperature from 10C to 70C? 
+ANSWER:   27 KILOJOULES (Solution: Q = .5 x .9 x 60 = 27 kilojoules) 
+
+QUESTION: 10
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Addition reactions in organic chemistry are characteristic of: 
+		W) alkanes 
+		X) aromatic compounds 
+		Y) alkenes 
+		Z) ketones 
+ANSWER:   Y) ALKENES 
+
+QUESTION: 10
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Calculate the heat energy, in Joules, released when 10 grams of a substance, which has the same specific heat as liquid water, cools from 100C to 50C: 
+ANSWER:   2090 (ACCEPT: + or 2000 to 2100 J) (Solution: heat released = (mass)(T)(4.18 J/gmC); = (10g)(50C)(4.18J/gC) = 2090 J) 2002 Regional Science Bowl B Round 17 Page 6 
+
+QUESTION: 11
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: To what intermediate molecule of the citric acid cycle does succinate dehydrogenase oxidize succinate? 
+ANSWER:   FUMARATE 
+
+QUESTION: 11
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: The mean corpuscular volume of erythrocytes is obtained by which of the following: 
+		W) the hematocrit multiplied by ten and then divided by the red cell count in millions per microliter 
+		X) the red cell count per cc divided by the hematocrit 
+		Y) the red cell count per cc divided by 7 microns 
+		Z) the hemoglobin value divided by the hematocrit 
+ANSWER:   W) THE HEMATOCRIT MUTIPLIED BY TEN AND THEN DIVIDED BY THE RED CELL COUNT IN MILLIONS PER MICROLITER 
+
+QUESTION: 12
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Crux, Ara, Reticulum, and Tucana are all best known as: 
+		W) craters on the moon 
+		X) canals on mars 
+		Y) constellations 
+		Z) maria on the moon 
+ANSWER:   Y) CONSTELLATIONS 
+
+QUESTION: 12
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: What is the total magnifying power of a refracting telescope that has an objective lens focal length of 12 meters and an eyepiece focal length of 0.3 meters? 
+ANSWER:   40X (ACCEPT: 40 TIMES OR 40) (Solution: m = 12m / 0.3m = 40X) 2002 Regional Science Bowl B Round 17 Page 7 
+
+QUESTION: 13
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: Which of the following eccentricities describes a hyperbola: 
+		W) e = 0 
+		X) 0 < e < 1 
+		Y) e = 1 
+		Z) e > 1 
+ANSWER:   Z) e > 1 
+
+QUESTION: 13
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Solve the following equation for y: 3)125(45)93(yyy 
+ANSWER:   y = 3 
+
+QUESTION: 14
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: If the Earth were nonrotating, global wind circulation would most likely resemble: 
+		W) the doldrums 
+		X) huge circulatory convection cells paralleling lines of latitude 
+		Y) huge circulatory convection cells moving from the equator to the poles 
+		Z) global circulation would cease 
+ANSWER:   Y) HUGE CIRCULATORY CONVECTION CELLS MOVING FROM THE EQUATOR TO THE POLES 
+
+QUESTION: 14
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   short answer
+QUESTION: In meteorology, what is the name for the horizontal wind velocity for which the Coriolis acceleration exactly balances the horizontal pressure force? 
+ANSWER:   GEOSTROPHIC WIND 2002 Regional Science Bowl B Round 17 Page 8 
+
+QUESTION: 15
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: The carcinogenic effects of sunlight on skin are caused by light in which of the following wavelength ranges: 
+		W) 280-320 nanometers 
+		X) 320-360 nanometers 
+		Y) 400-450 nanometers 
+		Z) 1.0-1.5 micrometers 
+ANSWER:   W) 280-320 NANOMETERS 
+
+QUESTION: 15
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: Order the following 4 countries from the lowest to the highest in energy consumption per capita in 1999: Russia, China, Japan, Germany 
+ANSWER:   CHINA, GERMANY, JAPAN, RUSSIA 
+
+QUESTION: 16
+TYPE:     toss-up
+SUBJECT:  computer science
+FORMAT:   multiple choice
+QUESTION: All of these programming languages allow variables to pass by value EXCEPT: 
+		W) FORTRAN 
+		X) PASCAL 
+		Y) Java 
+		Z) Algol-60 
+ANSWER:   W) FORTRAN (Solution: pass by reference) 
+
+QUESTION: 16
+TYPE:     bonus
+SUBJECT:  computer science
+FORMAT:   short answer
+QUESTION: What does the acronym MODEM stand for? 
+ANSWER:   MODULATOR-DEMODULATOR 2002 Regional Science Bowl B Round 17 Page 9 
+
+QUESTION: 17
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Thomas Youngs double slit experiments lent strong support in his time to which of the following: 
+		W) the particle nature of light 
+		X) that light could be polarized 
+		Y) the wave nature of light 
+		Z) the wave particle duality of light 
+ANSWER:   Y) THE WAVE NATURE OF LIGHT 
+
+QUESTION: 17
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: If a string vibrates at a fundamental frequency of 120 hertz, what are the frequencies of the first and second overtones respectively: 
+ANSWER:   240 AND 360 
+
+QUESTION: 18
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: What rule would be best used to predict the alcohol vapor pressure over 100 proof bourbon: 
+		W) Henrys Law 
+		X) Raoults Law 
+		Y) Daltons Law of Partial Pressures 
+		Z) Boyles Law 
+ANSWER:   X) RAOULTS LAW 
+
+QUESTION: 18
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: A mixture of gases with an average molecular weight of 30grams per mole is contained in a 480 liter tank. What is the mass of the gases, in grams, if the temperature of the gas is 300K and the pressure is 2 atmospheres: 
+ANSWER:   1200 (ACCEPT: 1.2 103 g) (Solution: n = PV/RT; = (2atm)(480L)/0.08L.atm/K.mol)(300K); = 40m; 40m30g/m=1200g) 2002 Regional Science Bowl B Round 17 Page 10 
+
+QUESTION: 19
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: If a culture of cells from a hyperallergenic person was exposed to fluorescent labeled immunoglubulin E, which of the following cell types would most likely glow the most: 
+		W) PMN 
+		X) mast cell 
+		Y) eosinophile (pronounced: E-O-sin-O-fill) 
+		Z) macrophage 
+ANSWER:   X) MAST CELL 
+
+QUESTION: 19
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Which one of the following 5 cells is NOT found in a typical angiosperm rhizome? parenchymal, collenchymal, meristematic, epidermal, guard cell 
+ANSWER:   GUARD CELL 
+
+QUESTION: 20
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: Which of the following is TRUE about tests of significance: 
+		W) a type 1 error rejects the null hypothesis when it is true 
+		X) a type 1 error accepts the null hypothesis when it is true 
+		Y) a type 2 error rejects the null hypothesis when it is true 
+		Z) a type 2 has no relationship to the null hypothesis 
+ANSWER:   W) A TYPE 1 ERROR REJECTS THE NULL HYPOTHESIS WHEN IT IS TRUE 
+
+QUESTION: 20
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Calculate the following indefinite integral: I = dxx)22cos( (read as: the integral of the cosine of the sum of 2x + 2, dx) 
+ANSWER:   Cx)22sin(21 2002 Regional Science Bowl B Round 17 Page 11 
+
+QUESTION: 21
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Cape Dennison in Antarctica holds the worlds record for the highest annual average wind speeds owing to: 
+		W) Chinook winds 
+		X) katabatic winds 
+		Y) Hadley cell circulation 
+		Z) Ekman spirals 
+ANSWER:   X) KATABATIC WINDS 
+
+QUESTION: 21
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   short answer
+QUESTION: Order the following four geological epochs from the youngest to the oldest: Pliocene, Holocene, Oligocene, Paleocene 
+ANSWER:   HOLOCENE, PLIOCENE, OLIGOCENE, PALEOCENE 
+
+QUESTION: 22
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Yellow fever is transmitted by what genus of mosquito: 
+		W) Anopheles (read as: ann-off-a-lees) 
+		X) Culex (reas as: CUE-lex) 
+		Y) Aedes 
+		Z) Culiseta (read as: cue-lee-see-ta) 
+ANSWER:   X) CULEX 
+
+QUESTION: 22
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: What is the least number of colors for any map on a sphere so that regions with common boundaries are distinguished by different colors? 
+ANSWER:   4 (Solution: 4 color map theorem) 2002 Regional Science Bowl B Round 17 Page 12 
+
+QUESTION: 23
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Which ones, if any, of the following 5 elements is/are radioactive? sulfur-32, polonium-209, lithium-7, deuterium, francium-223 
+ANSWER:   POLONIUM-209 AND FRANCIUM-223 
+
+QUESTION: 23
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Order the following 4 substances from the one that will show the LEAST increase in temperature for each single calorie added to one gram of that substance to the one that will show the MOST: aluminum, iron, tungsten, water 
+ANSWER:   WATER, ALUMINUM, IRON, TUNGSTEN 
+
+QUESTION: 24
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: A monosaccharide unit containing a ketone functional group is to a ketose as a monosaccharide unit containing a glucose is to what? 
+ANSWER:   AN ALDOSE 
+
+QUESTION: 24
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What is the osmotic pressure, in atmospheres, of a 1.0 molar solution of sodium chloride in water at 300K? 
+ANSWER:   24.6 (ACCEPT: 24 TO 25 ATM) (Solution: = MRT; = (1M)(0.08L.atm/K.mol)(300K); = 24.6atm) 2002 Regional Science Bowl B Round 17 Page 13 
+
+QUESTION: 25
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following responses does indoleacetic acid NOT usually produce in plants: 
+		W) vascular cell differentiation 
+		X) fruit maturation 
+		Y) cell elongation 
+		Z) flowering 
+ANSWER:   Z) FLOWERING 
+
+QUESTION: 25
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the name for the strap-like muscle involved with head movements and abbreviated as the SCM? 
+ANSWER:   STERNOCLEIDOMASTOID MUSCLE 
+

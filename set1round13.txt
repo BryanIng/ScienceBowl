@@ -1,0 +1,442 @@
+QUESTION: 1
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the common name for the 27-carbon lipid whose synthesis is in part regulated by HMG CoA (read as: H, M, G, koh, A) reductase and is the basic starting point for estrogen synthesis? 
+ANSWER:   CHOLESTEROL 
+
+QUESTION: 1
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT true regarding ribosomes: 
+		W) they are about 20 nanometers in diameter 
+		X) eukaryotic ribosomes are slightly larger than prokaryotic ribosomes 
+		Y) mitochondrial ribosomes have 40S (read as: forty S) small subunits 
+		Z) they are found in chloroplasts 
+ANSWER:   Y) MITOCHONDRIAL RIBOSOMES HAVE 40S SMALL SUBUNITS 
+
+QUESTION: 2
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following has a melting point of 185C and readily dissolves in water at room temperature, but is NOT an electrolyte: 
+		W) NaCl 
+		X) decane 
+		Y) methane 
+		Z) sucrose 
+ANSWER:   Z) SUCROSE 
+
+QUESTION: 2
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Give the systematic chemical name for the following ionic compound: Cr2(SeO4)3 
+ANSWER:   CHROMIUM(III) SELENATE High School Round 13 Page 2 
+
+QUESTION: 3
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following BEST describes the Balmer series: 
+		W) a series of quantum numbers indicating certain energy levels 
+		X) hydrogen atom spectral line emission 
+		Y) a sequence of elements that are produced chronologically in supernovae 
+		Z) the energy spectrum of the early universe 
+ANSWER:   X) HYDROGEN ATOM SPECTRAL LINE EMISSION 
+
+QUESTION: 3
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: According to the Standard Model of Particle Physics, through what force would the top quark decay? 
+ANSWER:   WEAK FORCE (ACCEPT: WEAK or WEAK INTERACTION) 
+
+QUESTION: 4
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Express 600 in radians as a reduced fraction 
+ANSWER:   310 
+
+QUESTION: 4
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Giving your answers in tefind the total surface area of a closed right circular cone whose altitude is 8 inches and radius is 6 inches: 
+ANSWER:   96 (Solution: l2 = 82 + 62, l = 10 in; LSl S2 in2) High School Round 13 Page 3 
+
+QUESTION: 5
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is the single most important factor that generally sets a northern limit to tree growth, such as in the areas of transition between taiga and tundra in Alaska: 
+		W) high-winter winds 
+		X) lack of summer warmth 
+		Y) lack of spring moisture 
+		Z) lack of soil nutrients 
+ANSWER:   X) LACK OF SUMMER WARMTH 
+
+QUESTION: 5
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT true of an El Nino: 
+		W) when an El Nino is present, fish are less abundant off the west coast of South America 
+		X) El Ninos typically come along every 4 to 5 years 
+		Y) during a peak El Nino, strong high pressure will be present in the eastern Pacific with lower pressure to the west 
+		Z) El Nino affects global weather patterns 
+ANSWER:   Y) DURING A PEAK EL NINO, STRONG HIGH PRESSURE WILL BE PRESENT IN THE EASTERN PACIFIC WITH LOWER PRESSURE TO THE WEST (Solution: during peak strong high pressure is in the western Pacific with lower pressure to the east, setting up an easterly wind flow) 
+
+QUESTION: 6
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: Pitchblende is one of the main ores of what element? 
+ANSWER:   URANIUM 
+
+QUESTION: 6
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: Order the following 3 temperature values from the COOLEST to the WARMEST: 32C; 85F; 310 K 
+ANSWER:   85F; 32C; 310 K High School Round 13 Page 4 
+
+QUESTION: 7
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: The BEST explanation of why population I (read as: one) stars have a higher proportion of elements heavier than helium than population II ( read as: two) stars, is because Population I stars are: 
+		W) younger than population II stars 
+		X) older than population II stars 
+		Y) usually closer to planetary nebula than population II stars 
+		Z) often found near H-I (read as: H, one) regions 
+ANSWER:   W) YOUNGER THAN POPULATION II STARS 
+
+QUESTION: 7
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: How many sidereal minutes are in 7.5 sidereal hours? 
+ANSWER:   450 
+
+QUESTION: 8
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT true of globular proteins in mammals: 
+		W) most are soluble in water 
+		X) some serve as transport molecules in the plasma 
+		Y) plasma enzymes typically have an optimal operating pH of about 6.8 to 7.0 
+		Z) most protein hormones are globular 
+ANSWER:   Y) PLASMA ENZYMES TYPICALLY HAVE AN OPTIMAL OPERATING PH OF ABOUT 6.8 TO 7.0 
+
+QUESTION: 8
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: During photorespiration, the plant enzyme RuBisCO (read as: rue-BIS-ko) will bind what molecular substance rather than carbon dioxide? 
+ANSWER:   OXYGEN (ACCEPT: O2) High School Round 13 Page 5 
+
+QUESTION: 9
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following is a substance whose molecular and empirical formulas are NOT the same: 
+		W) benzene 
+		X) water 
+		Y) ammonia 
+		Z) sulfur dioxide 
+ANSWER:   W) BENZENE 
+
+QUESTION: 9
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following is a molecule with a square pyramidal molecular geometry around its central atom: 
+		W) PCl5 
+		X) ClF5 
+		Y) XeF4 
+		Z) SF6 
+ANSWER:   X) ClF5 (Solution: PCl5 = trigonal bipyramidal; XeF4 = square planar; SF6 = octahedral) 
+
+QUESTION: 10
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following has the lowest refractive index at STP: 
+		W) diamond 
+		X) water 
+		Y) dry air 
+		Z) a perfect vacuum 
+ANSWER:   Z) A PERFECT VACUUM 
+
+QUESTION: 10
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Rounded to the nearest hundred joules, how much work is done in pulling a sled across a pond for 3 meters with 100 newtons of force, with a rope that makes a 45 angle with the pond? 
+ANSWER:   200 (Solution: w = F d cos angle = 100N 3 m 0.7071 = 212.13) High School Round 13 Page 6 
+
+QUESTION: 11
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Find the center of the circle given by the following equation: x2 + y2 + 4x + 16y + 3 = 0 
+ANSWER:   (2, 8) 
+
+QUESTION: 11
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What are the coordinates of the vertex in the graph of the following equation: y = 4x2 + 8x 5 
+ANSWER:   (1, 9) (Solution: x = -b/2a = -8/2(4) = -1; y = 4(-1)2 +8(-1) 5 = -9) 
+
+QUESTION: 12
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is a fine-grained silica-rich sedimentary rock that is made primarily of microcrystalline quartz: 
+		W) shale 
+		X) potash 
+		Y) dolostone 
+		Z) chert 
+ANSWER:   Z) CHERT 
+
+QUESTION: 12
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is a foliated metamorphic rock composed of very fine-grained mica: 
+		W) marble 
+		X) phyllite 
+		Y) quartzite 
+		Z) schist 
+ANSWER:   X) PHYLLITE (Solution: marble = non-foliated; quartzite = non-foliated; schist = well-developed foliation) High School Round 13 Page 7 
+
+QUESTION: 13
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: The largest deposits of diatomite, or diatomaceous earth, are typically found in which of the following regions of the U.S.: 
+		W) western 
+		X) eastern 
+		Y) midwest 
+		Z) southern 
+ANSWER:   W) WESTERN (Solution: most formed in shallow lakes and marine environments) 
+
+QUESTION: 13
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Diatomite, or diatomaceous earth, is readily available in the U.S. and is used primarily for which of the following functions: 
+		W) soil improvement 
+		X) crushed stone 
+		Y) filtering agent 
+		Z) lubricant 
+ANSWER:   Y) FILTERING AGENT 
+
+QUESTION: 14
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following is closest to the range for the Balmer series: 
+		W) microwave 
+		X) infrared through UV 
+		Y) UV to soft x-ray 
+		Z) visible light to UV 
+ANSWER:   Z) VISIBLE LIGHT TO UV 
+
+QUESTION: 14
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: Choosing from upper right, lower right, lower left, and upper left, in what area of the Hertzsprung Russell diagram will the Sun end its life? 
+ANSWER:   LOWER LEFT High School Round 13 Page 8 
+
+QUESTION: 15
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following is most directly responsible for the colloid osmotic pressure in humans that acts to retain fluid in the vascular system: 
+		W) albumin 
+		X) sodium ions 
+		Y) calcium ions 
+		Z) potassium ions 
+ANSWER:   W) ALBUMIN 
+
+QUESTION: 15
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT true of the most common form of DNA: 
+		W) it is a right-handed helix 
+		X) it has 3.4 nanometers between each successive nucleotide base of the same strand 
+		Y) the strands are considered anti-parallel 
+		Z) each strand has a 3-prime phosphate and a 5-prime hydroxyl at opposite ends 
+ANSWER:   Z) EACH STRAND HAS A 3-PRIME PHOSPHATE AND A 5-PRIME HYDROXYL AT OPPOSITE ENDS 
+
+QUESTION: 16
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: An organic compound with the formula C6H14 is an: 
+		W) alkane 
+		X) alkene 
+		Y) alkyne 
+		Z) arene 
+ANSWER:   W) ALKANE (Solution: alkanes = CnH2n+2) 
+
+QUESTION: 16
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following gases has the highest effusion rate through a pinhole opening from one compartment to another and at room temperature: 
+		W) argon 
+		X) CO2 
+		Y) SO2 
+		Z) helium 
+ANSWER:   Z) HELIUM High School Round 13 Page 9 
+
+QUESTION: 17
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following did J. J. Thompson use that primarily led him to conclude that electrons were basic particles of atoms and carried electric charge: 
+		W) a compass and batteries 
+		X) a solenoid 
+		Y) cathode ray tubes 
+		Z) electromagnets 
+ANSWER:   Y) CATHODE RAY TUBES 
+
+QUESTION: 17
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Consider a satellite that is a uniform sphere rotating about its axis. What is its moment of inertia, giving your answer in scientific notation and in kilogram meters squared, if it has a mass of 10,000 kilograms and a diameter of 200 meters? 
+ANSWER:   4 107 (Solution: I = (2/5)(10,000 Kg)(100m)2 = 40,000,000 kg.m2) 
+
+QUESTION: 18
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: For the function xxf1)(, what is '(5)f(read as: f prime of 5)? 
+ANSWER:   251 (Solution: f ' (5) = 251512) 
+
+QUESTION: 18
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: An object is launched straight up from the ground with an initial velocity of 176 feet per second. What is the height of the object above the ground, in feet, 2 seconds into the flight? 
+ANSWER:   288 (Solution: P(t) = -16t2 + 176t; P(2) = -16(4) + 352 = 288 ft) High School Round 13 Page 10 
+
+QUESTION: 19
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Meteorologists think of wind as circulation patterns which are divided into 4 scales of motion. A land-breeze circulation is grouped into which of the following categories: 
+		W) mesoscale 
+		X) microscale 
+		Y) medium scale 
+		Z) synoptic 
+ANSWER:   X) MICROSCALE 
+
+QUESTION: 19
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: If the air temperature is 0F and the wind speed is 10 miles per hour, which of the following is closest to the wind chill, in degrees Fahrenheit: 
+		W) 10 
+		X) 0 
+		Y) 10 
+		Z) 20 
+ANSWER:   Z) 20 
+
+QUESTION: 20
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Which of the following anthropogenic air pollutants is the major contributor to reduced visibility in most regions of the U.S., excluding fires and dust: 
+		W) elemental carbon 
+		X) hydrogen sulfide 
+		Y) sulfate particles 
+		Z) lead 
+ANSWER:   Y) SULFATE PARTICLES 
+
+QUESTION: 20
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: What is the most common name for the edible vegetable oil that is derived from cultivars of rapeseed plants and is low in erucic acid? 
+ANSWER:   CANOLA OIL (ACCEPT: CANOLA) High School Round 13 Page 11 
+
+QUESTION: 21
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: Giving your answer in decimal form, what would the Z value be if a distant celestial object were shifted towards longer wavelengths by 40% of the original wavelength? 
+ANSWER:   0.4 
+
+QUESTION: 21
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: If a planet had an orbital period of 11.2 years, what is the length of its orbital semi-major axis, in astronomical units rounded to the nearest whole number? 
+ANSWER:   5 (Solution: d3 = p2; d3 = (11.2)2; d3 = 125.4; d = 5) 
+
+QUESTION: 22
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Name all of the following 3 choices that are chemoautotrophs: Nitrosomonas (read as: nitro-so-MOAN-us) Paramecium; Volvox 
+ANSWER:   NITROSOMONAS 
+
+QUESTION: 22
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: From what vitamin is the electron carrier FAD (read as: F, A, D) derived? 
+ANSWER:   RIBOFLAVIN (ACCEPT: VITAMIN B2) High School Round 13 Page 12 
+
+QUESTION: 23
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Name all of the following 3 concentration units that are temperature-dependent: molal (read as: moe-LAHL); molarity; normality 
+ANSWER:   MOLARITY; NORMALITY 
+
+QUESTION: 23
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Calculate the enthalpy of vaporization, in kilojoules, of water at 25C and 1 atmosphere. Assume the standard enthalpy of formation of liquid water is 286 kilojoules and the standard enthalpy of formation of water gas is 242 kilojoules: 
+ANSWER:   44 (Solution: reaction pf(products) rf(reactants) = [242 (286) = +44.0 kJ) 
+
+QUESTION: 24
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What was the most sensitive device Coulomb used to measure the electric forces between pith balls? 
+ANSWER:   TORSION BALANCE 
+
+QUESTION: 24
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Order the following 3 choices from the MOST penetrating through a thin sheet of cardboard to the LEAST: beta rays; alpha rays; x-rays 
+ANSWER:   X-RAYS; BETA RAYS; ALPHA RAYS High School Round 13 Page 13 
+
+QUESTION: 25
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the most common name for the histone octamer used in the coiling and packing of DNA and regulation of gene expression? 
+ANSWER:   NUCLEOSOMES 
+
+QUESTION: 25
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Name all of the following 4 organelles that are bounded by a double membrane: nucleus; mitochondrion; lysosome; chloroplast 
+ANSWER:   NUCLEUS; MITOCHONDRION; CHLOROPLAST (ACCEPT: ALL BUT LYSOSOME) 
+

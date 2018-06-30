@@ -1,0 +1,438 @@
+QUESTION: 1
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: According to the Bronsted-Lowry system, a base is defined as which of the following: 
+		W) electron pair acceptor 
+		X) proton acceptor 
+		Y) proton donor 
+		Z) hydroxide donor 
+ANSWER:   X) PROTON ACCEPTOR 
+
+QUESTION: 1
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What is the molecular formula for the conjugate base of the following Brnsted-Lowry acid: H2CO3 
+ANSWER:   HCO3 
+
+QUESTION: 2
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: In response to the development of incandescent lights, gas lights were vastly improved by soaking the mantles in what substance to help convert heat and UV energy into visible light: 
+		W) thorium oxide 
+		X) titanium dioxide 
+		Y) uranium oxide 
+		Z) tungsten 
+ANSWER:   W) THORIUM OXIDE 
+
+QUESTION: 2
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: A hunter uses a 30-gram arrow that is fired by a bowstring at a velocity of 56 meters per second. What is the impulse on the arrow, to the second decimal place in kilogram meters per second? 
+ANSWER:   1.68 (Solution: F!t = m!V = mV2 mV1 = m(V2 0) = (0.030kg)(56m/s) = 1.68kg.m/s) 2007 Regional Science Bowl Page 2 
+
+QUESTION: 3
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What specific area of the human diencephalon is responsible for producing factors that regulate the release of hormones of the pituitary? 
+ANSWER:   HYPOTHALAMUS 
+
+QUESTION: 3
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following is an insertion of the human biceps femoris muscle: 
+		W) ventral portion of the head of the femur 
+		X) lateral sides of the head of the tibia 
+		Y) ileac crest 
+		Z) pubic symphisis 
+ANSWER:   X) LATERAL SIDES OF THE HEAD OF THE TIBIA 
+
+QUESTION: 4
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Given that tangent " = 43!, find the possible values of sine ": 
+ANSWER:   53 AND 53! 
+
+QUESTION: 4
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Divide and simplify the following 2 polynomials, combining like terms: )2()8(3!!xx 
+ANSWER:   x2 + 2x + 4 2007 Regional Science Bowl Page 3 
+
+QUESTION: 5
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following was the evidence that Alfred Wegener did not have that would have convinced the scientific community that his theory of continental drift was correct: 
+		W) paleomagnetic studies 
+		X) apparent fit of the continents 
+		Y) locations of ancient glacial deposits 
+		Z) comparative fossil studies 
+ANSWER:   W) PALEOMAGNETIC STUDIES 
+
+QUESTION: 5
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT true of seismic waves: 
+		W) the modified Mercalli scale measures earthquakes based on direct observations of damage 
+		X) the actual underground point of origin of an earthquake is called the hypocenter 
+		Y) the typical velocity of a P-wave near the Earths surface is about 5 kilometers per second 
+		Z) S-waves cause the most damage during an earthquake 
+ANSWER:   Z) S-WAVES CAUSE THE MOST DAMAGE DURING AN EARTHQUAKE (Solution: surface waves cause the most damage) 
+
+QUESTION: 6
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Which of the following is the BEST description of an ecological niche: 
+		W) a situation in which a species is well adapted to a specific set of environmental conditions 
+		X) the biomass load of a given environment 
+		Y) a pollutant that becomes concentrated in organisms as it moves up through the food chain 
+		Z) all the environmental conditions, plants, and animals of an isolated area 
+ANSWER:   W) A SITUATION IN WHICH A SPECIES IS WELL ADAPTED TO A SPECIFIC SET OF ENVIRONMENTAL CONDITIONS 
+
+QUESTION: 6
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: Lichens are a symbiotic relationship of what 2 general types of organisms? 
+ANSWER:   GREEN ALGAE AND FUNGI (ACCEPT: ALGAE OR CYANOBACTERIA FOR GREEN ALGAE) 2007 Regional Science Bowl Page 4 
+
+QUESTION: 7
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following is the MAIN advantage of space-based telescopes over typical ground-based telescopes: 
+		W) they are not affected by radiation 
+		X) their mirrors can be any size because of zero gravity 
+		Y) they are cheaper to maintain 
+		Z) they experience no atmospheric distortion 
+ANSWER:   Z) THEY EXPERIENCE NO ATMOSPHERIC DISTORTION 
+
+QUESTION: 7
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following is the BEST evidence that globular clusters are composed of mostly old stars: 
+		W) most of their stars have a low metal content 
+		X) most of their stars are population one stars 
+		Y) most of the stars have a very high mass 
+		Z) most of their stars are white dwarfs 
+ANSWER:   W) MOST OF THEIR STARS HAVE A LOW METAL CONTENT 
+
+QUESTION: 8
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: The reaction Ca(OH)2 + 2HCl ! 2H2O + CaCl2, is an example of what class of chemical reaction: 
+		W) synthesis 
+		X) single replacement 
+		Y) double replacement 
+		Z) decomposition 
+ANSWER:   Y) DOUBLE REPLACEMENT 
+
+QUESTION: 8
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: A gas sample occupies a volume of 10.0 liters at a pressure of 800 torr. If the pressure on the sample becomes 1.5 atmospheres and temperature remains constant, what volume does the gas now occupy, to the first decimal place in liters? 
+ANSWER:   7.0 (Solution: P1V1 = P2V2; (800 torr)(10.0L) = (1140 torr)(V2); V2 = 7.0L) 2007 Regional Science Bowl Page 5 
+
+QUESTION: 9
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following is the BEST expression of the speed of sound waves in various media: 
+		W) the product of the elastic property times the inertial property 
+		X) the value of the inertial property divided by the elastic property 
+		Y) the value of the elastic property divided by the inertial property 
+		Z) the square root of the elastic property divided by the inertial property 
+ANSWER:   Z) THE SQUARE ROOT OF THE ELASTIC PROPERTY DIVIDED BY THE INERTIAL PROPERTY 
+
+QUESTION: 9
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: If a mandolin string is tuned to 880 hertz and is 28-centimeters long, what is the wavelength, in meters rounded to the second decimal place, of the sound wave produced by this string, assuming that the instrument is at 20C and that the speed of sound is 343 meters/second? 
+ANSWER:   0.39 (Solution: wavelength = v/f = 343/880 = 0.389) 
+
+QUESTION: 10
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT true: 
+		W) comb jellies or ctenophores (read as: ten-OH-fours) have radial symmetry 
+		X) lobsters have bilateral symmetry 
+		Y) protostomes have no true coeloms (read as: SEE-loams) 
+		Z) flatworms are acoelomates (read as: ah-SEA-low-mates) 
+ANSWER:   Y) PROTOSTOMES HAVE NO TRUE COELOMS 
+
+QUESTION: 10
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Name all of the following 4 choices that are compound fruits: tomato; raspberry; grape; pineapple 
+ANSWER:   RASPBERRY AND PINEAPPLE 2007 Regional Science Bowl Page 6 
+
+QUESTION: 11
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT a regular polyhedron: 
+		W) regular tetrahedron 
+		X) cube 
+		Y) regular icosahedron 
+		Z) regular hexadecagon 
+ANSWER:   Z) REGULAR HEXADECAGON 
+
+QUESTION: 11
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Solve the following quadratic inequality for x: x2 + 5x + 4 # 0 
+ANSWER:   x # 1 OR x $ 4 (must give both answers) 
+
+QUESTION: 12
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is a terminal moraine that resulted at the climax of the Wisconsin ice sheet: 
+		W) Long Island, New York 
+		X) the northern Bahamas Islands 
+		Y) Death Valley, California 
+		Z) Hudson Bay, Canada 
+ANSWER:   W) LONG ISLAND, NEW YORK 
+
+QUESTION: 12
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Looking down on the Earth in the Northern Hemisphere, which of the following BEST describes the circulation of air above an anticyclone: 
+		W) air spiraling inward in a counter-clockwise direction 
+		X) air spiraling outward in a counter-clockwise direction 
+		Y) air spiraling inward in a clockwise direction 
+		Z) air spiraling outward in a clockwise direction 
+ANSWER:   Z) AIR SPIRALING OUTWARD IN A CLOCKWISE DIRECTION 2007 Regional Science Bowl Page 7 
+
+QUESTION: 13
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: To remove this parasite that erupts from the skin, victims will wrap the end of the emerging worm around a stick and turn the stick over a period of days to slowly remove the worm: 
+		W) Ascaris 
+		X) guinea worm 
+		Y) hookworm 
+		Z) strongyloid 
+ANSWER:   X) GUINEA WORM 
+
+QUESTION: 13
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: Name all of the following that are primarily bacterial diseases: diphtheria; herpes zoster; strep throat; rubella; yellow fever 
+ANSWER:   DIPHTHERIA; STREP THROAT 
+
+QUESTION: 14
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: The Schmidt telescope would BEST be considered: 
+		W) an advanced adaptive optics telescope with x-ray detection capabilities 
+		X) a wide field telescope 
+		Y) a radio telescope 
+		Z) an orbital x-ray telescope 
+ANSWER:   X) A WIDE FIELD TELESCOPE 
+
+QUESTION: 14
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT true: 
+		W) the planet Venus has a high albedo 
+		X) a gnomon is a very simple astronomical instrument 
+		Y) the Moon is found at over 10 degrees north of the ecliptic in a lunar standstill year 
+		Z) carbon is probably the fourth most common element in the universe 
+ANSWER:   Y) THE MOON IS FOUND AT OVER 10 DEGREES NORTH OF THE ECLIPTIC IN A LUNAR STANDSTILL YEAR 2007 Regional Science Bowl Page 8 
+
+QUESTION: 15
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT true regarding general trends for the representative elements in the Periodic Table: 
+		W) simple positive ions are always smaller than the neutral atoms from which they are formed 
+		X) elements with low ionization energies lose electrons easily 
+		Y) the size of anions increases from left to right 
+		Z) electronegativities increase from left to right 
+ANSWER:   Y) THE SIZE OF ANIONS INCREASES FROM LEFT TO RIGHT 
+
+QUESTION: 15
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: How many carbons and hydrogens are in the following compound: (read slowly) 2,4-dimethyl hexane 
+ANSWER:   CARBON = 8; HYDROGEN = 18 
+
+QUESTION: 16
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: The index of refraction for a medium is: 
+		W) the ratio of the angles of refraction of red light and blue light in the medium 
+		X) the angle of refraction for monochromatic light in the medium 
+		Y) the ratio of the speed of light in the medium to the speed of light in a vacuum 
+		Z) the ratio of the speed of light in a vacuum to the speed of light in the medium 
+ANSWER:   Z) THE RATIO OF THE SPEED OF LIGHT IN A VACUUM TO THE SPEED OF LIGHT IN THE MEDIUM 
+
+QUESTION: 16
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: If light of a single wavelength of 600 nanometers moves from air into a medium with a refractive index of 1.25, what is the wavelength, in nanometers, of the light as it travels in the denser medium? 
+ANSWER:   480 (Solution !n = !/n 600 nm/1.25 = 480) 2007 Regional Science Bowl Page 9 
+
+QUESTION: 17
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following BEST meets the premises of the Hardy-Weinberg equilibrium: 
+		W) random mating, small populations, and no genetic load 
+		X) random mating, large populations, and no genetic load 
+		Y) non-random mating, small populations, and no net mutations 
+		Z) non-random mating, large populations, and no net mutations 
+ANSWER:   X) RANDOM MATING, LARGE POPULATIONS, AND NO GENETIC LOAD 
+
+QUESTION: 17
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Name all of the following 3 classes of biological molecules whose immediate breakdown product can generate energy by feeding into metabolism at the level of pyruvate or acetyl Co-A: lipids; proteins; carbohydrates 
+ANSWER:   LIPIDS; PROTEINS; CARBOHYDRATES (ACCEPT: ALL) 
+
+QUESTION: 18
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Solve the following logarithmic equation for x: log4 x = 4 (read as: log base 4 of x equals 4) 
+ANSWER:   256 (Solution: 44 = 256) 
+
+QUESTION: 18
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Find the 9th term of the geometric sequence whose first 3 terms are 3, 6, and 12: 
+ANSWER:   768 (Solution: ax = a(r)x-1; a9 = 3(2)8; a = 768) 2007 Regional Science Bowl Page 10 
+
+QUESTION: 19
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: The catastrophic dust bowl of the 1930s was caused by which of the following processes: 
+		W) isostatic adjustment 
+		X) basal slip 
+		Y) desertification 
+		Z) mass wasting 
+ANSWER:   Y) DESERTIFICATION 
+
+QUESTION: 19
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is an example of a U-shaped valley that is partially submerged: 
+		W) fjord 
+		X) arete 
+		Y) paternoster lake 
+		Z) hanging valley 
+ANSWER:   W) FJORD 
+
+QUESTION: 20
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: What is the medical name for the disease caused by Clostridium bacteria that is prevalent in soils and commonly named lockjaw? 
+ANSWER:   TETANUS (ACCEPT: TETANY) 
+
+QUESTION: 20
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: What is the common name for vitamin B3 that is a central component of coenzymes NAD and NADP+? 
+ANSWER:   NIACIN (ACCEPT: NICOTINIC ACID) 2007 Regional Science Bowl Page 11 
+
+QUESTION: 21
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: Which one of the following 4 planets has the smallest orbital eccentricity: Mercury; Jupiter; Venus; Saturn 
+ANSWER:   VENUS 
+
+QUESTION: 21
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: Arrange the following 3 objects from LEAST to MOST in their maximum apparent brightness: Sirius; Mars; Jupiter 
+ANSWER:   SIRIUS; JUPITER; MARS 
+
+QUESTION: 22
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What is the pH of a 1 % 104 molar HCl solution? 
+ANSWER:   4 
+
+QUESTION: 22
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Order the following 4 bonds from those with the LOWEST electronegativity difference to the GREATEST difference: F-H; O-H; S-H; Cl-H 
+ANSWER:   S-H; Cl-H; O-H; F-H 2007 Regional Science Bowl Page 12 
+
+QUESTION: 23
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: How many 20-ohm resistors connected in parallel will produce 5 ohms of equivalent resistance? 
+ANSWER:   4 
+
+QUESTION: 23
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Assuming g = 10 meters per second squared, how many total newtons of thrust are needed to accelerate a 5,000-kilogram rocket vertically at 6 meters per second squared? 
+ANSWER:   80,000 (Solution: F = ma = (5000 % 6) = 30,000N + w = mg = 5000 % 10 = 50,000N; 30,000N + 50,000N = 80,000N) 
+
+QUESTION: 24
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: The pincers of scorpions are a modification of what arachnid appendage? 
+ANSWER:   PEDIPALPS 
+
+QUESTION: 24
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Name all of the following 4 organisms that are cephalopods (read as: SEFF-al-low-pods): squid; mussel; chambered nautilus; slug 
+ANSWER:   SQUID; CHAMBERED NAUTILUS 2007 Regional Science Bowl Page 13 
+
+QUESTION: 25
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: How many watts are equivalent to 1 joule of energy expended per minute of time? 
+ANSWER:   1/60 (ACCEPT: 0.016 or 0.017 or 0.0166 or 0.0167) 
+
+QUESTION: 25
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Michael, who has a mass of 100 kilograms, tries to ski jump with a velocity of 15 meters per second. What is Michaels momentum, in proper SI units, as he leaves the ski jump? 
+ANSWER:   1500 KILOGRAM METERS PER SECOND (Solution: momentum = mv = (100kg)(15 m/s) = 1500 kg.m/s) 
+

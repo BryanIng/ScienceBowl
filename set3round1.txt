@@ -1,0 +1,418 @@
+QUESTION: 1
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Rough endoplasmic reticulum is named rough because it possesses what cellular structures? 
+ANSWER:   RIBOSOMES 
+
+QUESTION: 1
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: In humans, backflow of blood from ventricles into atria during contraction is prevented primarily by what structures? 
+ANSWER:   VALVES 
+
+QUESTION: 2
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What are the names for positive and negative ions, respectively? 
+ANSWER:   POSITIVE = CATIONS; NEGATIVE = ANIONS 
+
+QUESTION: 2
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Arrange the following 4 substances in order of increasing pH: orange juice; human gastric juice; blood; aqueous ammonia 
+ANSWER:   HUMAN GASTRIC JUICE; ORANGE JUICE; BLOOD; AQUEOUS AMMONIA 2007 Regional Science Bowl Page 2 
+
+QUESTION: 3
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What is the scientific term for a change in velocity per unit time? 
+ANSWER:   ACCELERATION 
+
+QUESTION: 3
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What is the most common term in physics for the product of mass times velocity? 
+ANSWER:   MOMENTUM 
+
+QUESTION: 4
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What is the 5th term in the geometric progression whose first three terms are: 64, 16, 4 
+ANSWER:   1/4 (ACCEPT: 0.25) 
+
+QUESTION: 4
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Giving your answer in centimeters to the first decimal place, if one leg of an isosceles right triangle is 100 centimeters long, how long is the hypotenuse? 
+ANSWER:   141.4 (Solution: c = a2 = 1002 - 141.4cm) 2007 Regional Science Bowl Page 3 
+
+QUESTION: 5
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   short answer
+QUESTION: As a percentage by volume in Earths atmosphere, what are the two most abundant gases in Earths atmosphere? 
+ANSWER:   NITROGEN AND OXYGEN (in any order) 
+
+QUESTION: 5
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   short answer
+QUESTION: What type of glacier flows outward from a center as opposed to down a mountain valley? 
+ANSWER:   CONTINENTAL 
+
+QUESTION: 6
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: One kilogram is nearly equivalent to how many pounds: 
+		W) 454 
+		X) 4.54 
+		Y) 220 
+		Z) 2.2 
+ANSWER:   Z) 2.2 
+
+QUESTION: 6
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Which of the following reagents would be labeled as highly flammable because of its low flash point: 
+		W) glycerol 
+		X) methanol 
+		Y) carbon tetrachloride 
+		Z) sulfuric acid 
+ANSWER:   X) METHANOL 2007 Regional Science Bowl Page 4 
+
+QUESTION: 7
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: What is the most common term for the celestial phenomenon that causes a comet's tail in our solar system to point away from the Sun? 
+ANSWER:   THE SOLAR WIND 
+
+QUESTION: 7
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following is the BEST description of our Sun: 
+		W) a cool large star similar to Proxima Centauri 
+		X) a small-sized star about 6 billion years old 
+		Y) a mid-sized yellow dwarf star 
+		Z) a large-sized red giant about 4.7 billion years old 
+ANSWER:   Y) A MID-SIZED YELLOW DWARF STAR 
+
+QUESTION: 8
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following occurs in meiosis but NOT in mitosis: 
+		W) spindle apparatus attaches to kinetochores 
+		X) nuclear membrane is not visible 
+		Y) crossing over 
+		Z) chromosomes line up at central area of cell 
+ANSWER:   Y) CROSSING OVER 
+
+QUESTION: 8
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the anatomical term for the specific section of the small intestine into which the pancreatic duct delivers its digestive enzymes? 
+ANSWER:   DUODENUM 2007 Regional Science Bowl Page 5 
+
+QUESTION: 9
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: In the combustion of methane, if the supply of oxygen is somewhat insufficient, what colorless, odorless and poisonous gas is produced? 
+ANSWER:   CARBON MONOXIDE (ACCEPT: CO) 
+
+QUESTION: 9
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Element number 19 has an isotope named potassium-40. How many neutrons does this isotope contain? 
+ANSWER:   21 
+
+QUESTION: 10
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION:  The amplitude of a sound wave most closely relates to its: 
+		W) frequency 
+		X) wavelength 
+		Y) loudness 
+		Z) overtones ANSWER. Y) LOUDNESS
+ANSWER:    10) PHYSICS Multiple Choice. The amplitude of a sound wave most closely relates to its: W) frequency X) wavelength Y) loudness Z) overtones ANSWER. Y) LOUDNESS 
+
+QUESTION: 10
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What property of a sound wave most directly determines the pitch of a violins note? 
+ANSWER:   FREQUENCY 2007 Regional Science Bowl Page 6 
+
+QUESTION: 11
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Solve the following equation for x: 3|x| = 15 (read as: minus 3 times the absolute value of x equals minus 15) 
+ANSWER:   5 AND 5 
+
+QUESTION: 11
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: One-half of a number added to one third of the same number is 68 less than the number. What is the number? 
+ANSWER:   408 (Solution: x/2 + x/3 = x 68; x = 408) 
+
+QUESTION: 12
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   short answer
+QUESTION: Giving your answer as north, south, east, or west, from what general direction does the jet stream flow? 
+ANSWER:   WEST 
+
+QUESTION: 12
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: In which of the following locations would you typically expect the average salinity of surface sea water to be the HIGHEST: 
+		W) at the mouth of the Mississippi River 
+		X) in the waters above the Arctic Circle 
+		Y) in the Black Sea 
+		Z) in the Dead Sea 
+ANSWER:   Z) IN THE DEAD SEA 2007 Regional Science Bowl Page 7 
+
+QUESTION: 13
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: In the mks system, what are the 3 fundamental units? 
+ANSWER:   METERS; KILOGRAMS; SECONDS 
+
+QUESTION: 13
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: Giving your answer in scientific notation, convert 10 square meters into square millimeters: 
+ANSWER:   1 ! 107 (DO NOT ACCEPT: 107) 
+
+QUESTION: 14
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT true: 
+		W) most of the meteorites that have been found have a high iron content 
+		X) a bolometer is used to measure the energy output of the Sun 
+		Y) the celestial coordinate analogous to latitude is called ascension 
+		Z) sunlight reflecting off the Earth is called Earthshine 
+ANSWER:   Y) THE CELESTIAL COORDINATE ANALOGOUS TO LATITUDE IS CALLED ASCENSION 
+
+QUESTION: 14
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following BEST describes the zenith: 
+		W) the point in the sky that is at 180 degrees of inclination to the horizon 
+		X) 90 degrees opposite to the nadir 
+		Y) the opposite position on the ecliptic to an observer 
+		Z) the point on the celestial sphere directly overhead of an observer 
+ANSWER:   Z) THE POINT ON THE CELESTIAL SPHERE DIRECTLY OVERHEAD OF AN OBSERVER 2007 Regional Science Bowl Page 8 
+
+QUESTION: 15
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following MOST closely represents the location of the temporal bone in humans: 
+		W) above the eye 
+		X) cheek or lateral border of the eye 
+		Y) back of skull 
+		Z) top of skull 
+ANSWER:   X) CHEEK OR LATERAL BORDER OF THE EYE 
+
+QUESTION: 15
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the common name for the joint that is formed by the articulation of the tibia, the fibula, and the femur? 
+ANSWER:   KNEE 
+
+QUESTION: 16
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: How many unpaired electrons are in a neutral bromine atom? 
+ANSWER:   1 
+
+QUESTION: 16
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following is the term used to describe the resistance to flow of a liquid: 
+		W) viscosity 
+		X) surface tension 
+		Y) maleability 
+		Z) vapor pressure 
+ANSWER:   W) VISCOSITY 2007 Regional Science Bowl Page 9 
+
+QUESTION: 17
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following is the most common term for the general type of wave that results from the vibration of a physical medium: 
+		W) mechanical 
+		X) electromagnetic 
+		Y) perfect 
+		Z) pulsed 
+ANSWER:   W) MECHANICAL 
+
+QUESTION: 17
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following is LEAST accurate: 
+		W) alpha particles are the same as helium nuclei 
+		X) polarization of light supports the particle behavior of light 
+		Y) a photon is a particle of light 
+		Z) light slows down when it moves from a vacuum into glass 
+ANSWER:   X) POLARIZATION OF LIGHT SUPPORTS THE PARTICLE BEHAVIOR OF LIGHT 
+
+QUESTION: 18
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Evaluate the expression, x(y + z)2, when x = 2, y = -8; and z = 3: 
+ANSWER:   50 
+
+QUESTION: 18
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: If Emily can paint a fence in 4 hours but Kathy takes 6 hours, how many hours will it take them to paint the fence if they work together? 
+ANSWER:   252 (ACCEPT: 512 or 2.4) (Solution: 1/x = 1/4 + 1/6; x = 12/5 hrs or 2 2/5 hrs) 2007 Regional Science Bowl Page 10 
+
+QUESTION: 19
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is considered the principal volcanic gas: 
+		W) carbon dioxide 
+		X) water vapor 
+		Y) sulfur dioxide 
+		Z) methane 
+ANSWER:   X) WATER VAPOR 
+
+QUESTION: 19
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Calcite belongs to which of the following mineral groups: 
+		W) oxide 
+		X) sulfate 
+		Y) carbonate 
+		Z) calcium silicate 
+ANSWER:   Y) CARBONATE (Solution: CaCO3) 
+
+QUESTION: 20
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT a fermentation product of yogurt: 
+		W) acetaldehyde 
+		X) formaldehyde 
+		Y) acetic acid 
+		Z) lactic acid 
+ANSWER:   X) FORMALDEHYDE 
+
+QUESTION: 20
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: Convert 1 cubic decimeter into cubic centimeters: 
+ANSWER:   1,000 2007 Regional Science Bowl Page 11 
+
+QUESTION: 21
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: What is the Latin-derived term for the relatively smooth lunar plains that are areas of the Moon that appear dark as viewed from Earth? 
+ANSWER:   MARE (ACCEPT: MARIA) 
+
+QUESTION: 21
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: What planet has the greatest variation in temperature over a single one of its planetary days? 
+ANSWER:   MERCURY 
+
+QUESTION: 22
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is typically the largest organelle of a mature plant cell and can comprise up to 80% of the cells volume? 
+ANSWER:   CENTRAL VACUOLE (ACCEPT: VACUOLE) 
+
+QUESTION: 22
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What eukaryotic cell organelle primarily functions to modify, sort, and package products for exocytosis? 
+ANSWER:   GOLGI (ACCEPT: GOLGI APPARATUS, COMPLEX or STACK) 2007 Regional Science Bowl Page 12 
+
+QUESTION: 23
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What scientific principle BEST describes why fresh pickles soaked in brine shrivel up after a period of time? 
+ANSWER:   OSMOSIS 
+
+QUESTION: 23
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: If two solutions that are separated by a semipermeable membrane have the same osmotic pressure, they are said to be: 
+		W) isotonic 
+		X) hypotonic 
+		Y) hypertonic 
+		Z) hyperosmotic 
+ANSWER:   W) ISOTONIC 
+
+QUESTION: 24
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: A circuit with 2 different resistors wired in series will have a total resistance that is: 
+		W) equal to the sum of the two resistances 
+		X) less than either resistance 
+		Y) equal to that of the greater resistance 
+		Z) equal to that of the lesser resistance 
+ANSWER:   W) EQUAL TO THE SUM OF THE TWO RESISTANCES 
+
+QUESTION: 24
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What is the most common isotope of carbon? 
+ANSWER:   CARBON-12 (ACCEPT: C-12 or 12) 2007 Regional Science Bowl Page 13 
+
+QUESTION: 25
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: How many walking legs are found in arachnids? 
+ANSWER:   8 
+
+QUESTION: 25
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the MOST common term for the general type of nourishment characteristic of mushrooms where the organism derives its nutrients by absorbing the biological products of another organism? 
+ANSWER:   SAPROPHYTIC (ACCEPT: SAPROBE or SAPROPHAGE or SAPROPHYTE) 
+

@@ -1,0 +1,438 @@
+QUESTION: 1
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: In a totally inelastic collision, what happens to the two colliding objects? 
+ANSWER:   THEY STICK TOGETHER 
+
+QUESTION: 1
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: For a uniformly rotating object, what do we call the rate of change in the angle through which the object turns in one second? 
+ANSWER:   ANGULAR VELOCITY (ACCEPT: ANGULAR SPEED) 
+
+QUESTION: 2
+TYPE:     toss-up
+SUBJECT:  energy
+FORMAT:   multiple choice
+QUESTION: An electric vehicle has two stages. If the first stage, the battery, has an efficiency of 90% and the second stage, the inverter, has an efficiency of 80%, calculate the approximate overall efficiency of the vehicle. 
+		W) 56% 
+		X) 72% 
+		Y) 89% 
+		Z) 113% 
+ANSWER:   X) 72% 
+
+QUESTION: 2
+TYPE:     bonus
+SUBJECT:  energy
+FORMAT:   short answer
+QUESTION: How much work in joules is done by friction on a sled weighing 100 newtons during a 10 meter displacement? The coefficient of sliding friction is 0.1. 
+ANSWER:   100 Round 16 Page 2 !
+
+QUESTION: 3
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: Which of the following is congruent to (n + 1) modulus n? 
+		W) 0 
+		X) 1 
+		Y) (n 1) 
+		Z) (n 2) 
+ANSWER:   X) 1 
+
+QUESTION: 3
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: A spherical balloon is being inflated at a constant rate of ! cubic inches per second. In inches per second, how fast is the radius increasing when the radius is 3 inches? 
+ANSWER:   1/36 
+
+QUESTION: 4
+TYPE:     toss-up
+SUBJECT:  energy
+FORMAT:   short answer
+QUESTION: Which type of crude oil is most desired, due to its low sulfur content and higher proportion of carbon chains that can be directed into the liquid fuel product? 
+ANSWER:   LIGHT SWEET (ACCEPT: SWEET LIGHT) 
+
+QUESTION: 4
+TYPE:     bonus
+SUBJECT:  energy
+FORMAT:   short answer
+QUESTION: What is the most common sulfur compound that occurs naturally in natural gas. 
+ANSWER:   HYDROGEN SULFIDE Round 16 Page 3 !
+
+QUESTION: 5
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: As the bottom plate moves downward in a subduction zone, pressure and heat cause the subducting crust to release volatiles and localized melting occurs. If the ocean trench associated with this subduction zone is located far from a continent, what volcanic feature will be formed in response to this process? 
+ANSWER:   ISLAND ARC (ACCEPT: ARC) 
+
+QUESTION: 5
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: What process is responsible for the remineralization of organic carbon, returning it to its inorganic state, within a timeframe shorter than geologic timescales? 
+ANSWER:   DECOMPOSITION 
+
+QUESTION: 6
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: In evolutionary biology, one theory, phyletic gradualism, proposes that speciation occurs slowly over time while another proposes that speciation occurs in rare, rapid events. Name the latter theory. 
+ANSWER:   PUNCTUATED EQUILIBRIUM 
+
+QUESTION: 6
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Name the two main processes which determine whether genetic variations will become common or rare in a population. 
+ANSWER:   NATURAL SELECTION AND GENETIC DRIFT (ACCEPT: NATURAL SELECTION AND SEWALL-WRIGHT EFFECT) Round 16 Page 4 !
+
+QUESTION: 7
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: How many terms are there in the arithmetic sequence with first term 10, second term 15, third term 20, and final term 250? 
+ANSWER:   49 
+
+QUESTION: 7
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: Evaluate the following expression: (read as: the summation from -1 to 4 of 3 k squared). 
+		W) 31 
+		X) 87 
+		Y) 93 
+		Z) 243 
+ANSWER:   Y) 93 
+
+QUESTION: 8
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: Which radioisotope would NOT be appropriate to use to date the age of a 2 billion year old rock? 
+		W) Carbon-14 
+		X) Potassium-40 
+		Y) Rubidium-87 
+		Z) Uranium-238 
+ANSWER:   W) CARBON-14 
+
+QUESTION: 8
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: What two oxygen isotopes are most commonly compared to examine past temperatures recorded in glacial ice? 
+ANSWER:   OXYGEN-16 AND OXYGEN-18 Round 16 Page 5 !
+
+QUESTION: 9
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: Which of the following has the largest amplitude? 
+		W) 9sin(x) - 2 
+		X) 2cos(6x) + 5 
+		Y) cos(2x) 
+		Z) 4sin(10x) 
+ANSWER:   W) 9 sin(x) - 2 
+
+QUESTION: 9
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What power of 10 is closest to 255? 
+ANSWER:   1016 (ACCEPT: 16) 
+
+QUESTION: 10
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: As an acetic acid solution is diluted, will the hydrogen ion concentration and the percentage of ionization, respectively, increase, decrease or remain the same? 
+ANSWER:   THE HYDROGEN ION CONCENTRATION WILL DECREASE; THE PERCENTAGE OF IONIZATION WILL INCREASE 
+
+QUESTION: 10
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: In a sulfuric acid solution, which of the following will be present in the highest concentration: H+, H2SO4, HSO41-, SO42-, or OH1-. 
+ANSWER:   H+ Round 16 Page 6 !
+
+QUESTION: 11
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: If a solid cylinder and a hollow cylinder have the same outer radius and mass, which of the following is true regarding moment of inertia about the cylindrical axis? 
+		W) The hollow cylinder has a greater moment of inertia 
+		X) The solid cylinder has a greater moment of inertia 
+		Y) The moment of inertia would be the same for both 
+		Z) The moment of inertia depends on the speed of the cylinders 
+ANSWER:   W) THE HOLLOW CYLINDER HAS A GREATER MOMENT OF INERTIA 
+
+QUESTION: 11
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Many physics quantities fall under two categories: scalars and vectors. Which of the following does NOT contain a scalar quantity? 
+		W) Force, energy, mass 
+		X) Velocity, pressure, time 
+		Y) Weight, speed, work 
+		Z) Acceleration, momentum, displacement 
+ANSWER:   Z) ACCELERATION, MOMENTUM, DISPLACEMENT 
+
+QUESTION: 12
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: What was the name of the first satellite launched into earth orbit by the United States? 
+		W) Trogdor 
+		X) Explorer I 
+		Y) Gemini 
+		Z) Mercury 
+ANSWER:   X) EXPLORER I 
+
+QUESTION: 12
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: Pegmatites are examples of what kind of rock that can be formed by cooling processes within the earth? 
+		W) Intrusive 
+		X) Extrusive 
+		Y) Metamorphic 
+		Z) Detrital 
+ANSWER:   W) INTRUSIVE Round 16 Page 7 ! Round 16 Page 8 !
+
+QUESTION: 13
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Though T-cells originate in bone marrow, where in the human body do they mature? 
+		W) Thalamus 
+		X) Heart 
+		Y) Thymus 
+		Z) Gut 
+ANSWER:   Y) THYMUS 
+
+QUESTION: 13
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What type of cells begin as monocytes and are an important part of the immune system because of their ability to engulf foreign material and dead or dying indigenous cells? 
+ANSWER:   MACROPHAGE(S) 
+
+QUESTION: 14
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: To the nearest whole degree Celsius, at what temperature is water the densest?
+		
+		
+		
+		 
+ANSWER:   4 
+
+QUESTION: 14
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Most of the peptide chains in a myoglobin molecule adopt what secondary structure? 
+ANSWER:   HELIX Round 16 Page 9 !
+
+QUESTION: 15
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Sometimes, organisms modify the environments in which they occur; for example, termites build mounds with varied chimneys that regulate gas exchange, temperature, and other environmental parameters. This process is most commonly referred to as: 
+ANSWER:   ECOSYSTEM ENGINEERING 
+
+QUESTION: 15
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: The American bullfrog is a prolific hunter and can eat a wide variety of foods, including native western pond turtles and mice. Currently, western pond turtles are listed as an endangered species. Which of the following best explains why turtle populations would be more impacted than mice by the introduction of bullfrogs? 
+		W) Bullfrogs like to eat turtles more than they like to eat mice 
+		X) Turtles run slower than mice so they cant get away from the bullfrogs 
+		Y) Mice hide better than turtles 
+		Z) Turtles have a much longer generation time than mice 
+ANSWER:   Z) TURTLES HAVE A MUCH LONGER GENERATION TIME THAN MICE 
+
+QUESTION: 16
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: What type of smog in the boundary layer of the atmosphere contains sulfur dioxide? 
+		W) Oxidizing 
+		X) Photochemical 
+		Y) Reducing 
+		Z) Boundary layer 
+ANSWER:   Y) REDUCING 
+
+QUESTION: 16
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: What types of clouds have smooth, lens-like shapes and can stack vertically on top of each other? 
+ANSWER:   ALTOCUMULUS STANDING LENTICULARUS (ACCEPT: LENTICULAR CLOUDS) Round 16 Page 10 !
+
+QUESTION: 17
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Two sounds of the same intensity will be perceived by the human ear to have the same loudness if: 
+		W) The two sounds have the same pitch 
+		X) The two sounds have the same pitch and the same timbre 
+		Y) The two sounds have the same timbre 
+		Z) The two sounds are below 100 Hertz 
+ANSWER:   X) THE TWO SOUNDS HAVE THE SAME PITCH AND THE SAME TIMBRE 
+
+QUESTION: 17
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: While waterskiing behind her uncles boat, Michelle is pulled at a constant speed with a force of 164 newtons by a rope that is nearly horizontal. If Michelle has a mass of 65 kilograms, what is the coefficient of sliding friction between Michelle and the water? 
+		W) 0.05 
+		X) 0.18 
+		Y) 0.26 
+		Z) 0.40 
+ANSWER:   Y) 0.26 
+
+QUESTION: 18
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Expressing your answer in simplest radical form; evaluate (read as: sine of the quantity 7 pi over 4). 
+ANSWER:   
+
+QUESTION: 18
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: In the use of a statistical test, which of the following constitutes a Type I (read as: type one) error? 
+		W) rejecting a true null hypothesis 
+		X) accepting a false null hypothesis 
+		Y) using a sample size that is too small for the test 
+		Z) comparing samples that differ too much in size 
+ANSWER:   W) REJECTING A TRUE NULL HYPOTHESIS Round 16 Page 11 !
+
+QUESTION: 19
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following most closely approximates the number of protein-coding genes in the human genome? 
+		W) 10,000 
+		X) 20,000 
+		Y) 50,000 
+		Z) 100,000 
+ANSWER:   X) 20,000 
+
+QUESTION: 19
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Arrange the following to depict the conduction pathway in the vertebrate heart: 1) atrioventricular node, 2) right and left bundle branches, 3) sinoatrial node, 4) Bundle of His, 5) Purkinje fibers. 
+ANSWER:   3) SINOATRIAL NODE; 1) ATRIOVENTRICULAR NODE; 4) BUNDLE OF HIS; 2) RIGHT AND LEFT BUNDLE BRANCHES; 5) PURKINJE FIBERS 
+
+QUESTION: 20
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: The degree of unsaturation of a hydrocarbon containing two rings is equivalent to the degree of unsaturation of a hydrocarbon containing an: 
+		W) Alkane 
+		X) Alkene 
+		Y) Alkyne 
+		Z) Alcohol 
+ANSWER:   Y) ALKYNE 
+
+QUESTION: 20
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: The dehydrogenation of a single C-C bond within a hydrocarbon leads to what change in the number of hydrogens in the molecule? 
+ANSWER:   LOSS OF 2 HYDROGENS Round 16 Page 12 !
+
+QUESTION: 21
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: In 1999, NASA lost a $125 million Mars orbiter because: 
+		W) The atmosphere on Mars was so corrosive that the orbiter was destroyed 
+		X) The engine did not fire 
+		Y) The robotic arm jilted it out of orbit 
+		Z) Lockheed Martin engineers used English units of measurement and NASA used the metric system 
+ANSWER:   Z) LOCKHEED MARTIN ENGINEERS USED ENGLISH UNITS OF MEASUREMENT AND NASA USED THE METRIC SYSTEM 
+
+QUESTION: 21
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Arturo, whose mass is 45 kilograms, is riding his 5.0 kilogram skateboard down the sidewalk with a constant speed of 6.0 meters per second when he rolls across a 10.0 meter long patch of sand on the pavement. The sand provides a force of friction of 6.0 newtons. What is Arturos speed in meters per second as he emerges from the sand? 
+		W) 0 
+		X) 1.8 
+		Y) 3.8 
+		Z) 5.8 
+ANSWER:   Z) 5.8 
+
+QUESTION: 22
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following does not describe how atoms in a CH2 group can vibrate? 
+		W) Rocking 
+		X) Symmetrical stretching 
+		Y) See-sawing 
+		Z) Twisting 
+ANSWER:   Y) SEE-SAWING 
+
+QUESTION: 22
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: A chemist is trying to interpret the results of his Infra-Red Spectroscopy analysis of a compound. He sees a band of high absorbance, around 95%, at about 1775 inverse centimeters. What functional group does his compound most likely contain? 
+ANSWER:   CARBONYL Round 16 Page 13 !
+
+QUESTION: 23
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Evaluate log (read as: log of the quantity 10 to the x times 100 over 10 thousand) W) 2 - x X) x - 2 Y) x + 3 Z) 10x 
+ANSWER:   X) x 2 
+
+QUESTION: 23
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Find the polynomial with real coefficients, leading coefficient 1, and least degree that has 2 + 3i as a zero. 
+ANSWER:   x2 4x +13 
+
+QUESTION: 24
+TYPE:     toss-up
+SUBJECT:  energy
+FORMAT:   multiple choice
+QUESTION: Methane is emitted from a variety of anthropogenic and natural sources. The largest human-related source of methane emissions comes from enteric fermentation. At which of the following locations would you most likely find an example of enteric fermentation? 
+		W) Petroleum system 
+		X) Coal mine 
+		Y) Landfill 
+		Z) Cattle ranch 
+ANSWER:   Z) CATTLE RANCH 
+
+QUESTION: 24
+TYPE:     bonus
+SUBJECT:  energy
+FORMAT:   short answer
+QUESTION: Earths core is kept hot by the radioactive decay of several radioactive substances, including Uranium-235 and 238; name the other two heat-producing isotopes which are also significant contributors to the radioactive heat production of the Earth. 
+ANSWER:   POTASSIUM-40 AND THORIUM-232 (DO NOT ACCEPT POTASSIUM AND THORIUM) Round 16 Page 14 !
+
+QUESTION: 25
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: Lake Vostok, an Antarctic subglacial lake, is thought to be a potential analogue for two bodies of astrobiological interest. Name one. 
+ANSWER:   EUROPA OR ENCELADUS (read as: ehn-sehl-AH-duhs) 
+
+QUESTION: 25
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: The Jovian moon Europa is thought to have a liquid water ocean underlying a water ice shell. What mechanism is responsible for warming the Europan ocean? 
+ANSWER:   TIDAL HEATING (ACCEPT: GRAVITATIONAL HEATING OR INTERNAL FRICTION CAUSED BY JUPITERS GRAVITY) 
+

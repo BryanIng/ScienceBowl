@@ -1,0 +1,434 @@
+QUESTION: 1
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following is the magnitude of the focal length of a spherically curved convex mirror in air, where R stands for the radius of curvature: 
+		W) R divided by 1.22 
+		X) R divided by 2 
+		Y) R divided by 1.5 
+		Z) R times 4 
+ANSWER:   X) R DIVIDED BY 2 
+
+QUESTION: 1
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: An emergency floodlight draws 1 ampere from its battery pack. How many coulombs will flow through the light in 4 hours? 
+ANSWER:   14,400 
+
+QUESTION: 2
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: About how many calories per gram will it take to sublimate water at standard pressure: 
+		W) 180 
+		X) 360 
+		Y) 540 
+		Z) 720 
+ANSWER:   Z) 720 (Solution: sublimation is solid vapor; 80 cal + 100 cal + 540 cal = 720 cal) 
+
+QUESTION: 2
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: A Buchner (read as: BYOU-kh-ner) funnel is a piece of laboratory glassware often used in chemistry labs for which of the following procedures: 
+		W) combustion 
+		X) filtration 
+		Y) centrifugation 
+		Z) distillation 
+ANSWER:   X) FILTRATION High School Round 9 Page 2 
+
+QUESTION: 3
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following tissues is most directly responsible for the growth in height of a tree: 
+		W) apical meristem 
+		X) shoot terminus 
+		Y) terminal cambial 
+		Z) cambium terminus 
+ANSWER:   W) APICAL MERISTEM 
+
+QUESTION: 3
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What specific cells and how many of them border each stomal pore? 
+ANSWER:   GUARD CELLS; 2 
+
+QUESTION: 4
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: If 5xe = 30, which of the following is the value of x, assuming that the natural log of 2 = 0.7, and the natural log of 15 = 2.7: 
+		W) 15 
+		X) 16 
+		Y) 17 
+		Z) 18 
+ANSWER:   Y) 17 (Solution: x/5 = ln 15 + ln 2 = 3.4; x/5 = 3.4; x = 17) 
+
+QUESTION: 4
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: If the area of a regular pentagon is 280 square centimeters, what is the length, in centimeters, of each side if the apothem is 16 centimeters? 
+ANSWER:   7 (Solution: A = ap; 280 = (16)(p); p = 35/5 = 7 cm) High School Round 9 Page 3 
+
+QUESTION: 5
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Tree growth is often very stunted and gnarly at the tree line of high mountains in North America. Known as Krummholz formations, this is primarily caused by: 
+		W) winds 
+		X) subsidence 
+		Y) lowered atmospheric pressure 
+		Z) low sunlight levels 
+ANSWER:   W) WINDS 
+
+QUESTION: 5
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is generally NOT true of the alpine versus arctic tundra biomes: 
+		W) alpine tundra does not contain permafrost whereas arctic tundra does contain permafrost 
+		X) alpine tundra is warmer and has a longer growing season than arctic tundra 
+		Y) alpine tundra has a lower species diversity than arctic tundra 
+		Z) alpine tundra has less severe winters than arctic tundra 
+ANSWER:   Y) ALPINE TUNDRA HAS A LOWER SPECIES DIVERSITY THAN ARCTIC TUNDRA 
+
+QUESTION: 6
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: Name 2 of the following 4 choices that are the 2 main logical reasoning methods used in science: inductive; synthetic; observational; deductive 
+ANSWER:   INDUCTIVE; DEDUCTIVE 
+
+QUESTION: 6
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: To the nearest whole number, convert 50F into kelvin: 
+ANSWER:   283 (Solution: 5/9(50 32) = 10 C + 273 = 283 K) High School Round 9 Page 4 
+
+QUESTION: 7
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT true: 
+		W) the star Sirius at its brightest has an apparent magnitude of about negative 1.5 
+		X) metal-rich stars sometimes have planets 
+		Y) typical binoculars allow observation of stars with apparent magnitudes of about 9.0 
+		Z) the Sun has an apparent magnitude of about negative 12 
+ANSWER:   Z) THE SUN HAS AN APPARENT MAGNITUDE OF ABOUT NEGATIVE 12 (Solution: the Suns apparent magnitude is 26.73) 
+
+QUESTION: 7
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Astronomers will often refer to certain stars as low metal content stars. In this sense astronomers consider metals as any element: 
+		W) heavier than helium 
+		X) heavier than carbon 
+		Y) heavier than copper 
+		Z) heavier than iron 
+ANSWER:   W) HEAVIER THAN HELIUM 
+
+QUESTION: 8
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following MOST directly determines the permittivity of a material: 
+		W) ability of the material to magnetize 
+		X) electrical susceptibility 
+		Y) electrical insulation capacity 
+		Z) electrical conductivity 
+ANSWER:   X) ELECTRICAL SUSCEPTIBILITY 
+
+QUESTION: 8
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What are the SI units for permittivity? 
+ANSWER:   FARADS PER METER High School Round 9 Page 5 
+
+QUESTION: 9
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following is one of the main reasons why oxygenates are used as gasoline additives: 
+		W) allow for more complete combustion 
+		X) decrease sulfur buildup in engine pistons 
+		Y) prevent water condensation in stored fuels 
+		Z) corrosion inhibition 
+ANSWER:   W) ALLOW FOR MORE COMPLETE COMBUSTION 
+
+QUESTION: 9
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Consider the following equilibrium reaction, PCl5(gas) 3(gas) + Cl2(gas). If a 2 mole sample of PCl5 dissociates to give 0.2 moles of Cl2 at equilibrium, find the molar amounts, to the 1st decimal place, of PCl5 at equilibrium: 
+ANSWER:   1.8 (Solution: 2 0.2 = 1.8) 
+
+QUESTION: 10
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: During what phase of meiosis-one do homologous chromosomes exchange genetic information? 
+ANSWER:   PROPHASE-ONE (ACCEPT: PROPHASE) 
+
+QUESTION: 10
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Order the following 3 choices from the EARLIEST stage to the LATEST stage of ovarian follicle development, and identify which of the structures is typically the LARGEST: secondary follicle; corpus luteum; corpus albicans 
+ANSWER:   SECONDARY FOLLICLE; CORPUS LUTEUM; CORPUS ALBICANS; LARGEST = CORPUS LUTEUM High School Round 9 Page 6 
+
+QUESTION: 11
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: A circle has a diameter of 32 meters. Find the degree measure of the central angle of a sector o 
+ANSWER:   90 (Solution: arc/circumference = n/360; n = 90 or (8) = 90) 
+
+QUESTION: 11
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Find the sum of the first 10 terms of the arithmetic sequence whose first three terms are 7, 11, and 15: 
+ANSWER:   250 
+
+QUESTION: 12
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is the most common type of ocean tide throughout the world and is the type found along the U.S. Pacific coast: 
+		W) diurnal 
+		X) semidiurnal 
+		Y) mixed 
+		Z) zonal 
+ANSWER:   Y) MIXED 
+
+QUESTION: 12
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: In which of the following regions of the worlds oceans are you most likely to find the greatest uniformity in density changes with increasing depth: 
+		W) equator 
+		X) tropics 
+		Y) high latitudes 
+		Z) desert latitudes 
+ANSWER:   Y) HIGH LATITUDES (Solution: at high polar latitudes, change is nearly constant) High School Round 9 Page 7 
+
+QUESTION: 13
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Which of the following is a jaw-less fish: 
+		W) lungfish 
+		X) catfish 
+		Y) lamprey 
+		Z) sturgeon 
+ANSWER:   Y) LAMPREY 
+
+QUESTION: 13
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: In the northern hemisphere, name all of the following 4 northern degree latitudes that will experience a 12-hour length of day during the vernal equinox: 0; 10; 15; 20 
+ANSWER:   ALL 
+
+QUESTION: 14
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: As a comet approaches the Sun, most of its icy substances are released during what phase change process? 
+ANSWER:   SUBLIMATION 
+
+QUESTION: 14
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: During which of the following orbital arrangements can a transit occur for the planet Venus: 
+		W) opposition 
+		X) greatest eastern elongation 
+		Y) superior conjunction 
+		Z) inferior conjunction 
+ANSWER:   Z) INFERIOR CONJUNCTION High School Round 9 Page 8 
+
+QUESTION: 15
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What is the general term for the process of making different types of semiconductors by adding slight amounts of impurities into the silicon matrix? 
+ANSWER:   DOPING 
+
+QUESTION: 15
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What specific type of semiconductor is produced by doping silicon with arsenic? 
+ANSWER:   N-TYPE 
+
+QUESTION: 16
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: The reaction CuCl2 + Na2S CuS + 2NaCl2, is an example of what class of chemical reaction: 
+		W) synthesis 
+		X) single replacement 
+		Y) double replacement 
+		Z) decomposition 
+ANSWER:   Y) DOUBLE REPLACEMENT 
+
+QUESTION: 16
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Name all of the following 4 species that contain an odd number of electrons: O21; O22; SO2; CO 
+ANSWER:   O21 High School Round 9 Page 9 
+
+QUESTION: 17
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following is the most common term for an area of primitive cells in plants where active cell division occurs: 
+		W) meristem 
+		X) ground tissue 
+		Y) primary cells 
+		Z) germinal tissue 
+ANSWER:   W) MERISTEM 
+
+QUESTION: 17
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the layer typically found between 2 plant cell walls of adjoining plant cells which is composed of pectin? 
+ANSWER:   MIDDLE LAMELLA 
+
+QUESTION: 18
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What is the name for the test that can be used to visually determine whether or not a relation defined by a graph represents a function? 
+ANSWER:   VERTICAL LINE TEST (ACCEPT: VERTICAL LINE) 
+
+QUESTION: 18
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Find the x and y intercepts of the line passing through the point (4, 8) that is perpendicular to the line 3x 6y 12 = 0: 
+ANSWER:   X-INTERCEPT = (8, 0) (ACCEPT: 8); Y-INTERCEPT = (0, 16) (ACCEPT: 16) High School Round 9 Page 10 
+
+QUESTION: 19
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is a medium or coarse-grained rock that consists primarily of plagioclase feldspar and pyroxene and is essentially the plutonic equivalent of basalt: 
+		W) diorite 
+		X) rhyolite 
+		Y) andesite 
+		Z) gabbro 
+ANSWER:   Z) GABBRO 
+
+QUESTION: 19
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Scoria is most typically described as having which of the following textures: 
+		W) phaneritic 
+		X) fragmental 
+		Y) porphyritic 
+		Z) vesicular 
+ANSWER:   Z) VESICULAR 
+
+QUESTION: 20
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Blepharitis (read as: bleff-ah-rye-tis) in humans is an inflammation of the: 
+		W) urinary bladder 
+		X) eyelid 
+		Y) fingernail 
+		Z) tongue 
+ANSWER:   X) EYELID 
+
+QUESTION: 20
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Which of the following is a principal component of a siderite meteorite: 
+		W) neptunium 
+		X) carbon 
+		Y) iron 
+		Z) erbium 
+ANSWER:   Y) IRON High School Round 9 Page 11 
+
+QUESTION: 21
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: Which 2 of the following 4 factors most directly determine the apparent visual magnitude of a star: distance from Earth; intrinsic brightness; color; age 
+ANSWER:   DISTANCE FROM EARTH; INTRINSIC BRIGHTNESS 
+
+QUESTION: 21
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: What 2 characteristics of Uranus are most commonly noted as the reasons why Uranus was not discovered until the late 1700s? 
+ANSWER:   APPARENT MAGNITUDE; ORBITAL PERIOD ( ACCEPT: BRIGHTNESS or MAGNITUDE) 
+
+QUESTION: 22
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: In the electrolysis of water, if the production of each molecule of oxygen requires 4 units of electricity, each hydrogen molecule will require how many units of electricity? 
+ANSWER:   2 
+
+QUESTION: 22
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What is the maximum number of 100-watt light bulbs that can run on a 110-volt residential circuit protected by a 15-amp fuse without blowing the fuse? 
+ANSWER:   16 (Solution: 100W/110 = 0.9 amps; 15 amp fuse/0.9 amp = 16.7 or 16 bulbs) High School Round 9 Page 12 
+
+QUESTION: 23
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What are the 2 alkenes (read as: al-KEENS) with the shortest carbon chains and lowest molecular weights? 
+ANSWER:   ETHYLENE; PROPYLENE (ACCEPT: ETHENE; PROPENE) 
+
+QUESTION: 23
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Arrange the following 4 metals in order of increasing reactivity in dilute HCl: zinc; aluminum; gold; calcium 
+ANSWER:   GOLD; ZINC; ALUMINUM; CALCIUM 
+
+QUESTION: 24
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Which one of basic plant cell types has a primary and secondary cell wall that is dead when mature? 
+ANSWER:   SCLERENCHYMA 
+
+QUESTION: 24
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Name all of the following 4 plants that produce seeds: cycads; ferns; mosses; conifers 
+ANSWER:   CYCADS; CONIFERS High School Round 9 Page 13 
+
+QUESTION: 25
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What is the general name for a substance that facilitates a chemical reaction by providing an alternative reaction pathway with a lower activation energy while remaining unaltered? 
+ANSWER:   CATALYST 
+
+QUESTION: 25
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: You need to prepare 500 milliliters of a 0.100 molar NaOH solution from a 0.250 molar solution. What volume, in milliliters, of the 0.250 molar solution must be diluted to 500 milliliters? 
+ANSWER:   200 (Solution: M1V1 = M2V2; (0.250M)(x) = (0.100M)(500ml), x = 200 ml) 
+

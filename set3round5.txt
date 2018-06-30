@@ -1,0 +1,450 @@
+QUESTION: 1
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Colloids formed by the dispersal of a gas in a liquid are called: 
+		W) emulsions 
+		X) foams 
+		Y) aerosols 
+		Z) solid sols 
+ANSWER:   X) FOAMS 
+
+QUESTION: 1
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: If a substance has a molecular weight of 88, which of the following will it be: 
+		W) KCl 
+		X) C4H8O2 
+		Y) RbF 
+		Z) C6H14 
+ANSWER:   X) C4H8O2 
+
+QUESTION: 2
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What color of light is produced when equal intensities of cyan light and red light are combined? 
+ANSWER:   WHITE (Solution: adding a primary color to the proper secondary color (called complementary colors) will give white light; complementary color pairs are one primary color and one secondary color, e.g. blue and yellow, red and cyan, or green and magenta.) 
+
+QUESTION: 2
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What is the resistance, in ohms, for an electric stove that draws 24 amps on a 240-volt circuit? 
+ANSWER:   10 (Solution: I = V/R; R = V/I; R = 240/24 = 10 ohms) 2007 Regional Science Bowl Page 2 
+
+QUESTION: 3
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the most common term for the specific type of cartilage that forms the disks between human vertebrae? 
+ANSWER:   FIBROCARTILAGE 
+
+QUESTION: 3
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Name all of the following 4 choices that are considered part of the connective tissue: blood; adipocytes (read as: ADD-ih-poe-sites); muscles; nerves 
+ANSWER:   BLOOD; ADIPOCYTES 
+
+QUESTION: 4
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What are the lengths, in centimeters, of the hypotenuse and the longer leg, respectively, of a 30-60-90 degree right triangle if the shorter leg is 12 centimeters long? 
+ANSWER:   HYPOTENUSE = 24; LONGER LEG = 123 (ACCEPT: LONGER LEG = 20 21) 
+
+QUESTION: 4
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Giving your answer in terms of pi, what is the area of a circle whose circumference is 20? 
+ANSWER:   !100 (Solution: C = !d; A = !r2 = !(10/!)2 = 100/!) 2007 Regional Science Bowl Page 3 
+
+QUESTION: 5
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT true: 
+		W) Los Angeles is moving towards San Diego at a current rate of 2 to 3 meters per year 
+		X) the source of all igneous rocks is molten magma 
+		Y) silicates are the most abundant group of minerals in Earths crust and mantle 
+		Z) oceanic crust is generally thinner than continental crust 
+ANSWER:   W) LOS ANGELES IS MOVING TOWARDS SAN DIEGO AT A CURRENT RATE OF 2 TO 3 METERS PER YEAR 
+
+QUESTION: 5
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   short answer
+QUESTION: Order the following 4 Earth materials in order of INCREASING specific heat capacity: solid water; liquid water; granite; lead 
+ANSWER:   LEAD; GRANITE; SOLID WATER; LIQUID WATER (Solution: lead = 0.03; granite = 0.2; solid water = 0.5; liquid water = 1.0 cal/gC) 
+
+QUESTION: 6
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Which of the following BEST describes the size of the average amoeba: 
+		W) 1 angstrom 
+		X) 2 micrometers 
+		Y) 600 micrometers 
+		Z) 1 centimeter 
+ANSWER:   Y) 600 MICROMETERS 
+
+QUESTION: 6
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: Rounded to the nearest whole number, convert 283K into degrees Fahrenheit: 
+ANSWER:   50 (Solution: 283 273 = 10C; 10 " 1.8 + 32 = 50F) 2007 Regional Science Bowl Page 4 
+
+QUESTION: 7
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following is the MOST common term for a galaxy that is emitting a large amount of radiation from a black hole at its center: 
+		W) bright galaxy 
+		X) luminous galaxy 
+		Y) active galaxy 
+		Z) event galaxy 
+ANSWER:   Y) ACTIVE GALAXY 
+
+QUESTION: 7
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Stars in the spectral class A would have a surface temperature of about: 
+		W) 5,000 K 
+		X) 10,000 K 
+		Y) 15,000 K 
+		Z) 20,000 K 
+ANSWER:   X) 10,000 K 
+
+QUESTION: 8
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: How many nodes are in an s orbital? 
+ANSWER:   NONE (ACCEPT: ZERO) 
+
+QUESTION: 8
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT true of glucose: 
+		W) when glucose joins with galactose, fructose is formed 
+		X) it is also called dextrose 
+		Y) cellulose is a polymer of glucose molecules 
+		Z) its formula is C6H12O6 
+ANSWER:   W) WHEN GLUCOSE JOINS WITH GALACTOSE, FRUCTOSE IS FORMED 2007 Regional Science Bowl Page 5 
+
+QUESTION: 9
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following colors of light would give the highest resolving power of a compound light microscope: 
+		W) infrared 
+		X) orange 
+		Y) green 
+		Z) ultraviolet 
+ANSWER:   Z) ULTRAVIOLET 
+
+QUESTION: 9
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: If Jim expends 200 watts of power to vertically lift a 200-newton rock 3 meters high, how many seconds did it take him to lift the boulder? 
+ANSWER:   3 (Solution: power = work/time = force " distance/s 200W = 200N " 3/x; x = 3s) 
+
+QUESTION: 10
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Blood albumin is most directly involved with: 
+		W) osmoregulation 
+		X) hormone regulation 
+		Y) bile production 
+		Z) acid base regulation 
+ANSWER:   W) OSMOREGULATION 
+
+QUESTION: 10
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT true in humans: 
+		W) trisomy X originates from a nondisjunction 
+		X) all enzymes are proteins 
+		Y) albumin is produced by the liver 
+		Z) the spleen produces red blood cells in the fetus 
+ANSWER:   X) ALL ENZYMES ARE PROTEINS 2007 Regional Science Bowl Page 6 
+
+QUESTION: 11
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Solve the following radical equation for x, when x is a real number: 215=+x 
+ANSWER:   31 
+
+QUESTION: 11
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What is the greatest common factor for the numbers 63 and 273? 
+ANSWER:   21 
+
+QUESTION: 12
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: An oligotrophic (read as: oh-lig-oh-TROW-fick) lake is one that is BEST defined as: 
+		W) deep, cold, and nutrient-poor 
+		X) deep, cold, and nutrient-rich 
+		Y) shallow, warm, and nutrient-poor 
+		Z) shallow, warm, and nutrient-rich 
+ANSWER:   W) DEEP, COLD, AND NUTRIENT-POOR 
+
+QUESTION: 12
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   short answer
+QUESTION: According to the Atterberg and U.S. Department of Agriculture classification scales, what type of soil particles have diameters of less than 0.002 millimeters and are considered the smallest particles of soil? 
+ANSWER:   CLAY 2007 Regional Science Bowl Page 7 
+
+QUESTION: 13
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: Which of the following 5 sources accounts for the largest share of energy used in the U.S.: coal; petroleum products; nuclear energy; renewable energy; natural gas 
+ANSWER:   PETROLEUM PRODUCTS 
+
+QUESTION: 13
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: In 2004, 19.7 million barrels of petroleum products were used each day in the U.S. Rounded to the nearest gallon, how much does this represent per person per day? 
+ANSWER:   3 (Solution: (42 gal " 19.7)/300 million people = 3 gals) 
+
+QUESTION: 14
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following is LEAST accurate: 
+		W) at the equator, stars appear to rise and set vertically 
+		X) all Mira stars are Red Giants 
+		Y) right ascension is analogous to longitude 
+		Z) the Earth is closest to the Sun during December 
+ANSWER:   Z) THE EARTH IS CLOSEST TO THE SUN DURING DECEMBER 
+
+QUESTION: 14
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following is the MOST commonly accepted reason as to why the planet Uranus rotates on its side: 
+		W) it oscillates in its rotation orientation over thousands of years 
+		X) it captured four of its moons early in its development which radically affected its primordial disk rotation 
+		Y) it was once struck by a massive object 
+		Z) because of its orbital position and low density it was susceptible to a wide variety of axial rotational possibilities 
+ANSWER:   Y) IT WAS ONCE STRUCK BY A MASSIVE OBJECT 2007 Regional Science Bowl Page 8 
+
+QUESTION: 15
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following statements regarding geometric or cis-trans isomers is NOT true: 
+		W) they have the same molecular formula 
+		X) they have the same order of attachment of atoms 
+		Y) they have the same orientation around a double bond 
+		Z) they have the same functional groups 
+ANSWER:   Y) THEY HAVE THE SAME ORIENTATION AROUND A DOUBLE BOND 
+
+QUESTION: 15
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What is the formal charge of nitrogen in the ammonia, or NH3, molecule? 
+ANSWER:   0 
+
+QUESTION: 16
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT a composite material: 
+		W) bone 
+		X) plywood 
+		Y) wood 
+		Z) mild steel 
+ANSWER:   Z) MILD STEEL 
+
+QUESTION: 16
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: If a 5,000-pound elephant is on one end of a plank at a distance of 5 feet from the pivot point and a 200-pound man is on the other end at a distance of 15 feet from the pivot, what will the available torque be, in foot-pounds, at the pivot while the plank is in motion? 
+ANSWER:   22,000 (Solution: (5000 lbs " 5ft) (200 lbs " 15 ft) = 25,000 3000 = 22,000 ft lbs) 2007 Regional Science Bowl Page 9 
+
+QUESTION: 17
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following human cell types is MOST directly responsible for the secretion of antibodies: 
+		W) monocytes 
+		X) CD4+ cells 
+		Y) T activator lymphocytes 
+		Z) B cells 
+ANSWER:   Z) B CELLS 
+
+QUESTION: 17
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What specific ion is most central to muscle contraction in striated human muscle? 
+ANSWER:   CALCIUM (ACCEPT: CALCIUM 2+ or Ca2+) 
+
+QUESTION: 18
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Give the value of c that completes the square of the following expression: x2 + 52x + c 
+ANSWER:   251 (ACCEPT: 0.04 or 1004) 
+
+QUESTION: 18
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Reduce the following radical expression to its simplest radical form: 23225 (read as: the square root of the cube root of 225) 
+ANSWER:   315 2007 Regional Science Bowl Page 10 
+
+QUESTION: 19
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: The Coriolis effect causes northward flowing air currents in the Northern hemisphere to veer off course: 
+		W) in the direction of rotation 
+		X) in the direction opposite to rotation 
+		Y) to the left 
+		Z) at a 90 angle 
+ANSWER:   W) IN THE DIRECTION OF ROTATION 
+
+QUESTION: 19
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following are the most important and abundant rock-forming minerals: 
+		W) carbonates 
+		X) silicates 
+		Y) iron sulfides 
+		Z) sulfates 
+ANSWER:   X) SILICATES 
+
+QUESTION: 20
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Which of the following is the most common and accurate term for when a persons immune system generates antibodies against its own bodys cells: 
+		W) autoimmune dysfunction 
+		X) homeostatic inflammation 
+		Y) heteroimmune reaction 
+		Z) anaphylactic reaction 
+ANSWER:   W) AUTOIMMUNE DYSFUNCTION 
+
+QUESTION: 20
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Which of the following is the BEST description of atherosclerosis: 
+		W) inflammation of the brain cortical tissues 
+		X) paralysis of extremities and loss of sensation 
+		Y) walls of blood vessels become thicker and less elastic 
+		Z) loss of ability to hear certain sounds 
+ANSWER:   Y) WALLS OF BLOOD VESSELS BECOME THICKER AND LESS ELASTIC 2007 Regional Science Bowl Page 11 
+
+QUESTION: 21
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: A star is found to have a surface temperature of 20,000 kelvin. Which of the following spectral types is it most likely to be: 
+		W) A 
+		X) F 
+		Y) G 
+		Z) O 
+ANSWER:   Z) O 
+
+QUESTION: 21
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: What is the astronomical term for a planets orbital point that is closest to the Sun? 
+ANSWER:   PERIHELION 
+
+QUESTION: 22
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: C6H6 is the molecular formula for what aromatic hydrocarbon? 
+ANSWER:   BENZENE 
+
+QUESTION: 22
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Consider a mixture of nitrogen and oxygen gases that has a total pressure of 0.63 atmospheres. If the partial pressure of nitrogen is 0.32 atmospheres, what is the partial pressure of oxygen in the mixture, in atmospheres to the second decimal place? 
+ANSWER:   0.31 2007 Regional Science Bowl Page 12 
+
+QUESTION: 23
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: In an application where ductility is required, which of the following materials would be your BEST choice: 
+		W) grey cast iron 
+		X) copper 
+		Y) granite 
+		Z) 1040 steel 
+ANSWER:   X) COPPER 
+
+QUESTION: 23
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following statements is NOT correct: 
+		W) percent elongation compared to the known value for a material is sometimes used to detect impurities in metal 
+		X) the modulus of elasticity for a material is derived from its stress-strain curve 
+		Y) ductile materials usually fail with little or no plastic deformation 
+		Z) a steel sample that is loaded beyond its elastic limit will not return to its original shape when the load is removed 
+ANSWER:   Y) DUCTILE MATERIALS USUALLY FAIL WITH LITTLE OR NO PLASTIC DEFORMATION 
+
+QUESTION: 24
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the botanical term for the stem of a group of flowers? 
+ANSWER:   PEDUNCLE 
+
+QUESTION: 24
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: In mammals, the action potential of a neuron is most dependent on the transmembrane movement of what 2 ions? 
+ANSWER:   SODIUM AND POTASSIUM (ACCEPT: Na+ and K+) 2007 Regional Science Bowl Page 13 
+
+QUESTION: 25
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following have largely replaced vacuum tubes that were used in electronics of the mid to later 20th century: 
+		W) capacitors 
+		X) transformers 
+		Y) transistors 
+		Z) amplifiers 
+ANSWER:   Y) TRANSISTORS 
+
+QUESTION: 25
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT true of uranium: 
+		W) it is very dense 
+		X) all isotopes are radioactive 
+		Y) uranium is sometimes used in counterweights in yacht keels 
+		Z) there are only 3 isotopes of uranium 
+ANSWER:   Z) THERE ARE ONLY 3 ISOTOPES OF URANIUM 
+

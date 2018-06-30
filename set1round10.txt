@@ -1,0 +1,454 @@
+QUESTION: 1
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: With which of the following does human interstitial fluid differ in concentration the most when compared with plasma: 
+		W) sodium ions 
+		X) potassium ions 
+		Y) magnesium ions 
+		Z) proteins 
+ANSWER:   Z) PROTEINS 
+
+QUESTION: 1
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What human organ produces the majority of immune complement proteins? 
+ANSWER:   LIVER 
+
+QUESTION: 2
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following is a diprotic acid: 
+		W) H2C2O4 
+		X) H3PO4 
+		Y) HCl 
+		Z) HNO2 
+ANSWER:   W) H2C2O4 (Solution: oxalic acid with 2 acidic H atoms) 
+
+QUESTION: 2
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following statements is NOT true: 
+		W) an ideal gas cannot undergo condensation 
+		X) the less mass a particle has, the faster it will effuse 
+		Y) when a gas is compressed, its temperature always increases 
+		Z) a gas is easier to compress than a liquid 
+ANSWER:   Y) WHEN A GAS IS COMPRESSED, ITS TEMPERATURE ALWAYS INCREASES High School Round 10 Page 2 
+
+QUESTION: 3
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following BEST describes the most common functions for which most transistors are used: 
+		W) to switch on and off or amplify electronic signals 
+		X) to allow electric current to pass in only one direction while increasing or decreasing the voltage 
+		Y) to store electrical energy 
+		Z) to regulate the frequency of electrical sine waves 
+ANSWER:   W) TO SWITCH ON AND OFF OR AMPLIFY ELECTRONIC SIGNALS 
+
+QUESTION: 3
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following is the abbreviated name of the most common field effect transistor in modern electronic circuitry: 
+		W) DET 
+		X) MOSFET 
+		Y) BJT 
+		Z) BFET 
+ANSWER:   X) MOSFET 
+
+QUESTION: 4
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Find the cotangent and cosecant, respectively, of a 90 angle: 
+ANSWER:   COTAN = 0; COSECANT = 1 
+
+QUESTION: 4
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: Which of the following points is closest to the point (1, 2): 
+		W) (3, 5) 
+		X) (0, 3) 
+		Y) (3, 0) 
+		Z) (5, 5) 
+ANSWER:   Y) (3, 0) (Solution: d = 212212)()(yyxx; 22))2(0()13( = 8) High School Round 10 Page 3 
+
+QUESTION: 5
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: In which of the following lakes in North America would you typically find a thriving community of halophiles and alkaliphiles: 
+		W) Lake Michigan 
+		X) Mono Lake, California 
+		Y) Great Slave Lake, Canada 
+		Z) Lake Powell, Utah/Arizona 
+ANSWER:   X) MONO LAKE, CALIFORNIA 
+
+QUESTION: 5
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following BEST explains why Mono Lake in California is hypersaline: 
+		W) it has no outlet and a high evaporation rate 
+		X) it is subject to extreme saltwater intrusion emanating from a vast system of underground aquifers 
+		Y) it is underlain by massive salt domes formed 250 million years ago 
+		Z) it has been subjected to periodic eruptions of volcanic ash 
+ANSWER:   W) IT HAS NO OUTLET AND A HIGH EVAPORATION RATE 
+
+QUESTION: 6
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Most VOCs, or volatile organic compounds, are: 
+		W) hydrocarbons 
+		X) oxides 
+		Y) nitrogenous wastes 
+		Z) particulates 
+ANSWER:   W) HYDROCARBONS 
+
+QUESTION: 6
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: A 25-microliter blood serum sample contains 50 micrograms of an enzyme. What is the enzyme concentration in parts per million? 
+ANSWER:   2,000 (ACCEPT: 2 103) (Solution: 50 ug/0.025 ml = 2000 ug/ml = 2000 ppm) High School Round 10 Page 4 
+
+QUESTION: 7
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: What specific class of stars was discovered by Henrietta Leavitt to have special properties that allowed it to be used in measuring long astronomical distances? 
+ANSWER:   CEPHEID VARIABLES 
+
+QUESTION: 7
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following most directly addresses that a gas of low density, when excited, will emit light of a certain wavelength: 
+		W) Kirchhoffs second law 
+		X) Bodes second law 
+		Y) Wiens law 
+		Z) Balmers law 
+ANSWER:   W) KIRCHHOFFS SECOND LAW 
+
+QUESTION: 8
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following molecules would have the most peptide bonds: 
+		W) glycogen 
+		X) hemoglobin 
+		Y) lecithin 
+		Z) DNA 
+ANSWER:   X) HEMOGLOBIN 
+
+QUESTION: 8
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Name all of the following 4 substances that would typically be considered exocrine products: insulin; pepsin; hemoglobin; epinephrine 
+ANSWER:   PEPSIN High School Round 10 Page 5 
+
+QUESTION: 9
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following would be LEAST applicable for determining the end point in a titration experiment: 
+		W) pH meter 
+		X) phenolphthalein (read as: fee-knoll-THAY-lean) solution 
+		Y) potentiometer 
+		Z) mass spectrometry 
+ANSWER:   Z) MASS SPECTROMETRY 
+
+QUESTION: 9
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following gases will have the LOWEST freezing point: 
+		W) hydrogen 
+		X) water 
+		Y) helium 
+		Z) carbon dioxide 
+ANSWER:   Y) HELIUM 
+
+QUESTION: 10
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: By what factor will the gravitational attraction between two masses be multiplied, if the distance between their centers of mass remains the same, but the mass of one doubles? 
+ANSWER:   2 TIMES (ACCEPT: 2 or DOUBLES) 
+
+QUESTION: 10
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following occurs when a glass tube is rubbed with a silk cloth: 
+		W) protons are transferred from the silk to the glass tube 
+		X) protons are transferred from the glass tube to the silk 
+		Y) electrons are transferred from the silk to the glass tube 
+		Z) electrons are transferred from the glass tube to the silk 
+ANSWER:   Z) ELECTRONS ARE TRANSFERRED FROM THE GLASS TUBE TO THE SILK High School Round 10 Page 6 
+
+QUESTION: 11
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What are the leading coefficient and degree, respectively, of the following polynomial: 3x2 6x5 + 7 
+ANSWER:   LEADING COEFFICIENT = 6; DEGREE = 5 
+
+QUESTION: 11
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: through the point (5, 12). Find the sine, cosine and tangent, in fractional form: 
+ANSWER:   SIN = 1312; COS = 135; TAN = 512 
+
+QUESTION: 12
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is both fluorescent and radioactive: 
+		W) calcite 
+		X) halite 
+		Y) talc 
+		Z) zircon 
+ANSWER:   Z) ZIRCON 
+
+QUESTION: 12
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following both have very similar chemical compositions but exhibit different colors: 
+		W) ruby and sapphire 
+		X) opal and pearl 
+		Y) diamond and quartz 
+		Z) amber and citrine 
+ANSWER:   W) RUBY AND SAPPHIRE High School Round 10 Page 7 
+
+QUESTION: 13
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Which of the following has the largest seasonal hypoxic zone in coastal waters of the western hemisphere: 
+		W) the Chesapeake Bay 
+		X) the Gulf of Maine 
+		Y) the Gulf of Mexico 
+		Z) Hudson Bay 
+ANSWER:   Y) THE GULF OF MEXICO 
+
+QUESTION: 13
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: The hypoxic zone in the Gulf of Mexico, and many other areas in the world, is largely caused by the influx of which of the following into waterways: 
+		W) phosphorous 
+		X) nitrogen 
+		Y) potassium 
+		Z) sulfur 
+ANSWER:   X) NITROGEN 
+
+QUESTION: 14
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT true of coronal mass ejections: 
+		W) they can lead to a loss in radio communications 
+		X) they can indirectly cause damage to electrical transformers 
+		Y) they typically will not damage space-based satellites 
+		Z) the next peak of ejections will likely be during the years 2010 to 2012 
+ANSWER:   Y) THEY TYPICALLY WILL NOT DAMAGE SPACE-BASED SATELLITES 
+
+QUESTION: 14
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: Choosing from upper left, upper right, lower left, and lower right, where on the HR diagram would a blue Supergiant be found? 
+ANSWER:   UPPER LEFT High School Round 10 Page 8 
+
+QUESTION: 15
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the common name for the units in DNA to which phosphates are covalently linked? 
+ANSWER:   RIBOSE SUGARS (ACCEPT: PENTOSE SUGARS or SUGARS or DEOXYRIBOSE SUGARS) 
+
+QUESTION: 15
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following is LEAST accurate regarding human genetics: 
+		W) genes from gametes are typically unchanged during their passage to the zygote 
+		X) the zygote gets 1 allele from each parental gene pair 
+		Y) all genes independently segregate 
+		Z) the number of copies of a particular gene can vary among individuals 
+ANSWER:   Y) ALL GENES INDEPENDENTLY SEGREGATE (Solution: genes on the same chromosome do not independently segregate) 
+
+QUESTION: 16
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following is a substance that is very reactive with the oxygen in air and must be stored under water or some other substance to keep it from becoming incendiary: 
+		W) fullerene 
+		X) white phosphorous 
+		Y) calcium fluoride 
+		Z) calcium oxide 
+ANSWER:   X) WHITE PHOSPHOROUS 
+
+QUESTION: 16
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following best describes the catalyst in the destruction of ozone by chlorofluorocarbons: 
+		W) homogeneous 
+		X) heterogeneous 
+		Y) enzymatic 
+		Z) autocatalytic 
+ANSWER:   W) HOMOGENEOUS (Solution: all in the same phase, namely gases) High School Round 10 Page 9 
+
+QUESTION: 17
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following BEST describes how and why electrical resistance is related to temperature: 
+		W) as temperature increases, resistance decreases because electrons move faster 
+		X) as temperature increases, resistance decreases because electrons are lost from the conductor 
+		Y) as temperature increases, resistance increases because protons move faster 
+		Z) as temperature increases, resistance increases because atoms vibrate more, increasing electron scattering 
+ANSWER:   Z) AS TEMPERATURE INCREASES, RESISTANCE INCREASES BECAUSE ATOMS VIBRATE MORE, INCREASING ELECTRON SCATTERING 
+
+QUESTION: 17
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: A 10-kilogram hay bale is raised to 5 meters above a barn floor and is then lowered to 4 meters below the floor. Relative to its starting position on the floor, what is the final gravitational potential energy of the bale, in joules, if g is rounded to the first decimal place? 
+ANSWER:   392 (must give negative value) (ACCEPT: 392 JOULES LESS) 9.8 (4) = 392 joules) 
+
+QUESTION: 18
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Identify the type of conic section represented by the equation, x2 16y2 = 64: 
+ANSWER:   HYPERBOLA 
+
+QUESTION: 18
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Giving your answer in millimeters squared, find the lateral surface area of a right pentagonal prism whose altitude is 12 millimeters and base has sides of length 8, 10, 12, 14, and 16 millimeters, respectively: 
+ANSWER:   720 (Solution: LA = (P)(h) = (8+10+12+14+16)(12) = 720 mm2) High School Round 10 Page 10 
+
+QUESTION: 19
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Aeolian sandstones are produced primarily by sand grain motion as a result of: 
+		W) river currents 
+		X) ocean currents 
+		Y) glacial transports 
+		Z) winds 
+ANSWER:   W) WINDS 
+
+QUESTION: 19
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: According to the Continental Drift Theory, Australia remained attached to Antarctica until the 2 entities drifted apart about how many million years ago: 
+		W) 80 
+		X) 120 
+		Y) 250 
+		Z) 350 
+ANSWER:   W) 80 
+
+QUESTION: 20
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: From which of the following sources is the food additive carrageenan (read as: carr-ah-GEE-nan) derived: 
+		W) petroleum 
+		X) seaweed 
+		Y) corn husks 
+		Z) yarrow root 
+ANSWER:   X) SEAWEED 
+
+QUESTION: 20
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: When emissions of nitrogen oxides and VOCs react in the presence of sunlight, what ground-level pollutant is formed? 
+ANSWER:   OZONE (ACCEPT: O3) High School Round 10 Page 11 
+
+QUESTION: 21
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: What 2 planets of our solar system are most alike in elemental makeup to the solar nebula? 
+ANSWER:   JUPITER; SATURN 
+
+QUESTION: 21
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: Order the following 4 stars from the HOTTEST to the COOLEST: K-3; K-2; B-7; M-10 
+ANSWER:   B-7; K-2; K-3; M-10 
+
+QUESTION: 22
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the specific type of protein from which spindle fibers are composed? 
+ANSWER:   TUBULIN (ACCEPT: ALPHA AND/OR BETA TUBULIN) 
+
+QUESTION: 22
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Name all of the following 4 diseases that are caused by protists: botulism; rabies; typhoid fever; toxoplasmosis 
+ANSWER:   TOXOPLASMOSIS High School Round 10 Page 12 
+
+QUESTION: 23
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What is the most common term for the direct addition of water to an alkene (read as: al-KEEN) to make an alcohol? 
+ANSWER:   HYDRATION 
+
+QUESTION: 23
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Under constant temperatures, a sample of gas at a pressure of 120 kilopascals is allowed to expand from 2 liters to 8 liters. Calculate the new pressure, in kilopascals: 
+ANSWER:   30 (Solution: P1V1 = P2V2; (120 kPa)(2L) = (P2)(8L); = 30 kPa) 
+
+QUESTION: 24
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Which of the 4 basic forces of the universe is most directly related to the ability of various metals to be hammered and formed into various shapes? 
+ANSWER:   ELECTROMAGNETIC (FORCE) 
+
+QUESTION: 24
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Given that the speed of sound at 0C at sea level in dry air is 331 meters per second, what is the speed of sound through dry air at sea level, giving your answer in proper SI units rounded to the nearest whole number, if the temperature of the air is 12C? 
+ANSWER:   338 METERS PER SECOND (must give units) (Solution: 0.6 12 + 331 = 338.2 m/s) High School Round 10 Page 13 
+
+QUESTION: 25
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What class of immunoglobulins is most directly responsible for hay fever and common allergies in humans? 
+ANSWER:   IGE (ACCEPT: E or IMMUNOGLOBULIN E) 
+
+QUESTION: 25
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Name all of the following 4 cells that typically possess mitochondria: erythrocytes; plasma cells; lymphocytes; neurons 
+ANSWER:   PLASMA CELLS; LYMPHOCYTES; NEURONS (ACCEPT: ALL BUT ERYTHROCYTES) 
+

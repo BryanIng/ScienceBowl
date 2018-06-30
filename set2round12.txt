@@ -1,0 +1,466 @@
+QUESTION: 1
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Keplers third law states that the square of a planets period is proportional to the: 
+		W) cube of its average distance from the sun 
+		X) square root of its average distance from the sun 
+		Y) cube of its average distance from its two neighboring planets 
+		Z) square of its average distance from the sun 
+ANSWER:   W) CUBE OF ITS AVERAGE DISTANCE FROM THE SUN 
+
+QUESTION: 1
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Order the following 4 categories of electromagnetic radiation from the LOWEST frequency to the HIGHEST: Ultraviolet, VHF TV, AM radio, radiation from 60 hertz AC current 
+ANSWER:   RADIATION FROM 60 HERTZ AC CURRENT; AM RADIO; VHF TV; ULTRAVIOLET 
+
+QUESTION: 2
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: A substances heat of sublimation at a given temperature is equal to which of the following at the same temperature: 
+		W) heat of fusion 
+		X) heat of vaporization 
+		Y) heat of fusion plus heat of vaporization 
+		Z) heat of fusion minus heat of vaporization 
+ANSWER:   Y) HEAT OF FUSION PLUS HEAT OF VAPORIZATION 
+
+QUESTION: 2
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Order the following 4 acids from the strongest to the weakest: nitric acid; perchloric acid; hydrochloric acid; acetic acid 
+ANSWER:   PERCHLORIC ACID; HYDROCHLORIC ACID; NITRIC ACID; ACETIC ACID 2002 Regional Science Bowl B Round 12 Page 2 
+
+QUESTION: 3
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following molecules is best described as recognizing a specific nucleotide sequence and sniping the DNA at or near this recognition site: 
+		W) restriction enzyme 
+		X) DNA polymerase 
+		Y) RNA polymerase 
+		Z) DNA ligase 
+ANSWER:   W) RESTRICTION ENZYME 
+
+QUESTION: 3
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: A double membrane is found in the: 
+		W) endoplasmic reticulum and nucleus 
+		X) nucleus and golgi (pronounced: GOAL-gee) 
+		Y) lysosomes and golgi 
+		Z) nucleus and chloroplasts 
+ANSWER:   Z) NUCLEUS AND CHLOROPLASTS 
+
+QUESTION: 4
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following constellations can be seen highest in the November sky of the northern hemisphere? 
+		W) Orion 
+		X) Cassiopeia 
+		Y) Mensa 
+		Z) Cancer 
+ANSWER:   X) CASSIOPEIA 
+
+QUESTION: 4
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: The Stefan-Boltzman Law states that the energy emitted from a black body varies with what power of the temperature? 
+ANSWER:   FOURTH 2002 Regional Science Bowl B Round 12 Page 3 
+
+QUESTION: 5
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: Which of the following Venn diagrams would best represent a relationship where sets A and B have no elements in common: 
+		W) 2 non-overlapping shaded circles 
+		X) portions of circles A and B are overlapped and the intersection point is shaded 
+		Y) circle A is entirely within circle B and only circle A is shaded 
+		Z) only circle A is shown 
+ANSWER:   W) 2 NON-OVERLAPPING SHADED CIRCLES 
+
+QUESTION: 5
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Use the Binomial Theorem to expand and simplify the following equation: (1 2x)3 ANSWER : 1 6x + 12x2 8x3
+ANSWER:   ) MATH Short Answer Use the Binomial Theorem to expand and simplify the following equation: (1 2x)3 ANSWER : 1 6x + 12x2 8x3 
+
+QUESTION: 6
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: What is the study of the size and shape of the Earth, the measurement of terrestrial gravitational forces, and the location of fixed points on the earth's surface: 
+		W) geography 
+		X) geology 
+		Y) geotropy 
+		Z) geodesy 
+ANSWER:   Z) GEODESY 
+
+QUESTION: 6
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following types of magma would LEAST likely be involved in a nonexplosive volcanic eruption: 
+		W) basaltic magma 
+		X) a relatively viscous magma 
+		Y) a relatively low silica content magma 
+		Z) a relatively high-temperature magma 
+ANSWER:   X) A RELATIVELY VISCOUS MAGMA 2002 Regional Science Bowl B Round 12 Page 4 
+
+QUESTION: 7
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: A type of lens aberration whereby the lens cannot focus the image of a flat subject onto a flat surface is called: 
+		W) barrel distortion 
+		X) chromatic aberration 
+		Y) field curvature 
+		Z) spherical aberration 
+ANSWER:   Y) FIELD CURVATURE 
+
+QUESTION: 7
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: One of the major challenges to making more accurate atomic clocks was: 
+		W) high atomic frequencies were difficult to monitor 
+		X) maintaining constant atomic vibrations 
+		Y) finding pure elementary samples for studies 
+		Z) cosmic ray interference disrupts the accurate measurements of atomic vibrations 
+ANSWER:   W) HIGH ATOMIC FREQUENCIES ARE DIFFICULT TO MONITOR 
+
+QUESTION: 8
+TYPE:     toss-up
+SUBJECT:  computer science
+FORMAT:   multiple choice
+QUESTION: A hardware frame and set of electrical connection interfaces that enable a notebook computer to effectively serve as a desktop computer is called a: 
+		W) docking station 
+		X) local bus 
+		Y) proxy interface 
+		Z) swapping deck 
+ANSWER:   W) DOCKING STATION 
+
+QUESTION: 8
+TYPE:     bonus
+SUBJECT:  computer science
+FORMAT:   multiple choice
+QUESTION: A client-server architecture is also known as: 
+		W) peer-to-peer architecture 
+		X) mainframe architecture 
+		Y) two-tier architecture 
+		Z) docking architecture 
+ANSWER:   Y) TWO-TIER ARCHITECTURE 2002 Regional Science Bowl B Round 12 Page 5 
+
+QUESTION: 9
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What is the resistance, in ohms, of an electric curling iron that draws 10 amps on a 120 volt line? 
+ANSWER:   12 (Solution: I = V/R, R = V/I, R = 120/10 = 12 ohms) 
+
+QUESTION: 9
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Consider a marble rolling in a straight path at 25 meters per second that slows to 15 meters per second in 5 seconds. In meters per second squared, what is the marbles average acceleration? 
+ANSWER:   -2 (DO NOT ACCEPT: 2 OR +2) (Solution: (15-25) / 5 = -2 m/s2) 
+
+QUESTION: 10
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: In the equation for Gibbs-free energy, if H (read as: delta H) of a reaction is negative and S (read as: delta S) is negative, then the reaction will occur: 
+		W) spontaneously at all temperatures 
+		X) nonspontaneously at all temperatures 
+		Y) spontaneously only at high temperatures 
+		Z) spontaneously only at low temperatures 
+ANSWER:   Z) SPONTANEOUSLY ONLY AT LOW TEMPERATURES 
+
+QUESTION: 10
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Heating ethylene in the presence of water vapor at 300C and under high pressure, is a common industrial method of producing billions of pounds of what substance? 
+ANSWER:   ETHANOL (ACCEPT: ETHYL ALCOHOL) 2002 Regional Science Bowl B Round 12 Page 6 
+
+QUESTION: 11
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following cells would NOT typically be found in the peripheral circulation: 
+		W) Polymorphonuclear leukocyte 
+		X) plasma cell 
+		Y) reticulocyte 
+		Z) erythroblasts 
+ANSWER:   Z) ERYTHROBLASTS 
+
+QUESTION: 11
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: The coat of a plant seed is typically derived from which of the following: 
+		W) the hypoderm 
+		X) the carpel 
+		Y) the micropyle 
+		Z) the integument 
+ANSWER:   Z) THE INTEGUMENT 
+
+QUESTION: 12
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: How many degrees of arc are in 6 hours of right ascension? 
+ANSWER:   90 DEGREES 
+
+QUESTION: 12
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: Which 2 of the following 5 minor planets have the largest diameters: Eros, Juno, Ceres, Amor, Apollo 
+ANSWER:   CERES AND JUNO 2002 Regional Science Bowl B Round 12 Page 7 
+
+QUESTION: 13
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: Which of the following angles would be located in Quadrant IV of a rectangular coordinate system: 
+		W) 2/3 rev 
+		X) -480 
+		Y) 3/16 rev 
+		Z) 0.8 rev 
+ANSWER:   Z) 0.8 REV 
+
+QUESTION: 13
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: In the following number sequence, what are the values for a, b and c: a, b, 38, 22, 14, 10, c 
+ANSWER:   a = 134; b = 70; c = 8 
+
+QUESTION: 14
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: A number of 8 on the Beaufort Scale indicates a wind speed of: 
+		W) 7 10 knots 
+		X) 17 21 knots 
+		Y) 34 40 knots 
+		Z) 40 64 knots 
+ANSWER:   Y) 34 40 KNOTS 
+
+QUESTION: 14
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: In what 5-year period did the U.S. experience the highest level of North Atlantic hurricane activity: 
+		W) 1970 - 1975 
+		X) 1980 - 1985 
+		Y) 1985 - 1990 
+		Z) 1995 - 2000 
+ANSWER:   Z) 1995 - 2000 2002 Regional Science Bowl B Round 12 Page 8 
+
+QUESTION: 15
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: In the oceanic ecosystem, which zone is defined by the depth of light penetration: 
+		W) probiotic 
+		X) euphotic 
+		Y) photobiotic 
+		Z) bathyal 
+ANSWER:   X) EUPHOTIC 
+
+QUESTION: 15
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Most manufactured glass used to make bottles, tableware, lamp bulbs, and window and plate glass, is of what composition: 
+		W) potassium silicate 
+		X) borosilicate 
+		Y) soda-lime 
+		Z) lead 
+ANSWER:   Y) SODA-LIME 
+
+QUESTION: 16
+TYPE:     toss-up
+SUBJECT:  computer science
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT a protocol associated with the workings of the internet: 
+		W) POP3 
+		X) FTP 
+		Y) HTML 
+		Z) TFT 
+ANSWER:   Z) TFT (Solution: TFT = Thin Film Transistor) 
+
+QUESTION: 16
+TYPE:     bonus
+SUBJECT:  computer science
+FORMAT:   short answer
+QUESTION: In the BASIC programming language, what does the acronym BASIC stand for? 
+ANSWER:   BEGINNERS ALL-PURPOSE SYMBOLIC INSTRUCTIONAL CODE 2002 Regional Science Bowl B Round 12 Page 9 
+
+QUESTION: 17
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Weins law expresses the relationship between the wavelength at the peak emission in black body radiation and: 
+		W) the change in pressure 
+		X) the black bodys structure 
+		Y) the temperature in Kelvins 
+		Z) the interference patterns of associated electrons 
+ANSWER:   Y) THE TEMPERATURE IN KELVINS 
+
+QUESTION: 17
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Assuming g = 10.0 m/sec2 and friction is 0, if a rock is thrown vertically upward at 10.0 m/sec, how far up in meters will it be after 1 second? 
+ANSWER:   5 METERS (Solution: d = Vot + at2 = 10 1- 10 12 = 10 5 = 5 meters) 
+
+QUESTION: 18
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: A ketone is a class of compounds that contains a carbonyl group bonded to: 
+		W) 2 carbon atoms 
+		X) 2 hydrogen atoms 
+		Y) 2 nitrogen atoms 
+		Z) 1 hydrogen and 1 carbon atom 
+ANSWER:   W) 2 CARBON ATOMS 
+
+QUESTION: 18
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What is the primary product produced when ethyl alcohol is heated to 170C in the presence of 95% sulfuric acid? 
+ANSWER:   ETHYLENE 2002 Regional Science Bowl B Round 12 Page 10 
+
+QUESTION: 19
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Of the primary, secondary, tertiary and quaternary levels of protein structure, at what level would a beta-pleated sheet be placed? 
+ANSWER:   SECONDARY 
+
+QUESTION: 19
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Exchange of DNA among chromosomes occurs in what phase of meiosis-one? 
+ANSWER:   PROPHASE (ACCEPT: PROPHASE-ONE) 
+
+QUESTION: 20
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What is the most common statistical term for the assumption, when comparing sample means, that there is no significant difference between the two samples? 
+ANSWER:   NULL HYPOTHESIS 
+
+QUESTION: 20
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: Using the Cartesian coordinate system, find the distance between the points (-4, 3) and (2, 6): 
+		W) 35 
+		X) 12 
+		Y) 3 
+		Z) 53 
+ANSWER:   W) 35 2002 Regional Science Bowl B Round 12 Page 11 
+
+QUESTION: 21
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT associated with sedimentary rocks: 
+		W) bedding 
+		X) fossils 
+		Y) foliation 
+		Z) ripple marks 
+ANSWER:   Y) FOLIATION 
+
+QUESTION: 21
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Also known as mock suns or parhelia, what is the name for a pair of brightly colored spots, one on either side of the sun, that are caused by sunlight passing through a thin layer of ice crystals: 
+		W) sun pillars 
+		X) cloud iridescence 
+		Y) sundogs 
+		Z) silver lining 
+ANSWER:   Y) SUNDOGS 
+
+QUESTION: 22
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Rust is a plant disease that attacks cereal plants such as wheat and rye and is caused by a: 
+		W) virus 
+		X) larval insect 
+		Y) bacterium 
+		Z) fungus 
+ANSWER:   Z) FUNGUS 
+
+QUESTION: 22
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: Thin layer chromatography most commonly employs what substance as the matrix for the chromatographic separation? 
+ANSWER:   SILICA (ACCEPT: SILICA GEL) 2002 Regional Science Bowl B Round 12 Page 12 
+
+QUESTION: 23
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Fermi noted that the biggest advantage of bombarding nuclei with neutrons was because: 
+		W) they have no electric charge 
+		X) they were easily produced in large numbers 
+		Y) they often interacted with electrons 
+		Z) they seldom had enough energy to split the nucleus 
+ANSWER:   W) THEY HAVE NO ELECTRIC CHARGE 
+
+QUESTION: 23
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What is the name of the particle detector in Ontario that is buried 2 kilometers underground in a nickel mine? 
+ANSWER:   SNO (ACCEPT: SUDBURY NEUTRINO DETECTOR OR SUDBURY NEUTRINO OBSERVATORY) 
+
+QUESTION: 24
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of these substances is NOT attacked by hydrochloric acid: 
+		W) iron 
+		X) calcite 
+		Y) barium phosphate 
+		Z) n-heptane 
+ANSWER:   Z) N-HEPTANE 
+
+QUESTION: 24
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: A chemical reaction in which esters are hydrolyzed under basic conditions to give an alcohol and a salt of the acid is generally known as what type of reaction? 
+ANSWER:   SAPONIFICATION 2002 Regional Science Bowl B Round 12 Page 13 
+
+QUESTION: 25
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: The most common method used by Beadle and Tatum in generating mutant molds for their metabolic studies was to expose the molds to what? 
+ANSWER:   X-RAYS 
+
+QUESTION: 25
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Which 2 of the following 4 amino acids contain nonpolar R groups? serine; glutamine; leucine; (read as: lew-seen), phenylalanine (read as: FEE-nal-AL-a-neen) 
+ANSWER:   LEUCINE; PHENYLALANINE 
+

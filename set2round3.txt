@@ -1,0 +1,438 @@
+QUESTION: 1
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: In Galileos experiments on balls rolling down an inclined plane, he had originally hypothesized: 
+		W) that all objects have inertia 
+		X) that all balls underwent uniform acceleration 
+		Y) the 2nd law of motion 
+		Z) the 3rd law of motion 
+ANSWER:   X) THAT ALL BALLS UNDERWENT UNIFORM ACCELERATION 
+
+QUESTION: 1
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What is the centripetal force, in Newtons, that is required to cause a 10 kilogram body to move at 3 meters per second in uniform circular motion with a radius of 10 meters? 
+ANSWER:   9 NEWTONS (Solution: CF = m v 2 / r = 10 x 32 / 10 = 9 ) 
+
+QUESTION: 2
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Give the genus and species name for the first bacterium shown to be the cause of a disease: 
+ANSWER:   BACILLUS ANTHRACIS 
+
+QUESTION: 2
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: In the late 1800s, who was the first person to isolate and grow numerous pathogenic Monerans? 
+ANSWER:   ROBERT KOCH 2002 Regional Science Bowl B Round 3 Page 2 
+
+QUESTION: 3
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following groups of elements have the strongest or highest electron affinities, corresponding to the largest release of energy: 
+		W) group 1A 
+		X) group 2A 
+		Y) group 7A 
+		Z) group 8A 
+ANSWER:   Y) GROUP 7A 
+
+QUESTION: 3
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What element is a corrosive, greenish-yellow gas, is widely used in the manufacturing of polymers such as Teflon, and is the 13th most abundant element in the Earths crust? 
+ANSWER:   FLUORINE (ACCEPT: F) 
+
+QUESTION: 4
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: Containing roughly ten times more gas than Earths, why does Titans atmosphere extend some ten times farther into space than does our own? 
+ANSWER:   WEAKER GRAVITATIONAL PULL (ACCEPT: SMALLER MASS) 
+
+QUESTION: 4
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: What is the most common term for the imaginary band on either side of the ecliptic where the path of the Sun, Moon, and planets are generally found? 
+ANSWER:   THE ZODIAC 2002 Regional Science Bowl B Round 3 Page 3 
+
+QUESTION: 5
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: On a blueprint, if three-quarters of an inch represents 1 foot, then 2 inches will represent what distance, in feet, expressed as the most reduced compound fraction? 
+ANSWER:   2 32 (ACCEPT: 2.66) 
+
+QUESTION: 5
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: How old is Michelle if 4 years ago she was one-half the age she will be 10 years from now? 
+ANSWER:   18 (Solution: x 4 = (x + 10)) 
+
+QUESTION: 6
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Groundwater that is rich in calcium and magnesium bicarbonates is termed: 
+		W) hard water 
+		X) soft water 
+		Y) well water 
+		Z) recharge water 
+ANSWER:   W) HARD WATER 
+
+QUESTION: 6
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following descriptions is NOT true of eskers: 
+		W) they were formed above glaciers by the widening of crevasses 
+		X) they are low, steep-sided ridges of sand and gravel 
+		Y) deposits were laid down by running water 
+		Z) their deposits are roughly sorted and bedded 
+ANSWER:   W) THEY WERE FORMED ABOVE GLACIERS BY THE WIDENING OF CREVASSES 2002 Regional Science Bowl B Round 3 Page 4 
+
+QUESTION: 7
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: What major biome occurs only in the Northern Hemisphere and is composed of both Low Arctic and High Arctic areas? 
+ANSWER:   TUNDRA 
+
+QUESTION: 7
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: Give the respective SI multipliers for the following prefixes: exa; peta; and giga 
+ANSWER:   1018; 1015; 109 
+
+QUESTION: 8
+TYPE:     toss-up
+SUBJECT:  computer science
+FORMAT:   multiple choice
+QUESTION: A Java stock ticker that runs within the users Web browser is an example of: 
+		W) an applet 
+		X) liteware 
+		Y) firmware 
+		Z) a taskbar 
+ANSWER:   W) AN APPLET 
+
+QUESTION: 8
+TYPE:     bonus
+SUBJECT:  computer science
+FORMAT:   multiple choice
+QUESTION: What is the octal equivalent of the binary number 1100 (read as: one, one, zero, zero)? 
+		W) 11 
+		X) 14 
+		Y) 2 
+		Z) 4 
+ANSWER:   X) 14 2002 Regional Science Bowl B Round 3 Page 5 
+
+QUESTION: 9
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following moves in the form of a longitudinal compression wave: 
+		W) ocean wave 
+		X) sound wave 
+		Y) light wave 
+		Z) electromagnetic wave 
+ANSWER:   X) SOUND WAVE 
+
+QUESTION: 9
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Assuming g = 9.8 m/sec2, what is the weight on Earth, in Newtons, of a 70 kilogram person? 
+ANSWER:   686 NEWTONS 
+
+QUESTION: 10
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following Orders does NOT belong to the Class Insecta: 
+		W) Lepidoptera 
+		X) Diptera 
+		Y) Isoptera 
+		Z) Chelicerata 
+ANSWER:   Z) CHELICERATA 
+
+QUESTION: 10
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following diseases is NOT caused by bacteria: 
+		W) strep throat 
+		X) toxic shock syndrome 
+		Y) scarlet fever 
+		Z) influenza 
+ANSWER:   Z) INFLUENZA 2002 Regional Science Bowl B Round 3 Page 6 
+
+QUESTION: 11
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What is the pH of a solution at 25C that has a hydrogen ion concentration of 0.001? 
+ANSWER:   3 
+
+QUESTION: 11
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Which 3 Noble gases undergo no chemical reactions and form no known compounds? 
+ANSWER:   HELIUM, NEON, ARGON (ACCEPT: He, Ne, Ar) 
+
+QUESTION: 12
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: What gas makes up most of the atmosphere of Mars? 
+ANSWER:   CARBON DIOXIDE (ACCEPT: CO2) 
+
+QUESTION: 12
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: Longitude is to right ascension as latitude is to: 
+ANSWER:   DECLINATION 2002 Regional Science Bowl B Round 3 Page 7 
+
+QUESTION: 13
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: In order, what are the prime numbers between 30 and 50? 
+ANSWER:   31, 37, 41, 43, 47 
+
+QUESTION: 13
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Find the prime factorization of 1050: 
+ANSWER:   23557 (ACCEPT: 23527) 
+
+QUESTION: 14
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   short answer
+QUESTION: What is the term for wave activity between the line of breakers and the shore, produced as an ocean wave steepens and falls forward? 
+ANSWER:   SURF 
+
+QUESTION: 14
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Distinctly and finely stratified layers of silt and clay deposited in lakes of glacial origin are known as: 
+		W) varves 
+		X) moraines 
+		Y) drumlins 
+		Z) eskers 
+ANSWER:   W) VARVES 2002 Regional Science Bowl B Round 3 Page 8 
+
+QUESTION: 15
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: One knot is approximately equal to how many kilometers per hour? 
+		W) 0.6 
+		X) 1.9 
+		Y) 1.65 
+		Z) 1.0 
+ANSWER:   X) 1.9 
+
+QUESTION: 15
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: What term describes the ability of a microscope to remain very nearly in focus when switching from one objective lens to another: 
+ANSWER:   PARFOCAL (ACCEPT: PARFOCALITY) 
+
+QUESTION: 16
+TYPE:     toss-up
+SUBJECT:  computer science
+FORMAT:   multiple choice
+QUESTION: The process of converting 3D information to a 2D screen image is called: 
+		W) texturing 
+		X) rendering 
+		Y) rastering 
+		Z) modeling 
+ANSWER:   X) RENDERING 
+
+QUESTION: 16
+TYPE:     bonus
+SUBJECT:  computer science
+FORMAT:   multiple choice
+QUESTION: What is the minimum amount of RAM required for the proper execution of Windows 2000 Professional: 
+		W) 80 MB 
+		X) 64 MB 
+		Y) 40 MB 
+		Z) 32 MB 
+ANSWER:   X) 64 MB 2002 Regional Science Bowl B Round 3 Page 9 
+
+QUESTION: 17
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Ultrasonic sound frequencies are typically considered to be: 
+		W) above 20,000 kilohertz 
+		X) below 20,000 kilohertz 
+		Y) above 20,000 Hertz 
+		Z) below 20,000 Hertz 
+ANSWER:   Y) ABOVE 20,000 HERTZ 
+
+QUESTION: 17
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following will deposit the greatest amount of energy per unit path in human tissue: 
+		W) gamma ray 
+		X) x-ray 
+		Y) beta particles 
+		Z) alpha particles 
+ANSWER:   Z) ALPHA PARTICLES 
+
+QUESTION: 18
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: One species benefits while the other is unaffected is most specifically an example of what symbiotic relationship? 
+ANSWER:   COMMENSALISM 
+
+QUESTION: 18
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the term for the epidermal rupture in cork cells, common to the birch tree, that allows air to diffuse trough the bark? 
+ANSWER:   LENTICEL 2002 Regional Science Bowl B Round 3 Page 10 
+
+QUESTION: 19
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What does the acronym MSDS, the safety information sheet for a particular chemical substance, stand for? 
+ANSWER:   MATERIAL SAFETY DATA SHEET 
+
+QUESTION: 19
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: If an atom X, which has an electronegativity of 3.5, bonds with atom Y, which has an electronegativity of 0.9, what type of bond is most likely prevalent: 
+		W) ionic 
+		X) polar covalent 
+		Y) non-polar covalent 
+		Z) neutral 
+ANSWER:   W) IONIC 
+
+QUESTION: 20
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: What is the common astronomical term that derives its name from the Latin word meaning ocean or seas that is used to label the darker and smoother parts of the moons surface: 
+ANSWER:   MARIA 
+
+QUESTION: 20
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: What celestial phenomenon most directly causes a comet's tail to point away from the Sun: 
+ANSWER:   THE SOLAR WIND 2002 Regional Science Bowl B Round 3 Page 11 
+
+QUESTION: 21
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: The Alpine-Himalayan mountain chain formed by: 
+		W) rifting 
+		X) transform faulting 
+		Y) continental collision 
+		Z) continent to ocean subduction 
+ANSWER:   Y) CONTINENTAL COLLISION 
+
+QUESTION: 21
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following minerals is classified as a native element: 
+		W) gypsum 
+		X) quartz 
+		Y) graphite 
+		Z) clay 
+ANSWER:   Y) GRAPHITE 
+
+QUESTION: 22
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: In Freudian theory, libidinal drives reside in what division of the personality? 
+ANSWER:   ID 
+
+QUESTION: 22
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: A typical 6-ounce brewed cup of tea contains about how many milligrams of caffeine: 
+		W) 30 
+		X) 70 
+		Y) 110 X) 150
+		 
+ANSWER:   X) 70 2002 Regional Science Bowl B Round 3 Page 12 
+
+QUESTION: 23
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Pitch in an airplane is typically controlled by which of the following: 
+		W) horizontal stabilizer 
+		X) aileron 
+		Y) vertical stabilizer 
+		Z) swing arm 
+ANSWER:   W) HORIZONTAL STABILIZER 
+
+QUESTION: 23
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What is the wavelength, in meters, of a sound wave that has a frequency of 3,500 hertz and a speed in a certain medium of 350 meters per second? 
+ANSWER:   0.1 METERS (Solution: wavelength = speed / f = 350 / 3,500 = 0.1 meters) 
+
+QUESTION: 24
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the anatomical term for movement of a bone that results in a decrease in the angle of a joint, bringing bones together? 
+ANSWER:   FLEXION 
+
+QUESTION: 24
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following trees does NOT have simple, toothed leaves: 
+		W) Quaking Aspen 
+		X) Eastern Cottonwood 
+		Y) White Birch 
+		Z) Yellow Buckeye 
+ANSWER:   Z) YELLOW BUCKEYE 2002 Regional Science Bowl B Round 3 Page 13 
+
+QUESTION: 25
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: The concentration of a solution expressed in the number of gram-equivalent weights of solute per liter of solution is called: 
+		W) normality 
+		X) molality 
+		Y) equivalent weight 
+		Z) molarity 
+ANSWER:   W) NORMALITY 
+
+QUESTION: 25
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: In the chemical reaction that expands a typical car air bag, when sodium azide is broken down, what main toxic product is released in the first reaction? 
+ANSWER:   SODIUM (ACCEPT: SODIUM HYDROXIDE) 
+

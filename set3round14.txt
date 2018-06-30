@@ -1,0 +1,446 @@
+QUESTION: 1
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following molecules has an electron pair geometry that matches its molecular geometry: 
+		W) H2O 
+		X) NH3 
+		Y) SO2 
+		Z) PCl5 
+ANSWER:   Z) PCl5 
+
+QUESTION: 1
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT a constitutional isomer of the organic compound whose molecular formula is C4H8: 
+		W) 1-butene 
+		X) 2-butene 
+		Y) 2-methyl-1-butene 
+		Z) 2-methyl-1-propene 
+ANSWER:   Y) 2-METHYL-1-BUTENE (Solution: 2-methyl-1-butene has a molecular formula of C5H10) 
+
+QUESTION: 2
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Within the Standard Model of Particle Physics what particle is responsible for carrying the strong nuclear force? 
+ANSWER:   GLUON 
+
+QUESTION: 2
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What is the principle or law that fundamentally limits the accuracy of specifying at the same time the momentum and position of a particle? 
+ANSWER:   HEISENBERG UNCERTAINTY PRINCIPLE (ACCEPT: UNCERTAINTY PRINCIPLE) 2007 Regional Science Bowl Page 2 
+
+QUESTION: 3
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following occurs during synapsis of meiosis: 
+		W) non-sister chromatids of homologous chromosomes cross over 
+		X) sister chromatids of homologous chromosomes cross over 
+		Y) non-sister chromatids of non-homologous chromosomes cross over 
+		Z) sister chromatids of non-homologous chromosomes cross over 
+ANSWER:   W) NON-SISTER CHROMATIDS OF HOMOLOGOUS CHROMOSOMES CROSS OVER 
+
+QUESTION: 3
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: If 2n is the number of chromosomes and 2s is the DNA content of a diploid human cell in G1 of the cell cycle, what are the n and s values, respectively, of a human spermatogonia at the end of telophase one of meiosis? 
+ANSWER:   1N AND 2S 
+
+QUESTION: 4
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: In simplest radical form, give the cosecant of a 135 angle: 
+ANSWER:   2 
+
+QUESTION: 4
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Find the value of k that will result in a unique, real solution for the following equation: kx2 + 10x + 25 = 0 
+ANSWER:   1 (Solution: b2 - 4ac = 0; 100 4(k)(25) = 0; k = 1) 2007 Regional Science Bowl Page 3 
+
+QUESTION: 5
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Groundwater flows according to what law that, in its simplest form, is given by the equation Q = kIA: 
+		W) Darcys Law 
+		X) Law of Superposition 
+		Y) Law of Original Horizontality 
+		Z) Ekmans Law 
+ANSWER:   W) DARCYS LAW 
+
+QUESTION: 5
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is a type of inland fog that occurs more often in spring when warm, moist air is cooled below its dew point as it moves over a cooler surface: 
+		W) advection fog 
+		X) radiation fog 
+		Y) reflection fog 
+		Z) steam fog 
+ANSWER:   W) ADVECTION FOG 
+
+QUESTION: 6
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: A primary consequence of acid rain in the northeast U.S. has been: 
+		W) salt-water intrusion in coastal wells 
+		X) the leaching out of toxic heavy metals in lakes and streams 
+		Y) increase in radioactive decay of parent bedrock 
+		Z) increased algal growth to cause eutrophication in lakes 
+ANSWER:   X) THE LEACHING OUT OF TOXIC HEAVY METALS IN LAKES AND STREAMS 
+
+QUESTION: 6
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: About two-thirds of the cause of acid precipitation is the production of sulfuric acid in the atmosphere. The production of what acid accounts for about the other one-third of acid rain? 
+ANSWER:   NITRIC ACID (ACCEPT: NITROUS) 2007 Regional Science Bowl Page 4 
+
+QUESTION: 7
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: If an astronomer photographed a massive cloud of ionized hydrogen in space that was emitting all of the Balmer wavelengths, what color would it typically appear to us: 
+		W) white 
+		X) green 
+		Y) pink 
+		Z) blue 
+ANSWER:   Y) PINK 
+
+QUESTION: 7
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following was discovered in the 1600s about Venus that was strong evidence that the planets orbited the Sun: 
+		W) Venuss cloud cover reverses its direction in the sky at certain times of the year 
+		X) Venus has phases varying from crescent to full 
+		Y) Venus has an axial motion opposite to that of the Earth 
+		Z) Venus is the brightest planet in the sky only part of the year 
+ANSWER:   X) VENUS HAS PHASES VARYING FROM CRESCENT TO FULL 
+
+QUESTION: 8
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: For a given chemical reaction at constant temperature and pressure, if the value for Gibbs free-energy change is a negative, the reaction is always: 
+		W) endothermic 
+		X) exothermic 
+		Y) spontaneous 
+		Z) nonspontaneous 
+ANSWER:   Y) SPONTANEOUS 
+
+QUESTION: 8
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: In a phase diagram, the solid-liquid line has a negative slope for which of the following pure substances: 
+		W) carbon dioxide 
+		X) water 
+		Y) ammonia 
+		Z) argon 
+ANSWER:   X) WATER (Solution: solid water is less dense than liquid water) 2007 Regional Science Bowl Page 5 
+
+QUESTION: 9
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following was the big surprise in the classic gold foil experiments of Rutherford, Geiger and Marsden: 
+		W) alpha particles sometimes disappeared 
+		X) electrons would not penetrate the nucleus 
+		Y) the atom was mostly space as supported by the finding that most alpha particles continued on a straight path and hit the rear of the detection screen 
+		Z) some alpha particles left evidence of having returned almost straight back to hit the front part of the detection screen 
+ANSWER:   Z) SOME ALPHA PARTICLES LEFT EVIDENCE OF HAVING RETURNED ALMOST STRAIGHT BACK TO HIT THE FRONT PART OF THE DETECTION SCREEN 
+
+QUESTION: 9
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Most of the early classical experiments with alpha particles were done by Rutherford and co-workers using a simple scintillation detector, which was a screen most commonly coated with what substance? 
+ANSWER:   ZINC SULFIDE (ACCEPT: ZnS) 
+
+QUESTION: 10
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT true of chloroplasts: 
+		W) they are relatively large organelles and can exceed 3 microns long 
+		X) thay have smaller ribosomes than are found in the plant cytosol 
+		Y) they contain thylakoid (read as: THY-la-koid) stacks 
+		Z) their numbers are controlled primarily by the cells nuclear genes that control division 
+ANSWER:   Z) THEIR NUMBERS ARE CONTROLLED PRIMARILY BY THE CELLS NUCLEAR GENES THAT CONTROL DIVISION 
+
+QUESTION: 10
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: By number or name, identify all of the following 4 areas of plants where you would be MOST likely to see meristematic tissue: 1) longitudinal section of a terminal bud 2) cross-section of the pith of a sunflower stem 3) transverse section of a lateral root tip 4) cross-section of central parenchymal cells of a corn stem 
+ANSWER:   1 AND 3 (ACCEPT: 1 - LONGITUDINAL SECTION OF A TERMINAL BUD AND 3 - TRANSVERSE SECTION OF A LATERAL ROOT TIP) 2007 Regional Science Bowl Page 6 
+
+QUESTION: 11
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Giving your answer as one, two, three, or four, in what quadrant will theta terminate if sine ! and secant ! are both negative? 
+ANSWER:   3 
+
+QUESTION: 11
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Differentiate and simplify the following with respect to x: y = ln x (read as: y = natural log of absolute value of x) 
+ANSWER:   x1 
+
+QUESTION: 12
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is the global wind system that most influences weather in the West Indies and Central America: 
+		W) northeast trade winds 
+		X) prevailing westerlies 
+		Y) southeast trade winds 
+		Z) polar westerlies 
+ANSWER:   W) NORTHEAST TRADE WINDS 
+
+QUESTION: 12
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is the soil horizon that contains a mixture of organic matter and highly altered mineral matter and is dark in color: 
+		W) O-horizon 
+		X) A-horizon 
+		Y) C-horizon 
+		Z) R-horizon 
+ANSWER:   X) A-HORIZON 2007 Regional Science Bowl Page 7 
+
+QUESTION: 13
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Which of the following statements is LEAST accurate: 
+		W) the molecular formula for dimethyl sulfoxide is C2H6SO 
+		X) black smokers are a type of hydrothermal vent found on the ocean floor 
+		Y) Io is the most volcanically active body in our Solar System 
+		Z) on a weather map, an adjacent series of closed half-circles along a line represents a cold front 
+ANSWER:   Z) ON A WEATHER MAP, AN ADJACENT SERIES OF CLOSED HALF-CIRCLES ALONG A LINE REPRESENTS A COLD FRONT 
+
+QUESTION: 13
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT generally true regarding the hydrologic cycle world-wide: 
+		W) glaciers are shrinking 
+		X) river discharge is decreasing 
+		Y) precipitation at high altitudes is increasing 
+		Z) the thickness of sea ice over the Arctic Ocean is decreasing 
+ANSWER:   X) RIVER DISCHARGE IS DECREASING 
+
+QUESTION: 14
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: According to the location in the H-R diagram, which of the following stars has the highest absolute visual magnitude and is also the hottest: 
+		W) one located in the upper left of the diagram 
+		X) one located in the upper right of the diagram 
+		Y) one located in the lower left of the diagram 
+		Z) one located in the lower right of the diagram 
+ANSWER:   W) ONE LOCATED IN THE UPPER LEFT OF THE DIAGRAM 
+
+QUESTION: 14
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: What is the MOST common scientific term for the specific spectral line-splitting effect resulting when atoms absorb or emit radiation in the presence of a magnetic field? 
+ANSWER:   ZEEMAN EFFECT 2007 Regional Science Bowl Page 8 
+
+QUESTION: 15
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: In order to find the heat of reaction, or delta H naught, for a reaction using standard enthalpies of formation, the working formula is: 
+		W) delta H products minus delta H reactants 
+		X) delta H reactants minus delta H products 
+		Y) delta H reactants plus delta H products 
+		Z) delta H products plus delta H reactants 
+ANSWER:   W) DELTA H PRODUCTS MINUS DELTA H REACTANTS 
+
+QUESTION: 15
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: In crystallography, what is the coordination number, or number of nearest neighbors, of an atom in the simple cubic unit cell structure? 
+ANSWER:   6 
+
+QUESTION: 16
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT true: 
+		W) the hydrogen nucleus has a lower binding energy per nucleon than the helium nucleus 
+		X) the tritium nucleus contains 3 nucleons 
+		Y) it is typically easier to fission U-238 than U-235 with slow neutrons 
+		Z) fission fragments of a nucleus are more often about 60% and 40% of the original mass of the atom than 50% and 50% 
+ANSWER:   Y) IT IS TYPICALLY EASIER TO FISSION U-238 THAN U-235 WITH SLOW NEUTRONS 
+
+QUESTION: 16
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: In the Standard Model of particle physics, all forces arise because of the exchange of what fundamental class of particles? 
+ANSWER:   BOSONS 2007 Regional Science Bowl Page 9 
+
+QUESTION: 17
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: If the human SRY gene is inactivated in the first week of gestation, which of the following will occur: 
+		W) the embryo will die 
+		X) the embryo will remain female 
+		Y) the embryo will continue as a male 
+		Z) the embryo will remain in a quiescent state 
+ANSWER:   X) THE EMBRYO WILL REMAIN FEMALE 
+
+QUESTION: 17
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following functions primarily by cutting RNA strands at specific sites: 
+		W) micro RNA 
+		X) episome 
+		Y) ribozyme 
+		Z) ligase 
+ANSWER:   Y) RIBOZYME 
+
+QUESTION: 18
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Simplify the following trigonometric expression completely: cos ! tan ! (read as: cosine theta tangent theta) 
+ANSWER:   sin ! 
+
+QUESTION: 18
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: In how many ways can 4 green, 2 yellow, and 2 red tee-shirts be given to 8 soccer players standing in a row if each player receives only one tee-shirt? 
+ANSWER:   420 (Solution: P = n!/(n1! n 2! n 3!...); P = 8!/(4! 2! 2!) = 420) 2007 Regional Science Bowl Page 10 
+
+QUESTION: 19
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is a glacial feature that is NOT caused by the deposition of sediments: 
+		W) kame 
+		X) kettle 
+		Y) drumlin 
+		Z) bergshrund 
+ANSWER:   Z) BERGSHRUND 
+
+QUESTION: 19
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Analysis of which of the following isotopes is most commonly used because it gives the BEST indication of historical temperatures at different latitudes worldwide: 
+		W) oxygen 
+		X) carbon 
+		Y) nitrogen 
+		Z) potassium 
+ANSWER:   W) OXYGEN 
+
+QUESTION: 20
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: What is the SI unit for absorbed dose of ionizing radiation? 
+ANSWER:   GRAY 
+
+QUESTION: 20
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Nisin is an antibiotic currently being studied because it has not yet induced widespread biological resistance. Which of the following is its mode of action: 
+		W) directly inhibits the electron transport system in bacteria 
+		X) inhibits in vivo endotoxin formation 
+		Y) binds to a bacterial cell wall precursor to form damaging pores in the plasma membrane 
+		Z) binds to 30-S ribosomal subunit 
+ANSWER:   Y) BINDS TO A BACTERIAL CELL WALL PRECURSOR TO FORM DAMAGING PORES IN THE PLASMA MEMBRANE 2007 Regional Science Bowl Page 11 
+
+QUESTION: 21
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: What is the most common astronomical term for the geometrical configuration where Venus is between the Earth and the Sun? 
+ANSWER:   INFERIOR CONJUNCTION 
+
+QUESTION: 21
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: How many degrees of arc are in 4 hours and 20 minutes of right ascension? 
+ANSWER:   65 DEGREES (Solution: 15 degrees per hour) 
+
+QUESTION: 22
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What is the focal length, in centimeters and giving the proper sign, of a convex mirror that has a radius of curvature of 12 centimeters? 
+ANSWER:   6 (Solution: radius of curvature = 2 " focal length) 
+
+QUESTION: 22
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Rutherford and coworkers in the early 20th century found that when alpha particles strike nitrogen-14 nuclei, they most commonly produce what element? 
+ANSWER:   OXYGEN (ACCEPT: OXYGEN-17 or O-17) (Solution: He-4 + N-14 ! O-17 + proton) 2007 Regional Science Bowl Page 12 
+
+QUESTION: 23
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Predict the bond angles, in degrees, for atoms in a molecule of boron trichloride: 
+ANSWER:   120 (ACCEPT: THREE 120) 
+
+QUESTION: 23
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Consider a flexible balloon filled with 3.0 moles of helium at a temperature of 27C and at a pressure of 101.3 kilopascals. What is the volume in the balloon, in liters to the nearest whole number? 
+ANSWER:   74 (Solution: V = (nRT)/P = [(3.0 mol)0.0821L.atm/mol.K)(300K)]/1 atm = 73.89L) 
+
+QUESTION: 24
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: In which of the following 4 phases of cell cycle would a chemical that causes mispairing of bases during replication do the most damage: G-1; G-2; S; M 
+ANSWER:   S 
+
+QUESTION: 24
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: For a dihybrid cross between parent plants that are each heterozygous for both traits, if there is complete dominance and independent assortment, what is the total fraction of the offspring that will have a recessive phenotype for either trait and the dominant for the other? 
+ANSWER:   6/16 (ACCEPT: 3/8) (Solution: 3/16 + 3/16) 2007 Regional Science Bowl Page 13 
+
+QUESTION: 25
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What is the angular velocity, in radians per second, of a wagon wheel with a diameter of 2 meters and a surface velocity of 3 meters per second? 
+ANSWER:   3 (Solution: ! = v/r = 3/1 = 3 rad/sec) 
+
+QUESTION: 25
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: The dread pirate Roberts orders his crew into a 100 kilogram rowboat to sail to an island to look for buried treasure. If the rowboat has a capacity of 1.10 cubic meters and is in freshwater, how many 50 kilogram pirates can board the rowboat before it would sink? 
+ANSWER:   20 (Solution: Fb = DgV = (1000 kg/m3)(9.8m/s2)(1.10m3) = 10,780N; 10,780N (100kg)(9.8m/s2) = 9,800N. Each person weighs (50kg)( 9.8m/s2) = 490N; 9800N/490N = 20 pirates) 
+

@@ -1,0 +1,458 @@
+QUESTION: 1
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Neglecting friction, what is the acceleration, in meters per second squared, when a force of 144 Newtons is applied to a 12 kilogram object: 
+ANSWER:   12 (Solution: A = F/M; A = 144/12; A = 12 m/sec2) 
+
+QUESTION: 1
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: When Johann Schweigger invented the first galvanometer, what did he recognize could be used to measure current: 
+		W) deflection of a compass needle 
+		X) movement of iron particles in a magnetic field 
+		Y) movement of electrons through a potential 
+		Z) a magneto 
+ANSWER:   W) DEFLECTION OF A COMPASS NEEDLE 
+
+QUESTION: 2
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following has the highest specific heat value: 
+		W) wood 
+		X) ice water 
+		Y) sand 
+		Z) gold 
+ANSWER:   X) ICE WATER (Solution: wood = 0.42 Cal/gC; ice water = 0.5; sand = 0.19; gold = 0.031) 
+
+QUESTION: 2
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Normal hydrogen at room temperature contains what two forms of hydrogen, as defined by the spins of their electrons and nuclei? 
+ANSWER:   PARA AND ORTHO 2002 Regional Science Bowl B Round 8 Page 2 
+
+QUESTION: 3
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: When the color of an organism alerts predators to stay away it is technically referred to as: 
+		W) aposematic coloration 
+		X) homological coloration 
+		Y) analogous coloration 
+		Z) camouflage coloration 
+ANSWER:   W) APOSEMATIC COLORATION 
+
+QUESTION: 3
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT a hexose: 
+		W) mannose 
+		X) glucose 
+		Y) fructose 
+		Z) xylulose (pronounced: zyle-YOU-lows) 
+ANSWER:   Z) XYLULOSE 
+
+QUESTION: 4
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: A first quarter Moon will cross the meridian at what time of the day or night: 
+		W) midnight 
+		X) sunrise 
+		Y) sunset 
+		Z) noon 
+ANSWER:   W) MIDNIGHT 
+
+QUESTION: 4
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: What is the most common astronomical term for the angle analogous to geographical longitude? 
+ANSWER:   RIGHT ASCENSION (ACCEPT: ASCENSION) 2002 Regional Science Bowl B Round 8 Page 3 
+
+QUESTION: 5
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What is the equation of a line that has a slope of 4 and a y-intercept of 5? 
+ANSWER:   y = 4x + 5 
+
+QUESTION: 5
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Factor the following expression as completely as possible: x4 16 
+ANSWER:   (x 2)(x + 2)(x2 + 4) 
+
+QUESTION: 6
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: The salts and ions derived from the chemical weathering of rocks are carried by a stream are part of its: 
+		W) bed load 
+		X) suspended load 
+		Y) dissolved load 
+		Z) salt load 
+ANSWER:   Y) DISSOLVED LOAD 
+
+QUESTION: 6
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: The Sahara desert in Africa is an example of what type of desert: 
+		W) subtropical 
+		X) continental 
+		Y) rainshadow 
+		Z) coastal 
+ANSWER:   W) SUBTROPICAL 2002 Regional Science Bowl B Round 8 Page 4 
+
+QUESTION: 7
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Electric appliances and tools are grounded to: 
+		W) complete the electrical circuit 
+		X) balance the voltage in both lines 
+		Y) prevent the overloading of circuits 
+		Z) prevent surface static charge buildup 
+ANSWER:   Z) PREVENT SURFACE STATIC CHARGE BUILDUP 
+
+QUESTION: 7
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Which of the following is an example of a multiple fruit: 
+		W) apple 
+		X) sour cherry 
+		Y) pineapple 
+		Z) pear 
+ANSWER:   Y) PINEAPPLE 
+
+QUESTION: 8
+TYPE:     toss-up
+SUBJECT:  computer science
+FORMAT:   multiple choice
+QUESTION: An email sent over the internet most likely uses what protocol: 
+		W) HTTP 
+		X) FTP 
+		Y) SMTP 
+		Z) HMTTP 
+ANSWER:   Y) SMTP 
+
+QUESTION: 8
+TYPE:     bonus
+SUBJECT:  computer science
+FORMAT:   short answer
+QUESTION: What is the name for the high-speed serial bus developed by Apple and Texas Instruments that allows for the connection of multiple devices, supports hot-swapping, and transfers data at rates of up to 400 million bytes per second: 
+ANSWER:   FIREWIRE (ACCEPT: IEEE 1394, I-LINK, AND LYNX) 2002 Regional Science Bowl B Round 8 Page 5 
+
+QUESTION: 9
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: What branch of mechanics customarily deals with force and why objects move as they do: 
+		W) kinematics 
+		X) dynamics 
+		Y) statics 
+		Z) mechanics 
+ANSWER:   X) DYNAMICS 
+
+QUESTION: 9
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Yellow light has a wavelength of approximately: 
+		W) 300-350 nanometers 
+		X) 450-500 nanometers 
+		Y) 550-600 nanometers 
+		Z) 650-700 nanometers 
+ANSWER:   Y) 550-600 NANOMETERS 
+
+QUESTION: 10
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: In which of the following pairs are both elements classified as semimetals: 
+		W) tellurium and tin 
+		X) selenium and bromine 
+		Y) scandium and silicon 
+		Z) arsenic and germanium 
+ANSWER:   Z) ARSENIC AND GERMANIUM 
+
+QUESTION: 10
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: The f subshell is associated with what L quantum number? 
+ANSWER:   3 2002 Regional Science Bowl B Round 8 Page 6 
+
+QUESTION: 11
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the predominant immunoglobulin class found in human saliva? 
+ANSWER:   IgA 
+
+QUESTION: 11
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the common name for the part of a compound light microscope that functions to converge a light source so that it passes through the specimen: 
+ANSWER:   CONDENSER 
+
+QUESTION: 12
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Because of precession, the celestial pole traces out a complete circle on the sky about every: 
+		W) 26,000 years 
+		X) 12,000 years 
+		Y) 6,000 years 
+		Z) 600 years 
+ANSWER:   W) 26,000 YEARS 
+
+QUESTION: 12
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: The ecliptic is: 
+		W) the line that divides the sky into the northern half and the southern half 
+		X) the Sun's apparent path across the celestial sphere 
+		Y) the point directly overhead 
+		Z) the line on the celestial sphere directly above the celestial equator 
+ANSWER:   X) THE SUN'S APPARENT PATH ACROSS THE CELESTIAL SPHERE 2002 Regional Science Bowl B Round 8 Page 7 
+
+QUESTION: 13
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: If the universal set is represented by the numbers 1, 2, 3, 4, 5, 6, 7, and set A is represented by the numbers 1, 2, 3; set B by the numbers 3, 4, 5, 6; and set C by the numbers 2, 3, 4, then what set is represented by the union of sets A and B? 
+ANSWER:   1, 2, 3, 4, 5, 6 
+
+QUESTION: 13
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: In the US Senate, Senator Bill received four-sixths of the votes, Senator George received two- tenths of the votes, and Senator Mary received the remaining votes. If 48 votes were cast for Senator Mary, how many votes did Senator Bill receive? 
+ANSWER:   240 
+
+QUESTION: 14
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following make up approximately 80% of all magma erupted by volcanoes on Earth: 
+		W) andesitic 
+		X) rhyolitic 
+		Y) basaltic 
+		Z) andesitic and rhyolitic 
+ANSWER:   Y) BASALTIC (Solution: andesitic and rhyolitic 10% each) 
+
+QUESTION: 14
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   short answer
+QUESTION: A mixture of molten rock, suspended mineral grains, and dissolved gasses that forms in the crust or mantle when temperatures are sufficiently high, is a definition of what? 
+ANSWER:   MAGMA 2002 Regional Science Bowl B Round 8 Page 8 
+
+QUESTION: 15
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Which of the following is an example of a modular organism that grows by producing additional units of body construction that are very similar to the units of which it is already composed: 
+		W) sea sponge 
+		X) cockroach 
+		Y) spider 
+		Z) turtle 
+ANSWER:   W) SEA SPONGE 
+
+QUESTION: 15
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: A widely used dental amalgam is formed by reacting metallic mercury with an alloy consisting primarily of which 2 metals? 
+ANSWER:   SILVER AND TIN 
+
+QUESTION: 16
+TYPE:     toss-up
+SUBJECT:  computer science
+FORMAT:   multiple choice
+QUESTION: Which of the following is TRUE about resolution: 
+		W) printed images resolve with dots per inch and displayed images resolve with pixels 
+		X) printed images resolve with dots per inch and displayed images resolve with dots per inch 
+		Y) printed images resolve with pixels and displayed images resolve with dots per inch 
+		Z) printed images resolve with pixels and displayed images resolve with pixels 
+ANSWER:   W) PRINTED IMAGES RESOLVE WITH DOTS PER INCH AND DISPLAYED IMAGES RESOLVE WITH PIXELS 
+
+QUESTION: 16
+TYPE:     bonus
+SUBJECT:  computer science
+FORMAT:   multiple choice
+QUESTION: Fonts that are digital representations of fonts that are not scalable are called: 
+		W) bitmap fonts 
+		X) outline fonts 
+		Y) TrueType fonts 
+		Z) vector fonts 
+ANSWER:   W) BITMAP FONTS 2002 Regional Science Bowl B Round 8 Page 9 
+
+QUESTION: 17
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What scientist was the first to propose that in the absence of air resistance, all objects fall with the same constant acceleration? 
+ANSWER:   GALILEO 
+
+QUESTION: 17
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: If a piano string is 1.6 meters long and has a fundamental frequency of 320 Hertz, what is the wavelength, in meters, of the fundamental? 
+ANSWER:   3.2 (Solution: wavelength = 2L; = (2)(1.6) = 3.2 meters) 
+
+QUESTION: 18
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following is considered a nonpolar molecule: 
+		W) H2S 
+		X) NH3 
+		Y) NO2 
+		Z) BeH2 
+ANSWER:   Z) BeH2 
+
+QUESTION: 18
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What general term describes a substance whose electrons are all spin-paired and that are weakly repelled by magnetic fields? 
+ANSWER:   DIAMAGNETIC 2002 Regional Science Bowl B Round 8 Page 10 
+
+QUESTION: 19
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the name for the group of muscles that stabilize the shoulder joint by holding the head of the humerus in its socket? 
+ANSWER:   ROTATOR CUFF 
+
+QUESTION: 19
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: The one gene one enzyme rule proposed by Beadle and Tatum was mostly based upon their work with what genus of organisms? 
+ANSWER:   NEUROSPORA 
+
+QUESTION: 20
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: An arc of length 2 is cut off by a central angle of 4 radians. What is the radius of the circle? 
+ANSWER:   8 (Solution: r = S/; = 2 / (/4); = 8) 
+
+QUESTION: 20
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Simplify the following equation: 4499xx 
+ANSWER:   1x (ACCEPT: x1) 2002 Regional Science Bowl B Round 8 Page 11 
+
+QUESTION: 21
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following types of plutons is a cylindrical conduit of igneous rock below a volcanic vent: 
+		W) laccolith 
+		X) dike 
+		Y) volcanic stock 
+		Z) volcanic pipe 
+ANSWER:   Z) VOLCANIC PIPE 
+
+QUESTION: 21
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Trellis drainage patterns are most likely to form on: 
+		W) coastal plains 
+		X) folded terrains 
+		Y) glacial outwash 
+		Z) permafrost 
+ANSWER:   X) FOLDED TERRAINS 
+
+QUESTION: 22
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: What contemporary of Autolycus wrote a set of thirteen books titled Elements, which remains among the most studied works in human thought and was a culmination of classical geometry? 
+ANSWER:   EUCLID 
+
+QUESTION: 22
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: In the tempering of steel, the slower the hot steel cools in the quenching process: 
+		W) the softer its core and the less the outer hardness penetrates 
+		X) the softer its core and the more the outer hardness penetrates 
+		Y) the harder its core and the less the outer hardness penetrates 
+		Z) the harder its core and the more the outer hardness penetrates 
+ANSWER:   W) THE SOFTER ITS CORE AND THE LESS THE OUTER HARDNESS PENETRATES 2002 Regional Science Bowl B Round 8 Page 12 
+
+QUESTION: 23
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following explains why a sailboat can sail into the wind: 
+		W) Archimedes' Principle 
+		X) Bernoulli's Law 
+		Y) Pascal's Law 
+		Z) Reynolds' Numbers 
+ANSWER:   X) BERNOULLI'S LAW 
+
+QUESTION: 23
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: If the resolution of the human eye is about 0.1 millimeter and the resolution of a light microscope is about 2,000 angstroms, what is the approximate useful magnification of a human eye combined with a light microscope: 
+		W) 250 times 
+		X) 500 times 
+		Y) 1,000 times 
+		Z) 2,000 times 
+ANSWER:   X) 500 TIMES 
+
+QUESTION: 24
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Liver enzymes oxidize ethanol to: 
+		W) methanol 
+		X) formaldehyde 
+		Y) oxalic acid 
+		Z) acetaldehyde 
+ANSWER:   Z) ACETALDEHYDE 
+
+QUESTION: 24
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Which of the gas laws describes how the volume of a gas is affected by changes in pressure, temperature, and amount? 
+ANSWER:   IDEAL GAS LAW 2002 Regional Science Bowl B Round 8 Page 13 
+
+QUESTION: 25
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: In bacterial transference of genes, what is the term for when naked DNA enters the cell from the surroundings: 
+ANSWER:   TRANSDUCTION 
+
+QUESTION: 25
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following is the type of plant leaf that lacks a palisade and spongy mesophyll: 
+		W) common crabgrass 
+		X) dandelion 
+		Y) apple tree 
+		Z) lotus plant 
+ANSWER:   W) COMMON CRABGRASS 
+

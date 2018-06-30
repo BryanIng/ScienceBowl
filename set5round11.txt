@@ -1,0 +1,410 @@
+QUESTION: 1
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: The following gaseous phase reaction is in equilibrium: CO + 2H2 ! (read as: is in equilibrium with) CH3OH. If you decrease the volume of the container holding the gas, what happens to the equilibrium? 
+ANSWER:   SHIFTS TO THE RIGHT (ACCEPT: MORE METHANOL IS PRODUCED, MORE PRODUCT IS PRODUCED) 
+
+QUESTION: 1
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: By name or number, identify all of the following four motions that describe how atoms in a methylene group can vibrate: 1) rocking, 2) symmetrical stretching, 3) see-sawing, 4) twisting. 
+ANSWER:   ROCKING, SYMMETRICAL STRETCHING, AND TWISTING (ACCEPT: 1, 2, AND 4) 
+
+QUESTION: 2
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: At what value of x is the tangent to the curve f(x) = 3x2 2x + 1 a horizontal line? 
+ANSWER:   1/3 
+
+QUESTION: 2
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: If f(x) = x (read as: f of x equals the square root of x) over the domain of all nonnegative real numbers and if g(x) = cosx over the domain of closed interval [-!, !], then what is the domain of f composed with g? 
+ANSWER:   [-!/2, !/2] Round 11 Page 2 
+
+QUESTION: 3
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following is TRUE about the electric field just outside the surface of a charged spherical conductor? 
+		W) It is zero 
+		X) It is infinitely large 
+		Y) It is directed perpendicularly to the surface 
+		Z) It is directed parallel to the surface 
+ANSWER:   Y) IT IS DIRECTED PERPENDICULARLY TO THE SURFACE 
+
+QUESTION: 3
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: A projectile is launched over level ground with a velocity of 100 meters per second at an angle of 30 degrees to the horizontal. Given that the acceleration due to gravity is 10 meters per second squared, what will be the horizontal range of this projectile rounded to the nearest meter? 
+ANSWER:   866 
+
+QUESTION: 4
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following processes would leukocytes employ to destroy bacteria in interstitial spaces? 
+		W) Pinocytosis (read as: pin-oh-si-T"E-sis) 
+		X) Phagocytosis (read as: fahg-oh-si-T"E-sis) 
+		Y) Erythrophagocytosis (read as: i-rith-roh-fahg-oh-si-T"E-sis) 
+		Z) Efferocytosis (read as: ehf-eh-roh- si-T"E-sis) 
+ANSWER:   X) PHAGOCYTOSIS 
+
+QUESTION: 4
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Which pluripotent cell in eukaryotic animals is similar to meristematic cells in higher plants? 
+ANSWER:   EMBRYONIC STEM CELLS (ACCEPT: EMBRYONIC GERM CELLS) (DO NOT ACCEPT: STEM CELLS) Round 11 Page 3 
+
+QUESTION: 5
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following pairs does NOT correctly match the element and its oxidation number? 
+		W) Oxygen in H2O2 and -2 
+		X) Bromine in Br2 and 0 
+		Y) Sodium in NaCl and +1 
+		Z) Sulfur in SO3!2 and +4 
+ANSWER:   W) OXYGEN IN H2O2 AND -2 
+
+QUESTION: 5
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Identify by name or number all of the following five factors upon which the rate of a gaseous phase reaction substantially depends: 1) reactant concentration, 2) molecule size, 3) number of distinct products and reactants, 4) activation energy, 5) pressure. 
+ANSWER:   REACTANT CONCENTRATION, ACTIVATION ENERGY, PRESSURE (ACCEPT: 1, 4, AND 5) 
+
+QUESTION: 6
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: How much work, in joules, is done on a 2000-kilogram car by applying a 1000-newton force to move it 20 meters? 
+ANSWER:   20,000 
+
+QUESTION: 6
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: A 50-kilogram person in an elevator is moving upward at a velocity of 2 meters per second. Given g as 9.8 meters per second squared, and providing your answer to the nearest ten, how much force, in newtons, is she exerting on the elevator floor? 
+ANSWER:   490 Round 11 Page 4 
+
+QUESTION: 7
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: What type of reflecting telescope uses a concave primary mirror and a flat diagonal secondary mirror to reflect the image at a 90 degree angle to an eyepiece mounted on the side of the telescope? 
+ANSWER:   NEWTONIAN 
+
+QUESTION: 7
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: According to Bowens reaction series, by name or number, which of the following four minerals would be the FIRST and LAST, respectively, to crystallize out of mafic molten rock: 1) plagioclase, 2) olivine, 3) pyroxene, or 4) quartz? 
+ANSWER:   FIRST: OLIVINE, LAST: QUARTZ (ACCEPT: 2 AND 4) 
+
+QUESTION: 8
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: A thermodynamic process that takes place at a constant pressure can be described by what adjective? 
+ANSWER:   ISOBARIC 
+
+QUESTION: 8
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Using 9.8 meters per second squared for g and expressing your answer in scientific notation to one significant digit, what is the water pressure, in newtons per square meter, at a depth of 2 meters in a swimming pool? 
+ANSWER:   2 ! 104 Round 11 Page 5 
+
+QUESTION: 9
+TYPE:     toss-up
+SUBJECT:  energy
+FORMAT:   multiple choice
+QUESTION: Crates A and B have equal mass and travel the same distance on a horizontal track while a constant force F acts on A and a constant force 2F acts on B. Both crates start from rest. Which of the following equations represents the velocities VA and VB of A and B at the end of the displacement? 
+		W) VB = VA/2 
+		X) VB = !VA 
+		Y) VB = 2VA 
+		Z) VB = 4VA 
+ANSWER:   X) VB = !VA 
+
+QUESTION: 9
+TYPE:     bonus
+SUBJECT:  energy
+FORMAT:   short answer
+QUESTION: A 100 kilogram roller coaster starts from rest at a height of 500 meters. Given g as 10 meters per second squared and no friction, what speed in meters per second will it achieve at the bottom? 
+ANSWER:   100 
+
+QUESTION: 10
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Providing your answer as an improper fraction in simplest form, what is the slope of the line tangent to the graph of x23 (read as: the cube root of x squared) at the point with coordinates of (-1/8, 1/4)? 
+ANSWER:   -4/3 
+
+QUESTION: 10
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Evaluate the integral: 36 x206 dx (read as: the integral from -6 to 0 of the square root of open parenthesis 36 minus x squared close parenthesis d x). 
+ANSWER:   9! Round 11 Page 6 
+
+QUESTION: 11
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: Which of the following statements is TRUE about the rotation rate of the Sun at its surface? 
+		W) It is the same everywhere on the Sun 
+		X) It decreases with increasing latitude 
+		Y) It increases with increasing latitude 
+		Z) It is greatest in two bands at mid-latitude 
+ANSWER:   X) IT DECREASES WITH INCREASING LATITUDE 
+
+QUESTION: 11
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: What is the second most prevalent gaseous component of Venuss atmosphere? 
+ANSWER:   NITROGEN (ACCEPT: N2, MOLECULAR NITROGEN) 
+
+QUESTION: 12
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: An electrical field does 6 joules of work on a charged particle, moving it from 1 volts to 3 volts. What is the charge of the particle in coulombs? 
+ANSWER:   3 (ACCEPT: - 3) 
+
+QUESTION: 12
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Given g as 10 meters per second squared and the speed of sound as 331 meters per second, if you dropped a pebble down a well and heard a splash 3 seconds later, approximately how far down, in meters rounded to the nearest ten, was the water? 
+ANSWER:   40 Round 11 Page 7 
+
+QUESTION: 13
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: Which of the following is a characteristic of hypothetical weakly interacting massive particles, or WIMPs? 
+		W) They are fast moving 
+		X) They attract or repel ordinary particles with electrical forces 
+		Y) They are more massive than neutrinos 
+		Z) They interact with the strong nuclear force 
+ANSWER:   Y) THEY ARE MORE MASSIVE THAN NEUTRINOS 
+
+QUESTION: 13
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: What is the primary limiting nutrient in oligotrophic lakes? 
+ANSWER:   PHOSPHORUS 
+
+QUESTION: 14
+TYPE:     toss-up
+SUBJECT:  energy
+FORMAT:   multiple choice
+QUESTION: Transformer efficiency is lowered, primarily due to power loss, at which of the following locations? 
+		W) The load 
+		X) The source 
+		Y) The core 
+		Z) The grounding point 
+ANSWER:   Y) THE CORE 
+
+QUESTION: 14
+TYPE:     bonus
+SUBJECT:  energy
+FORMAT:   short answer
+QUESTION: For many household appliances, a step-down transformer is used. If such a transformer has an input of 120 volts and 0.6 amperes, and an output of 24 volts, what is the maximum possible output current in amperes? 
+ANSWER:   3 Round 11 Page 8 
+
+QUESTION: 15
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following best explains why a Gram-negative bacterial infection would be more difficult to treat than a Gram-positive one? 
+		W) The cell membrane of Gram-positive bacteria functions as an endotoxin 
+		X) Gram-positive bacteria are facultative anaerobes 
+		Y) Gram-positive bacteria have a cell membrane and a secondary lipopolysaccharide layer (read as: lip-#e-pahl-i-SAHK-ah-ryd) 
+		Z) Gram-negative bacteria have a cell membrane and a secondary lipopolysaccharide layer 
+ANSWER:   Z) GRAM-NEGATIVE BACTERIA HAVE A CELL MEMBRANE AND A SECONDARY LIPOPOLYSACCHARIDE LAYER 
+
+QUESTION: 15
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: A protist is found that has an amoeba-like appearance, fuses to form multinucleate structures, lacks chlorophyll, and has sporangia that produce flagellated spores. To what phylum does it belong? 
+ANSWER:   MYXOMYCOTA 
+
+QUESTION: 16
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: If fx,!y!=!xy!+!3xy2 (read as: f of x, y equals xy plus 3xy squared), what is the partial derivative of f with respect to y? 
+ANSWER:   x + 6xy 
+
+QUESTION: 16
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Approximate the area under f(x) = x2 + 1 from x = 0 to x = 8 using a mid-point Riemann sum with four equal subintervals. 
+ANSWER:   176 Round 11 Page 9 
+
+QUESTION: 17
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Name the class of mollusks in which many larval stages undergo torsion. 
+ANSWER:   GASTROPODA 
+
+QUESTION: 17
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following BEST describes the problem that torsion creates for gastropods? 
+		W) More energy is needed to develop a coiled shell 
+		X) Waste is expelled above the organisms head and mouth 
+		Y) It limits the amount of space the organism has for growth 
+		Z) To eat, an organism must extend its body outside of its protective shell 
+ANSWER:   X) WASTE IS EXPELLED ABOVE THE ORGANISMS HEAD AND MOUTH 
+
+QUESTION: 18
+TYPE:     toss-up
+SUBJECT:  energy
+FORMAT:   short answer
+QUESTION: What kind of chemical reaction is used to produce methane from algae decomposition? 
+ANSWER:   ANAEROBIC DIGESTION (ACCEPT: GASIFICATION, PROLYSIS) 
+
+QUESTION: 18
+TYPE:     bonus
+SUBJECT:  energy
+FORMAT:   short answer
+QUESTION: Youre designing a battery pack filled with many cell phone lithium-ion batteries capable of storing 500 megawatt hours of energy. If the battery operates at a constant voltage of 3.6 volts, providing your answer in scientific notation with two significant figures, what capacity in ampere hours would you need to store 500 megawatt hours of energy? 
+ANSWER:   1.4 ! 108 Round 11 Page 10 
+
+QUESTION: 19
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: A bucket of hot oil weighing 50 newtons is lifted at constant velocity up a castle wall that is 10 meters high. It takes 20 seconds to raise the bucket up the wall. How much power was used to raise the bucket? 
+		W) 25 watts 
+		X) 25 joules 
+		Y) 500 joules 
+		Z) 500 watts 
+ANSWER:   W) 25 WATTS 
+
+QUESTION: 19
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: A 3.5 ampere current is maintained in a simple circuit with a total resistance of 1500 ohms. In coulombs, what net charge passes through any point in the circuit during a 30-second interval? 
+ANSWER:   105 
+
+QUESTION: 20
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT a response of liver cells to glucagon? 
+		W) Decrease of glucose breakdown 
+		X) Increase of gluconeogenesis (read as: gluh-koh-nee-oh-JEHN-eh-sis) 
+		Y) Increase of release of calcium ions 
+		Z) Increase of fat synthesis 
+ANSWER:   Z) INCREASE OF FAT SYNTHESIS 
+
+QUESTION: 20
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What compound is secreted into the digestive system to reduce gastric acidity? 
+ANSWER:   SODIUM BICARBONATE Round 11 Page 11 
+
+QUESTION: 21
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What is the limit of (3x2 + 6x)/(5 + 3x + x2) (read as: open parenthesis 3x squared plus 6x close parenthesis over open parenthesis 5 plus 3x plus x squared close parenthesis) as x goes to infinity? 
+ANSWER:   3 
+
+QUESTION: 21
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Given f(x) = tanx/secx, find f(2!/3) (read as: Given f of x equals tangent of x over secant of x, find f prime of 2 pi over 3). 
+ANSWER:   -1/2 
+
+QUESTION: 22
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following compounds is generally considered soluble in water? 
+		W) Sodium nitrate 
+		X) Magnesium carbonate 
+		Y) Silver chloride 
+		Z) Barium sulfate 
+ANSWER:   W) SODIUM NITRATE 
+
+QUESTION: 22
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Nitrous acid plus calcium hydroxide yield calcium nitrite (read as: ni-TRITE) plus water. Which of the following represents the coefficients for the compounds, in the order listed, when the reaction is correctly balanced? 
+		W) 1, 2, 1, 1 
+		X) 1, 1, 1, 1 
+		Y) 2, 2, 1, 2 
+		Z) 2, 1, 1, 2 
+ANSWER:   Z) 2, 1, 1, 2 Round 11 Page 12 
+
+QUESTION: 23
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: Plate divergence is responsible for all of the following formations, EXCEPT: 
+		W) East African Rift Valley 
+		X) Iceland 
+		Y) East Pacific Rise 
+		Z) Indonesian Islands 
+ANSWER:   Z) INDONESIAN ISLANDS 
+
+QUESTION: 23
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: By name or number, identify all of the following five geologic formations that are commonly formed at convergent boundaries where one oceanic plate is subducted below another oceanic plate: 1) trench, 2) backarc, 3) basin and range, 4) accretionary wedge, 5) rift zone. 
+ANSWER:   TRENCH, BACKARC, ACCRETIONARY WEDGE (ACCEPT: 1, 2 AND 4) 
+
+QUESTION: 24
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Name two of the elements that are common exceptions to the octet rule, because they are frequently found in compounds in which they have only six valence electrons. 
+ANSWER:   (ACCEPT TWO) BORON, ALUMINUM, BERYLLIUM 
+
+QUESTION: 24
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Regarding butylenes alkene isomers, which of the following statements is correct? 
+		W) Some are cis-trans isomers 
+		X) Some are chiral 
+		Y) Some are enantiomers (read as: in-AHNT-ee-oh-mehrs) 
+		Z) Some are atropisomers (read as: ah-troh-pee-s#e-mehrs) 
+ANSWER:   W) SOME ARE CIS-TRANS ISOMERS Round 11 Page 13 
+
+QUESTION: 25
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: When a plant cell is placed into a hypertonic solution, the cytoplasm in the plant cell shrinks away from the cell wall. What is the term that describes this phenomenon? 
+ANSWER:   PLASMOLYSIS (DO NOT ACCEPT: OSMOSIS; LYSIS) 
+
+QUESTION: 25
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the adjective used to describe animals that produce live offspring that, prior to birth, were nourished via a placenta? 
+ANSWER:   VIVIPAROUS 
+

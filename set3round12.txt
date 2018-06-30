@@ -1,0 +1,434 @@
+QUESTION: 1
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Often some of the strongest spectral lines in cold interstellar gas are produced by: 
+		W) neutral lithium 
+		X) ionized iron 
+		Y) carbon and iron 
+		Z) calcium and sodium 
+ANSWER:   Z) CALCIUM AND SODIUM 
+
+QUESTION: 1
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: The cosmic background radiation discovered by Penzias and Wilson closely matches the radiation from a black body with what temperature Kelvin, to the nearest whole number? 
+ANSWER:   3 
+
+QUESTION: 2
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following salt solutions, all at 1.0 molar concentration, will have a pH value less than 7: 
+		W) NH4Cl 
+		X) NaC2H3O2 
+		Y) KCl 
+		Z) LiBr 
+ANSWER:   W) NH4Cl 
+
+QUESTION: 2
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Name all of the following 4 compounds that exhibit hydrogen bonding: CH4; H2S; NH3; CH3OH 
+ANSWER:   NH3; CH3OH 2007 Regional Science Bowl Page 2 
+
+QUESTION: 3
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: In early experiments in the mid-1900s, the source and fate of oxygen involved in photosynthesis was mostly determined through experiments that used: 
+		W) animals in closed containers that would die unless a plant was introduced into the container 
+		X) a heavy isotope of oxygen as a tracer 
+		Y) fluorescent labeling of various enzymes and organic products 
+		Z) simple accounting of the atomic mass of all the reactants and products 
+ANSWER:   X) A HEAVY ISOTOPE OF OXYGEN AS A TRACER 
+
+QUESTION: 3
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: By number or name, identify all of the following 4 processes that contribute directly to genetic variation in humans: 1) random fertilization of ova with sperm; 2) crossing over; 3) independent assortment; 4) mitosis 
+ANSWER:   1, 2 AND 3 (ACCEPT: ALL BUT #4) 
+
+QUESTION: 4
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: If you roll 2 fair dice simultaneously, what is the probability, given as a fraction, that you will roll the number 6 on AT LEAST one die? 
+ANSWER:   11/36 
+
+QUESTION: 4
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Find the sum of all interior angles, in degrees, in a regular polygon having 14 sides: 
+ANSWER:   2,160 (Solution: (14 2)(180) = 2,160) 2007 Regional Science Bowl Page 3 
+
+QUESTION: 5
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is the BEST example of a non-point source pollution: 
+		W) leaching from a landfill 
+		X) a leaking septic tank 
+		Y) fertilizer runoff from agricultural fields 
+		Z) chemical spills at a mining site 
+ANSWER:   Y) FERTILIZER RUNOFF FROM AGRICULTURAL FIELDS 
+
+QUESTION: 5
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   short answer
+QUESTION: Arrange the following 4 layers of the Earths atmosphere in order of INCREASING air pressure: stratosphere; exosphere; thermosphere; troposphere 
+ANSWER:   EXOSPHERE; THERMOSPHERE; STRATOSPHERE; TROPOSPHERE 
+
+QUESTION: 6
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Some vitamin tablets contain high concentrations of zinc and must be formulated to include high levels of which of the following minerals in order to prevent an induced anemia: 
+		W) copper 
+		X) calcium 
+		Y) magnesium 
+		Z) boron 
+ANSWER:   W) COPPER 
+
+QUESTION: 6
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: What is the most common name for the technique that places a molecule in a strong magnetic field, irradiates the molecule with radio waves, and finally detects changes in the spin of atoms in the molecule? 
+ANSWER:   NUCLEAR MAGNETIC RESONANCE (ACCEPT: NMR or MAGNETIC RESONANCE SPECTROSCOPY) 2007 Regional Science Bowl Page 4 
+
+QUESTION: 7
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Landform deposits called linear dunes that were recently found on the moon Titan are MOST directly produced by: 
+		W) tectonic activity 
+		X) wind 
+		Y) erosion by the retreat and advance of large seas of liquid methane 
+		Z) streaks in the surface following low-angle meteorite impacts 
+ANSWER:   X) WIND 
+
+QUESTION: 7
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: What is the magnifying power of the telescope with a focal length of 5 meters and an eyepiece of 20 millimeters? 
+ANSWER:   250 (ACCEPT: 250X or 250 TIMES) (Solution: 5000mm/20mm = 250) 
+
+QUESTION: 8
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: The process in which an atom reradiates a photon after interacting with an incident photon of the same energy is called: 
+		W) Rayleigh scattering 
+		X) the Cherenkov effect 
+		Y) Braggs Law 
+		Z) Thomson scattering 
+ANSWER:   Z) THOMSON SCATTERING 
+
+QUESTION: 8
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: A protanomalous person has decreased sensitivity of the red cones in his or her eyes. Which of the following color pairs will this person have difficulty distinguishing between: 
+		W) red and green 
+		X) blue and purple 
+		Y) yellow and turquoise 
+		Z) dark navy blue and black 
+ANSWER:   X) BLUE AND PURPLE 2007 Regional Science Bowl Page 5 
+
+QUESTION: 9
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following is typically TRUE of organic compounds: 
+		W) acetylene contains delocalized pi bonds 
+		X) the simplest carboxylic acid is ethanoic acid 
+		Y) ketones have no hydrogen atoms directly attached to the carbonyl group 
+		Z) alcohols contain nonpolar hydroxyl groups 
+ANSWER:   Y) KETONES HAVE NO HYDROGEN ATOMS DIRECTLY ATTACHED TO THE CARBONYL GROUP 
+
+QUESTION: 9
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Rounded to the nearest whole number, what is the percent of magnesium in magnesium carbonate, given the atomic mass of magnesium is 24 grams per mole? 
+ANSWER:   29 (Solution: MgCO3 = 24 + 12 + (3 ! 16) = 84; 24/84 = 28.57%) 
+
+QUESTION: 10
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: In the famous experiment by Hershey and Chase that showed DNA was the genetic material, what did they use to transmit the DNA into E. coli: 
+		W) other E. coli 
+		X) electric shocks 
+		Y) a blender 
+		Z) bacteriophage 
+ANSWER:   Z) BACTERIOPHAGE 
+
+QUESTION: 10
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: In the Amanita mushroom, what is the name of the cell in which karyogamy and meiosis occur and what is the product of meiosis, respectively? 
+ANSWER:   CELL = BASIDIUM; PRODUCT = BASIDIOSPORE 2007 Regional Science Bowl Page 6 
+
+QUESTION: 11
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: Which of the following are coterminal angles in standard position (read slowly): 
+		W) 550 and 185 
+		X) 80 and 190 
+		Y) 1160 and 800 
+		Z) 181 and 118 
+ANSWER:   Y) 1160 AND 800 (Solution: 80 +3(360) = 1160; 80 +2(360) = 800) 
+
+QUESTION: 11
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Solve the following equation for x, expressing your answer in simplest radical form over the real numbers: x4 9x2 + 8 = 0 
+ANSWER:   22 AND 1 (ACCEPT ALL: 22+, 22!, +1, -1) 
+
+QUESTION: 12
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is the BEST example of an ocean current found in the intertidal littoral zone that flows seaward: 
+		W) rip current 
+		X) tidal bore 
+		Y) the Antarctic Circumpolar Current 
+		Z) equatorial tidal current 
+ANSWER:   W) RIP CURRENT 
+
+QUESTION: 12
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT true of isotherms: 
+		W) they are more widely spaced over the equatorial regions 
+		X) they are more closely spaced over North America in the summer than in the winter 
+		Y) they tend to be linear in form in the Southern Hemisphere south of 40 latitude 
+		Z) they are lines that connect places with the same average temperature 
+ANSWER:   X) THEY ARE MORE CLOSELY SPACED OVER NORTH AMERICA IN THE SUMMER THAN IN THE WINTER 2007 Regional Science Bowl Page 7 
+
+QUESTION: 13
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Which of the following instruments is BEST used to image small, transparent and fluorescent specimens and obtain optical sections without the need for mechanical sectioning: 
+		W) X-ray microanalyzer 
+		X) scanning electron microscope 
+		Y) transmission electron microscope 
+		Z) confocal laser scanning microscope 
+ANSWER:   Z) CONFOCAL LASER SCANNING MICROSCOPE 
+
+QUESTION: 13
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: A relatively new scourge to the citrus growers in Florida, what is the common name of the citrus disease caused by a species of bacteria called C. liberibacter and spread by an introduced non-native insect? 
+ANSWER:   GREENING (ACCEPT: CITRUS GREENING) 
+
+QUESTION: 14
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: A sidereal drive is a motor on a telescope that turns it in a certain direction to keep the telescope aimed at a certain celestial object. Giving your answer as north, south, east or west, in what direction does it turn? 
+ANSWER:   WEST 
+
+QUESTION: 14
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: The Wilkinson Microwave Anisotropy Probe was specifically designed to: 
+		W) map all matter in the universe down to a resolution of 1 arc second 
+		X) map the cosmic background radiation to much greater accuracy and precision than previous instruments 
+		Y) map the size and locations of the Local Group 
+		Z) map the exact location of the active galactic center of the Milky Way 
+ANSWER:   X) MAP THE COSMIC BACKGROUND RADIATION TO MUCH GREATER ACCURACY AND PRECISION THAN PREVIOUS INSTRUMENTS 2007 Regional Science Bowl Page 8 
+
+QUESTION: 15
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: In a compound gearing arrangement where a 40-tooth gear drives an 80-tooth gear which is directly connected to a 50-tooth gear that drives a 100-tooth gear, the total reduction is a factor of: 
+		W) 2 
+		X) 2.5 
+		Y) 4 
+		Z) 5 
+ANSWER:   Y) 4 
+
+QUESTION: 15
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Elastic deformation is BEST described as: 
+		W) the linear portion of a stress/strain curve 
+		X) the ultimate strength of a material 
+		Y) 0.02% elongation 
+		Z) permanent deformation 
+ANSWER:   W) THE LINEAR PORTION OF A STRESS/STRAIN CURVE 
+
+QUESTION: 16
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following elements has the largest second ionization energy: 
+		W) fluorine 
+		X) nitrogen 
+		Y) boron 
+		Z) lithium 
+ANSWER:   Z) LITHIUM (Solution: core electrons must be removed) 
+
+QUESTION: 16
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Arrange the following compounds in order of INCREASING ionic characteristic: HCl; LiBr; CO; KF 
+ANSWER:   CO; HCl; LiBr; KF 2007 Regional Science Bowl Page 9 
+
+QUESTION: 17
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following are MOST often used to introduce foreign genes into mammalian genomes: 
+		W) sliceosomes (read as: sly-see-oh-somz) 
+		X) zinc fingers 
+		Y) plasmids 
+		Z) telomeres 
+ANSWER:   Y) PLASMIDS 
+
+QUESTION: 17
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following regulate development in animals, plants and fungi, and were first discovered in Drosophila: 
+		W) homeobox (read as: HOME-ee-oh-box) genes 
+		X) p53 
+		Y) shock genes 
+		Z) oncogenes 
+ANSWER:   W) HOMEOBOX GENES 
+
+QUESTION: 18
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What function is the inverse of y = 3x + 4? 
+ANSWER:   y = 34!x 
+
+QUESTION: 18
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Giving your answer as an ordered pair, find the solution of the system of the following 2 equations: 2x + 3y = 8, and 3x 2y = 1 
+ANSWER:   (1, 2) (ACCEPT: 1 AND 2) 2007 Regional Science Bowl Page 10 
+
+QUESTION: 19
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Orthoclase feldspar primarily weathers by which of the following processes to form clay minerals: 
+		W) abrasion 
+		X) hydrolysis 
+		Y) exfoliation 
+		Z) dissolution 
+ANSWER:   X) HYDROLYSIS 
+
+QUESTION: 19
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   short answer
+QUESTION: What is the name for the sedimentary rock that carries high concentrations of organic material in the form of kerogen, which can yield oil when heated and distilled? 
+ANSWER:   OIL SHALE (ACCEPT: SHALE) 
+
+QUESTION: 20
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: Name all of the following 4 reagents that would NOT be labeled as a highly flammable substance: methanol; diethyl ether; 30% hydrogen peroxide; benzene 
+ANSWER:   30% HYDROGEN PEROXIDE 
+
+QUESTION: 20
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: What engineering term is MOST commonly used to describe why a shaft with a radius at a transition in diameter is stronger than the same shaft with an abrupt transition in diameter? 
+ANSWER:   STRESS CONCENTRATION (ACCEPT: STRESS CONCENTRATION AT THE CHANGE IN DIAMETER) (DO NOT ACCEPT: STRESS) 2007 Regional Science Bowl Page 11 
+
+QUESTION: 21
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: If the surface temperature of a given star increased from 20,000K to 60,000K, how many times as much energy would the star release? 
+ANSWER:   81 (ACCEPT: 34) 
+
+QUESTION: 21
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: Name all of the following 4 celestial objects that, when viewed from the Earth, CANNOT be in opposition: Moon; Mercury; Mars; Neptune 
+ANSWER:   MERCURY 
+
+QUESTION: 22
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What specific type of semiconductor is produced by adding phosphorus to silicon? 
+ANSWER:   N-TYPE 
+
+QUESTION: 22
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: How many turns are in the secondary coil of a transformer that has a primary coil with 20,000 turns and is designed to step down 12,000 volts AC to 120 volts AC? 
+ANSWER:   200 (Solution: 12,000/120 = 20,000/x; x = 200) 2007 Regional Science Bowl Page 12 
+
+QUESTION: 23
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: The hybridization of one s (read as: one <pause> s) orbital and 3 p (read as: three <pause> p) orbitals and one d (read as: one <pause> d) orbital creates how many sp3d hybrid orbitals? 
+ANSWER:   5 
+
+QUESTION: 23
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: A solution contains 0.50 moles of methanol in 100 grams of water. What is the mole fraction of methanol, to the second decimal place? 
+ANSWER:   0.08 (DO NOT ACCEPT 8.0%) (Solution: 100g/18 g mol-1 = 5.56 moles; 0.5 mol/(5.56 + 0.5) = 0.0825) 
+
+QUESTION: 24
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Black water fever is a complication of malarial infection. The term black water comes from what oxidized product in the urine of infected individuals? 
+ANSWER:   HEMOGLOBIN (ACCEPT: MET-HEMOGLOBIN) 
+
+QUESTION: 24
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Name all of the following 4 human blood cells that are considered lymphocytes: helper T cells; CD8 cells; CD4 cells; plasma cells 
+ANSWER:   HELPER T CELLS; CD8 CELLS; CD4 CELLS; PLASMA CELLS (ACCEPT: ALL) 2007 Regional Science Bowl Page 13 
+
+QUESTION: 25
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Calculate the atom percent composition, rounded to the nearest whole number, for each atom in acetic acid: 
+ANSWER:   C = 25%; H = 50%; O = 25% 
+
+QUESTION: 25
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Calculate the mass percent composition, rounded to the nearest whole number, for each atom in acetic acid: 
+ANSWER:   C = 40%; H = 7%; O = 53% (Solution: C = 24/60 ! 100% = 40%; H = 4/60 ! 100% = 6.7%; O = 32/60 ! 100% = 53.3%) 
+

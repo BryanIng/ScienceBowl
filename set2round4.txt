@@ -1,0 +1,426 @@
+QUESTION: 1
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What is the angular velocity of a wheel with a radius of 15 meters and a surface velocity of 120 meters/sec: 
+ANSWER:   8 RAD/SEC (Solution: = v/r = 120/15 = 8) 
+
+QUESTION: 1
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Assuming friction is negligible, how long will it take an object to stop if it has an initial velocity of 5 meters per second, if the average braking force is 20 Newtons, and if the objects mass is 20 kilograms? 
+ANSWER:   5 SECONDS (Solution: v = at, f = ma => t = v/a = v m / f = 20 x 5 / 20 = 5 seconds) 
+
+QUESTION: 2
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: For individuals who are Lactose Intolerant, the reason for their gastric distress is the production of: 
+		W) methane 
+		X) acetic acid and nitrogen 
+		Y) lactic acid and carbon dioxide 
+		Z) acetic acid and methane 
+ANSWER:   Y) LACTIC ACID AND CARBON DIOXIDE 
+
+QUESTION: 2
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which acid connects the 2-deoxyribose units within every DNA strand: 
+		W) acetic acid 
+		X) phosphoric acid 
+		Y) citric acid 
+		Z) glycolic acid 
+ANSWER:   X) PHOSPHORIC ACID 2002 Regional Science Bowl B Round 4 Page 2 
+
+QUESTION: 3
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following organisms does NOT belong to the Class Arachnida: 
+		W) scorpions 
+		X) lobsters 
+		Y) mites 
+		Z) ticks 
+ANSWER:   X) LOBSTERS 
+
+QUESTION: 3
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What anatomical structure is responsible for the various colors of eyes in humans? 
+ANSWER:   IRIS 
+
+QUESTION: 4
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following planets is NOT known to have any orbiting satellites: 
+		W) Venus 
+		X) Mars 
+		Y) Uranus 
+		Z) Saturn 
+ANSWER:   W) VENUS 
+
+QUESTION: 4
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: Cassinis division is associated with what planet? 
+ANSWER:   SATURN 2002 Regional Science Bowl B Round 4 Page 3 
+
+QUESTION: 5
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Convert 135 into radians: 
+ANSWER:   34 
+
+QUESTION: 5
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Solve the following inequality: 3 6x > 15 
+ANSWER:   x < -2 
+
+QUESTION: 6
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Hawaiian volcanoes such as Kilauea and Mauna Loa are examples of which of the following types of volcanoes: 
+		W) basaltic 
+		X) rhyolitic 
+		Y) andesitic 
+		Z) andesitic and rhyolitic 
+ANSWER:   W) BASALTIC 
+
+QUESTION: 6
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   short answer
+QUESTION: In reference to glacial ice, the process by which ice below the snow line is lost by evaporation and melting is called what? 
+ANSWER:   ABLATION 2002 Regional Science Bowl B Round 4 Page 4 
+
+QUESTION: 7
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: What is a quantity that has only a magnitude most commonly called? 
+ANSWER:   SCALAR 
+
+QUESTION: 7
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: What pioneer bacteriologist in 1873 located a particular bacterium that caused anthrax in the spleen of infected cattle and, after transferring it serially to mice, recovered the same bacterium in the end: 
+		W) Louis Pasteur 
+		X) Robert Koch (pronounced: Coke) 
+		Y) Rudolf Virchow 
+		Z) Peter Vogt 
+ANSWER:   X) ROBERT KOCH 
+
+QUESTION: 8
+TYPE:     toss-up
+SUBJECT:  computer science
+FORMAT:   short answer
+QUESTION: In most computer systems, a byte is a unit of data that is how many binary digits long? 
+ANSWER:   8 
+
+QUESTION: 8
+TYPE:     bonus
+SUBJECT:  computer science
+FORMAT:   short answer
+QUESTION: What is the term for half a byte, or four bits? 
+ANSWER:   NIBBLE (ACCEPT: NYBBLE) 2002 Regional Science Bowl B Round 4 Page 5 
+
+QUESTION: 9
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: In a standing wave of a vibrating wire cord, what are the points of constructive interference most commonly called where the cord oscillates with maximum amplitude? 
+ANSWER:   ANTINODES 
+
+QUESTION: 9
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: For a radioactive element with a half-life of 5000 years, if a sample of the radioactive element is left to decay for 15,000 years, what fraction of the original radioactive atoms in the sample will be left? 
+ANSWER:   1/8 (ACCEPT: 12.5%) 
+
+QUESTION: 10
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following elements is found in Period 3 and main Group 5A: 
+		W) phosphorous 
+		X) silicon 
+		Y) nitrogen 
+		Z) arsenic 
+ANSWER:   W) PHOSPHOROUS 
+
+QUESTION: 10
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: From the lowest to the highest atomic number, give the full names of any 4 alkaline earth metals: 
+ANSWER:   BERYLLIUM; MAGNESIUM; CALCIUM; STRONTIUM; BARIUM; RADIUM 2002 Regional Science Bowl B Round 4 Page 6 
+
+QUESTION: 11
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Which is the more common specific name for the polymorphonuclear (read as: poly-morph-oh-nuclear) leukocyte? 
+ANSWER:   NEUTROPHIL (ACCEPT: PMN) 
+
+QUESTION: 11
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Tobacco, jimsonweed, belladonna, and tomatoes all belong to what family of plants? 
+ANSWER:   NIGHTSHADE (ACCEPT: SOLANACEAE) 
+
+QUESTION: 12
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: How many degrees above the horizon will the north celestial pole be for someone standing at latitude 53 North? 
+ANSWER:   53 
+
+QUESTION: 12
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: What kind of celestial bodies have cores that consist primarily of neutral particles in a superfluid state and are thought to have evolved from stars with masses more than about 1.4 times the Chandrasekhar limit? 
+ANSWER:   NEUTRON STARS (DO NOT ACCEPT: PULSAR) 2002 Regional Science Bowl B Round 4 Page 7 
+
+QUESTION: 13
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What is the formula for the volume of a sphere? 
+ANSWER:   34r3 (read as: four third pi radius cubed) 
+
+QUESTION: 13
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Subtract the following 2 polynomials: (-4x3y + 2x3y2 + 2x2y3 + 2y) (4x3y 7x3y2 + x2y3 y) 
+ANSWER:   8x3y + 9x3y2 + x2y3 + 3y 
+
+QUESTION: 14
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: A measure of how easily water flows through rock is called its: 
+		W) porosity 
+		X) aquifer system 
+		Y) permeability 
+		Z) zone of aeration 
+ANSWER:   Y) PERMEABILITY 
+
+QUESTION: 14
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   short answer
+QUESTION: In coastal engineering terms, the area from the shoreline to just beyond the breaker zone is called what? 
+ANSWER:   LITTORAL ZONE (ACCEPT: INTERTIDAL ZONE) 2002 Regional Science Bowl B Round 4 Page 8 
+
+QUESTION: 15
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: What ardent behaviorist and author of Walden Two believed that human behavior is strongly influenced by what he referred to as operant reinforcement? 
+ANSWER:   B.F. SKINNER (ACCEPT: SKINNER) 
+
+QUESTION: 15
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: The total amount of sediment a stream can carry past a point in a given amount of time, is known as its: 
+		W) competence 
+		X) capacity 
+		Y) abrasion 
+		Z) dissolved load 
+ANSWER:   X) CAPACITY 
+
+QUESTION: 16
+TYPE:     toss-up
+SUBJECT:  computer science
+FORMAT:   short answer
+QUESTION: In word processing, a collection of letters and associated characters in the same typeface, style and point size is called: 
+ANSWER:   FONT 
+
+QUESTION: 16
+TYPE:     bonus
+SUBJECT:  computer science
+FORMAT:   multiple choice
+QUESTION: A logic chip that is just 20 nanometers wide would be about how many times wider than a single silicon atom? 
+		W) 5 
+		X) 50 
+		Y) 200 
+		Z) 500 
+ANSWER:   Y) 200 2002 Regional Science Bowl B Round 4 Page 9 
+
+QUESTION: 17
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which physical phenomenon explains the flotation of boats and air balloons: 
+		W) Bernoullis principle 
+		X) Archimedes principle 
+		Y) Newton's second law of motion 
+		Z) Galileos law of displacement 
+ANSWER:   X) ARCHIMEDES PRINCIPLE 
+
+QUESTION: 17
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: A runner, with her feet braced against her starting blocks, accelerates with a horizontal magnitude of 5 meters per second squared. How much horizontal force, in Newtons, must she exert on the blocks to produce this acceleration if the she has a mass of 70 kilograms? 
+ANSWER:   350 NEWTONS (ACCEPT: 350) (Solution: F=MA; F=70x5; F=350) 
+
+QUESTION: 18
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: How many electrons would fill the 4d energy subshell? 
+ANSWER:   10 
+
+QUESTION: 18
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: In which element is the first crossing in the orbital-filling order encountered, whereby the next 2 electrons go into the 4s subshell rather than filling the 3d orbitals? 
+		W) argon 
+		X) scandium 
+		Y) rubidium 
+		Z) potassium 
+ANSWER:   Z) POTASSIUM 2002 Regional Science Bowl B Round 4 Page 10 
+
+QUESTION: 19
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What section of the brain is sometimes referred to as the bodys thermostat? 
+ANSWER:   HYPOTHALAMUS 
+
+QUESTION: 19
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Removal of a predatory starfish results in an overabundance of mollusks dramatically altering the community population. The starfish would be considered: 
+		W) a keystone species 
+		X) primary competitor 
+		Y) secondary producer 
+		Z) an endangered species 
+ANSWER:   W) A KEYSTONE SPECIES 
+
+QUESTION: 20
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: In statistics, what is the square root of the variance most commonly known as? 
+ANSWER:   STANDARD DEVIATION 
+
+QUESTION: 20
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: To the nearest cubic inch, find the volume of a sphere whose diameter is 4 inches: 
+ANSWER:   33 (ACCEPT: 32 34) (Solution: V = 4/3 r3; = 4/3 (3.14)(8); = 33.49) 2002 Regional Science Bowl B Round 4 Page 11 
+
+QUESTION: 21
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: On a topographical map, what are the lines drawn that connect points of the same elevation above or below mean sea level called: 
+		W) isobars 
+		X) ridges 
+		Y) isohyets 
+		Z) contours 
+ANSWER:   Z) CONTOURS 
+
+QUESTION: 21
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: The abyssal plain of the Atlantic ocean lies directly adjacent to the: 
+		W) continental slope 
+		X) continental rise 
+		Y) continental shelf 
+		Z) continental crust 
+ANSWER:   X) CONTINENTAL RISE 
+
+QUESTION: 22
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: In 1905, on the basis of apparent irregularities in the orbital motion of Neptune that later proved to be incorrect, who predicted the existence of a ninth planet with an orbit beyond Neptune: 
+		W) Percival Lowell 
+		X) Charles Dillon Perrine 
+		Y) George Ellery Hale 
+		Z) Johannes Franz Hartman 
+ANSWER:   W) PERCIVAL LOWELL 
+
+QUESTION: 22
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: What native tree, prized for its wood, which looked like oak, and valued also for its fruit, is now almost extinct in the wild in the US? 
+ANSWER:   AMERICAN CHESTNUT (DO NOT ACCEPT CHESTNUT) 2002 Regional Science Bowl B Round 4 Page 12 
+
+QUESTION: 23
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: The speed of light in a vacuum divided by the speed of light in a specific material is a way to compute what common optical value: 
+ANSWER:   INDEX OF REFRACTION 
+
+QUESTION: 23
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What is the potential difference, in volts, if 35 joules of work is needed to move 5 coulombs of charge in a uniform electric field? 
+ANSWER:   7 (Solution: v = 35/5 = 7 volts) 
+
+QUESTION: 24
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: All elements in a given period of the periodic table have similar: 
+		W) valence-shell electron configuration 
+		X) maximum principal quantum number 
+		Y) atomic radii 
+		Z) atomic number 
+ANSWER:   X) MAXIMUM PRINCIPAL QUANTUM NUMBER 
+
+QUESTION: 24
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What is the systematic name for the compound FeCO3? 
+ANSWER:   IRON(II) CARBONATE (read as: iron 2 carbonate) (DO NOT ACCEPT: FERROUS CARBONATE OR IRON CARBONATE) 2002 Regional Science Bowl B Round 4 Page 13 
+
+QUESTION: 25
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following is a feeding structure in arachnids : 
+		W) dentipalps 
+		X) radula 
+		Y) proboscis 
+		Z) chelicerae (read as: chill-iss-err-aye) 
+ANSWER:   Z) CHELICERAE 
+
+QUESTION: 25
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT a cranial bone: 
+		W) parietal 
+		X) occipital 
+		Y) sphenoid 
+		Z) lacrimal 
+ANSWER:   Z) LACRIMAL (Solution: Lacrimal is a facial bone) 
+

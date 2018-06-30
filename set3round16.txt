@@ -1,0 +1,458 @@
+QUESTION: 1
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Human skin pigmentation and height may vary greatly and are probably controlled by multiple genes. This is an example most specifically of: 
+		W) pleiotropy 
+		X) polygenic inheritance 
+		Y) epistasis (read as: ep-ee-STAY-sis) 
+		Z) incomplete codominance 
+ANSWER:   X) POLYGENIC INHERITANCE 
+
+QUESTION: 1
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: There are more possible antibodies to antigens than there are genes that code for these antibodies in the human genome. Which of the following BEST accounts for this: 
+		W) genes mutate constantly in B cells 
+		X) genes for antibodies are spliced together from different chromosomal loci 
+		Y) antibodies have large amounts of cross reactivity with various antigens 
+		Z) antibodies are only specific for certain parts of an antigen 
+ANSWER:   X) GENES FOR ANTIBODIES ARE SPLICED TOGETHER FROM DIFFERENT CHROMOSOMAL LOCI 
+
+QUESTION: 2
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT true about amino acids: 
+		W) amino acids exist primarily as zwitterions 
+		X) amino acid are amphoteric 
+		Y) an amino acid becomes neutral at its isoelectric point 
+		Z) tryptophan and cysteine contain sulfur atoms in their side chains 
+ANSWER:   Z) TRYPTOPHAN AND CYSTEINE CONTAIN SULFUR ATOMS IN THEIR SIDE CHAINS (Solution: tryptophan contains a nitrogen atom) 
+
+QUESTION: 2
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Arrange the following 4 bonds in order of INCREASING bond lengths: C!C (read as: C single bond C); C=C (read as: C double bond C); C"C (read as: C triple bond C); CH (read as: C single bond H) 
+ANSWER:   CH; C"C; C=C; C!C 2007 Regional Science Bowl Page 2 
+
+QUESTION: 3
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: The discovery of the cosmic background radiation was originally done with: 
+		W) the Hubble space telescope 
+		X) the Arecibo radio telescope 
+		Y) a ground-based horn-shaped microwave antenna 
+		Z) a microwave receiver in a high altitude hot air balloon 
+ANSWER:   Y) A GROUND-BASED HORN-SHAPED MICROWAVE ANTENNA 
+
+QUESTION: 3
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following recently gave what many think as irrefutable evidence for the existence of dark matter: 
+		W) the discovery of gravitational waves at the LIGO facility at Pacific Northwest National Lab 
+		X) Chandra X-ray images of hot gases during a violent merger of the bullet cluster of galaxies 
+		Y) creation of quark-gluon plasma at the Relativistic Heavy Ion Collider 
+		Z) the finding that neutrinos account for more mass of the universe than all the stars in the universe 
+ANSWER:   X) CHANDRA X-RAY IMAGES OF HOT GASES DURING A VIOLET MERGER OF THE BULLET CLUSTER OF GALAXIES 
+
+QUESTION: 4
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Differentiate the following trigonometric function: f(x) = sin x2 
+ANSWER:   2x cos x2 
+
+QUESTION: 4
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: Which of the following is closest to the area of a triangle whose sides are a = 10, b = 12 and c = 18: 
+		W) 57 
+		X) 81 
+		Y) 90 
+		Z) 108 
+ANSWER:   W) 57 (Solution: s = (10+12+18)/2; K = )1820)(1220)(1020(20))()((!!!=!!!csbsass= 3200= 56.6) 2007 Regional Science Bowl Page 3 
+
+QUESTION: 5
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Reverse faults commonly form as a result of which of the following tectonic forces: 
+		W) tensional 
+		X) transform 
+		Y) shear 
+		Z) compressive 
+ANSWER:   Z) COMPRESSIVE 
+
+QUESTION: 5
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is an ocean current that predominately travels in an EASTERLY direction: 
+		W) the Labrador Current 
+		X) the North Equatorial Current 
+		Y) the Antarctic Circumpolar Current 
+		Z) the South Equatorial Current 
+ANSWER:   Y) THE ANTARCTIC CIRCUMPOLAR CURRENT 
+
+QUESTION: 6
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Which of the following is TRUE: 
+		W) neutrinos released from Fermi National Lab in Illinois have been detected by an underground facility in Minnesota 
+		X) the European Space Agencys Planck Surveyor recently confirmed a critical postulate of string theory 
+		Y) baryonic matter accounts for most of the mass of the universe 
+		Z) the LISA detector recently detected gravitational waves from 2 colliding black holes 
+ANSWER:   W) NEUTRINOS RELEASED FROM FERMI NATIONAL LAB IN ILLINOIS HAVE BEEN DETECTED BY AN UNDERGROUND FACILITY IN MINNESOTA 
+
+QUESTION: 6
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: Your boat has a true course of 88, the variation is 18 west, and the deviation is 12 west. What is your compass course, in degrees? 
+ANSWER:   118 (Solution: 88 + 18 + 12 = 118) 2007 Regional Science Bowl Page 4 
+
+QUESTION: 7
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following is TRUE: 
+		W) the far side of the Moon from Earth has more large maria than the near side 
+		X) the next sunspot minimum is expected in 2008 
+		Y) the declination of the Sun during the winter solstice is 23.5 degrees north 
+		Z) B-type stars have strong absorption lines for neutral helium 
+ANSWER:   Z) B-TYPE STARS HAVE STRONG ABSORPTION LINES FOR NEUTRAL HELIUM 
+
+QUESTION: 7
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following is the BEST description of a Cepheid variable star: 
+		W) a pulsating variable varying in brightness in a very regular time period of 1 to 50 days 
+		X) a short pulsating variable with a very regular period of 1 to 4 minutes 
+		Y) a binary star system with an eclipsing partner 
+		Z) a small k-type star with a very regular period of 1 to 3 weeks 
+ANSWER:   W) A PULSATING VARIABLE VARYING IN BRIGHTNESS IN A VERY REGULAR TIME PERIOD OF 1 TO 50 DAYS 
+
+QUESTION: 8
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following was a technique invented by Meselson and Stahl in their classic experiments to support the theory of semiconservative replication: 
+		W) radiolabeling of DNA 
+		X) density gradient centrifugation 
+		Y) electrophoresis 
+		Z) autoradiography 
+ANSWER:   X) DENSITY GRADIENT CENTRIFUGATION 
+
+QUESTION: 8
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: If a solution of phospholipids were dropped into a non-polar liquid, which of the following would MOST likely happen: 
+		W) the fatty acid tails would be stripped from the phosphate heads 
+		X) the phospholipids would mix evenly in the non-polar liquid 
+		Y) micelles (read as: MY-CELLS) would form with polar heads on the outside 
+		Z) micelles would form with polar heads on the inside 
+ANSWER:   Z) MICELLES WOULD FORM WITH POLAR HEADS ON THE INSIDE 2007 Regional Science Bowl Page 5 
+
+QUESTION: 9
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following fatty acids has the HIGHEST melting point: 
+		W) an 18-carbon saturated fatty acid 
+		X) an 18-carbon polyunsaturated fatty acid 
+		Y) an 18-carbon monounsaturated fatty acid 
+		Z) a 16-carbon monounsaturated fatty acid 
+ANSWER:   W) AN 18-CARBON SATURATED FATTY ACID (Solution: W = 70C, X = -5C, Y = 16C, Z = 32C; Saturated Fats are usually solids) 
+
+QUESTION: 9
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Consider an acid solution whose density is 1.5 grams per cubic centimeter and which is 30% acid by mass. Find the volume, in milliliters, of the acid solution that is needed to contain 90 grams of acid: 
+ANSWER:   200 (Solution: 90g acid # 100g soln/30g acid # 1cm3/1.5 g soln = 200 cm3 = 200 ml) 
+
+QUESTION: 10
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Generally, physicists cannot use light to explore the composition of the subatomic world since light wavelengths are too long. Which of the following do they MOST often resort to as a tool of probing the nature of the atomic nucleus: 
+		W) high energy gamma-rays 
+		X) high energy charged particles 
+		Y) tunneling microscopes 
+		Z) ultrasonic analysis 
+ANSWER:   X) HIGH ENERGY CHARGED PARTICLES 
+
+QUESTION: 10
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Name all of the following 4 choices that are types of particles called hadrons: neutron; proton; positron; antiproton 
+ANSWER:   NEUTRON; PROTON; ANTIPROTON (ACCEPT: ALL BUT POSITRON) 2007 Regional Science Bowl Page 6 
+
+QUESTION: 11
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT true: 
+		W) a functions graph may intersect one of its horizontal asymptotes 
+		X) a functions graph may intersect one of its vertical asymptotes 
+		Y) the identity function f(x) = x is its own inverse 
+		Z) the function f(x) = !x is its own inverse 
+ANSWER:   X) A FUNCTIONS GRAPH MAY INTERSECT ONE OF ITS VERTICAL ASYMPTOTES 
+
+QUESTION: 11
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: If the 1st term of an arithmetic sequence is 4 and the 20th term is 156, what are the first five terms in the sequence: 
+ANSWER:   4, 12, 20, 28, 36 (Solution: a20 = a1 + (n 1)d; 156 = 4 + (20 1)d, d = 8) 
+
+QUESTION: 12
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is considered an activator of fluorescence because when present in small concentrations it usually causes a ruby crystal to fluoresce a bright deep red: 
+		W) iron 
+		X) chromium 
+		Y) nickel 
+		Z) copper 
+ANSWER:   X) CHROMIUM 
+
+QUESTION: 12
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   short answer
+QUESTION: Termed Yedoma in Siberia, what is the name for the windblown dust that was deposited during the glacial age and covers more than 1 million square kilometers of the north plains of Siberia and Central Alaska? 
+ANSWER:   LOESS (ACCEPT: FROZEN LOESS) 2007 Regional Science Bowl Page 7 
+
+QUESTION: 13
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: The famous hominid skeleton called Lucy has been dated to be how many years old: 
+		W) 100 thousand years 
+		X) 500 thousand years 
+		Y) 1.6 million years 
+		Z) 3.2 million years 
+ANSWER:   Z) 3.2 MILLION YEARS 
+
+QUESTION: 13
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Which of the following statements is LEAST accurate: 
+		W) a U.S. barrel of crude oil is 42 gallons 
+		X) one barrel of U.S. crude oil typically yields about 20 gallons of motor gasoline 
+		Y) the distillation step in crude oil refinement typically eliminates nearly all the sulfur 
+		Z) a U.S. barrel of crude oil can yield more than 44 gallons of petroleum products 
+ANSWER:   Y) THE DISTILLATION STEP IN CRUDE OIL REFINEMENT TYPICALLY ELIMINATES NEARLY ALL THE SULFUR 
+
+QUESTION: 14
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following is LEAST accurate: 
+		W) the Suns corona is hotter than both the photosphere and the chromosphere 
+		X) the Crab nebula is a remnant of a supernova that collapsed in the year 1054 
+		Y) equinoxes are points on the celestial sphere where the celestial equator is intersected by the ecliptic 
+		Z) epicycles were employed by Ptolemy to explain retrograde motion in planets 
+ANSWER:   X) THE CRAB NEBULA IS A REMNANT OF A SUPERNOVA THAT COLLAPSED IN THE YEAR 1054 
+
+QUESTION: 14
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following is LEAST likely true about gamma ray bursts: 
+		W) they are extremely powerful emissions of energy 
+		X) they are probably often associated with black holes 
+		Y) they probably result from a neutron star merging with a black hole 
+		Z) they typically last less than a hundredth of a second 
+ANSWER:   Z) THEY TYPICALLY LAST LESS THAN A HUNDREDTH OF A SECOND 2007 Regional Science Bowl Page 8 
+
+QUESTION: 15
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following is MOST directly involved in the motility and intercellular signaling in T-cells: 
+		W) filamentous actin 
+		X) 200-nanometer myosin fibrils 
+		Y) cathepsin-myosin complexes 
+		Z) microvilli 
+ANSWER:   W) FILAMENTOUS ACTIN 
+
+QUESTION: 15
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT true of micro RNA in eukaryotes: 
+		W) they regulate gene expression 
+		X) they target homologous sequences in mRNA 
+		Y) they are small polypeptide-coding sequences 
+		Z) they are transcribed by RNA polymerase two 
+ANSWER:   Y) THEY ARE SMALL POLYPEPTIDE-CODING SEQUENCES 
+
+QUESTION: 16
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: In which of the following reversible gas reactions does the value of Kp = Kc (read as: K sub P equal K sub C): 
+		W) A + B $ C (read as: A plus B, double arrow, yields C) 
+		X) 2A + B $ C + D 
+		Y) A + B $ C + D 
+		Z) A $ B + C 
+ANSWER:   Y) A + B $ C + D 
+
+QUESTION: 16
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: How many milliliters of 0.1 molar hydrochloric acid are required to neutralize 50 milliliters of a 0.1 molar strontium hydroxide solution? 
+ANSWER:   100 (Solution: (0.05L)(0.1mol/L) = 0.005 M Sr(OH)2 # 2HCl/1Sr(OH)2 = 0.01 mol HCl; 0.01 mol HCl # L/0.1 mol = 0.100L = 100ml) 2007 Regional Science Bowl Page 9 
+
+QUESTION: 17
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Physicists have developed theories, called Grand Unified Theories, that attempt to unify the forces of the universe into one. As temperatures get higher going back through the early universe, which three of the four forces do these theories typically unify first? 
+ANSWER:   ELECTROMAGNETIC; STRONG; WEAK (ACCEPT: ALL BUT GRAVITY) 
+
+QUESTION: 17
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Many physicists are highly critical of the rationale that seeks to explain phenomena of the universe by indicating that, if things had been otherwise, life and humans would not exist. This is MOST commonly known as what principle? 
+ANSWER:   ANTHROPIC PRINCIPLE (ACCEPT: ANTHROPIC) 
+
+QUESTION: 18
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Giving your answer as up, down, left, or right, if a > 0, which way does the parabola given by the equation, x = a(y k)2 + h open: 
+ANSWER:   LEFT 
+
+QUESTION: 18
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Find the following indefinite integral: !+dxxx)cos5sin3( (read as: the integral of 3 sine x + 5 cosine x, dx) 
+ANSWER:   3 cos x + 5 sin x + C 2007 Regional Science Bowl Page 10 
+
+QUESTION: 19
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Most banded iron formations found today began to form about how many years ago: 
+		W) 2.5 billion years 
+		X) 500 million years 
+		Y) 5 million years 
+		Z) 100,000 years 
+ANSWER:   W) 2.5 BILLION YEARS 
+
+QUESTION: 19
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Also known as fall-stripes, precipitation falling from the undersurface of a cloud but not reaching the ground is known as: 
+		W) virga 
+		X) fog 
+		Y) Rossby waves 
+		Z) fans 
+ANSWER:   W) VIRGA 
+
+QUESTION: 20
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Which of the following statements is LEAST accurate: 
+		W) angina is chest pain 
+		X) catalytic converters require unleaded fuels to run properly 
+		Y) citrus canker is caused by a fungus 
+		Z) long-period comets are believed to originate in the Oort cloud 
+ANSWER:   Y) CITRUS CANKER IS CAUSED BY A FUNGUS (Solution: citrus canker is caused by bacteria) 
+
+QUESTION: 20
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: Name all of the following pathways that are considered major risks for the movement of H5N1 virus throughout the world: 1) poultry shipments; 2) contaminated poultry equipment; 3) migratory birds; 4) infected humans 
+ANSWER:   1; 2; 3 (ACCEPT: ALL BUT 4 - INFECTED HUMANS) 2007 Regional Science Bowl Page 11 
+
+QUESTION: 21
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: The abundance of what element in T-Tauri stars is the best indication that they are young stars? 
+ANSWER:   LITHIUM 
+
+QUESTION: 21
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: Name all of the following instruments that have been used to help understand the critical density of our universe: COBE; WMAP; BOOMERANG 
+ANSWER:   COBE; WMAP; BOOMERANG (ACCEPT: ALL) 
+
+QUESTION: 22
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the primary target organ of luteinizing hormone in the human male? 
+ANSWER:   TESTIS 
+
+QUESTION: 22
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Name all of the following 3 plant types that are specifically adapted to arid environments with bright Sun: C4 plants; CAM plants; C3 plants 
+ANSWER:   C4; CAM PLANTS 2007 Regional Science Bowl Page 12 
+
+QUESTION: 23
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Identify, by chemical formula, the oxidizing agent and the reducing agent, respectively, for the following reaction: SiCl4 + 2Mg ! 2MgCl2 + Si 
+ANSWER:   OXIDIZING AGENT = SiCl4; REDUCING AGENT = Mg 
+
+QUESTION: 23
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What is the molar mass of a gas, in grams per mole to the nearest whole number, if it has a density of 0.50 grams per liter at 400K and standard pressure? 
+ANSWER:   16 (Solution: M = (dRT/P) = [(0.5g/L)(0.0821L-atm/K-mol)(400K)]/(1.0 atm) = 16.42 g/mol) 
+
+QUESTION: 24
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: If a 100-kilogram bear climbs from the bottom to the top of a vertical 10-meter tree in 10 seconds, what is the bears average power output, in watts? 
+ANSWER:   980 (Solution: P = mgd/t = [(100kg)(10m/s2)(9.8m)]/10s = 980W) 
+
+QUESTION: 24
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Two masses are hung in a physics lab. These are tied to opposite ends of a weightless string which passes over a frictionless pulley. If the masses are released from rest and mass #1 = 1 kilogram and mass #2 = 2 kilograms, what is the acceleration, to the first decimal place, of mass #1 and in what direction, up or down? 
+ANSWER:   3.3 AND UP (ACCEPT: 3.2 AND UP) (Solution: Fnet = Fg1 Fg2 = m1g1 = m2g2 = (2 kg)(9.8m/s) (1kg)(9.8m/s) = 9.8N; a = F/m = 9.8N/3kg = 3.27 m/s2) 2007 Regional Science Bowl Page 13 
+
+QUESTION: 25
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What protein is the primary component of the thick filaments seen in a cross section of a sarcomeres myofilaments? 
+ANSWER:   MYOSIN 
+
+QUESTION: 25
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: To what specific protein do calcium ions bind directly leading to muscle contraction in striated human muscle? 
+ANSWER:   TROPONIN-C (ACCEPT: TROPONIN) 
+

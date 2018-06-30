@@ -1,0 +1,458 @@
+QUESTION: 1
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following is closest to the maximum ATP molecules generated from the complete oxidation of 1 mole of glucose in a typical eukaryotic cell: 
+		W) 8 moles 
+		X) 16 moles 
+		Y) 24 moles 
+		Z) 38 moles 
+ANSWER:   Z) 38 MOLES 
+
+QUESTION: 1
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Name all of the following 3 metabolic pathways where substrate-level phosphorylation occurs: citric acid cycle; glycolysis; electron transport system 
+ANSWER:   CITRIC ACID CYCLE; GLYCOLYSIS 
+
+QUESTION: 2
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following is considered a monoprotic acid: 
+		W) sulfuric acid 
+		X) hypochlorous acid 
+		Y) carbonic acid 
+		Z) sulfurous acid 
+ANSWER:   X) HYPOCHLOROUS ACID (Solution: acid with 1 ionizable H atom, HOCl) 
+
+QUESTION: 2
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Arrange the following 4 cations in order of increasing ionic radii: Mg2+; Rb+; Al3+; Na+ 
+ANSWER:   Al3+; Mg2+; Na+; Rb+ 2007 Regional Science Bowl Page 2 
+
+QUESTION: 3
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Two-thirds of the charge is removed from a capacitor without changing its capacitance. The stored energy in the capacitor is now what multiple of the original: 
+		W) 1/3rd 
+		X) 1/9th 
+		Y) 3 
+		Z) 9 
+ANSWER:   X) 1/9th 
+
+QUESTION: 3
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: If a sound is emitted in dry air at 27C and takes 5 seconds to reach a person, how far away, in meters, from the sound source is the person: 
+		W) 1,655 
+		X) 1,682 
+		Y) 1,736 
+		Z) 1,873 
+ANSWER:   Y) 1,736 
+
+QUESTION: 4
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Which of the following is an intestinal worm which grows to about 25 centimeters in length and is transferred from person to person by way of contaminated soil: 
+		W) Ascaris (read as: as-KAH-ris) 
+		X) guinea worm 
+		Y) shistosomiasis (read as: SHISS-toe-so-MY-ah-sis) 
+		Z) lymphatic filariasis (read as: fil-AH-ree-AH-sis) 
+ANSWER:   W) ASCARIS 
+
+QUESTION: 4
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Shock is often a life-threatening health condition that is typically and most directly caused by: 
+		W) low blood pH 
+		X) loss of brain function 
+		Y) extremely high cardiac output 
+		Z) low blood pressure 
+ANSWER:   Z) LOW BLOOD PRESSURE 2007 Regional Science Bowl Page 3 
+
+QUESTION: 5
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is LEAST accurate about the composition and structure of Earths atmosphere: 
+		W) at the uppermost boundary of the troposphere, air temperature begins to increase with increasing altitude 
+		X) the ozone layer absorbs UV radiation from the Sun 
+		Y) there are about one-third as many gas molecules in the air atop Mt. Everest compared to sea level 
+		Z) it is divided into four distinct layers based primarily on pressure gradients 
+ANSWER:   Z) IT IS DIVIDED INTO FOUR DISTINCT LAYERS BASED PRIMARILY ON PRESSURE GRADIENTS 
+
+QUESTION: 5
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Strike-slip faults MOST commonly occur in which of the following: 
+		W) areas of continental collision 
+		X) transform fault margins 
+		Y) subduction zones 
+		Z) divergent plate boundaries 
+ANSWER:   X) TRANSFORM FAULT MARGINS 
+
+QUESTION: 6
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Expand the following expression, giving your answer in standard binomial form: (6x + 3y)2 
+ANSWER:   36x2 + 36xy + 9y2 
+
+QUESTION: 6
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Consider a blue circle inscribed in a white square. If the radius of the circle is 10 centimeters, what is the area of all visible white portions of the square, to the nearest whole number in centimeters squared? 
+ANSWER:   86 (Solution: A square = 202 = 400; A circle = !r2 = 100! = 314; 400 314 = 86cm2) 2007 Regional Science Bowl Page 4 
+
+QUESTION: 7
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: All the stars of the Pleiades open cluster have: 
+		W) the same luminosities 
+		X) the same surface temperatures 
+		Y) very similar chemical compositions 
+		Z) the same apparent magnitudes 
+ANSWER:   Y) VERY SIMILAR CHEMICAL COMPOSITIONS 
+
+QUESTION: 7
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: When binary stars are made of a main sequence star and a compact white dwarf, as long as the white dwarfs mass remains below 1.4 solar masses then the gas falling into the white dwarf is believed to often result in a: 
+		W) supernova 
+		X) nova 
+		Y) pulsar 
+		Z) quasar 
+ANSWER:   X) NOVA 
+
+QUESTION: 8
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following is LEAST accurate regarding Avian migratory patterns: 
+		W) migration of birds from the tropics to the northern latitudes is typically endogenously controlled 
+		X) the migratory timing of many birds is being affected by global change 
+		Y) both large and very small birds migrate long distances 
+		Z) breeding in most birds is timed to be when fewest predators are present 
+ANSWER:   Z) BREEDING IN MOST BIRDS IS TIMED TO BE WHEN FEWEST PREDATORS ARE PRESENT 
+
+QUESTION: 8
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following MOST likely occurs during speciation (read as: spee-cee-A-tion): 
+		W) increased mutation rates 
+		X) reproductive isolation 
+		Y) elimination of recessive alleles 
+		Z) increase in genetic load 
+ANSWER:   X) REPRODUCTIVE ISOLATION 2007 Regional Science Bowl Page 5 
+
+QUESTION: 9
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: The titration of a weak base, 0.100 molar NaCN, with a strong acid, 0.100 molar HCl, results in a solution at the equivalence point having a pH of: 
+		W) between 7 and 10 
+		X) 7 
+		Y) between 4 and 7 
+		Z) between 1 and 3 
+ANSWER:   Y) BETWEEN 4 AND 7 
+
+QUESTION: 9
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: In grams per liter, what is density of a gas whose molar mass is 134.4 grams per mole at standard temperature and pressure? 
+ANSWER:   6 (Solution: d = (134.4g/mol)/22.4L/mol) = 6.0g/L) 
+
+QUESTION: 10
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Kirchhoffs First Rule, often called the node or junction rule, is a restatement of which of the following fundamental principles: 
+		W) conservation of energy 
+		X) conservation of mass 
+		Y) conservation of charge 
+		Z) conservation of momentum 
+ANSWER:   Y) CONSERVATION OF CHARGE 
+
+QUESTION: 10
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Giving your answer in proper scientific notation to the first decimal place, how many joules of work are required to move a charge of +60 microcoulombs through a potential difference of 8 volts? 
+ANSWER:   4.8 " 10-4 (Solution: (60 " 10-6)(8.0 J/C) = 4.8 " 10-4J) 2007 Regional Science Bowl Page 6 
+
+QUESTION: 11
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Factor the following expression: 49x2 169y4 
+ANSWER:   (7x + 13y2)( 7x 13y2) 
+
+QUESTION: 11
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: If $1000 is placed in a savings account that pays 6% annual interest compounded semiannually, what is the total amount of money in the account at the end of 1 year, to the nearest dollar? 
+ANSWER:   $1061.00 (Solution: A = P[1 + (r/n)]nt; = $1,000[1 + (0.06/2)](2x1) = $1060.90) 
+
+QUESTION: 12
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following BEST describes the downward movement of typical alpine glaciers: 
+		W) they move by mass wasting and surface creep 
+		X) they move much like a brick sliding down a board 
+		Y) they flow fastest where the ice is thinnest 
+		Z) they slide along the base and flow like a fluid 
+ANSWER:   Z) THEY SLIDE ALONG THE BASE AND FLOW LIKE A FLUID 
+
+QUESTION: 12
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT true of seismic waves: 
+		W) P and S waves can travel through solids 
+		X) S waves cannot travel through Earths outer core 
+		Y) S-wave and P-waves cancel each other out in the shadow zone 
+		Z) seismographs typically record P waves before S waves 
+ANSWER:   Y) S-WAVE AND P-WAVES CANCEL EACH OTHER OUT IN THE SHADOW ZONE 2007 Regional Science Bowl Page 7 
+
+QUESTION: 13
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Which of the following statements is LEAST accurate: 
+		W) tetraethyl lead was once commonly added to gasoline to prevent engine knocking 
+		X) free radicals are not known to play a role in biological processes 
+		Y) catalase reacts with hydrogen peroxide to form water and oxygen 
+		Z) bottled mineral water typically contains higher total dissolved solids than tap water 
+ANSWER:   X) FREE RADICALS ARE NOT KNOWN TO PLAY A ROLE IN BIOLOGICAL PROCESSES 
+
+QUESTION: 13
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Recent evidence suggests that comets arise not only from reservoirs of the Kuiper Belt and Oort Cloud but also from: 
+		W) the main asteroid belt 
+		X) a belt between Neptune and Pluto 
+		Y) a belt about 100 astronomical units beyond Pluto 
+		Z) at the heliopause 
+ANSWER:   W) THE MAIN ASTEROID BELT 
+
+QUESTION: 14
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: In what area of the sky would the planet Venus be MOST likely to be seen a few hours after sunset from mid-northern latitudes: 
+		W) low in the western sky 
+		X) high in the southern sky 
+		Y) directly overhead 
+		Z) high in the northern sky 
+ANSWER:   W) LOW IN THE WESTERN SKY 
+
+QUESTION: 14
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: How many degrees along the meridian is the nadir from the zenith? 
+ANSWER:   180 2007 Regional Science Bowl Page 8 
+
+QUESTION: 15
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT true about vaccinations: 
+		W) they were first developed against viral infections such as small pox 
+		X) they allow the immune system to respond more quickly and effectively on exposure to the disease causing agent 
+		Y) they will typically protect the person from infection within 24 hours after vaccination 
+		Z) they often require adjuvants which are nonspecific irritants for best results 
+ANSWER:   Y) THEY WILL TYPICALLY PROTECT THE PERSON FROM INFECTION WITHIN 24 HOURS AFTER VACCINATION 
+
+QUESTION: 15
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Order the following 4 storage forms of energy from the most readily available to humans to the most difficult to mobilize: adipose stores; ATP; glycogen; glucose 
+ANSWER:   ATP; GLUCOSE; GLYCOGEN; ADIPOSE STORES 
+
+QUESTION: 16
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: The hybridization of one s (read as: one <pause> s) orbital and two p (read as: two <pause> p) orbitals creates how many sp2 hybrid orbitals? 
+ANSWER:   3 
+
+QUESTION: 16
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: A molecule whose geometry of electron domains is tetrahedral and whose shape is bent or angular is: 
+		W) water 
+		X) sulfur dioxide 
+		Y) carbon dioxide 
+		Z) ammonium 
+ANSWER:   W) WATER 2007 Regional Science Bowl Page 9 
+
+QUESTION: 17
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Thomas Youngs double slit experiments give the most direct and strongest support for which of the following: 
+		W) the wave nature of light 
+		X) the constancy of the speed of light 
+		Y) the existence of the photon 
+		Z) the particle nature of light 
+ANSWER:   W) THE WAVE NATURE OF LIGHT 
+
+QUESTION: 17
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Order the following 3 locations from the SLOWEST to the FASTEST for objects accelerating because of gravity: Mount Everest; North Pole; New York City 
+ANSWER:   MOUNT EVEREST; NEW YORK CITY; NORTH POLE 
+
+QUESTION: 18
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT a geometric sequence: 
+		W) 30, 6, 56 
+		X) a2, a3b, a4b2 
+		Y) 6, 13, 20 
+		Z) 23, 43, 83 
+ANSWER:   Y) 6, 13, 20 
+
+QUESTION: 18
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Find the product of the following, giving your answer without negative exponents: (x-2 + y)(x2 y-2) 
+ANSWER:   yyxyx111222!+! (Note: the terms can be given in any order) 2007 Regional Science Bowl Page 10 
+
+QUESTION: 19
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is TRUE: 
+		W) deserts often occur on the windward sides of mountains 
+		X) taiga biomes are characterized by long severe winters and short summers 
+		Y) the most fertile soils are typically found in tropical forests 
+		Z) pedocal soil types are most likely be found in wet, humid environments 
+ANSWER:   X) TAIGA BIOMES ARE CHARACTERIZED BY LONG SEVERE WINTERS AND SHORT SUMMERS 
+
+QUESTION: 19
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: In which of the following locations would you MOST easily find a treasure-trove of rhyolitic rock: 
+		W) Yellowstone National park 
+		X) Hawaii 
+		Y) evaporate deposits in Death Valley, California 
+		Z) the mid-Atlantic ridge 
+ANSWER:   W) YELLOWSTONE NATIONAL PARK 
+
+QUESTION: 20
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: As an alternative name, galvanic corrosion is MOST commonly called: 
+		W) pitting corrosion 
+		X) intergranular corrosion 
+		Y) stress corrosion 
+		Z) two-metal corrosion 
+ANSWER:   Z) TWO-METAL CORROSION 
+
+QUESTION: 20
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Which of the following is the MOST conventional composite anode for solid oxide fuel cells that operate on pure hydrogen fuel: 
+		W) nickel oxide 
+		X) silicon oxide 
+		Y) iron oxide 
+		Z) zinc oxide 
+ANSWER:   W) NICKEL OXIDE 2007 Regional Science Bowl Page 11 
+
+QUESTION: 21
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: What astronomical constant has the value of 70 kilometers per second per megaparsec? 
+ANSWER:   HUBBLE CONSTANT (ACCEPT: HUBBLE) 
+
+QUESTION: 21
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: Order the following 3 celestial objects from the one with the LEAST number of impact craters to the MOST: Earths Moon; Earth; Venus 
+ANSWER:   EARTH; VENUS; EARTHS MOON 
+
+QUESTION: 22
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the final electron acceptor for electrons passing down the electron transport system? 
+ANSWER:   OXYGEN (ACCEPT: MOLECULAR OXYGEN or O2) 
+
+QUESTION: 22
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Name all of the following 4 molecules that are typically NOT found in plant cell plasma membranes: phospholipids; integral proteins; cholesterol; cellulose 
+ANSWER:   CHOLESTEROL; CELLULOSE (Solution: cellulose is in cell wall, not cell plasma membrane) 2007 Regional Science Bowl Page 12 
+
+QUESTION: 23
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What are the bond angles around each carbon in a benzene ring? 
+ANSWER:   120 
+
+QUESTION: 23
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: How many carbons are in the following compound: (read slowly) 4-ethyl-4-methyl octane 
+ANSWER:   11 
+
+QUESTION: 24
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: A boy gets a sled for his birthday in July. He exerts a 50-newton horizontal force as he pulls the 80-newton sled across the cement driveway at a constant speed. What is the coefficient of kinetic friction, to the second decimal place, between the driveway and the metal blades of the sled? 
+ANSWER:   0.63 (Solution: k = Ff/FN = 50N/80N = 0.625) 
+
+QUESTION: 24
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: It is now January and there is snow! The coefficient of friction is now 0.10. If a person weighing 500 newtons sits on the 80-newton sled, what horizontal force, in newtons, is needed to pull the sled across the snow at constant speed? 
+ANSWER:   58 (Solution: at constant speed applied force = friction force. Ff = FN = (0.10)(80N + 500N) = 58N) 2007 Regional Science Bowl Page 13 
+
+QUESTION: 25
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What base triplet is the start codon for methionine (read as: meth-EYE-oh-neen)? 
+ANSWER:   AUG 
+
+QUESTION: 25
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: If you wanted to radioactively label protein and DNA to tell which one was present in a certain place, what 2 isotopes would you most likely use for the protein and the DNA, respectively? 
+ANSWER:   PROTEIN = S-35; DNA = P-32 (ACCEPT: SULFUR-35 AND PHOSPHORUS-32) (DO NOT ACCEPT: SULFUR AND PHOSPHOROUS) 
+

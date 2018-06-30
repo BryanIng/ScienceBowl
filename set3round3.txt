@@ -1,0 +1,434 @@
+QUESTION: 1
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: The slope of a velocity versus time graph represents: 
+		W) acceleration 
+		X) velocity 
+		Y) position 
+		Z) displacement 
+ANSWER:   W) ACCELERATION 
+
+QUESTION: 1
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Under which of the following conditions is the average velocity equal to the average of an objects initial and final velocity: 
+		W) always 
+		X) never 
+		Y) only when the acceleration changes 
+		Z) only when the acceleration is constant 
+ANSWER:   Z) ONLY WHEN THE ACCELERATION IS CONSTANT 
+
+QUESTION: 2
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following is an EXTENSIVE property of matter: 
+		W) temperature 
+		X) density 
+		Y) mass 
+		Z) viscosity 
+ANSWER:   Y) MASS (Solution: extensive properties depend on the amount of substance present) 
+
+QUESTION: 2
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What is the name for the phenomenon that occurs when a light beam becomes visible after passing through a colloid, an example of which is a beam of light passing through fog at night? 
+ANSWER:   THE TYNDALL EFFECT 2007 Regional Science Bowl Page 2 
+
+QUESTION: 3
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: How many autosomes are in a normal nucleated human nerve cell in G-zero of the cell cycle? 
+ANSWER:   44 
+
+QUESTION: 3
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT true of the human body: 
+		W) there are substantial numbers of lymph nodes in the wall of the large intestine 
+		X) veins have comparatively thick walls with more muscle than arteries 
+		Y) there are two layers of smooth muscle in the walls of the small intestine 
+		Z) the small intestine is longer than the large intestine 
+ANSWER:   X) VEINS HAVE COMPARATIVELY THICK WALLS WITH MORE MUSCLE THAN ARTERIES 
+
+QUESTION: 4
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What is the side of a square, in centimeters to the nearest whole number, given that its diagonal is 16 centimeters? 
+ANSWER:   11 (Solution: s = 16/2 = 11.3 cm) 
+
+QUESTION: 4
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Solve the following equation for x: 10 |(x + 2)| = 50 (read as: negative 10 times the absolute value of, open parenthesis, x + 2, close parenthesis, equals negative 50) 
+ANSWER:   3 AND 7 2007 Regional Science Bowl Page 3 
+
+QUESTION: 5
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   short answer
+QUESTION: What is the percent relative humidity if the vapor content is one-half the amount of vapor the mass of air can hold? 
+ANSWER:   50% 
+
+QUESTION: 5
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following MOST directly modulates the intensity of incoming solar radiation through the course of a year: 
+		W) the eccentricity of Earths orbit 
+		X) the time for 1 orbit of Earth around the Sun 
+		Y) Earths rapid rotation about its axis 
+		Z) the tilt of Earths axis 
+ANSWER:   Z) THE TILT OF EARTHS AXIS 
+
+QUESTION: 6
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Which of the following is closest to the conversion of 900 millibars into atmospheres: 
+		W) 0.09 
+		X) 0.9 
+		Y) 9.0 
+		Z) 90.0 
+ANSWER:   X) 0.9 
+
+QUESTION: 6
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: Convert 2,000 meters per second into kilometers per hour: 
+ANSWER:   7,200 2007 Regional Science Bowl Page 4 
+
+QUESTION: 7
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: At about 10 PM in late summer of 2006, an observer at about 35 degrees north latitude would most likely see the stars Altair, Deneb and Vega in which of the following places in the sky: 
+		W) low in the east 
+		X) low in the west 
+		Y) about half way up in the northern sky 
+		Z) almost directly overhead 
+ANSWER:   Z) ALMOST DIRECTLY OVERHEAD 
+
+QUESTION: 7
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: What is the most common astronomical term for the interval of time between two successive passages of the Sun through the vernal equinox? 
+ANSWER:   TROPICAL YEAR (ACCEPT: SOLAR YEAR) 
+
+QUESTION: 8
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Stories have been told about opera singers breaking crystal glass by singing a certain tone loud enough. What is the most common term for the property that would account for this happening? 
+ANSWER:   RESONANCE 
+
+QUESTION: 8
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What is the wavelength, in meters, of a sound wave that has a frequency of 600 hertz and a speed in a certain medium of 360 meters per second? 
+ANSWER:   0.6 (Solution: wavelength = speed/f = 360/600 = 0.6 meters) 2007 Regional Science Bowl Page 5 
+
+QUESTION: 9
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following techniques employs a moving phase and a stationary phase to separate components of a mixture: 
+		W) filtration 
+		X) centrifugation 
+		Y) distillation 
+		Z) chromatography 
+ANSWER:   Z) CHROMATOGRAPHY 
+
+QUESTION: 9
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following would you expect to have an electron affinity of zero: 
+		W) chlorine 
+		X) carbon 
+		Y) hydrogen 
+		Z) helium 
+ANSWER:   Z) HELIUM 
+
+QUESTION: 10
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: What specific part of the human brain has the most influence on heart rate, sleep, body temperature, and metabolism, and is a large part of the ventral portion of the diencephalon (read as: die-en-SEFF-ah-lon): 
+		W) hypothalamus (read as: hypo-THAL-ah-mus) 
+		X) cerebellum 
+		Y) pituitary 
+		Z) sella turcica (read as: TURR-sik-ah) 
+ANSWER:   W) HYPOTHALAMUS 
+
+QUESTION: 10
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Name all of the following 5 muscles that are NOT part of the human rotator cuff: supraspinatus; infraspinatus; subscapularis; teres minor; latissimus dorsi 
+ANSWER:   LATISSIMUS DORSI 2007 Regional Science Bowl Page 6 
+
+QUESTION: 11
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Solve the following inequality for x: x2 < 3x 
+ANSWER:   0 < x < 3 
+
+QUESTION: 11
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What is the least common multiple of the following 4 numbers: 12, 15, 16, 20 
+ANSWER:   240 
+
+QUESTION: 12
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   short answer
+QUESTION: What is the specific name for the tides that occur during the first and third-quarter phases of the Moon and have the smallest range? 
+ANSWER:   NEAP TIDES (ACCEPT: NEAP) 
+
+QUESTION: 12
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Typically, thin veils or sheets of white fibrous clouds composed entirely of ice crystals which can sometimes cover the whole sky are called: 
+		W) alto-cumulus 
+		X) cirro-stratus 
+		Y) nimbo-stratus 
+		Z) alto-stratus 
+ANSWER:   X) CIRRO-STRATUS 2007 Regional Science Bowl Page 7 
+
+QUESTION: 13
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Suppose you measured the voltage of a fully-charged 12-volt battery and you get 3 identical results of 10.45 volts. Which of the following BEST describes your data: 
+		W) precise but not accurate 
+		X) accurate but not precise 
+		Y) both accurate and precise 
+		Z) neither accurate nor precise 
+ANSWER:   W) PRECISE BUT NOT ACCURATE 
+
+QUESTION: 13
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: Giving your answer in proper scientific notation, convert 100 millimeters into kilometers: 
+ANSWER:   1 x 10-4 (DO NOT ACCEPT 10-4) 
+
+QUESTION: 14
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following can you estimate BEST if you know the color of a star: 
+		W) luminosity 
+		X) elemental makeup 
+		Y) temperature 
+		Z) mass 
+ANSWER:   Y) TEMPERATURE 
+
+QUESTION: 14
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following is closest to the maximum apparent brightness of the brightest star in the night sky from anywhere on Earth: 
+		W) 15 
+		X) 1.5 
+		Y) 4.5 
+		Z) 6 
+ANSWER:   X) 1.5 2007 Regional Science Bowl Page 8 
+
+QUESTION: 15
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: The area under the curve of a velocity versus time graph represents: 
+		W) acceleration 
+		X) velocity 
+		Y) displacement 
+		Z) position 
+ANSWER:   Y) DISPLACEMENT 
+
+QUESTION: 15
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT true: 
+		W) a spring scale can be used to indirectly measure acceleration 
+		X) momentum is a vector 
+		Y) impulse is a vector 
+		Z) a change in direction of an objects motion cannot affect its momentum 
+ANSWER:   Z) A CHANGE IN DIRECTION OF AN OBJECTS MOTION CANNOT AFFECT ITS MOMENTUM 
+
+QUESTION: 16
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What is the name for the voltaic cells in which the reactants are continuously supplied to the cell and the products are continuously removed? 
+ANSWER:   FUEL CELL (ACCEPT: HYDROGEN-OXYGEN FUEL CELL) 
+
+QUESTION: 16
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: A Lewis base is defined as any species that does which of the following in a chemical reaction: 
+		W) donates a proton 
+		X) accepts a proton 
+		Y) donates a pair of electrons 
+		Z) accepts a pair of electrons 
+ANSWER:   Y) DONATES A PAIR OF ELECTRONS 2007 Regional Science Bowl Page 9 
+
+QUESTION: 17
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the area of the human brain that functions to allow the two hemispheres to communicate? 
+ANSWER:   CORPUS CALLOSUM 
+
+QUESTION: 17
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Myelination of nerves is an adaptation to: 
+		W) increase axon lifetime 
+		X) increase speed of nerve conduction 
+		Y) protect nerves from damage 
+		Z) prevent nerves from misfiring 
+ANSWER:   X) INCREASE SPEED OF NERVE CONDUCTION 
+
+QUESTION: 18
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: In a Venn diagram, what is the most appropriate name of the rectangle that contains the circles that represent the subsets? 
+ANSWER:   UNIVERSAL SET 
+
+QUESTION: 18
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: How many different letter arrangements are possible with the six letters in the word SECOND? 
+ANSWER:   720 (Solution: 6! = 720) 2007 Regional Science Bowl Page 10 
+
+QUESTION: 19
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following is a rock that is commonly made of microscopic shells: 
+		W) limestone 
+		X) schist 
+		Y) shale 
+		Z) quartzite 
+ANSWER:   W) LIMESTONE 
+
+QUESTION: 19
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   short answer
+QUESTION: In what Era of the geological time scale did mammals and grasses become abundant? 
+ANSWER:   CENOZOIC 
+
+QUESTION: 20
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: What technology used to transmit digital information specifically takes advantage of the property of light called total internal reflection? 
+ANSWER:   FIBER OPTICS 
+
+QUESTION: 20
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: What is the generic name for the trade-named drug Tylenol? 
+ANSWER:   ACETAMINOPHEN 2007 Regional Science Bowl Page 11 
+
+QUESTION: 21
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: If a stargazer in Vermont during the midnight April sky follows the pointer stars of the Big Dipper about 35 in the opposite direction of Polaris, which one of the following 5 constellations will she most likely encounter: Bootes; Libra; Canus Major; Leo; Lepus 
+ANSWER:   LEO 
+
+QUESTION: 21
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: To an observer on the Moon, in what phase would the Earth appear when an observer on Earth saw the Moon in its 3rd quarter? 
+ANSWER:   FIRST QUARTER (Solution: to observers on the Moon the Earth goes through opposite phases to the moon) 
+
+QUESTION: 22
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What is the mass, in kilograms, of a 5-kilogram rock on a planet with a gravitational acceleration one-half that of the Earths? 
+ANSWER:   5 
+
+QUESTION: 22
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What is the specific gravity, to the first decimal place, of a cubic foot of metal that has a density of 188 pounds per cubic foot if water has a density of 62.4 pounds per cubic foot? 
+ANSWER:   3.0 (Solution: 188/62.4 = 3.01) 2007 Regional Science Bowl Page 12 
+
+QUESTION: 23
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT generally true regarding trends for the representative elements in the Periodic Table: 
+		W) nonmetals predominate the periodic table 
+		X) metallic character increases from top to bottom 
+		Y) nonmetallic character increases from left to right 
+		Z) atomic radii increases from top to bottom 
+ANSWER:   W) NONMETALS PREDOMINATE THE PERIODIC TABLE 
+
+QUESTION: 23
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Which one of the following 5 atoms can violate the octet rule with more than 8 electrons: O; F; Cl; N; C 
+ANSWER:   Cl 
+
+QUESTION: 24
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What substance converts pepsinogen (read as: pep-SIN-oh-gen) into its active form in the human stomach? 
+ANSWER:   HCl (ACCEPT: HYDROCHLORIC ACID) (DO NOT ACCEPT: GASTRIC JUICES) 
+
+QUESTION: 24
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What specific cells of the human stomach secrete pepsinogen? 
+ANSWER:   CHIEF CELLS (ACCEPT: CHIEF) 2007 Regional Science Bowl Page 13 
+
+QUESTION: 25
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Boyles gas law concerns which of the following two variables: 
+		W) volume and pressure 
+		X) volume and temperature 
+		Y) pressure and temperature 
+		Z) pressure and moles 
+ANSWER:   W) VOLUME AND PRESSURE 
+
+QUESTION: 25
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What mass of sodium hydroxide, in grams, would contain 40 grams of oxygen? 
+ANSWER:   100 (Solution: NaOH = 40g ! 1 mol O/16 ! 1 mol NaOH/1 mol O ! 40g NaOH/1 mol NaOH = 100g) 
+

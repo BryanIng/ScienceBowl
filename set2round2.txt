@@ -1,0 +1,418 @@
+QUESTION: 1
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: The First Law of Thermodynamics equates: 
+		W) velocity and pressure 
+		X) entropy and energy 
+		Y) heat and work 
+		Z) temperature and energy 
+ANSWER:   Y) HEAT AND WORK 
+
+QUESTION: 1
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Convert an atmospheric pressure of 0.25 atmospheres into mm Hg: 
+ANSWER:   190 
+
+QUESTION: 2
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What is the common name for the instrument consisting of a weighted glass tube or bulb which, when floated in a liquid, indicates the liquids relative density? 
+ANSWER:   HYDROMETER 
+
+QUESTION: 2
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: According to conventional nomenclature of nuclear science, what case and letter is used to symbolize mass number? 
+ANSWER:   UPPER CASE A 2002 Regional Science Bowl B Round 2 Page 2 
+
+QUESTION: 3
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Biologists usually refer to the head of a tapeworm by what name? 
+ANSWER:   SCOLEX 
+
+QUESTION: 3
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: What is the joint that is formed by the articulation of the tibia, fibula, and femur: 
+		W) wrist 
+		X) knee 
+		Y) elbow 
+		Z) ankle 
+ANSWER:   X) KNEE 
+
+QUESTION: 4
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Olympus Mons, one of the largest volcanoes in our solar system, is located on which planet: 
+		W) Mars 
+		X) Venus 
+		Y) Titan 
+		Z) Callisto 
+ANSWER:   W) MARS 
+
+QUESTION: 4
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: Name the Greek astronomer who ranked the naked-eye stars into six groups of relative brightness in the second century B.C.? 
+ANSWER:   HIPPARCHUS 2002 Regional Science Bowl B Round 2 Page 3 
+
+QUESTION: 5
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: The number 22.5 is 5 percent of what number? 
+ANSWER:   450 
+
+QUESTION: 5
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: Which of the following numbers is divisible by 9: 
+		W) 3191 
+		X) 3527 
+		Y) 212,526 
+		Z) 439,327 
+ANSWER:   Y) 212,526 (Solution: sum of the numbers divisible by 9) 
+
+QUESTION: 6
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   short answer
+QUESTION: Many large volcanoes are marked near their summit by a large, basin-shaped volcanic depression, more or less circular in form and steep-walled, which is called? 
+ANSWER:   CALDERA 
+
+QUESTION: 6
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: The governing factor that controls flow within the Hydrologic System is: 
+		W) humidity 
+		X) capillary pressure 
+		Y) vapor pressure 
+		Z) gravity 
+ANSWER:   Z) GRAVITY 2002 Regional Science Bowl B Round 2 Page 4 
+
+QUESTION: 7
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: How many significant figures are in the number 3.8400 104? (read as: three point eight four zero zero times ten to the fourth power) 
+ANSWER:   5 
+
+QUESTION: 7
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: To the nearest gram, convert 20 ounces into grams: 
+ANSWER:   567 (ACCEPT: 566 568) (Solution: 20 28.35 = 567) 
+
+QUESTION: 8
+TYPE:     toss-up
+SUBJECT:  computer science
+FORMAT:   multiple choice
+QUESTION: Which of the following would offer the most protection against power-failure data loss: 
+		W) UPS 
+		X) surge protector 
+		Y) data backup 
+		Z) line conditioner 
+ANSWER:   W) UPS 
+
+QUESTION: 8
+TYPE:     bonus
+SUBJECT:  computer science
+FORMAT:   short answer
+QUESTION: What is the name for the measure of memory or storage capacity that is equal to 2 to the 40th power bytes or, in decimal, approximately a thousand gigabytes? 
+ANSWER:   TERABYTE 2002 Regional Science Bowl B Round 2 Page 5 
+
+QUESTION: 9
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Acid rain, a major environmental problem, results primarily from the production of what aqueous acid? 
+ANSWER:   SULFURIC ACID (ACCEPT: H2SO4) 
+
+QUESTION: 9
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What is the name for the apparatus commonly found in chemistry labs that is designed to store materials in dry air that consists of a glass bowl, an air-tight lid, and a place where a drying agent, such as silica gel, is placed: 
+ANSWER:   DESSICATOR 
+
+QUESTION: 10
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What is the most common term for a change in velocity divided by the time it takes to make the change? 
+ANSWER:   AVERAGE ACCELERATION 
+
+QUESTION: 10
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: How would one compute the change in centripetal force if an object moving with uniform circular motion triples its radius while maintaining the same kinetic energy: 
+		W) multiplying by 3 
+		X) dividing by 3 
+		Y) multiplying by 9 
+		Z) dividing by 9 
+ANSWER:   X) DIVIDING BY 3 (Solution: F=mv2/R; conservation of energy => v constant) 2002 Regional Science Bowl B Round 2 Page 6 
+
+QUESTION: 11
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Where is intercellular fluid normally found? 
+ANSWER:   OUTSIDE OF CELLS (ACCEPT: IN BETWEEN CELLS OR IN THE INTERSTITIUM) 
+
+QUESTION: 11
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Kochs (read as: Cokes) Postulates have to do mainly with which of the following: 
+		W) culturing of viruses 
+		X) causative agents of viral diseases 
+		Y) proving what bacterial agents cause what diseases 
+		Z) how to prove that a certain gene causes a certain disease 
+ANSWER:   Y) PROVING WHAT BACTERIAL AGENTS CAUSE WHAT DISEASES 
+
+QUESTION: 12
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: How many Viking spacecraft have landed on Mars? 
+ANSWER:   2 
+
+QUESTION: 12
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which star is the next nearest neighbor to the Sun beyond the Alpha Centauri system having the largest known proper motion of any star: 
+		W) Wolf 359 
+		X) Sirius 
+		Y) Barnards Star 
+		Z) 61 Cygni 
+ANSWER:   Y) BARNARDS STAR 2002 Regional Science Bowl B Round 2 Page 7 
+
+QUESTION: 13
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: Which of the following is a rational number: 
+		W) 1+4 
+		X) 2+5 
+		Y) 6 
+		Z) 
+ANSWER:   W) 1+4 
+
+QUESTION: 13
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: If the average of 5 numbers is 16, what is the sum of the 5 numbers? 
+ANSWER:   80 
+
+QUESTION: 14
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   short answer
+QUESTION: What is the name of the layer lying between the base of the Earths lithosphere and a depth of about 2900 kilometers, where rock exists in a hot, weak, plastic-like form? 
+ANSWER:   ASTHENOSPHERE 
+
+QUESTION: 14
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Which of the following geological periods is oldest? 
+		W) Cambrian 
+		X) Cretaceous 
+		Y) Tertiary 
+		Z) Devonian 
+ANSWER:   W) CAMBRIAN 2002 Regional Science Bowl B Round 2 Page 8 
+
+QUESTION: 15
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: Pure gold is how many karats? 
+ANSWER:   24 
+
+QUESTION: 15
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: How many yards are in 1 rod? 
+ANSWER:   5.5 
+
+QUESTION: 16
+TYPE:     toss-up
+SUBJECT:  computer science
+FORMAT:   short answer
+QUESTION: What does the acronym SRAM stand for? 
+ANSWER:   STATIC RANDOM ACCESS MEMORY 
+
+QUESTION: 16
+TYPE:     bonus
+SUBJECT:  computer science
+FORMAT:   multiple choice
+QUESTION: What is the hexadecimal equivalent of the binary number 1011 (read as: one, zero, one, one)? 
+		W) 7 
+		X) 8 
+		Y) A 
+		Z) B 
+ANSWER:   Z) B 2002 Regional Science Bowl B Round 2 Page 9 
+
+QUESTION: 17
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Which acid-base theory states that any molecule or ion that can produce a proton is an acid, and any that can take up a proton is a base: 
+ANSWER:   BRNSTED-LOWRY THEORY (ACCEPT: BRNSTED) 
+
+QUESTION: 17
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What general chemical term best describes a metal that can be drawn out into thin wire or threads without breaking? 
+ANSWER:   DUCTILE 
+
+QUESTION: 18
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: When mixing equal proportions of green and red light, what color light is produced? 
+ANSWER:   YELLOW 
+
+QUESTION: 18
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: For an electric saw that draws 8 amps on a 120 volt line, what is the resistance of the saw? 
+ANSWER:   15 OHMS (Solution: I = V/R, R = V/I, R = 120/8 =15) 2002 Regional Science Bowl B Round 2 Page 10 
+
+QUESTION: 19
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: The stigma, style, and ovary make up what part of a plant? 
+ANSWER:   CARPEL (ACCEPT: PISTIL) 
+
+QUESTION: 19
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Microtubules, intermediate filaments, and microfilaments are integral components of what basic infrastructure of a eukaryotic cell? 
+		W) flagella 
+		X) cillia 
+		Y) cytoskeleton 
+		Z) cell wall 
+ANSWER:   Y) CYTOSKELETON 
+
+QUESTION: 20
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: The geology of the surface of Venus appears to be dominated by: 
+		W) volcanoes 
+		X) plate tectonics 
+		Y) erosion by flowing water 
+		Z) old impact craters 
+ANSWER:   W) VOLCANOES 
+
+QUESTION: 20
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: At the Suns distance of 8 kiloparsecs from the Galactic center, how many years would it take for material here to complete one rotational circuit? 
+ANSWER:   225 MILLION 2002 Regional Science Bowl B Round 2 Page 11 
+
+QUESTION: 21
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Convert 53 radians into degrees: 
+ANSWER:   300 
+
+QUESTION: 21
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What are the median, mean and mode of the following set of numbers: 2, 3, 3, 8, 8, 8, 10, 14 
+ANSWER:   MEDIAN = 8.; MEAN = 7; MODE = 8 
+
+QUESTION: 22
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: If you cut a Mobius Strip in half down the center of the strip, how many pieces do you end up with? 
+ANSWER:   ONE 
+
+QUESTION: 22
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: If a womans mass on Earth is 60 kg, what is her mass, in kilograms, on a planet where the gravity is six times less? 
+ANSWER:   60 (ACCEPT: THE SAME) 2002 Regional Science Bowl B Round 2 Page 12 
+
+QUESTION: 23
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Of the following, which is the strongest base: 
+		W) potassium hydroxide 
+		X) barium hydroxide 
+		Y) calcium hydroxide 
+		Z) sodium hydroxide 
+ANSWER:   Z) SODIUM HYDROXIDE 
+
+QUESTION: 23
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: In a flame test for lithium, sodium, potassium, and magnesium, which gives off a red color: 
+ANSWER:   LITHIUM 
+
+QUESTION: 24
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Total distance traveled divided by total elapsed time is most commonly called: 
+		W) velocity 
+		X) acceleration 
+		Y) average velocity 
+		Z) average speed 
+ANSWER:   Z) AVERAGE SPEED 
+
+QUESTION: 24
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: If a wave has a frequency of 50 hertz, what is its period, in seconds? 
+ANSWER:   0.02 SECONDS (Solution: period = 1 / f) 2002 Regional Science Bowl B Round 2 Page 13 
+
+QUESTION: 25
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: In an autologous tissue transplant, from whom does the person receive the tissue? 
+ANSWER:   THEMSELVES 
+
+QUESTION: 25
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: The margin of an ash tree leaf would most generally be called: 
+		W) divided 
+		X) entire 
+		Y) serrate 
+		Z) lacerate 
+ANSWER:   Y) SERRATE 
+

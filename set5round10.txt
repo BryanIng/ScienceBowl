@@ -1,0 +1,406 @@
+QUESTION: 1
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What is the minimum possible value of 2x+!2y (read as: 2 to the power of x plus 2 to the power of y) if x + y = 2? 
+ANSWER:   4 
+
+QUESTION: 1
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What is the value of the infinite sum: 12!-13!+14!-15!+ (read as: 1 over 2 factorial minus 1 over 3 factorial plus 1 over 4 factorial minus 1 over 5 factorial and so on)? 
+ANSWER:   !1!e! 
+
+QUESTION: 2
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following is a laboratory technique used to generate many copies of a gene? 
+		W) Polymerase (read as: poh-LIM-eh-rayz) chain reaction 
+		X) Gel electrophoresis (read as: i-lehk-tr!e-foh-REE-sis) 
+		Y) Southern blot 
+		Z) Titration 
+ANSWER:   W) POLYMERASE CHAIN REACTION 
+
+QUESTION: 2
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: By name or number, identify all of the following four organisms that are endangered pinnipeds: 1) bearded seal, 2) Hawaiian monk seal, 3) ringed seal, 4) spotted seal. 
+ANSWER:   HAWAIIAN MONK SEAL (ACCEPT: 2) Round 10 Page 2 
+
+QUESTION: 3
+TYPE:     toss-up
+SUBJECT:  energy
+FORMAT:   multiple choice
+QUESTION: Biodiesel generally outperforms regular petro diesel in all of the following categories, EXCEPT: 
+		W) Cetane rating 
+		X) Flash point 
+		Y) Calorific value 
+		Z) Sulfur content 
+ANSWER:   Y) CALORIFIC VALUE 
+
+QUESTION: 3
+TYPE:     bonus
+SUBJECT:  energy
+FORMAT:   short answer
+QUESTION: The backup controls for a solar cell operate on a 4-volt lithium ion battery with resistance of 20 ohms and an initial capacity of 3000 milliampere hours. In watt hours, what is the electrical energy required to recharge the battery? 
+ANSWER:   12 
+
+QUESTION: 4
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: A 4-kilogram ball is tossed at 5 meters per second. How fast, in meters per second, must a 1-kilogram ball be thrown to have the same kinetic energy? 
+ANSWER:   10 
+
+QUESTION: 4
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: A jogger is moving at a speed of 4 meters per second. When chased by a big dog, she accelerates at 1 meter per second squared for 4 seconds. How far has she travelled in meters since she started accelerating? 
+ANSWER:   24 Round 10 Page 3 
+
+QUESTION: 5
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the term for the pastelike substance, which is also the least soluble nitrogenous waste, excreted by birds, reptiles, and insects? 
+ANSWER:   URIC ACID 
+
+QUESTION: 5
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the scientific name of the only member of the family Eschrichtiidae (read as: esh-rik-TIE-uh-dee)? 
+ANSWER:   ESCHRICHTIUS ROBUSTUS 
+
+QUESTION: 6
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Consider the polar equation r!=!sin(2!) (read as: r equals the sine of 2 theta). Its graph looks like a rose. How many petals would there be on the rose in this graph? 
+ANSWER:   4 
+
+QUESTION: 6
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Assuming that the probability of A is 0.3, the probability of B is 0.3, and the probability of A union B is 0.5, providing your answers as decimals to the nearest tenth, what are the probabilities, respectively, of A intersection B and the complement of the quantity A union B? 
+ANSWER:   0.1 AND 0.5 Round 10 Page 4 
+
+QUESTION: 7
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: In which of the following compounds does nitrogen have an unpaired electron? 
+		W) Ammonia 
+		X) Nitrous oxide 
+		Y) Sodium nitrate 
+		Z) Nitric oxide 
+ANSWER:   Z) NITRIC OXIDE 
+
+QUESTION: 7
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: A saturated solution of calcium hydroxide is titrated with aqueous hydrochloric acid. Using proper chemical nomenclature and indicating the state of each substance, such as solid, liquid, aqueous, or gas, what is the balanced molecular equation for this reaction? 
+ANSWER:   Ca(OH)2(aq) + 2HCl(aq) ! CaCl2(aq) + 2H2O(l) [NOTE: AQ = AQUEOUS; L = LIQUID] 
+
+QUESTION: 8
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: Which of the following times of day BEST corresponds to a decrease in ionization of particles in the ionosphere? 
+		W) Morning 
+		X) Noon 
+		Y) Afternoon 
+		Z) Night 
+ANSWER:   Z) NIGHT 
+
+QUESTION: 8
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: Earth has a prograde rotation. Which two planets in our Solar System exhibit retrograde rotation? 
+ANSWER:   VENUS AND URANUS Round 10 Page 5 
+
+QUESTION: 9
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT a colligative property of a solution? 
+		W) Freezing point depression 
+		X) Osmotic pressure 
+		Y) Percent by mass 
+		Z) Boiling point elevation 
+ANSWER:   Y) PERCENT BY MASS 
+
+QUESTION: 9
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: How many liters of 2 molar sulfuric acid are required to titrate three liters of 0.4 molar nitric acid? 
+ANSWER:   0.3 
+
+QUESTION: 10
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT true about snowy plovers? 
+		W) When fighting, they may grab their enemys tail with their bills 
+		X) They nest on sandy beaches 
+		Y) They are endemic to New Zealand 
+		Z) Males nurture their chicks 
+ANSWER:   Y) THEY ARE ENDEMIC TO NEW ZEALAND 
+
+QUESTION: 10
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What protein, released by cells in the ileum and colon, appears to inhibit appetite in humans? 
+ANSWER:   PEPTIDE YY Round 10 Page 6 
+
+QUESTION: 11
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: When the equation O2 + C6H14 ! (read as: yields) CO2 + H2O is balanced with the lowest whole-number coefficients, what is the coefficient of O2? 
+ANSWER:   19 
+
+QUESTION: 11
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Given the reaction: 4PH3(aq) ! (read as: yields) P4(g) + 6H2(g), if 0.0048 moles of PH3 are consumed each second of the experiment, providing your answer to the nearest ten thousandth, what is the rate of production in moles per second of P4? 
+ANSWER:   0.0012 [NOTE: AQ = AQUEOUS; G = GASEOUS] 
+
+QUESTION: 12
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Evaluate limx!!/3sinx! 32x!!!!!!3 (read as: the limit as x approaches pi over three of open parenthesis sine of x [pause] minus the square root of 3 over 2 close parenthesis over open parenthesis x minus pi over 3 close parenthesis). 
+ANSWER:   1/2 
+
+QUESTION: 12
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: If the volume of oil leaked into the ocean from a damaged drilling platform is given by the equation 2rV5!.00=, where r is the radius of the spill, use differentials to estimate the error in cubic meters of the volume if there is a possible error of 0.5 meters in the radius measurement of a spill of radius 100/" meters. 
+ANSWER:   5 Round 10 Page 7 
+
+QUESTION: 13
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: If in a 2-piston hydraulic device, a 100-newton force is applied to a piston with an area of 0.01 square meters, what will be the resulting force, in newtons, on a piston with an area of 0.5 square meters? 
+ANSWER:   5000 
+
+QUESTION: 13
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What is the centripetal acceleration in meters per second squared of a point on a bicycle tire of radius 0.81 meters when the bike is moving at 9 meters per second? 
+ANSWER:   100 
+
+QUESTION: 14
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the general term for scientific research that looks for a useful application, process, or product in nature? 
+ANSWER:   BIOPROSPECTING 
+
+QUESTION: 14
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the term in immunobiology that describes a lack of reaction by the bodys defense mechanisms for foreign substances, and consists of a direct induction of peripheral lymphocyte tolerance? 
+ANSWER:   ANERGY Round 10 Page 8 
+
+QUESTION: 15
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following species is NOT considered an electrolyte? 
+		W) Sodium hydroxide 
+		X) Hydrogen chloride 
+		Y) Aluminum nitrate 
+		Z) Diethyl ether 
+ANSWER:   Z) DIETHYL ETHER 
+
+QUESTION: 15
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: By name or number, identify all of the following four substances that would show a positive result in a Benedicts test: 1) simple sugars, 2) starches, 3) proteins, 4) lipids. 
+ANSWER:   SIMPLE SUGARS (ACCEPT: 1) 
+
+QUESTION: 16
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: How many layers of doped silicon are needed to make a transistor? 
+ANSWER:   3 
+
+QUESTION: 16
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: A thin copper rod 1 meter long has a mass of 0.05 kilograms and is in a magnetic field of 0.10 teslas. Given 10 meters per second squared for g, what is the minimum current in amperes needed in the rod for the magnetic force to cancel the weight of the rod? 
+ANSWER:   5 Round 10 Page 9 
+
+QUESTION: 17
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: About 3.9 billion years ago, evidence suggests that the Earth was undergoing a cataclysmic convulsion in which the surfaces of the Moon, the Earth, Mercury, Venus, and Mars were heavily impacted by fragments left over from formation of the planets. What was that period called? 
+ANSWER:   LATE HEAVY BOMBARDMENT (ACCEPT: ERA OF HEAVY BOMBARDMENT, LHB, LUNAR CATACLYSM) 
+
+QUESTION: 17
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: Conceptually, solar sail propulsion is based upon the transmission of the momentum of photons as they bounce off mirror-like aluminized Mylar sails. By number, identify all of the following four options that are advantages of solar sailing as compared to a conventional rocket: 1) no need to carry fuel, 2) quicker acceleration, 3) constant acceleration, 4) constant velocity. 
+ANSWER:   1 AND 3 
+
+QUESTION: 18
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: On a game show, contestants spin a large wheel to determine the prize associated with correct answers. How should a contestant apply force to spin the wheel as rapidly as possible? 
+		W) Tangential to the rim of the wheel 
+		X) At a 45 degree angle to the rim of the wheel 
+		Y) Away from the center of the wheel 
+		Z) Towards the center of the wheel 
+ANSWER:   W) TANGENTIAL TO THE RIM OF THE WHEEL 
+
+QUESTION: 18
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Nitrogen molecules of mass 4.65 x 10!26 kilograms are contained in a cube with sides that have an area of 6 x 10!4 square meters. If 5.0 x 1023 molecules collide head on elastically each second with one wall at a speed of 300 meters per second, what is the pressure exerted on the wall to the nearest kilopascal? 
+ANSWER:   23 Round 10 Page 10 
+
+QUESTION: 19
+TYPE:     toss-up
+SUBJECT:  energy
+FORMAT:   short answer
+QUESTION: A 5-kilogram mass is moving along a frictionless surface with a velocity of 10 meters per second toward a horizontal spring with a spring constant of 500 newtons per meter. What is the maximum compression of the spring in meters? 
+ANSWER:   1 
+
+QUESTION: 19
+TYPE:     bonus
+SUBJECT:  energy
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT an example of smart grid technology? 
+		W) Ground-source heat pumps 
+		X) Advanced metering infrastructure 
+		Y) Conservation voltage reduction 
+		Z) Substation automation 
+ANSWER:   W) GROUND-SOURCE HEAT PUMPS 
+
+QUESTION: 20
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: The last two digits, in order, of a positive integer n are 1 and 8. Which of the following statements about n can be TRUE? 
+		W) n is divisible by 7 
+		X) n is divisible by 5 
+		Y) n is divisible by 4 
+		Z) n is a perfect square 
+ANSWER:   W) n IS DIVISIBLE BY 7 
+
+QUESTION: 20
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: In simplest radical form, what is the radius of the circle tangent to the sides of an equilateral triangle with a side length of 2? 
+ANSWER:   !3!3 Round 10 Page 11 
+
+QUESTION: 21
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: Which of the following happens to liquid water suspended in an air mass descending on the leeward side of a mountain range? 
+		W) It condenses 
+		X) It precipitates 
+		Y) It freezes 
+		Z) It evaporates 
+ANSWER:   Z) IT EVAPORATES 
+
+QUESTION: 21
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: By name or number, identify all of the following four factors that contribute to global wind patterns: 1) solar radiation, 2) friction, 3) pressure gradient, 4) Coriolis force. 
+ANSWER:   SOLAR RADIATION, FRICTION, PRESSURE GRADIENT, AND CORIOLIS FORCE (ACCEPT: 1, 2, 3, 4, OR ALL) 
+
+QUESTION: 22
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: If gE and gM are the accelerations due to gravity on the surfaces of Earth and the Moon respectively, and if Millikans oil drop experiment could be performed on the two surfaces, the ratio of the electronic charge on the Moon to the electronic charge on the Earth would be which of the following? 
+		W) gE/gM 
+		X) 1 
+		Y) gM/gE 
+		Z) (gM/gE)2 
+ANSWER:   X) 1 
+
+QUESTION: 22
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Providing your answer in scientific notation with two significant digits, how much energy in joules is required to heat a clay pizza baking stone with mass of 4.8 kilograms and a specific heat of 860 joules per kilogram Kelvin from 25 Celsius to 235 Celsius? 
+ANSWER:   8.7 ! 105 Round 10 Page 12 
+
+QUESTION: 23
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: Which of the following U.S. coastlines would change the LEAST as sea level rises? 
+		W) West coast 
+		X) Gulf coast 
+		Y) Northeast coast 
+		Z) Florida coast 
+ANSWER:   W) WEST COAST 
+
+QUESTION: 23
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: By number, identify all of the following four statements that represent a significance of an unconformity in the rock record: 1) it represents missing time; 2) it represents extra time; 3) it represents periods of erosion and/or non-deposition of sediment; 4) it represents periods of faster or increased deposition of marine sediment. 
+ANSWER:   1 AND 3 
+
+QUESTION: 24
+TYPE:     toss-up
+SUBJECT:  energy
+FORMAT:   short answer
+QUESTION: Which hydroelectric dam has the greatest power capacity in the world? 
+ANSWER:   THREE GORGES DAM 
+
+QUESTION: 24
+TYPE:     bonus
+SUBJECT:  energy
+FORMAT:   short answer
+QUESTION: Two men tried to lift a 95-kilogram sack of grain to a storage room on the second floor using ropes. Just as the sack reached the second floor, the rope broke and the sack dropped and hit the ground. The kinetic energy of the sack was 3500 joules just before it struck the ground. Given g as 9.8 meters per second squared and providing your answer to the nearest meter, what was the height of the second floor? 
+ANSWER:   4 Round 10 Page 13 
+
+QUESTION: 25
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Of the seven species of sea turtles, six are found in U.S. waters. Which of the following species of sea turtles is NOT found in U.S. waters? 
+		W) Flatback 
+		X) Green 
+		Y) Kemps ridley 
+		Z) Leatherback 
+ANSWER:   W) FLATBACK 
+
+QUESTION: 25
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: By name or number, identify all of the following four types of fishing gear that are known to inadvertently catch large numbers of sea turtles: 1) gillnets, 2) longlines, 3) pound nets, 4) trawls. 
+ANSWER:   GILLNETS, LONGLINES, POUND NETS, AND TRAWLS (ACCEPT: 1, 2, 3, 4 OR ALL) 
+

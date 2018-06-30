@@ -1,0 +1,438 @@
+QUESTION: 1
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What common organic molecule is made of an adenine residue, a ribose sugar, and three phosphates: 
+ANSWER:   ATP (ACCEPT: ADENOSINE TRIPHOSPHATE) 
+
+QUESTION: 1
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Transfer RNA charged with an amino acid is most accurately called: 
+		W) a nascent tRNA 
+		X) a tRNA with an amino acid attached 
+		Y) an amino acyl tRNA 
+		Z) t-primed RNA 
+ANSWER:   Y) AN AMINO ACYL tRNA 
+
+QUESTION: 2
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: In general, which of the following stereoisomers are the most dissimilar in terms of their physical and chemical properties: 
+		W) conformational 
+		X) mirror-image 
+		Y) enantiomers (EE-nan-tee-oh-mers) 
+		Z) geometric 
+ANSWER:   Z) GEOMETRIC 
+
+QUESTION: 2
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Under constant temperature conditions, a sample of gas has a volume of 8 liters at a pressure of 1.5 atmospheres. If a 2 liter container is used to hold the gas, calculate the new pressure, in atmospheres: 
+ANSWER:   6 (Solution: P1V1 = P2V2; (1.5atm)(8L) = (P2)(2L); = 6atm) 2002 Regional Science Bowl B Round 6 Page 2 
+
+QUESTION: 3
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: For two objects separated by a distance d, if the mass of one of the objects increases by two times, by what factor will the gravitational attraction between them increase? 
+ANSWER:   TWO (ACCEPT: 2 TIMES) 
+
+QUESTION: 3
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Assuming air resistance is negligible and the gravitational acceleration is 10 meters per second squared, what is the distance traveled, in meters, by a body in free fall after 4 seconds if it started from rest? 
+ANSWER:   80 METERS 
+
+QUESTION: 4
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: The lunar maria are: 
+		W) composed of granite 
+		X) less than one billion years old 
+		Y) between three and four billion years old 
+		Z) older than the lunar highlands 
+ANSWER:   Y) BETWEEN THREE AND FOUR BILLION YEARS OLD 
+
+QUESTION: 4
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: Based on what three physical properties do astronomers divide the planets into terrestrial and Jovian: 
+ANSWER:   MASS, SIZE, AND DENSITY 2002 Regional Science Bowl B Round 6 Page 3 
+
+QUESTION: 5
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What German mathematician in 1865 cut a long rectangular strip of paper, gave the paper a half-twist, and pasted the ends together, to show that a sheet can have only one side? 
+ANSWER:   AUGUSTUS MOBIUS (ACCEPT: MOBIUS) 
+
+QUESTION: 5
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: In a triangle ABC, angle A = 55 and angle B = 70. If line segment AB = 3x - 2 and line segment BC = x + 10, what is the value of x? 
+ANSWER:   6 (Solution: Isosceles, thus: AB = BC; 3x - 2 = x + 10; x = 6) 
+
+QUESTION: 6
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Portions of the Ogallala aquifer are located under: 
+		W) Nebraska 
+		X) the San Jaoquin valley 
+		Y) Arizona 
+		Z) Florida 
+ANSWER:   W) NEBRASKA 
+
+QUESTION: 6
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   short answer
+QUESTION: The seismic discontinuity that marks the base of the crust of the Earth is known as the what? 
+ANSWER:   MOHO (ACCEPT: M-DISCONTINUITY OR MOHOROIVICIC DISCONTINUITY) 2002 Regional Science Bowl B Round 6 Page 4 
+
+QUESTION: 7
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Because of its enhanced capacity to refract light, which glass formula is most suitable for making lenses and prisms, as well as for imitation jewels: 
+		W) soda-lime 
+		X) potassium silicate 
+		Y) borosilicate 
+		Z) lead 
+ANSWER:   Z) LEAD 
+
+QUESTION: 7
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: What is the general term for the process by which glass is strengthened, which involves reheating the glass until it almost softens and then rapidly and uniformly cooling it again, causing it to go into extreme compression? 
+ANSWER:   TEMPERING 
+
+QUESTION: 8
+TYPE:     toss-up
+SUBJECT:  computer science
+FORMAT:   multiple choice
+QUESTION: The allowing of long file names was a primary difference between: 
+		W) DOS and Windows 3.11 
+		X) Windows 3.11 and Windows for Workgroups 
+		Y) Windows 3.11 and Windows 95 
+		Z) Windows 95 and Windows 98 
+ANSWER:   Y) WINDOWS 3.11 AND WINDOWS 95 
+
+QUESTION: 8
+TYPE:     bonus
+SUBJECT:  computer science
+FORMAT:   multiple choice
+QUESTION: In Windows 98, long file names can be up to how many characters long: 
+		W) 35 
+		X) 75 
+		Y) 100 
+		Z) 255 
+ANSWER:   Z) 255 2002 Regional Science Bowl B Round 6 Page 5 
+
+QUESTION: 9
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: The oval window is directly stimulated by the vibrations of what bone? 
+ANSWER:   STAPES 
+
+QUESTION: 9
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Hair is mostly composed of what protein? 
+ANSWER:   KERATIN 
+
+QUESTION: 10
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Hydrogen bonding is due to a combination of forces, the most important of which is what type of interaction: 
+		W) dipole-dipole 
+		X) dipole-induced dipole 
+		Y) induced dipole-induced 
+		Z) induced 
+ANSWER:   W) DIPOLE-DIPOLE 
+
+QUESTION: 10
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following compounds contains a coordinate covalent bond: 
+		W) NH4+ 
+		X) N2H4 
+		Y) N2 
+		Z) NH3 
+ANSWER:   W) NH4+ 2002 Regional Science Bowl B Round 6 Page 6 
+
+QUESTION: 11
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What is the most common name for the magnetic fusion confinement system first developed in the USSR that has the shape of a toroid? 
+ANSWER:   TOKAMAK 
+
+QUESTION: 11
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: In 1995, two scientists from the University of Colorado created what new state of matter that would lead to their winning of a Nobel prize: 
+ANSWER:   BOSE-EINSTEIN CONDENSATE (ACCEPT: BEC) 
+
+QUESTION: 12
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: What is the most common name for the pattern found etched on samples of iron meteorites? 
+		W) Widmansttten pattern 
+		X) Rhombic pattern 
+		Y) Halleys pattern 
+		Z) Chondritic Rhombite pattern 
+ANSWER:   W) WIDMANSTTTEN PATTERN 
+
+QUESTION: 12
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: If the sidereal period P of a planet is measured in years, and the semi-major axis of the planets elliptical orbit, a, is measured in astronomical units, then the equation governing the planets motion given by the formula, P2 = a3, is best known as what law? 
+ANSWER:   KEPLERS THIRD LAW 2002 Regional Science Bowl B Round 6 Page 7 
+
+QUESTION: 13
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: A parallelogram whose adjacent sides are unequal is called a: 
+		W) rhombus 
+		X) rhomboid 
+		Y) deltoid 
+		Z) rectangle 
+ANSWER:   X) RHOMBOID 
+
+QUESTION: 13
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Use the Binomial Theorem to expand and simplify the following equation: (x 1)4 
+ANSWER:   x4 4x3 + 6x2 4x +1 
+
+QUESTION: 14
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: What type of seismic wave causes the most damage during an earthquake: 
+		W) shear 
+		X) compressional 
+		Y) expansional 
+		Z) surface 
+ANSWER:   Z) SURFACE 
+
+QUESTION: 14
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   short answer
+QUESTION: What scale is based on the amount of vibration felt by people during low-magnitude earthquakes and the extent of building damage during high magnitude earthquakes? 
+ANSWER:   MODIFIED MERCALLI SCALE (ACCEPT: MERCALLI) 2002 Regional Science Bowl B Round 6 Page 8 
+
+QUESTION: 15
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: The leaf of the Sugar Maple tree is considered to be: 
+		W) palmately lobed 
+		X) palmately compound 
+		Y) pinnately lobed 
+		Z) pinnately compound 
+ANSWER:   W) PALMATELY LOBED 
+
+QUESTION: 15
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: Which of the following is the causative agent for chicken pox: 
+		W) Bordetella pertussis 
+		X) Varicella-zoster 
+		Y) Variolla-zoster 
+		Z) Vermicelli pertussis 
+ANSWER:   X) VARICELLA-ZOSTER 
+
+QUESTION: 16
+TYPE:     toss-up
+SUBJECT:  computer science
+FORMAT:   multiple choice
+QUESTION: Resetting a computer that is already turned on to its initial state whereby any data or programs in main memory are erased is called a: 
+		W) clean boot 
+		X) cold boot 
+		Y) warm boot 
+		Z) hot boot 
+ANSWER:   Y) WARM BOOT 
+
+QUESTION: 16
+TYPE:     bonus
+SUBJECT:  computer science
+FORMAT:   short answer
+QUESTION: What does the acronym for the JPEG graphics file format stand for? 
+ANSWER:   JOINT PHOTOGRAPHIC EXPERTS GROUP 2002 Regional Science Bowl B Round 6 Page 9 
+
+QUESTION: 17
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: In what specific part of the uterus does implantation normally occur? 
+ANSWER:   ENDOMETRIUM 
+
+QUESTION: 17
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the most common name for a molecule of glycerol with all three hydroxyl groups esterified to fatty acids? 
+ANSWER:   TRIGLYCERIDE 
+
+QUESTION: 18
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: The IUPAC name 1,4-dimethylcyclohexane is an example of which of the following: 
+		W) cyclic alkane 
+		X) branched alkane 
+		Y) straight chain alkane 
+		Z) haloalkane (pronounced: HAL-o-alkane) 
+ANSWER:   W) CYCLIC ALKANE 
+
+QUESTION: 18
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following solutions are miscible: 
+		W) carbon tetrachloride and water 
+		X) oil and water 
+		Y) carbon tetrachloride and octane 
+		Z) octane and water 
+ANSWER:   Y) CARBON TETRACHLORIDE AND OCTANE 2002 Regional Science Bowl B Round 6 Page 10 
+
+QUESTION: 19
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What is the common commercial unit of energy equal to 3,600,000 joules: 
+ANSWER:   KILOWATT HOUR 
+
+QUESTION: 19
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following types of prisms was developed for obtaining interference between 2 sections of a wave front with diffraction largely eliminated: 
+		W) Fresnel biprism 
+		X) Littrow prism 
+		Y) Nicol prism 
+		Z) Broca prism 
+ANSWER:   W) FRESNEL BIPRISM 
+
+QUESTION: 20
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: What is the common astronomical name for areas where gravitational attraction of two or more celestial bodies prevents objects in that area from maintaining an orbit, such as the spacings of semi-major axes of orbits of asteroids in the asteroid belt? 
+ANSWER:   KIRKWOOD GAPS 
+
+QUESTION: 20
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: What is the name for a lunar ditch where molten lava once flowed? 
+ANSWER:   VOLCANIC RILLE 2002 Regional Science Bowl B Round 6 Page 11 
+
+QUESTION: 21
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What is the longest chord of a circle also known as? 
+ANSWER:   DIAMETER OF THE CIRCLE (ACCEPT: DIAMETER) 
+
+QUESTION: 21
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Solve the following equation for b: ddcbba)()( 
+ANSWER:   b = cad 
+
+QUESTION: 22
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: A sharp ridge of erosion-resistant rock formed between adjacent cirque glaciers, often forming a saw-toothed mountain ridge is known as: 
+		W) arte 
+		X) scree 
+		Y) levee 
+		Z) moraine 
+ANSWER:   W) ARTE 
+
+QUESTION: 22
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: Two common igneous rocks derived from andesitic magma are: 
+		W) andesite and alkali basalt 
+		X) diorite and andesite 
+		Y) komatite and rhyolite 
+		Z) rhyolite and kimberlite 
+ANSWER:   X) DIORITE AND ANDESITE 2002 Regional Science Bowl B Round 6 Page 12 
+
+QUESTION: 23
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the predominant immunoglobulin class found in human tears? 
+ANSWER:   IgA 
+
+QUESTION: 23
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following vitamins is NOT properly matched with one of its major symptoms of deficiency: 
+		W) vitamin C and bleeding of gums 
+		X) vitamin D and poor bone structure 
+		Y) vitamin A and night blindness 
+		Z) vitamin B-1 and pellagra 
+ANSWER:   Z) VITAMIN B-1 AND PELLAGRA 
+
+QUESTION: 24
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following polymers is the first man-made polymer: 
+		W) nylon 
+		X) Teflon 
+		Y) bakelite 
+		Z) celluloid 
+ANSWER:   Y) BAKELITE 
+
+QUESTION: 24
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: The change in enthalpy, H, (read as: delta H), is to a calorimeter as the change in internal energy, E, (read as: delta E), is to what? 
+ANSWER:   BOMB CALORIMETER 2002 Regional Science Bowl B Round 6 Page 13 
+
+QUESTION: 25
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: According to quantum chromodynamics, what is the name for the particle that transmits the color charge? 
+ANSWER:   GLUON 
+
+QUESTION: 25
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What is the kinetic energy, in Joules, of a 50 Kilogram person who is moving at 5 meters per second? 
+ANSWER:   625 (Solution: KE = mv2 = (50)(5)2 = 625 Joules) 
+

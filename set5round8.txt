@@ -1,0 +1,434 @@
+QUESTION: 1
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What is the inverse function of f(x) = x5 + 1 (read as: f of x equals x to the fifth plus 1)? 
+ANSWER:   f !1(x) = x!15 
+
+QUESTION: 1
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: For a function, f(x) (read as: f of x), suppose that f is continuous on the closed interval [-1, 3], differentiable on the open interval (-1, 3), and that f(-1) = -2 and f(3) = 2. Which of the following is the value of the derivative for at least one value, c, on the open interval (-1, 3)? 
+		W) -1 
+		X) 0 
+		Y) 1 
+		Z) 2 
+ANSWER:   Y) 1 
+
+QUESTION: 2
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: A solution is prepared by mixing 1 gram of ethanol with 100 grams of water to give a final volume of 101 milliliters. Calculate to the nearest integer the mass percent of ethanol in the solution. 
+ANSWER:   1 
+
+QUESTION: 2
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What is the conjugate acid in the reaction of sulfuric acid and sodium hydroxide? 
+ANSWER:   WATER (ACCEPT: H2O) Round 8 Page 2 
+
+QUESTION: 3
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: There is an igneous rock where all crystals are visible and the same size. Knowing only these two facts, what can be said about the cooling history of this rock? 
+		W) It cooled in stages, at different levels within the crust 
+		X) It cooled rapidly near the surface 
+		Y) It cooled on the surface and was quenched 
+		Z) It cooled slowly, at one time, at depth 
+ANSWER:   Z) IT COOLED SLOWLY, AT ONE TIME, AT DEPTH 
+
+QUESTION: 3
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: What type of fault occurs if the hanging wall moves downward relative to the footwall? 
+ANSWER:   REVERSE 
+
+QUESTION: 4
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following is a covalent bond formed by orbitals overlapping end to end? 
+		W) Alpha 
+		X) Beta 
+		Y) Sigma 
+		Z) Pi 
+ANSWER:   Y) SIGMA 
+
+QUESTION: 4
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: The radius of a gold atom is 144 picometers and its density is 19.32 grams per cubic centimeter. What kind of crystal structure does the unit cell of elemental gold have? 
+ANSWER:   FACE-CENTERED CUBIC (ACCEPT: FCC) Round 8 Page 3 
+
+QUESTION: 5
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the technical term, rarely used by the general public, by which scientists designate the sense used by moths to find mates? 
+ANSWER:   CHEMORECEPTION (DO NOT ACCEPT: SMELL) 
+
+QUESTION: 5
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: The fat body of insects is an important organ for metabolism. Which of the following is NOT a function of the fat body? 
+		W) Metabolize fat, sugar, and protein 
+		X) Store fat, sugar, and protein 
+		Y) Filter water from the hemolymph (read as: HEE-moh-lim(p)f) 
+		Z) Synthesize hemolymph (read as: HEE-moh-lim(p)f) proteins 
+ANSWER:   Y) FILTER WATER FROM THE HEMOLYMPH 
+
+QUESTION: 6
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: The convex meniscus of mercury in a capillary tube indicates which of the following? 
+		W) Mercury is highly attracted to glass 
+		X) Mercury is polar 
+		Y) Mercurys cohesion is greater than its adhesion 
+		Z) Mercury is soluble in water 
+ANSWER:   Y) MERCURYS COHESION IS GREATER THAN ITS ADHESION 
+
+QUESTION: 6
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What compound is the reducing agent in the reaction: CH4 + 2O2 ! (read as: yields) CO2 + 2H2O. 
+ANSWER:   CH4 Round 8 Page 4 
+
+QUESTION: 7
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: If f(x) = x!!2x2! 4 (read as: f of x equals open parenthesis x minus 2 close parenthesis over open parenthesis x squared minus 4 close parenthesis) at which value or values of x does the graph of f(x) have a vertical asymptote? 
+ANSWER:   -2 
+
+QUESTION: 7
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Given: u(4) = -2 and u(4) = 3 (read as: u of 4 equals negative 2, and u prime of 4 equals 3). If f(x) = xu(x) (read as: f of x equals x u of x), then evaluate f(4) (read as: f prime of 4). 
+ANSWER:   10 
+
+QUESTION: 8
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: A 2 meter by 2 meter raft sinks 10 centimeters into the water. Which of the following approximates its weight in newtons? 
+		W) 5000 
+		X) 3900 
+		Y) 2500 
+		Z) 1600 
+ANSWER:   X) 3900 
+
+QUESTION: 8
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Suppose a bat emits sound waves at a frequency of 83 kilohertz while flying with a velocity of 9.0 meters per second as it chases a moth that flies with a velocity of 8.0 meters per second. Given the speed of sound as 343 meters per second, to the nearest integer, what frequency in kilohertz does the moth detect? 
+ANSWER:   83 Round 8 Page 5 
+
+QUESTION: 9
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the common name for a mechanical and electrically conductive link between two abutting neurons? 
+ANSWER:   GAP JUNCTION (ACCEPT: NEXUS) 
+
+QUESTION: 9
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: How many horizontal layers are classically identified in the neocortex? 
+ANSWER:   6 
+
+QUESTION: 10
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following series of spectral line emissions of the hydrogen atom is in the visible spectrum? 
+		W) Paschen 
+		X) Balmer 
+		Y) Brackett 
+		Z) Lyman 
+ANSWER:   X) BALMER 
+
+QUESTION: 10
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: To check the accuracy of a graduated cylinder, a student repeatedly filled the cylinder to the 25-milliliter mark using water delivered from a buret and then read the volume delivered. The results of the trials in milliliters were as follows: 1) 26.54, 2) 26.51, 3) 26.60, 4) 26.49, and 5) 26.57. What type of error do these results primarily demonstrate? 
+		W) Systematic 
+		X) Random 
+		Y) Conceptual 
+		Z) Observational 
+ANSWER:   W) SYSTEMATIC Round 8 Page 6 
+
+QUESTION: 11
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What is the family name for composite particles made from quarks? 
+ANSWER:   HADRONS 
+
+QUESTION: 11
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: A 1.0-kilogram block is fastened to a spring whose spring constant is 16 newtons per meter. The block is pulled a distance of 11 centimeters from its equilibrium position at x = 0 on a frictionless surface and released from rest at t = 0. What is the period rounded to the nearest tenth of the oscillation? 
+ANSWER:   1.6 
+
+QUESTION: 12
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT a discovery attributed to Edwin Hubble? 
+		W) The existence of galactic redshifts 
+		X) The redshift observed in light spectra from distant galaxies is proportional to their distance from Earth 
+		Y) The Andromeda nebula is a separate galaxy from the Milky Way 
+		Z) The existence of the asteroid 1373 Cincinnati 
+ANSWER:   W) THE EXISTENCE OF GALACTIC REDSHIFTS 
+
+QUESTION: 12
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT consistent with the Cenozoic rock record? 
+		W) Flowering plants 
+		X) Foraminifera 
+		Y) Dominance of reptiles increases with time 
+		Z) Dominance of mammals increases with time 
+ANSWER:   Y) DOMINANCE OF REPTILES INCREASES WITH TIME Round 8 Page 7 
+
+QUESTION: 13
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: The potential voltage difference between two points is 100 volts. If a particle with a charge of 2 coulombs is transported from one of these points to the other, what is the magnitude of the work done in joules? 
+ANSWER:   200 
+
+QUESTION: 13
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Three particles A, B, and C form an equilateral triangle with a side length of 140 centimeters. A lies at the origin with a mass of 1.1 kilograms. B lies on the x axis with a mass of 2.5 kilograms. C lies in Quadrant I with a mass of 3.4 kilograms. To the nearest centimeter, what is the x coordinate of the center of mass of this system? 
+ANSWER:   84 
+
+QUESTION: 14
+TYPE:     toss-up
+SUBJECT:  energy
+FORMAT:   short answer
+QUESTION: In the nuclear fission process to create electricity, Uranium 235 is split into many different products including thorium, protactinium, and actinium. With what stable element does it eventually end its decay chain? 
+ANSWER:   LEAD 
+
+QUESTION: 14
+TYPE:     bonus
+SUBJECT:  energy
+FORMAT:   multiple choice
+QUESTION: Which of the following vehicle engine technologies improves engine fuel efficiency the most? 
+		W) Cylinder deactivation 
+		X) Direct fuel injection and a turbocharger 
+		Y) Integrated starter/generator 
+		Z) Variable valve timing and lift 
+ANSWER:   X) DIRECT FUEL INJECTION AND A TURBOCHARGER Round 8 Page 8 
+
+QUESTION: 15
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Suppose the average score on a national test is 500, with a standard deviation of 100. If each score is increased by 25, what are the new mean and standard deviation, respectively? 
+ANSWER:   525 AND 100 
+
+QUESTION: 15
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What is the set of all real numbers on which the function ln!(x!+!2)1!+2!!x (read as: the natural log of the quantity x plus two over open parenthesis 1 plus the square root of the quantity 2 minus x close parenthesis) is well defined? 
+ANSWER:   (-2, 2] (ACCEPT: ALL REAL NUMBERS GREATER THAN NEGATIVE 2 AND LESS THAN OR EQUAL TO 2) 
+
+QUESTION: 16
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: Which of the following areas exhibits the highest total relief? 
+		W) Tibetan plateau 
+		X) Rocky Mountains 
+		Y) Great Plains 
+		Z) Hawaiian Islands and seamounts 
+ANSWER:   Z) HAWAIIAN ISLANDS AND SEAMOUNTS 
+
+QUESTION: 16
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: Which of the following will cause adiabatic warming? 
+		W) Increasing pressure 
+		X) Decreasing pressure 
+		Y) Condensation releasing latent heat 
+		Z) Heat being added to the volume of air 
+ANSWER:   W) INCREASING PRESSURE Round 8 Page 9 
+
+QUESTION: 17
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following statements concerning the magnetic field inside and far from the surface of a long, current-carrying solenoid is TRUE? 
+		W) It is zero 
+		X) It is non-zero and nearly uniform 
+		Y) It varies with 1/r as measured from the solenoid axis 
+		Z) It is independent of the current in the solenoid 
+ANSWER:   X) IT IS NON-ZERO AND NEARLY UNIFORM 
+
+QUESTION: 17
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Given that objects that have mass greater than 0, by number, identify all of the following four statements that are TRUE: 1) momentum is a form of energy; 2) if an object has momentum, then it must also have mechanical energy; 3) if an object does not have momentum, then it does not have mechanical energy either; 4) if two objects of different mass have the same momentum, then the less massive object will have the greater kinetic energy. 
+ANSWER:   2 AND 4 
+
+QUESTION: 18
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What is the name of the type of surface generated by the equation z!=!x2+!y2? 
+ANSWER:   ELLIPTIC PARABOLOID 
+
+QUESTION: 18
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: If the probability of event A is 0.25, the probability of event B is 0.5, and the probability of the union of A and B is 0.55, expressing your answer as a decimal to the nearest tenth, what is the probability of the intersection of A and B? 
+ANSWER:   0.2 Round 8 Page 10 
+
+QUESTION: 19
+TYPE:     toss-up
+SUBJECT:  energy
+FORMAT:   multiple choice
+QUESTION: Which of the following is the purpose of a fuel cell stack in a fuel cell vehicle? 
+		W) Store hydrogen gas compressed at extremely high pressure to increase driving range 
+		X) Govern the flow of electricity 
+		Y) Store energy generated from regenerative braking 
+		Z) Convert hydrogen and oxygen gas into electricity to power the electric motor 
+ANSWER:   Z) CONVERT HYDROGEN AND OXYGEN GAS INTO ELECTRICITY TO POWER THE ELECTRIC MOTOR 
+
+QUESTION: 19
+TYPE:     bonus
+SUBJECT:  energy
+FORMAT:   multiple choice
+QUESTION: In an experiment, students find the relationship between the period of a stick vibrating at its natural frequency and the length L of the stick, measuring the period of the vibrations with a photogate. Which of the following statements BEST reflects the results of the experiment with regard to the period of the vibrating stick? 
+		W) It is proportional to L 
+		X) It is inversely proportional to L 
+		Y) It is proportional to L2 
+		Z) It is inversely proportional to L2 
+ANSWER:   Y) IT IS PROPORTIONAL TO L2 
+
+QUESTION: 20
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the name of the main respiratory structure in arachnids? 
+ANSWER:   BOOK LUNGS (DO NOT ACCEPT: LUNGS) 
+
+QUESTION: 20
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Book lungs evolved from book gills. What ancient arthropod group, still extant today, has book gills? 
+ANSWER:   HORSESHOE CRABS (ACCEPT: MEROSTOMATA) Round 8 Page 11 
+
+QUESTION: 21
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: Which of the following is a function for which f(-x) = -f(x) (read as: f of negative x equals negative f of x)? 
+		W) sin(x) 
+		X) x2 
+		Y) cos(x) 
+		Z) ex 
+ANSWER:   W) sin(x) 
+
+QUESTION: 21
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: The four lateral faces of a square pyramid are equilateral triangles. If the area of the base is 49 square centimeters, what is the total surface area, in square centimeters, in simplest radical form? 
+ANSWER:   49 + 493 (ACCEPT: 49(1 + 3)) 
+
+QUESTION: 22
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: How many copies of each chromosome does a male wasp have? 
+ANSWER:   1 
+
+QUESTION: 22
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT in the insect group Apterygota (read as: ahp-teh-ri-G!E-tah)? 
+		W) Cockroach 
+		X) Firebrat 
+		Y) Bristletail 
+		Z) Silverfish 
+ANSWER:   W) COCKROACH Round 8 Page 12 
+
+QUESTION: 23
+TYPE:     toss-up
+SUBJECT:  energy
+FORMAT:   short answer
+QUESTION: In an experiment, students burned samples of methanol, ethanol, vegetable oil, peanut oil, and kerosene. Which two were the cleanest burning? 
+ANSWER:   METHANOL AND ETHANOL 
+
+QUESTION: 23
+TYPE:     bonus
+SUBJECT:  energy
+FORMAT:   short answer
+QUESTION: What kind of compound consists of methane surrounded by a crystal cage of water molecules, forming a solid similar to ice? 
+ANSWER:   METHANE CLATHRATE (ACCEPT: METHANE HYDRATE, HYDROMETHANE) 
+
+QUESTION: 24
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Given 9.8 meters per second squared as g, how much kinetic energy in joules is lost when a 100-gram ball dropped from a 2 meter height rebounds to 1.5 meters? 
+		W) 1.96 
+		X) 1.47 
+		Y) 0.98 
+		Z) 0.49 
+ANSWER:   Z) 0.49 
+
+QUESTION: 24
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: As a rock with a mass of 4-kilograms drops from the edge of a 40-meter-high cliff, it experiences air resistance with an average strength of 20 newtons during the descent. Given g as 10 meters per second squared, at what speed, in meters per second, will the rock hit the ground? 
+ANSWER:   20 Round 8 Page 13 
+
+QUESTION: 25
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Cyclic photophosphorylation (read as: F!E-t"e-fohs-fohr-i-LAY-shon) functions mainly for which of the following purposes? 
+		W) Generating NADPH 
+		X) Generating PGAL 
+		Y) Recycling electrons resulting from the absorption of light in Photosystem I 
+		Z) Regenerating RuBP 
+ANSWER:   Y) RECYCLING ELECTRONS RESULTING FROM THE ABSORPTION OF LIGHT IN PHOTOSYSTEM I 
+
+QUESTION: 25
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following compounds acts as an activator protein for the lactose operon in Escherichia (read as: ehsh-eh-RIK-ee-ah) coli? 
+		W) AP-1 
+		X) AP-2y 
+		Y) CAP 
+		Z) SAP 
+ANSWER:   Y) CAP 
+

@@ -1,0 +1,422 @@
+QUESTION: 1
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: In what part of the chloroplast is carbon fixed during the Calvin cycle? 
+ANSWER:   STROMA 
+
+QUESTION: 1
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Assuming average size, order the following from the smallest to the largest: red blood cell, Polio virus, Rickettsia, Anthrax bacillus 
+ANSWER:   POLIO VIRUS, RICKETTSIA, ANTHRAX BACILLUS, RED BLOOD CELL 
+
+QUESTION: 2
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following four molecules can have both right-handed and left-handed forms: 
+		W) 2-chloro-2-bromobutane 
+		X) 1-chloro-2-bromoethene 
+		Y) trichloromethane 
+		Z) glycerol 
+ANSWER:   W) 2-CHLORO-2-BROMOBUTANE 
+
+QUESTION: 2
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: The reaction of 2 chemical substances to make a product that has a standard enthalpy of reaction, or H, (read as: delta H naught) of -200 kilojoules. If the reaction is carried out at a constant pressure of 40 atmospheres and the volume change is -2.00 liters, what is the total energy change, E, (read as: delta E) in kilojoules, of the system: 
+ANSWER:   -191.92 (ACCEPT: -191 to -192 KILOJOULES) (Solution: E = H - PV; PV = (40 atm)(-2L)(101J/L.atm) = -8.08kJ; E = (-200) (-8.08); = -191.92 kJ) 2002 Regional Science Bowl B Round 16 Page 2 
+
+QUESTION: 3
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What general theory of science, begun by Max Planck, allows scientists to quantitatively understand the behavior of atoms, subatomic particles, phases of matter, and semiconductors: 
+ANSWER:   QUANTUM THEORY 
+
+QUESTION: 3
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Assuming g = 9.8 m/s2 and negligible air resistance, how far, in meters rounded to the first decimal place, would an object travel after 2 seconds if thrown down vertically, with an initial velocity of 4 m/sec from a 100 meter tower? 
+ANSWER:   27.6 METERS (Solution: y = Vot + at2 = (4 m/sec) (2 sec) + (9.8 m/sec2) (2 sec) = 8 + 19.6 = 27.6 meters) 
+
+QUESTION: 4
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following is the most likely reason that the Pleiades stars were all formed together: 
+		W) they are all the same size, luminosity, and spectral class 
+		X) they all orbit a common larger neutron star 
+		Y) they are in the region of a black hole 
+		Z) they are all concentrated in a small region 
+ANSWER:   Z) THEY ARE ALL CONCENTRATED IN A SMALL REGION 
+
+QUESTION: 4
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: Compute the estimated temperature, in Kelvin, of a stellar bodys surface that emits light with a spectrum that peaks at 145 nanometers: 
+ANSWER:   20,000 (Solution: Weins Law T = 2.9 10-3 m.k/ 2.9 10-3 m.k / 145 10-9m = .02106=20,000K) 2002 Regional Science Bowl B Round 16 Page 3 
+
+QUESTION: 5
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: Which of the following is the expression that defines the hyperbolic sine function: 
+		W) 2xxee 
+		X) 2xxee 
+		Y) xxee2 
+		Z) xxee2 
+ANSWER:   W) 2xxee 
+
+QUESTION: 5
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Calculate the following indefinite integral: I = dxx2)1( 
+ANSWER:   Cx3)1(3 
+
+QUESTION: 6
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: In the soil profile, which horizon is know as the zone of accumulation: 
+		W) A-horizon 
+		X) B-horizon 
+		Y) O-horizon 
+		Z) E-horizon 
+ANSWER:   X) B-HORIZON 
+
+QUESTION: 6
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   short answer
+QUESTION: The doldrums are to 0 latitude, as the horse latitudes are to what? 
+ANSWER:   30 (ACCEPT: 30 NORTH OR SOUTH LATITUDE) 2002 Regional Science Bowl B Round 16 Page 4 
+
+QUESTION: 7
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: What is the term for the distance, usually given in millimeters, between the optical center of a lens and the point at which rays of light from objects at infinity are brought to focus: 
+ANSWER:   FOCAL LENGTH 
+
+QUESTION: 7
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   multiple choice
+QUESTION: In the single-lens reflex camera, which of the following is TRUE of focal length of a lens as it pertains to angle of view: 
+		W) the longer the focal length, the narrower its angle of view will be 
+		X) the shorter the focal length, the narrower its angle of view will be 
+		Y) the longer the focal length, the wider its angle of view will be 
+		Z) the focal length of a lens does not affect the angle of view 
+ANSWER:   W) THE LONGER THE FOCAL LENGTH, THE NARROWER ITS ANGLE OF VIEW WILL BE 
+
+QUESTION: 8
+TYPE:     toss-up
+SUBJECT:  computer science
+FORMAT:   multiple choice
+QUESTION: The ability to create a table in Microsoft Word and embed it into a section of a spreadsheet created in Excel, is an example of: 
+		W) OpenGL 
+		X) database indexing 
+		Y) OLE 
+		Z) Direct 3D 
+ANSWER:   Y) OLE 
+
+QUESTION: 8
+TYPE:     bonus
+SUBJECT:  computer science
+FORMAT:   short answer
+QUESTION: What does the acronym OLE stand for? 
+ANSWER:   OBJECT LINKING AND EMBEDDING 2002 Regional Science Bowl B Round 16 Page 5 
+
+QUESTION: 9
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Animal cell is to gap junction as plant cell is to: 
+ANSWER:   PLASMODESMETA 
+
+QUESTION: 9
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: In the double reciprocal Lineweaver-Burke plot of enzyme activity, the line passes through the ordinate, or the one over V zero, axis at: 
+		W) -1/Vmax (read as: minus one over VEE-max) 
+		X) Km/Vmax (read as: Kay M over VEE-max) 
+		Y) Km/V0 (read as: Kay M over VEE-zero) 
+		Z) 1/ Vmax (read as: one over VEE-max) 
+ANSWER:   Z) 1/ Vmax 
+
+QUESTION: 10
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: A 2s orbital has 2 regions of maximum probability where electrons can be found separated by a spherical surface of 0 probability that is called what? 
+ANSWER:   NODE (ACCEPT: NODAL SURFACE) 
+
+QUESTION: 10
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: A tank contains the following mixture of gases: 14grams diatomic H2, 56 grams diatomic N2, and 8 grams diatomic He2. To the first decimal place, what is the mole fraction of each gas in the mixture? 
+ANSWER:   H2 = 0.7; N2 = 0.2; He2 = 0.1 (ACCEPT: Hydrogen=0.7; Nitrogen=0.2; Helium=0.1) (Solution: H2=14g/2g/mol=7mol; N2=56g/28g/m=2; He2=8/8=1; 7/10=0.7; 2/10=.02; 1/10=0.1) 2002 Regional Science Bowl B Round 16 Page 6 
+
+QUESTION: 11
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following is TRUE concerning objects moving down an inclined plane: 
+		W) a solid disk will roll faster than a hollow disk regardless of the mass or outer diameter of either disk 
+		X) a hollow disk will roll faster than a solid disk regardless of the mass or outer diameter of either disk 
+		Y) regardless of the mass or outer diameter of either disk, a solid disk will roll at the same rate as a hollow cylinder 
+		Z) a solid disk will roll slower than a hollow disk of twice the mass and outer diameter of the solid disk 
+ANSWER:   W) A SOLID DISK WILL ROLL FASTER THAN A HOLLOW DISK REGARDLESS OF THE MASS OR OUTER DIAMETER OF EITHER DISK 
+
+QUESTION: 11
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Which two elements did Chadwick primarily produce when he bombarded N-14 with alpha particles in the first artificial transmutation of atoms? 
+ANSWER:   OXYGEN AND HYDROGEN 
+
+QUESTION: 12
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: What are probably the only particles emitted by stellar cores without being influenced appreciably by the outermost layers of the stars, and are detected by an instrument in the Homestake gold mine? 
+ANSWER:   NEUTRINOS 
+
+QUESTION: 12
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: In the solar neutrino detector in Lead, South Dakota, when a neutrino emitted in positron decay in the sun is captured by a Chlorine-37 nucleus, what isotope is most likely formed? 
+ANSWER:   ARGON-37 2002 Regional Science Bowl B Round 16 Page 7 
+
+QUESTION: 13
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: If the cosine = (read: as theta) and terminates in Quadrant I of the Cartesian coordinate system, in a unit circle find sine : 
+		W) 223 
+		X) 32 
+		Y) 23 
+		Z) 23 
+ANSWER:   Y) 23 (Solution: r2 = x2 + y2; 12 = (1/2)2 + y2; y2 = ; = 3/2) 
+
+QUESTION: 13
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Find the solution set of the following inequality: x2 + 4x < 5 
+ANSWER:   -5 < x < 1 
+
+QUESTION: 14
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: In geologic mapping, the angular difference between dip and strike is: 
+		W) 45 
+		X) 90 
+		Y) 180 
+		Z) 360 
+ANSWER:   X) 90 
+
+QUESTION: 14
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   short answer
+QUESTION: What is the name given to the urban microclimate whereby a region around a city remains up to several degrees warmer than the surrounding countryside, especially on warm, still summer nights? 
+ANSWER:   HEAT ISLAND (ACCEPT: HEAT ISLAND EFFECT) 2002 Regional Science Bowl B Round 16 Page 8 
+
+QUESTION: 15
+TYPE:     toss-up
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: During his work in 1892 on the liquefaction of hydrogen, what Scottish chemist invented a double-walled vacuum flask which became widely known and named in his honor? 
+ANSWER:   SIR JAMES DEWAR (ACCEPT: DEWAR) (Solution: the Dewar flask) 
+
+QUESTION: 15
+TYPE:     bonus
+SUBJECT:  general science
+FORMAT:   short answer
+QUESTION: Order the following metals in terms of their electrical conductivities from the highest to the lowest: gold; silver; copper; aluminum 
+ANSWER:   SILVER; COPPER; GOLD; ALUMINUM 
+
+QUESTION: 16
+TYPE:     toss-up
+SUBJECT:  computer science
+FORMAT:   multiple choice
+QUESTION: In Java, when a class implements an interface it: 
+		W) may or may not choose to implement the methods defined in the interface 
+		X) cannot implement any methods with the same signature as those defined in the interface 
+		Y) must implement all the methods defined in the interface 
+		Z) designates the user language in the interface 
+ANSWER:   Y) MUST IMPLEMENT ALL THE METHODS DEFINED IN THE INTERFACE 
+
+QUESTION: 16
+TYPE:     bonus
+SUBJECT:  computer science
+FORMAT:   short answer
+QUESTION: What does the acronym DBCS, a language script that requires two bytes to represent a character, stand for? 
+ANSWER:   DOUBLE-BYTE CHARACTER SETS 2002 Regional Science Bowl B Round 16 Page 9 
+
+QUESTION: 17
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: In many yeasts, what is the major coenzyme used in the conversion of acetaldehyde to ethanol? 
+ANSWER:   NAD (ACCEPT: NADH, NICOTINAMIDE ADENINE DINUCLEOTIDE) (DO NOT ACCEPT: NADP or NADPH) 
+
+QUESTION: 17
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Order the following 4 molecules from the earliest step in glycolysis to the latest: [read slowly!] 3-phosphoglycerate; 1,3-diphosphoglycerate; glyceraldehyde-3-phosphate; phosphoenolpyruvate 
+ANSWER:   GLYCERALDEHYDE-3-PHOSPHATE; 1,3 DIPHOSPHOGLYCERATE; 3-PHOSPHOGLYCERATE; PHOSPHOENOLPYRUVATE 
+
+QUESTION: 18
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: In the equation for Gibbs free energy, if H (read as: delta H) is positive and S (read as: delta S) is negative, then the reaction will occur: 
+		W) spontaneously at all temperatures 
+		X) nonspontaneously at all temperatures 
+		Y) spontaneously only at high temperatures 
+		Z) spontaneously only at low temperatures 
+ANSWER:   X) NONSPONTANEOUSLY AT ALL TEMPERATURES 
+
+QUESTION: 18
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Order the following 4 monosaccharides from the smallest to the largest: erythrose, glucose, dihydroxyacetone, xylose 
+ANSWER:   DIHYDROXYACETONE, ERYTHROSE, XYLOSE, GLUCOSE 2002 Regional Science Bowl B Round 16 Page 10 
+
+QUESTION: 19
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which law most directly states that a black body is a perfect source of thermal radiation: 
+		W) Carnots law 
+		X) Kirchoffs law 
+		Y) Plancks law 
+		Z) Diracs law 
+ANSWER:   X) KIRCHOFFS LAW 
+
+QUESTION: 19
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What are the electric charge values for up, down, and strange quarks, respectively? 
+ANSWER:   2/3; 1/3; AND 1/3 
+
+QUESTION: 20
+TYPE:     toss-up
+SUBJECT:  astronomy
+FORMAT:   multiple choice
+QUESTION: Which of the following planets cannot come into quadrature with Earth: 
+		W) Mars 
+		X) Saturn 
+		Y) Uranus 
+		Z) Venus 
+ANSWER:   Z) VENUS 
+
+QUESTION: 20
+TYPE:     bonus
+SUBJECT:  astronomy
+FORMAT:   short answer
+QUESTION: Order the following planets from the one with the least number of known moons to the one with the most: Saturn, Neptune, Mars, Uranus 
+ANSWER:   MARS, NEPTUNE, URANUS, SATURN 2002 Regional Science Bowl B Round 16 Page 11 
+
+QUESTION: 21
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Assume A and B are the subsets of the universal set that contains 100 elements. If the number of elements in set A is 75, and the number of elements in set B is 25, and the number of elements in the intersection set of A and B equals 10, then how many elements are in the union set of A and B? 
+ANSWER:   90 (Solution: n(A U B) = n(A) + n(B) n (A B); = 75 + 25 10 = 90) 
+
+QUESTION: 21
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Giving your answer in the order of the 1st row followed by the 2nd row and in lowest common fraction form, find the inverse of the following 2-by-2 matrix: 2213 (read as: the 1st row contain the numbers 3 and -1 and the 2nd row contain the numbers -2 and 2) 
+ANSWER:   43214121 (read as: , , , ) (must be in order) 
+
+QUESTION: 22
+TYPE:     toss-up
+SUBJECT:  earth science
+FORMAT:   multiple choice
+QUESTION: At present estimates, the Earths planetary albedo is estimated to be: 
+		W) 30% 
+		X) 40% 
+		Y) 50% 
+		Z) 60% 
+ANSWER:   W) 30% 
+
+QUESTION: 22
+TYPE:     bonus
+SUBJECT:  earth science
+FORMAT:   short answer
+QUESTION: The branch of geology that deals with the study of the origin, composition, distribution, and ordering of layered sedimentary rocks is called what? 
+ANSWER:   STRATIGRAPHY 2002 Regional Science Bowl B Round 16 Page 12 
+
+QUESTION: 23
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: In a non-oligometric protein, reversible denaturation changes which of the following levels of protein structure: 
+		W) primary 
+		X) amino acid sequence 
+		Y) tertiary 
+		Z) quaternary 
+ANSWER:   Y) TERTIARY 
+
+QUESTION: 23
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following structures is NOT properly matched with its function: 
+		W) synovial lining and joint movement 
+		X) corpus luteum and estrogen secretion 
+		Y) chordae tendonae and connection of bones to muscles 
+		Z) intercalated disks and cardiac muscle 
+ANSWER:   Y) CHORDAE TENDONAE AND CONNECTION OF BONES TO MUSCLES 
+
+QUESTION: 24
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: A molecule that has a trigonal bipyramidal molecular geometry will have how many charge clouds around its central atom: 
+		W) 4 
+		X) 5 
+		Y) 6 
+		Z) 8 
+ANSWER:   X) 5 
+
+QUESTION: 24
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Using electrophoresis at a pH of 6.0, which two of the following 5 amino acids would move the least remaining at the origin? arginine, glutamic acid, glycine, alanine, lysine? 
+ANSWER:   GLYCINE, ALANINE 2002 Regional Science Bowl B Round 16 Page 13 
+
+QUESTION: 25
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What is the most common name for interactions of high-energy photons and atoms that create electrons and positrons, thus providing an example of the conversion of energy to matter? 
+ANSWER:   PAIR PRODUCTION 
+
+QUESTION: 25
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Rounded to the nearest whole number in kilometers per hour, what is the net ground-speed of a bird flying at 30 kilometers per hour east with a southerly crosswind of 10 kilometers per hour? 
+ANSWER:   32 (Solution: speed = 221030 = 1000 = 32 km/hr) 
+

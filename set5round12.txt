@@ -1,0 +1,414 @@
+QUESTION: 1
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: A monochromatic light source incident on a diffraction grating with slit separation d produces a pattern on the wall. What diffraction slit spacing would be required to produce the same pattern on the wall using light of twice the wavelength? 
+ANSWER:   2d 
+
+QUESTION: 1
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: A 10-gram bullet is shot with an initial velocity of 600 meters per second into a 2-kilogram ballistic pendulum and emerges from the pendulum with a speed of 200 meters per second. Given 10 meters per second squared as g, to what height in meters does the pendulum rise? 
+ANSWER:   0.2 
+
+QUESTION: 2
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: As described by the NOAA space weather scale, which of the following is NOT an effect of a weak geomagnetic storm? 
+		W) Power grid fluctuations 
+		X) Minor impact on satellite operations 
+		Y) Auroras visible at a 45 geomagnetic latitude 
+		Z) Migration pathways that may require animals to travel further than normal 
+ANSWER:   Y) AURORAS VISIBLE AT A 45 GEOMAGNETIC LATITUDE 
+
+QUESTION: 2
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: What two substances that provide evidence of the Mediterraneans periods of shallow marine and arid desert environments compose the core material of a reflecting layer 325 to 650 feet beneath the Mediterranean Sea bottom? 
+ANSWER:   EVAPORITE (ACCEPT: ANHYDRITES OR CALCIUM SULFATE) AND STROMATOLITES Round 12 Page 2 
+
+QUESTION: 3
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Consider charges +Q and +4Q, separated by 3 meters. At which of the following points on a line between the two charges can a charge Q be placed so that it will experience no electrostatic force? 
+		W) 1 meter from +Q 
+		X) 1 meter from +4Q 
+		Y) 0.6 meter from +Q 
+		Z) 0.6 meter from +4Q 
+ANSWER:   W) 1 METER FROM +Q 
+
+QUESTION: 3
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: A bucket is filled with water to a depth of 20 centimeters. A layer of oil 30 centimeters thick with a specific gravity of 0.7 is poured on top of the water. Given that 1 atmosphere is 1.01 ! 105 pascals and providing your answer in scientific notation with three significant digits, what is the absolute pressure, in pascals, at the bottom of the container? 
+ANSWER:   1.05 ! 105 
+
+QUESTION: 4
+TYPE:     toss-up
+SUBJECT:  energy
+FORMAT:   multiple choice
+QUESTION: A combination of technologies called the Sahara Forest Project with the potential to produce commercial quantities of food and energy crops, fresh water, and electricity in the desert, has all of the following components, EXCEPT: 
+		W) Seawater greenhouse 
+		X) Condensation collectors 
+		Y) Cultivation of switchgrass 
+		Z) Steam turbine generator 
+ANSWER:   Y) CULTIVATION OF SWITCHGRASS 
+
+QUESTION: 4
+TYPE:     bonus
+SUBJECT:  energy
+FORMAT:   short answer
+QUESTION: In electron energy-loss spectroscopy, at energies equal to the inner-shell binding energies, typically in hundreds to thousands of electron volts, inner-shell excitation of electrons gives rise to what kind of edges? 
+ANSWER:   IONIZATION (ACCEPT: ABSORPTION) Round 12 Page 3 
+
+QUESTION: 5
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: How many permutations consisting of four letters each, starting with the letter E, can be formed from the letters in the word ENERGY? 
+ANSWER:   60 
+
+QUESTION: 5
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What is the limit as x goes to 0 of xsin(3x)1!-!cos(x) (read as: the quantity x sine of 3x over the quantity 1 minus cosine of x)? 
+ANSWER:   6 
+
+QUESTION: 6
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: What is the name of the clockwise current which brings warm Caribbean waters into the Gulf of Mexico before joining the Gulf Stream? 
+ANSWER:   LOOP 
+
+QUESTION: 6
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: By name or number, order the following five stars from most to least bright based on apparent visual magnitude as seen from Earth: 1) Vega, 2) Procyon (read as: PROH-see-ohn), 3) Achernar (read as: AH-kehr-nahr), 4) Canopus (read as: kah-N!E-puhs), 5) Sirius (read as: SIR-ee-uhs). 
+ANSWER:   SIRIUS, CANOPUS, VEGA, PROCYON, ACHERNAR (ACCEPT: 5, 4, 1, 2, 3) Round 12 Page 4 
+
+QUESTION: 7
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: A common device used to study extreme forms of matter is the magneto-optical trap. Which of the following explains how the trap works? 
+		W) It heats magnetically contained matter with lasers 
+		X) It oscillates matter through dipole interactions 
+		Y) It uses both magnetic fields and lasers to cool matter 
+		Z) It magnetically accelerates matter through optical lens systems 
+ANSWER:   Y) IT USES BOTH MAGNETIC FIELDS AND LASERS TO COOL MATTER 
+
+QUESTION: 7
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: In an experiment, 200 grams of aluminum with a specific heat of 0.91 joules per kilogram Kelvin at 100 Celsius is mixed with 50.0 grams of water with a specific heat of 4.2 joules per kilogram Kelvin at 20 Celsius. The mixture is thermally isolated. What is the equilibrium temperature in degrees Celsius? 
+ANSWER:   57 
+
+QUESTION: 8
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: What is the name of the vesicular basaltic lava that sinks in water? 
+ANSWER:   SCORIA 
+
+QUESTION: 8
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: By name or number, identify all of the following four choices that are critical attributes of index fossils: 1) long range through time, 2) easily recognizable, 3) abundant, 4) widespread habitats. 
+ANSWER:   EASILY RECOGNIZABLE, ABUNDANT, WIDESPREAD HABITATS (ACCEPT: 2, 3, 4) Round 12 Page 5 
+
+QUESTION: 9
+TYPE:     toss-up
+SUBJECT:  energy
+FORMAT:   short answer
+QUESTION: What kind of antimatter was first trapped and studied at CERN in November of 2010? 
+ANSWER:   ANTIHYDROGEN 
+
+QUESTION: 9
+TYPE:     bonus
+SUBJECT:  energy
+FORMAT:   short answer
+QUESTION: Give the power rating of a household appliance, in watts, if the cost of continuously running it for 30 days at 10 cents per kilowatt hour is $36. 
+ANSWER:   500 
+
+QUESTION: 10
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Hemolymph (read as; HEE-moh-lim(p)f) in the insect Epicauta vittata (read as: eh-pee-KOH-tah vee-TAH-tah) has all of the following functions, EXCEPT: 
+		W) Carrying oxygen 
+		X) Circulating water 
+		Y) Circulating nutrients 
+		Z) Transporting immune cells 
+ANSWER:   W) CARRYING OXYGEN 
+
+QUESTION: 10
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Fungi are the only organisms to combine which two substances in their cell walls? 
+ANSWER:   CHITIN AND GLUCANS Round 12 Page 6 
+
+QUESTION: 11
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: A polyhedron with seven faces, exactly five of which are rectangles, could be which of the following? 
+		W) Pentagonal prism 
+		X) Pentagonal pyramid 
+		Y) Hexagonal prism 
+		Z) Hexagonal pyramid 
+ANSWER:   W) PENTAGONAL PRISM 
+
+QUESTION: 11
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: If chord AB is 8 units from the center of circle O with a radius of 17, what is the length of chord AB? 
+ANSWER:   30 
+
+QUESTION: 12
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the name of the most important neurotransmitter for making skeletal muscles contract? 
+ANSWER:   ACETYLCHOLINE 
+
+QUESTION: 12
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: By name or number, identify all of the following four choices that could be considered phenophases: 1) first leaf, 2) end of flowering, 3) 50% color, 4) 50% leaf fall. 
+ANSWER:   FIRST LEAF, END OF FLOWERING, 50% COLOR, AND 50% LEAF FALL (ACCEPT: 1, 2, 3, 4 OR ALL) Round 12 Page 7 
+
+QUESTION: 13
+TYPE:     toss-up
+SUBJECT:  energy
+FORMAT:   short answer
+QUESTION: In an AC circuit, if the voltage and current are 90 degrees out of phase, what term can be used to describe the load? 
+ANSWER:   REACTIVE 
+
+QUESTION: 13
+TYPE:     bonus
+SUBJECT:  energy
+FORMAT:   multiple choice
+QUESTION: Which of the following components is the greatest contributor to no-load losses on transformers? 
+		W) Eddy current losses in the core laminations 
+		X) Heat losses due to no-load current 
+		Y) Dielectric losses 
+		Z) Hysteresis losses 
+ANSWER:   Z) HYSTERESIS LOSSES 
+
+QUESTION: 14
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following statements BEST describes why protons in the nucleus do NOT fly apart due to coulomb repulsion? 
+		W) The negative charges of the orbiting electrons neutralize the positive charges of the protons 
+		X) The coulomb force does not manifest within the nucleus 
+		Y) Neutrons cancel the coulomb repulsion 
+		Z) The strong force between quarks dominates 
+ANSWER:   Z) THE STRONG FORCE BETWEEN QUARKS DOMINATES 
+
+QUESTION: 14
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: A coil is wrapped with 200 turns of wire on a square frame with sides of 20 centimeters in length. A uniform magnetic field is applied perpendicular to the plane of the coil. If the field changes uniformly from 0.5 to 0 teslas in 8 seconds, what is the average value, to the nearest tenth volt, of the induced electromotive force? 
+ANSWER:   0.5 Round 12 Page 8 
+
+QUESTION: 15
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following ions is NOT directly involved in setting the voltage of a cell membrane? 
+		W) Ca2+ 
+		X) K+ 
+		Y) Na+ 
+		Z) Mg2+ 
+ANSWER:   Z) Mg2+ 
+
+QUESTION: 15
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: By name or number, identify all of the following five elements that can be defined as essential trace elements required to support human biochemical processes: 1) manganese, 2) magnesium, 3) bromine, 4) titanium, 5) selenium. 
+ANSWER:   MANGANESE, MAGNESIUM, AND SELENIUM (ACCEPT: 1, 2, AND 5) 
+
+QUESTION: 16
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: Which of the following statements is TRUE about the function f(x) = sin(x)x2 (read as: f of x equals sine of x over x squared)? 
+		W) The graph of the function passes through the origin 
+		X) The function has a vertical asymptote 
+		Y) The function does not have a horizontal asymptote 
+		Z) The graph of the function is symmetric about the x-axis 
+ANSWER:   X) THE FUNCTION HAS A VERTICAL ASYMPTOTE 
+
+QUESTION: 16
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Providing your answer in simplest radical form, what is the eccentricity of the hyperbola (x!!2)24! (y!+!3)29=!1 (read as: open parenthesis x minus 2 close parenthesis squared over 4 minus open parenthesis y plus 3 close parenthesis squared over 9 equals 1)? 
+ANSWER:   132 Round 12 Page 9 
+
+QUESTION: 17
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Name the two spectator ions in the reaction of lead (II) nitrate and sodium sulfide. 
+ANSWER:   NO3! AND Na+ (ACCEPT: NITRATE AND SODIUM) 
+
+QUESTION: 17
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Place the following molecules or ions in order of increasing stability: He2, O2, O22!, He2+, O2!. 
+ANSWER:   He2, He2+, O22!, O2!, AND O2 (ACCEPT: 1, 4, 3, 5, 2) 
+
+QUESTION: 18
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: A granitic pluton is overlain by a sandstone. This relationship is an example of which of the following? 
+		W) Angular unconformity 
+		X) Nonconformity 
+		Y) Disconformity 
+		Z) Inclusion 
+ANSWER:   X) NONCONFORMITY 
+
+QUESTION: 18
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: By name or number, put the following four metamorphic rocks in order from lowest to highest metamorphic grade: 1) migmatite, 2) schist, 3) slate, 4) gneiss (read as: NICE). 
+ANSWER:   SLATE, SCHIST, GNEISS, MIGMATITE (ACCEPT: 3, 2, 4, 1) Round 12 Page 10 
+
+QUESTION: 19
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: By name or number, identify which of the following three species is paramagnetic: 1) CO, 2) CO+, 3) CO2+. 
+ANSWER:   CO+ (ACCEPT: 2) 
+
+QUESTION: 19
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: By name or number, order the following four elements from least to most exothermic electron affinity: 1) fluorine, 2) chlorine, 3) bromine, 4) iodine. 
+ANSWER:   IODINE, BROMINE, FLUORINE, CHLORINE (ACCEPT: 4, 3, 1, 2) 
+
+QUESTION: 20
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following characteristics does NOT accurately describe organisms in the phylum Ctenophora (read as: teh-NOH-foh-rah)? 
+		W) Colloblasts 
+		X) Cilary comb rows 
+		Y) Tentacles 
+		Z) Biradial symmetry 
+ANSWER:   Y) TENTACLES 
+
+QUESTION: 20
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: By name or number, identify all of the following five organisms that are known as true hibernators because they lower their body temperature to conserve energy: 1) western garter snake, 2) woodchuck, 3) skunk, 4) brown bear, 5) little brown bat. 
+ANSWER:   WESTERN GARTER SNAKE, WOODCHUCK, LITTLE BROWN BAT (ACCEPT: 1, 2, AND 5) Round 12 Page 11 
+
+QUESTION: 21
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following elements will react most vigorously with water to form hydrogen gas as a by-product? 
+		W) Magnesium 
+		X) Barium 
+		Y) Potassium 
+		Z) Bismuth 
+ANSWER:   Y) POTASSIUM 
+
+QUESTION: 21
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: If you want to separate a liquid mixture containing at least one volatile component, which of the following techniques could you use? 
+		W) Scrubbing 
+		X) Stripping 
+		Y) Electrorefining 
+		Z) Effusion 
+ANSWER:   X) STRIPPING 
+
+QUESTION: 22
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Providing your answer in radians with positive r and theta between 0 and 2", change the point (4, -4) from rectangular form to simplest polar form. 
+ANSWER:   (42, 7"/4) 
+
+QUESTION: 22
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: For which values of x is the following piecewise function continuous: f(x) = 0 if x is rational, and f(x) = 4x if x is irrational? 
+ANSWER:   0 Round 12 Page 12 
+
+QUESTION: 23
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: The resistance of a hot tungsten filament is about 10 times the cold resistance. What is the resistance, in ohms, of a 100 watt and 200 volt lamp filament when not in use? 
+		W) 20 
+		X) 40 
+		Y) 200 
+		Z) 400 
+ANSWER:   X) 40 
+
+QUESTION: 23
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: An object is 48 centimeters tall. Its image is 40 centimeters tall, and 15 centimeters away from a mirror. How far, in centimeters, is the object from the mirror? 
+ANSWER:   18 
+
+QUESTION: 24
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What kind of symmetry is associated with the process of cephalization? 
+ANSWER:   BILATERAL 
+
+QUESTION: 24
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the correct linkage map for the genes P, Q, R, and S given the following recombination frequencies between each gene: P-Q, 22%; P-R, 8%; P-S, 6%; S-Q, 30%; R-Q, 13%; and R-S, 15%? 
+ANSWER:   SPRQ (ACCEPT: QRPS) Round 12 Page 13 
+
+QUESTION: 25
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following compounds is NOT named CORRECTLY? 
+		W) SnF2: stannous fluoride 
+		X) CuCl: cuprous chloride 
+		Y) PbO2: plumbic oxide 
+		Z) FeO: ferric oxide 
+ANSWER:   Z) FeO: FERRIC OXIDE 
+
+QUESTION: 25
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: According to the Big Bang theory, stable isotopes of what five elements were produced shortly after the universe was formed? 
+ANSWER:   HYDROGEN, HELIUM, LITHIUM, BORON, AND BERYLLIUM 
+

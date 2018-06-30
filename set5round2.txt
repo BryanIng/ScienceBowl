@@ -1,0 +1,418 @@
+QUESTION: 1
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: Which of the following most accurately describes the dominant air mass over Nebraska in January? 
+		W) Cold, dry, continental 
+		X) Cold, humid, maritime 
+		Y) Warm, dry, continental 
+		Z) Cold, humid, aquatic 
+ANSWER:   W) COLD, DRY, CONTINENTAL 
+
+QUESTION: 1
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: By name or number, put the following four choices in chronological order from earliest to most recent: 1) occurrence of humans, 2) existence of Pangaea, 3) formation of the Great Lakes, 4) extinction of the dinosaurs. 
+ANSWER:   EXISTENCE OF PANGAEA, EXTINCTION OF DINOSAURS, OCCURRENCE OF HUMANS, FORMATION OF THE GREAT LAKES (ACCEPT: 2, 4, 1, 3) 
+
+QUESTION: 2
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Turbulent flow is more likely to occur under conditions where Reynolds numbers are high. Under these conditions, what forces are dominant in the system's fluid? 
+ANSWER:   INERTIAL 
+
+QUESTION: 2
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: A 10-meter long cannon is pointed directly up and launches a 1-kilogram cannon ball. The cannon ball is accelerated up the length of the cannon with a constant force of 13.2 newtons due to the explosion. Given g as 10 meters per second squared and assuming no energy loss due to friction, what is the velocity, in meters per second, of the cannon ball as it leaves the cannon? 
+ANSWER:   8 Round 2 Page 2 
+
+QUESTION: 3
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: Which of the following BEST describes what happens to continental crust as glaciers melt and retreat? 
+		W) Springs fill in low-lying regions left behind 
+		X) The crust remains deformed, leaving large synclines 
+		Y) The crust isostatically rebounds 
+		Z) There is no impact on the crust 
+ANSWER:   Y) THE CRUST ISOSTATICALLY REBOUNDS 
+
+QUESTION: 3
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: Sinkholes, disappearing streams, and caves are found in which of the following types of regions? 
+		W) Marshes 
+		X) Glaciated alpine 
+		Y) Outwash plains 
+		Z) Karst topography 
+ANSWER:   Z) KARST TOPOGRAPHY 
+
+QUESTION: 4
+TYPE:     toss-up
+SUBJECT:  energy
+FORMAT:   short answer
+QUESTION: What is the term for the liquid, consisting of precipitation and waste decomposition, that has been filtered through a landfill? 
+ANSWER:   LEACHATE 
+
+QUESTION: 4
+TYPE:     bonus
+SUBJECT:  energy
+FORMAT:   short answer
+QUESTION: What is the name of an energy storage technology in which electrical energy is stored by accelerating a rotor, maintaining the energy in the system as rotational energy? 
+ANSWER:   FLYWHEEL Round 2 Page 3 
+
+QUESTION: 5
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Wolves are introduced to an island populated with white-tailed deer. After several generations, the average sprint speed of the deer increased significantly relative to the wolf introduction period. In evolutionary terms, of which of the following kinds of selection is this is an example? 
+		W) Disruptive 
+		X) Stabilizing 
+		Y) Directional 
+		Z) Kin 
+ANSWER:   Y) DIRECTIONAL 
+
+QUESTION: 5
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the name of the major excretory organ found in insects? 
+ANSWER:   MALPIGHIAN TUBULE 
+
+QUESTION: 6
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What is the multiplicative identity of the complex numbers in standard a + bi form? 
+ANSWER:   1 + 0i (ACCEPT: 1) 
+
+QUESTION: 6
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Factor the following polynomial completely over the real numbers: x3 + 3x2 5x 15. 
+ANSWER:   (x + 3)(x +5)(x -5) (IN ANY ORDER) Round 2 Page 4 
+
+QUESTION: 7
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: In insects, larval imaginal discs typically produce all of the following adult structures, EXCEPT: 
+		W) Legs 
+		X) Wings 
+		Y) Abdomens 
+		Z) Antennae 
+ANSWER:   Y) ABDOMENS 
+
+QUESTION: 7
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: A plant has both megasporangiate (read as: meh-gah-spoh-RAHN-jeet) and microsporangiate (read as: my-kr!e-spoh-RAHN-jeet) flowers on the same plant. Indicate the term that describes this type of plant. 
+ANSWER:   MONOECIOUS 
+
+QUESTION: 8
+TYPE:     toss-up
+SUBJECT:  energy
+FORMAT:   short answer
+QUESTION: What element is the primary component of most photovoltaic cells? 
+ANSWER:   SILICON 
+
+QUESTION: 8
+TYPE:     bonus
+SUBJECT:  energy
+FORMAT:   short answer
+QUESTION: What do we call the point in time when the maximum rate of global petroleum extraction is reached, after which the rate of production declines? 
+ANSWER:   PEAK OIL Round 2 Page 5 
+
+QUESTION: 9
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: If we double the voltage in a simple DC circuit and reduce the resistance by half, what will happen to the value of the current? 
+ANSWER:   QUADRUPLE 
+
+QUESTION: 9
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: By name or number, identify all of the following three choices that are apparent differences between a muon and an electron: 1) mass, 2) electric charge, 3) half life? 
+ANSWER:   MASS AND HALF LIFE (ACCEPT: 1 AND 3) 
+
+QUESTION: 10
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following is a model of enzyme action? 
+		W) Induced fit 
+		X) Lipid bilayer 
+		Y) Activator action 
+		Z) Active site 
+ANSWER:   W) INDUCED FIT 
+
+QUESTION: 10
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following is the primary determinant of secondary protein structure? 
+		W) Hydrogen bonding 
+		X) Amino acid sequence 
+		Y) Protein free energy 
+		Z) Global energy minimum 
+ANSWER:   W) HYDROGEN BONDING Round 2 Page 6 
+
+QUESTION: 11
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What is the exponent of 5 in the prime factorization of 325? 
+ANSWER:   2 
+
+QUESTION: 11
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: For which real values of x does the following the series converge: xnn!!n=0 (read as the summation from n equals 0 to infinity of [pause] x to the power of n over n factorial)? 
+ANSWER:   ALL REAL NUMBERS 
+
+QUESTION: 12
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: A pure element when mixed with an ionic compound is most likely to undergo which of the following kinds of reactions? 
+		W) Single replacement 
+		X) Double replacement 
+		Y) Synthesis 
+		Z) Combustion 
+ANSWER:   W) SINGLE REPLACEMENT 
+
+QUESTION: 12
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following is an alternative name for 1,3-xylene? 
+		W) Ortho-xylene 
+		X) Meta-xylene 
+		Y) Para-xylene 
+		Z) Cis-xylene 
+ANSWER:   X) META-XYLENE Round 2 Page 7 
+
+QUESTION: 13
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: According to data from the Voyager I and II spacecrafts, at what range, in astronomical units, is the heliopause from the Sun? 
+		W) 0 to 100 
+		X) 100 to 200 
+		Y) 200 to 300 
+		Z) 300 to 400 
+ANSWER:   X) 100 to 200 
+
+QUESTION: 13
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: By name or number, identify all of the following four formations that were caused by subduction: 1) Cascade Mountains, 2) North American craton, 3) Hawaiian Islands, 4) folded Himalayan mountains? 
+ANSWER:   CASCADE MOUNTAINS (ACCEPT: 1) 
+
+QUESTION: 14
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Specifying the sign, what is the oxidation state of nitrogen in the neutral compound iron (II) nitrate? 
+ANSWER:   +5 (DO NOT ACCEPT: 5) 
+
+QUESTION: 14
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: When calcium chloride is dissolved in water, its vant Hoff factor would be closest to what whole number? 
+ANSWER:   3 Round 2 Page 8 
+
+QUESTION: 15
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the term for the process of securing carbon from the environment by incorporating it into a stable organic compound? 
+ANSWER:   CARBON FIXATION 
+
+QUESTION: 15
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: The energy investment phase of glycolysis (read as: gly-KOH-li-sis) results in the formation of which triose sugar? 
+ANSWER:   GADP (ACCEPT: DHAP, GLYCERALDEHYDE 3-PHOSPHATE) 
+
+QUESTION: 16
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: When the change of enthalpy of a reaction is negative and the change of entropy of the same reaction is positive, the reaction is which of the following? 
+		W) Always spontaneous 
+		X) Spontaneous only under high temperature conditions 
+		Y) Spontaneous only under low temperature conditions 
+		Z) Never spontaneous 
+ANSWER:   W) ALWAYS SPONTANEOUS 
+
+QUESTION: 16
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: By name or number, identify all of the following four diatomic molecules whose bond strength would decrease after the removal of an electron to form a positively charged ion: 1) H2, 2) B2, 3) ClBr, 4) OF. 
+ANSWER:   H2, B2, ClBr (ACCEPT: 1, 2, AND 3) Round 2 Page 9 
+
+QUESTION: 17
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: Which of the following decreases when 5 is subtracted from each item of a data set? 
+		W) Standard deviation 
+		X) Range 
+		Y) Mean 
+		Z) Variance 
+ANSWER:   Y) MEAN 
+
+QUESTION: 17
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Providing your answer as an improper fraction in simplest form in terms of ", what is the volume of the solid generated when the area bounded by y = x3 , x = 2, and the x axis is revolved around the x-axis? 
+ANSWER:   128/7 " 
+
+QUESTION: 18
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What is the frequency, in megahertz, of a wave of period 2 ! 10!8 seconds? 
+ANSWER:   50 
+
+QUESTION: 18
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Given that the heat of fusion of water is 80 kilocalories per kilogram and providing your answer as a decimal to the nearest hundredth, what is the change in entropy per kilogram, in kilocalories per Kelvin, when ice at 0 Celsius is converted into water at 0 Celsius? 
+ANSWER:   0.29 Round 2 Page 10 
+
+QUESTION: 19
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Which specific region of the human brainstem regulates heart rate? 
+ANSWER:   MEDULLA OBLONGATA 
+
+QUESTION: 19
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following plants is NOT a succulent? 
+		W) Cactus 
+		X) Eucalyptus 
+		Y) Aloe 
+		Z) Yucca 
+ANSWER:   X) EUCALYPTUS 
+
+QUESTION: 20
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What do we call a liquid that has been heated to a temperature beyond its boiling point? 
+ANSWER:   SUPERHEATED 
+
+QUESTION: 20
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: By name or number, identify all of the following five elements that can form compounds with an expanded octet: 1) beryllium, 2) oxygen, 3) phosphorus, 4) fluorine, 5) xenon. 
+ANSWER:   PHOSPHORUS AND XENON (ACCEPT: 3 AND 5) Round 2 Page 11 
+
+QUESTION: 21
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: An electron is released in space in an electric field. Which of the following statements is TRUE? 
+		W) The electron will accelerate at a rate directly proportional to its mass 
+		X) The electron will move parallel to the equipotential lines 
+		Y) The field will do work on the particle 
+		Z) The electron will move from positive to negative potential 
+ANSWER:   Y) THE FIELD WILL DO WORK ON THE PARTICLE 
+
+QUESTION: 21
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: A planet orbits a star in an elliptical orbit. When the planet is furthest from the star, which of the following statements is true? 
+		W) The angular momentum of the planet is at a maximum 
+		X) The angular momentum of the planet is at a minimum 
+		Y) The kinetic energy of the planet is at a minimum 
+		Z) The kinetic energy of the planet is at a maximum 
+ANSWER:   Y) THE KINETIC ENERGY OF THE PLANET IS AT A MINIMUM 
+
+QUESTION: 22
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: Why are there so many more land fossils than marine fossils in early Mesozoic rocks? 
+		W) Less continental mass existed then 
+		X) Shorelines were inundated with terrigenous sediment from mountains 
+		Y) Shallow seas were abundant 
+		Z) More continental mass existed then 
+ANSWER:   X) SHORELINES WERE INUNDATED WITH TERRIGENOUS SEDIMENT FROM MOUNTAINS 
+
+QUESTION: 22
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: By name or number, identify all of the following four life forms that are NOT a part of the Paleozoic rock record: 1) arthropods, 2) brachiopods (read as: BRA-kee-oh-pods), 3) cephalopods (read as: SEH-fah-loh-pods), 4) sauropods. 
+ANSWER:   SAUROPODS (ACCEPT: 4) Round 2 Page 12 
+
+QUESTION: 23
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Which two mathematicians are generally credited with the invention of calculus? 
+ANSWER:   LEIBNIZ AND NEWTON 
+
+QUESTION: 23
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: Which of the following 2 by 2 matrices is equivalent to a clockwise rotation of 90 degrees? 
+		W) !!!!!!!! (read as: row 1: 0, -1; row 2: 1, 0) 
+		X) !!!!!!!! (read as: row 1: 1, 1; row 2: -1, 0) 
+		Y) !!!!!!!! (read as: row 1: 0, -1; row 2: -1, 0) 
+		Z) !!!!!!!!!! (read as: row 1: 0, 1; row 2: 1, 0) 
+ANSWER:   X) !!!!!!!! 
+
+QUESTION: 24
+TYPE:     toss-up
+SUBJECT:  energy
+FORMAT:   short answer
+QUESTION: What is the SI unit of magnetic flux? 
+ANSWER:   WEBER 
+
+QUESTION: 24
+TYPE:     bonus
+SUBJECT:  energy
+FORMAT:   short answer
+QUESTION: By name or number, rank the following four countries in annual geothermal energy generation as a percentage of total domestic energy production from least to greatest: 1) Kenya, 2) United States, 3) Mexico, 4) Iceland. 
+ANSWER:   UNITED STATES, MEXICO, KENYA, ICELAND (ACCEPT: 2, 3, 1, 4) Round 2 Page 13 
+
+QUESTION: 25
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: If a = cos(x), what is cos(2x) in terms of a? 
+ANSWER:   2a2 1 
+
+QUESTION: 25
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: A triangular prism has a base that is an equilateral triangle with sides of length x. If the height of the prism is x, express the volume of the prism in terms of x. 
+ANSWER:   V= x3!34 
+

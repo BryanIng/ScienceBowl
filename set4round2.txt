@@ -1,0 +1,458 @@
+QUESTION: 1
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Two or more structures are said to be homologous if they are alike because of shared ancestry. Ovaries and testes share a developmental ancestry, meaning that the structures arose from the same tissue in what physical stage of human life? 
+ANSWER:   EMBRYO 
+
+QUESTION: 1
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: All Homo sapiens are thought to share a common matrilineage. What genetic information has been used as key evidence for this shared matrilineage? 
+		W) Mitochondrial (read as: my-toh-KOHN-dree-ahl) DNA 
+		X) Nuclear DNA 
+		Y) Plasma membranes 
+		Z) Cytoplasmic tRNA 
+ANSWER:   W) MITOCHONDRIAL DNA 
+
+QUESTION: 2
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Given a standard deck of 52 cards, what is the probability, expressed as a fraction in lowest terms, that the first card dealt is a heart? 
+ANSWER:   
+
+QUESTION: 2
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: An ichthyologist wants to know the fish population of a pond. She catches 60 fish, tags them, and releases them. Two weeks later, she catches 50 fish and 7 of them have tags. Based on the data, what is the best estimate of the fish population of the pond? Round your answer to the nearest hundred. 
+ANSWER:   400 Round 2 Page 2 
+
+QUESTION: 3
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: In which of the following sedimentary environments would a dominantly organic sedimentary rock most likely be formed? 
+		W) Shallow marine 
+		X) Deep ocean 
+		Y) Wind-blown desert 
+		Z) Glacial outwash plain 
+ANSWER:   W) SHALLOW MARINE 
+
+QUESTION: 3
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: A high-energy river environment will most likely create which of the following deposits: 
+		W) Laminar silt beds 
+		X) Course-grained, angular cross bedding 
+		Y) Poorly sorted beds with no structure 
+		Z) Well rounded gravels 
+ANSWER:   Z) WELL ROUNDED GRAVELS 
+
+QUESTION: 4
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What do we call a mathematical object that possesses both magnitude and direction? 
+ANSWER:   VECTOR 
+
+QUESTION: 4
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: If b is a negative vector of a given vector a, then how do b and a compare? 
+		W) a has a smaller magnitude than b 
+		X) b has a smaller magnitude than a 
+		Y) b has the same magnitude as a, applied in the opposite direction 
+		Z) b has a larger magnitude than a, applied in the opposite direction 
+ANSWER:   Y) B HAS THE SAME MAGNITUDE AS A, APPLIED IN THE OPPOSITE DIRECTION Round 2 Page 3 
+
+QUESTION: 5
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What letter designates the lowest energy subshell in any shell? 
+ANSWER:   S 
+
+QUESTION: 5
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Identify the scientist who proposed the existence of energy levels for the electrons in an atom. 
+ANSWER:   BOHR 
+
+QUESTION: 6
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What causes low-pressure weather systems, such as tropical cyclones, to spin counter-clockwise in the Northern Hemisphere and clockwise in the Southern Hemisphere? 
+ANSWER:   CORIOLIS EFFECT (ACCEPT: CORIOLIS FORCE, ROTATION OF THE EARTH) 
+
+QUESTION: 6
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Billions of tiny ice crystals rub together to produce electron imbalances within storm clouds. What do we see when electrons arc to another cloud or to the ground? 
+ANSWER:   LIGHTNING Round 2 Page 4 
+
+QUESTION: 7
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: Which of the following minerals could be mined to create electrical wiring? 
+		W) Chalcopyrite (read as: kahl-koh-PY-ryt) 
+		X) Limestone 
+		Y) Galena (read as: gah-LEE-nah) 
+		Z) Gypsum 
+ANSWER:   W) CHALCOPYRITE 
+
+QUESTION: 7
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: Which of the following is the most abundant mineral group found in the Earth's crust? 
+		W) Carbonates 
+		X) Oxides 
+		Y) Sulfides 
+		Z) Silicates 
+ANSWER:   Z) SILICATES 
+
+QUESTION: 8
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Most shelled organisms in the ocean make their shells out of calcium carbonate. What effect would increasing ocean acidity have on the shells of these organisms? 
+ANSWER:   DISSOLVE/CORRODE THEIR SHELLS 
+
+QUESTION: 8
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: In the 1960s, a group of bacteria were discovered with magnetic crystals in a specialized organelle. It is believed that these bacteria used the crystals to help them align with what natural phenomenon? 
+ANSWER:   THE EARTH'S MAGNETIC FIELD Round 2 Page 5 
+
+QUESTION: 9
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following is a common ion? 
+		W) Na2+ 
+		X) Al3+ 
+		Y) B2+ 
+		Z) Kr2+ 
+ANSWER:   X) Al3+ 
+
+QUESTION: 9
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following has an electron configuration of 1s2 2s2 2p6 3s2 3p6 (read as: 1 s 2, 2 s 2, 2 p 6, 3 s 2, 3 p 6)? 
+		W) Sodium ion 
+		X) Chlorine 
+		Y) Neon 
+		Z) Calcium ion 
+ANSWER:   Z) CALCIUM ION 
+
+QUESTION: 10
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: In humans, where does the organ responsible for balance reside? 
+		W) Inner ear 
+		X) Middle ear 
+		Y) Outer ear 
+		Z) Hypothalamus 
+ANSWER:   W) INNER EAR 
+
+QUESTION: 10
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is a common name for adipose tissue? 
+ANSWER:   FAT Round 2 Page 6 
+
+QUESTION: 11
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What is the term that describes the separation of visible light into its component colors by a prism? 
+ANSWER:   DISPERSION 
+
+QUESTION: 11
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following colors of light has the most energy? 
+		W) Yellow 
+		X) Red 
+		Y) Green 
+		Z) Violet 
+ANSWER:   Z) VIOLET 
+
+QUESTION: 12
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT considered a component of the modern theory of ice ages? 
+		W) The Earth wobbles on its axis 
+		X) The tilt of the Earth varies 
+		Y) Plate tectonics causes Earth's equator to change location 
+		Z) The Earth's orbit around the Sun varies 
+ANSWER:   Y) PLATE TECTONICS CAUSE EARTH'S EQUATOR TO CHANGE LOCATION 
+
+QUESTION: 12
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: Isostatic rebound following the end of the most recent ice age caused which of the following? 
+		W) Localized sea level rise 
+		X) Localized sea level drop 
+		Y) Mountain formation in the eastern part of the U.S. 
+		Z) Volcanism in Southern Mexico 
+ANSWER:   X) LOCALIZED SEA LEVEL DROP Round 2 Page 7 
+
+QUESTION: 13
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: The point (1, 2) is reflected across the x axis. What are the coordinates of its image? 
+ANSWER:   (1, -2) 
+
+QUESTION: 13
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: A viper had a length of 30 centimeters at 6 months of age and a length of 1.3 meters at 15 years old. Assuming that its growth was linear, which of the following is closest to its length in meters at 10 years old? W) 0.6 X) 0.8 Y) 1 Z) 1.2 
+ANSWER:   Y) 1 
+
+QUESTION: 14
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: What characteristic has made angiosperms so successful during the last 140 million years? 
+		W) They are very tall, outcompeting other plants for sunlight 
+		X) They have flowers to attract pollinators 
+		Y) They are thorny to deter herbivores from consuming them 
+		Z) They are the only plants that can reproduce asexually 
+ANSWER:   X) THEY HAVE FLOWERS TO ATTRACT POLLINATORS 
+
+QUESTION: 14
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Fruits primarily function in order to entice animals to eat them. In what way does this benefit the fruiting plant? 
+		W) Animals disperse the seeds 
+		X) Animals pollinate while eating the fruits 
+		Y) Animals eat the fruit instead of other parts of the plant 
+		Z) There is no benefit to the plant 
+ANSWER:   W) ANIMALS DISPERSE THE SEEDS Round 2 Page 8 
+
+QUESTION: 15
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following is true about the alpha particle? 
+		W) It is a hydrogen atom 
+		X) It was discovered by J.J. Thomson 
+		Y) It was used by Ernest Rutherford in experiments relating to the nucleus of the atom 
+		Z) It is purely electromagnetic radiation 
+ANSWER:   Y) IT WAS USED BY ERNEST RUTHERFORD IN EXPERIMENTS RELATING TO THE NUCLEUS OF THE ATOM 
+
+QUESTION: 15
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: What term best describes the type of reaction that converts uranium in the soil to radon? 
+		W) Acid-base 
+		X) Fusion 
+		Y) Electromagnetic radiation 
+		Z) Radioactive decay 
+ANSWER:   Z) RADIOACTIVE DECAY 
+
+QUESTION: 16
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: A child is holding a string with a yo-yo dangling at the bottom of it. As the child yanks the string up, the tension in the string will: 
+		W) Decrease 
+		X) Increase 
+		Y) Stay the same 
+		Z) Become negative 
+ANSWER:   X) INCREASE 
+
+QUESTION: 16
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: When a girl wearing roller blades throws a ball in front of her, she slides backwards. Her movement is an illustration of which of Newtons Laws of Motion? 
+ANSWER:   THIRD Round 2 Page 9 
+
+QUESTION: 17
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: What is the process that best describes the transfer of electrons from one atom to another through electrostatic attraction? 
+		W) Ionic bonding 
+		X) Repulsion 
+		Y) Nuclear force 
+		Z) Covalent bonding 
+ANSWER:   W) IONIC BONDING 
+
+QUESTION: 17
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: The force between two electrically charged objects can be changed by altering what two quantities? 
+ANSWER:   THE AMOUNT OF CHARGE AND THE DISTANCE BETWEEN THE OBJECTS 
+
+QUESTION: 18
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: If 8x3 4y = -16x, express y as a function of x in simplest form. 
+ANSWER:   y = 2x3 + 4x 
+
+QUESTION: 18
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: Solve the quadratic equation 0823=!+xx2. 
+		W) 4 or 2!=x 
+		X) 12or 8!=x 
+		Y) 4/3 or 2!=x 
+		Z) 4/3 or 8!=x 
+ANSWER:   Y) x = -2 OR 4/3 Round 2 Page 10 
+
+QUESTION: 19
+TYPE:     toss-up
+SUBJECT:  energy
+FORMAT:   short answer
+QUESTION: What kind of potential energy is stored in the reservoir behind a dam? 
+ANSWER:   GRAVITATIONAL 
+
+QUESTION: 19
+TYPE:     bonus
+SUBJECT:  energy
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT a significant limitation to the further development of U.S. hydropower? 
+		W) Availability of sites for new large hydro facilities 
+		X) Regulatory requirements 
+		Y) Maintenance costs 
+		Z) Environmental concerns 
+ANSWER:   Y) MAINTENANCE COSTS 
+
+QUESTION: 20
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: In what year did astronauts first land on the Moon? 
+ANSWER:   1969 
+
+QUESTION: 20
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: NASAs Lunar Reconnaissance Orbiter, which reached lunar orbit in June of 2009, has gathered digital information about the moon. Which of the following has NOT been observed by LRO? 
+		W) The far side of the moon is rougher and has more craters than the near side 
+		X) Cliffs in the lunar crust indicate that the moon has expanded in the recent past 
+		Y) Astronaut landing sites 
+		Z) Lunar rilles, which look like river channels 
+ANSWER:   X) CLIFFS IN THE LUNAR CRUST INDICATE THAT THE MOON HAS EXPANDED IN THE RECENT PAST Round 2 Page 11 
+
+QUESTION: 21
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Providing your answer to the nearest degree, what is absolute zero in degrees Celsius? 
+ANSWER:   -273 DEGREES CELSIUS (ACCEPT: 273 DEGREES CELSIUS BELOW ZERO) 
+
+QUESTION: 21
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: When air in a closed system is heated, what does it do? 
+ANSWER:   EXPANDS (ACCEPT: RISES) 
+
+QUESTION: 22
+TYPE:     toss-up
+SUBJECT:  energy
+FORMAT:   multiple choice
+QUESTION: Which of the following devices stores electrical energy in chemical form in order to release it slowly through a circuit? 
+		W) Inductor 
+		X) Resistor 
+		Y) Capacitor 
+		Z) Battery 
+ANSWER:   Z) BATTERY 
+
+QUESTION: 22
+TYPE:     bonus
+SUBJECT:  energy
+FORMAT:   multiple choice
+QUESTION: Which of the following types of battery is most commonly used in automobiles? 
+		W) Lithium-ion (read as: LI-thee-uhm) 
+		X) Nickel Cadmium 
+		Y) Lead-acid 
+		Z) Zinc chloride 
+ANSWER:   Y) LEAD-ACID Round 2 Page 12 
+
+QUESTION: 23
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Determine the slope of the line that has the equation: y 14 = 7 (x + 2) - 5. 
+ANSWER:   7 
+
+QUESTION: 23
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: Line 1 and line 2 are parallel. If line 1 contains the points (6, 13) and (4, 11) and line 2 contains the point (8, 20), determine which of the following points lies on line 2. 
+		W) (12, 15) 
+		X) (18, 10) 
+		Y) (10, -12) 
+		Z) (14, 26) 
+ANSWER:   Z) (14, 26) 
+
+QUESTION: 24
+TYPE:     toss-up
+SUBJECT:  energy
+FORMAT:   multiple choice
+QUESTION: Which of the following is a renewable resource? 
+		W) Diamonds 
+		X) Wood 
+		Y) Coal 
+		Z) Propane 
+ANSWER:   X) WOOD 
+
+QUESTION: 24
+TYPE:     bonus
+SUBJECT:  energy
+FORMAT:   multiple choice
+QUESTION: Which of the following choices describes one reason why the greenhouse effect is important? 
+		W) It warms the Earth to a temperature necessary for life on Earth 
+		X) It allows solar radiation to escape, preventing extreme radiation 
+		Y) It cools the Earth to a temperature necessary for life on Earth 
+		Z) It creates nitrogen for Earths atmosphere 
+ANSWER:   W) IT WARMS THE EARTH TO A TEMPERATURE NECESSARY FOR LIFE ON EARTH Round 2 Page 13 
+
+QUESTION: 25
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: Why is the Kepler telescope unique? 
+		W) It is pointed at one specific target 
+		X) It is focused on a large section of the sky 
+		Y) It is scanning the entire sky 
+		Z) It generates a small amount of data 
+ANSWER:   X) IT IS FOCUSED ON A LARGE SECTION OF THE SKY 
+
+QUESTION: 25
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: What are scientists hoping to discover with the Kepler telescope? 
+ANSWER:   PLANETS LIKE THE EARTH 
+

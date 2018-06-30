@@ -1,0 +1,410 @@
+QUESTION: 1
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following conditions is necessary and sufficient for an object in equilibrium? 
+		W) It is at rest 
+		X) It is moving with constant velocity 
+		Y) It is either moving with constant velocity or with constant acceleration 
+		Z) It is moving with constant acceleration 
+ANSWER:   X) IT IS MOVING WITH CONSTANT VELOCITY 
+
+QUESTION: 1
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: An object with a mass of 1 gram is whirled in a horizontal circle with a radius of 0.5 meters at a constant speed of 2 meters per second. What is the work done on the object, in joules, during one revolution? 
+ANSWER:   0 
+
+QUESTION: 2
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: What theory states that our solar system formed from the compression of a giant, swirling cloud of gas and dust? 
+ANSWER:   NEBULAR 
+
+QUESTION: 2
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: By name or number, order the following three events from earliest to latest as two air masses of different densities develop into a mid-latitude cyclone: 1) cyclonic circulation, 2) wave development, 3) front development. 
+ANSWER:   FRONT DEVELOPMENT, WAVE DEVELOPMENT, CYCLONIC CIRCULATION (ACCEPT: 3, 2, 1) Round 4 Page 2 
+
+QUESTION: 3
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Which of the following will INCREASE the current from a solar panel? 
+		W) Using a lead acid cell in series with the solar cells 
+		X) Using a wet cell in series with the solar cells 
+		Y) Connecting the solar cells in series 
+		Z) Connecting the solar cells in parallel 
+ANSWER:   Z) CONNECTING THE SOLAR CELLS IN PARALLEL 
+
+QUESTION: 3
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Given a DC circuit with a voltage source delivering 20 volts and a circuit resistance of 5 kiloohms, what is the value of the current in amperes? 
+ANSWER:   0.004 
+
+QUESTION: 4
+TYPE:     toss-up
+SUBJECT:  energy
+FORMAT:   multiple choice
+QUESTION: An RLC circuit must contain of all of the following, EXCEPT: 
+		W) A capacitor 
+		X) An inductor 
+		Y) A diode 
+		Z) A resistor 
+ANSWER:   Y) A DIODE 
+
+QUESTION: 4
+TYPE:     bonus
+SUBJECT:  energy
+FORMAT:   short answer
+QUESTION: By name or number, identify all of the following four factors that directly affect the amount of electricity generated from hydroelectric dams: 1) water temperature, 2) flow, 3) head, 4) time of day. 
+ANSWER:   FLOW AND HEAD (ACCEPT: 2 AND 3) Round 4 Page 3 
+
+QUESTION: 5
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: A line with the equation y = cx + c, where c is a non-zero real number, must intersect which of the following? 
+		W) Positive x-axis 
+		X) Positive y-axis 
+		Y) Negative x-axis 
+		Z) Negative y-axis 
+ANSWER:   Y) NEGATIVE x-AXIS 
+
+QUESTION: 5
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Find the slope of the line tangent to the parametric curve at the given point: x!= et, and y = lnt (read as: y equals the natural log of t) at t = 1. 
+ANSWER:   1/e 
+
+QUESTION: 6
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: Name the three layers of the Suns atmosphere. 
+ANSWER:   PHOTOSPHERE, CHROMOSPHERE, CORONA 
+
+QUESTION: 6
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: The region around Sweden has undergone elastic strain due to pressure from ancient ice cover. What will happen to the elevation of this region over the next 10,000 years? 
+ANSWER:   INCREASE Round 4 Page 4 
+
+QUESTION: 7
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: Neglecting the effect of air resistance, a stone dropped off of a 197-meter high building lands on the ground at which of the following approximate times in seconds? 
+		W) 3 
+		X) 4 
+		Y) 6 
+		Z) 18 
+ANSWER:   Y) 6 
+
+QUESTION: 7
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: A capacitor has a very large capacitance of 10 farads and is charged by placing a potential difference of 2 volts between its plates. How much energy in joules is stored in the capacitor? 
+ANSWER:   20 
+
+QUESTION: 8
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: Which of the following BEST describes how planets are distinguishable from stars in the night sky? 
+		W) Planets appear brighter than stars 
+		X) Planets appear redder than stars 
+		Y) Planets appear bigger than stars 
+		Z) Planets have periods of retrograde motion while stars do not 
+ANSWER:   Z) PLANETS HAVE PERIODS OF RETROGRADE MOTION WHILE STARS DO NOT 
+
+QUESTION: 8
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: What unit equal to 0.01 millimeters thickness at STP is used to measure Earths atmospheric ozone layer? 
+ANSWER:   DOBSON UNIT Round 4 Page 5 
+
+QUESTION: 9
+TYPE:     toss-up
+SUBJECT:  energy
+FORMAT:   multiple choice
+QUESTION: Which of the following statements is NOT true about the current electricity system in the United States? 
+		W) It is 99.7% reliable 
+		X) It consists of more than 9,000 electric generating units 
+		Y) It has more than 1,000,000 megawatts of generating capacity 
+		Z) It is largely decentralized 
+ANSWER:   Z) IT IS LARGELY DECENTRALIZED 
+
+QUESTION: 9
+TYPE:     bonus
+SUBJECT:  energy
+FORMAT:   short answer
+QUESTION: Taking the latent heat of fusion to be 80 calories per gram, how much energy, in kilocalories, does it take to bring 10 grams of ice at 0 Celsius to liquid water at 20 Celsius? 
+ANSWER:   1 
+
+QUESTION: 10
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Insect symbionts are represented in all EXCEPT which of the following three groups: 1) bacteria, 2) fungi, or 3) animals? 
+ANSWER:   ANIMALS (ACCEPT: 3) 
+
+QUESTION: 10
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: By name or number, list all of the following four pollinators that are members of the order Hymenoptera (read as: hy-meh-NOHP-teh-rah): 1) ruby-throated hummingbird, 2) monarch butterfly, 3) green bottle fly, 4) honey bee. 
+ANSWER:   HONEY BEE (ACCEPT: 4) Round 4 Page 6 
+
+QUESTION: 11
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What is the numerical value of 1152? 
+ANSWER:   13225 
+
+QUESTION: 11
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What is the coefficient corresponding to x3 in the binomial expansion of (x + 2)5 (read as: the quantity x plus 2 to the power of 5)? 
+ANSWER:   40 
+
+QUESTION: 12
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT synthesized by the human liver? 
+		W) Hemoglobin 
+		X) Fibrinogen (read as; fy-BRI-noh-jehn) 
+		Y) Albumin 
+		Z) Lipoprotein 
+ANSWER:   W) HEMOGLOBIN 
+
+QUESTION: 12
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: By name or number, give all of the following five choices that are components of bile in vertebrates: 1) water, 2) cholesterol, 3) lymph, 4) bilirubin, 5) amylase. 
+ANSWER:   WATER, CHOLESTEROL, BILIRUBIN (ACCEPT: 1, 2, AND 4) Round 4 Page 7 
+
+QUESTION: 13
+TYPE:     toss-up
+SUBJECT:  energy
+FORMAT:   short answer
+QUESTION: As the grade of coal increases, how do the concentrations of carbon and sulfur change, respectively? 
+ANSWER:   CARBON INCREASES AND SULFUR DECREASES 
+
+QUESTION: 13
+TYPE:     bonus
+SUBJECT:  energy
+FORMAT:   short answer
+QUESTION: If burned over the course of a minute, providing your answer to the nearest ten, about how many kilowatts of power would a pound of human fat release? 
+ANSWER:   240 (ACCEPT: 250, 260, 270, 280, 290) 
+
+QUESTION: 14
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What is the phrase that refers to the energy required by an incident photon to cause the photoelectric effect? 
+ANSWER:   WORK FUNCTION 
+
+QUESTION: 14
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: By name or number, identify all of the following four household items that make use of the Bernoulli principle: 1) refrigerator, 2) can opener, 3) washing machine, 4) vacuum cleaner. 
+ANSWER:   VACUUM CLEANER (ACCEPT: 4) Round 4 Page 8 
+
+QUESTION: 15
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Name the plant tissue beneath the epidermis that makes up the cells that surround a stoma. 
+ANSWER:   PARENCHYMA 
+
+QUESTION: 15
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Mineral salts participate in enzymatic activity as which of the following? 
+		W) Co-factors 
+		X) Activators 
+		Y) Stabilizers 
+		Z) Catalysts 
+ANSWER:   W) CO-FACTORS 
+
+QUESTION: 16
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: Which of the following statements is NOT true about Taylor series? 
+		W) Taylor series are defined for infinitely differentiable functions 
+		X) All Taylor series are power series 
+		Y) All Taylor series are convergent 
+		Z) The first n terms of a Taylor series approximate a function with a polynomial 
+ANSWER:   Y) ALL TAYLOR SERIES ARE CONVERGENT 
+
+QUESTION: 16
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Considering the function fx!=!3x2- 4x!+!1, what is the average rate of change from x = 2 to x = 5? 
+ANSWER:   17 Round 4 Page 9 
+
+QUESTION: 17
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following statements is TRUE of ceramics? 
+		W) They are homogeneous 
+		X) They are heterogeneous (read as: heh-teh-roh-JEE-nee-is) 
+		Y) They are chelates 
+		Z) They are a form of glass 
+ANSWER:   X) THEY ARE HETEROGENEOUS 
+
+QUESTION: 17
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following elements has the valence electron configuration of 3s23p3? 
+		W) Phosphorus 
+		X) Oxygen 
+		Y) Bromine 
+		Z) Nitrogen 
+ANSWER:   W) PHOSPHORUS 
+
+QUESTION: 18
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: What term is often used to describe a winter storm that strikes the East Coast of the United States, involving a low pressure system that picks up moisture from the ocean and often dumps snow on land? 
+ANSWER:   NOREASTER 
+
+QUESTION: 18
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: What optical device completely eliminates chromatic aberration in telescopes? 
+ANSWER:   CURVED MIRRORS (ACCEPT: MIRRORS) Round 4 Page 10 
+
+QUESTION: 19
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following represents the electron-pair geometry of the central oxygen atom of ozone? 
+		W) Linear 
+		X) Trigonal planar 
+		Y) Tetrahedral 
+		Z) Trigonal bipyramidal 
+ANSWER:   X) TRIGONAL PLANAR 
+
+QUESTION: 19
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Within a single atom, what is the maximum number of electrons that can fit in an atomic shell defined by the quantum numbers n = 3 and l = 2 (read as: L equals 2)? 
+ANSWER:   10 
+
+QUESTION: 20
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: One group of carbohydrates is known as polyhydroxylated aldehydes. By what other term is this group described? 
+ANSWER:   ALDOSE 
+
+QUESTION: 20
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: Bacteria depend on cell membrane lipids to provide structure and stability. What physical environmental factor is most likely to cause these membranes to lose stability? 
+ANSWER:   TEMPERATURE Round 4 Page 11 
+
+QUESTION: 21
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What is the IUPAC name for SnCl2!! 6H2O? 
+ANSWER:   TIN (II) CHLORIDE HEXAHYDRATE 
+
+QUESTION: 21
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: By name or number, list all of the following five substances that are NOT Newtonian fluids: 1) gasoline, 2) yogurt, 3) water, 4) blood, 5) ketchup. 
+ANSWER:   YOGURT, BLOOD, AND KETCHUP (ACCEPT: 2, 4, AND 5) 
+
+QUESTION: 22
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: Which of the following statements is NOT an advantage of a repeated-measures design compared to an independent-measures design to compare two treatment conditions? 
+		W) It requires fewer subjects 
+		X) It is better suited to study development that takes place over time 
+		Y) It reduces problems caused by individual differences 
+		Z) It reduces the confounding effects of other factors 
+ANSWER:   Z) IT REDUCES THE CONFOUNDING EFFECTS OF OTHER FACTORS 
+
+QUESTION: 22
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: The linear function y = f(x) contains the two points (2, 1) and (5, 8). In simplest form, what is f(13)? 
+ANSWER:   80/3 (ACCEPT: 26 2/3) Round 4 Page 12 
+
+QUESTION: 23
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: A population has a mean of 73 and a standard deviation of 8. If the distribution is standardized to create a new distribution with a mean of 100 and a standard deviation of 20, what is the new value of a score of 65 from the original distribution? 
+ANSWER:   80 
+
+QUESTION: 23
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What are, respectively, the amplitude, period, horizontal shift, and vertical shift of y = -5 + 7cos [!/6 (x + !/12)] (read as: y equals negative 5 plus 7 cosine of open bracket pi over 6 open parenthesis x plus pi over 12 close parenthesis close bracket)? 
+ANSWER:   AMPLITUDE = 7, PERIOD = 12, HORIZONTAL SHIFT = - !/12 (ACCEPT: !/12 LEFT), VERTICAL SHIFT = -5 (ACCEPT: 5 DOWN) 
+
+QUESTION: 24
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: If a person suffers an injury and is no longer able to walk but the heart was not affected, which peripheral nervous system component is most likely to have been damaged? 
+ANSWER:   SOMATIC (ACCEPT: SOMATOMOTOR SYSTEM) 
+
+QUESTION: 24
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the technical name of the process, usually occurring in the fall, through which deciduous plants systematically shed their leaves? A thin layer of cells may be produced during this process, thus further sealing the site of detachment. 
+ANSWER:   ABSCISSION Round 4 Page 13 
+
+QUESTION: 25
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following can bond to a metal ion? 
+		W) Ligand 
+		X) Lewis acid 
+		Y) Bronsted-Lowry acid 
+		Z) Enantiomer 
+ANSWER:   W) LIGAND 
+
+QUESTION: 25
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: How many milliliters of 0.75 molar HCl are required to completely neutralize 25.0 milliliters of 0.15 molar Ba(OH)2? 
+ANSWER:   10 
+

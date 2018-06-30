@@ -1,0 +1,422 @@
+QUESTION: 1
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: What is the sum of the smallest prime number and the smallest composite number? 
+ANSWER:   6 
+
+QUESTION: 1
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: A right triangle has sides with lengths of 8, 15, and 17 meters. As a fraction in lowest terms and in meters, what is the length of the altitude to the hypotenuse? 
+ANSWER:   120/17 
+
+QUESTION: 2
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT an example of a current population that shows genetic drift due to the bottleneck effect? 
+		W) African elephant 
+		X) Northern elephant seals 
+		Y) Whooping crane 
+		Z) Cheetah 
+ANSWER:   W) AFRICAN ELEPHANT 
+
+QUESTION: 2
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the full binomial name of the staph bacteria which is resistant to beta-lactams? 
+ANSWER:   STAPHYLOCOCCUS AUREUS Round 5 Page 2 
+
+QUESTION: 3
+TYPE:     toss-up
+SUBJECT:  energy
+FORMAT:   multiple choice
+QUESTION: Which of the following characteristics make universal motors attractive for home appliances? 
+		W) High speed and low torque 
+		X) High speed and high torque 
+		Y) Low speed and high torque 
+		Z) Low speed and low torque 
+ANSWER:   X) HIGH SPEED AND HIGH TORQUE 
+
+QUESTION: 3
+TYPE:     bonus
+SUBJECT:  energy
+FORMAT:   short answer
+QUESTION: Taking g to be 9.8 meters per second squared, a 500 kilogram elevator needs how much energy, in kilojoules, to go up 30 meters, a typical height for the 10th floor? 
+ANSWER:   147 
+
+QUESTION: 4
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   multiple choice
+QUESTION: As the result of a collision with another particle, a charged particle ends up with its velocity vector completely parallel to a uniform magnetic field. Which of the following best describes the subsequent path of the particle? 
+		W) A circular arc 
+		X) A spiral 
+		Y) A straight line 
+		Z) A cycloid 
+ANSWER:   Y) A STRAIGHT LINE 
+
+QUESTION: 4
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: An 80 kilogram person dives horizontally off a 100 kilogram rowboat. If the divers speed after leaving the rowboat is 5 meters per second, what is the speed in meters per second of the rowboat? 
+ANSWER:   4 Round 5 Page 3 
+
+QUESTION: 5
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What characteristic of male crickets do organisms of the genus Ormia use in order to find the crickets and lay their eggs on and around them? 
+ANSWER:   CHIRPING (ACCEPT: SINGING, CALLING) 
+
+QUESTION: 5
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Stomata will open in response to internal and external cues. Which of the following is NOT one of these cues? 
+		W) Uptake of potassium ions 
+		X) Decrease of carbon dioxide in leaf air spaces due to photosynthesis in the mesophyll 
+		Y) Changes in light levels 
+		Z) Mesophyll production of abscisic acid in response to water deficiency 
+ANSWER:   Z) MESOPHYLL PRODUCTION OF ABSCISIC ACID IN RESPONSE TO WATER DEFICIENCY 
+
+QUESTION: 6
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Providing your answer in decimal form, what is the area under the curve y = x between 0 and 3? 
+ANSWER:   4.5 
+
+QUESTION: 6
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Find (1 + i)12 (read as the quantity 1 plus i to the twelfth). 
+ANSWER:   -64 Round 5 Page 4 
+
+QUESTION: 7
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following factors does NOT affect the solubility of a solid in a liquid? 
+		W) Temperature 
+		X) Polarity of solute 
+		Y) Polarity of solvent 
+		Z) Pressure 
+ANSWER:   Z) PRESSURE 
+
+QUESTION: 7
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following period 3 elements has the smallest atomic radius? 
+		W) Sodium 
+		X) Phosphorus 
+		Y) Chlorine 
+		Z) Aluminum 
+ANSWER:   Y) CHLORINE 
+
+QUESTION: 8
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: What is the collective term for the stellar process in which lighter nuclei fuse to build the nuclei of heavier elements than helium? 
+ANSWER:   NUCLEOSYNTHESIS 
+
+QUESTION: 8
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: Which of the following occurs as a rapidly advancing cold front overtakes a closed off warm front? 
+		W) Gliding 
+		X) Occlusion 
+		Y) Collapse and dissipation of low 
+		Z) Subsidence 
+ANSWER:   X) OCCLUSION Round 5 Page 5 
+
+QUESTION: 9
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: What is the SI prefix that multiples a unit by a factor of 1018? 
+ANSWER:   EXA 
+
+QUESTION: 9
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: How many atoms are in one molecule of butane? 
+ANSWER:   14 
+
+QUESTION: 10
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the scientific name of the phylum characterized by the presence of jointed appendages? 
+ANSWER:   ARTHROPODA (DO NOT ACCEPT: ARTHROPODS) 
+
+QUESTION: 10
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the common name for the native annual plant with the following description: It has stems that coil around a support for climbing, the leaves are alternate compound with 3 leaflets, and it has a thin-walled fruit that the Chippewa traditionally used as a food source and digestive aid. 
+ANSWER:   HOGPEANUT (ACCEPT: WILD PEANUT) (DO NOT ACCEPT: PEANUT) Round 5 Page 6 
+
+QUESTION: 11
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: Nuclides that have neutron-to-proton ratios that are too high compared with stable nuclides tend to undergo what kind of decay? 
+ANSWER:   BETA (ACCEPT: BETA MINUS) 
+
+QUESTION: 11
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Which of the following metals could NOT successfully be used to galvanize iron? 
+		W) Zinc 
+		X) Aluminum 
+		Y) Manganese 
+		Z) Nickel 
+ANSWER:   Z) NICKEL 
+
+QUESTION: 12
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: By number, identify which one of the following statements is TRUE regarding the set of means of samples of size n from a given population: 1) the mean of the set of sample means varies inversely as the square root of n; 2) the variance of the set of sample means varies directly as n; or 3) the standard deviation of the set of sample means varies inversely as the square root of n. 
+ANSWER:   3 
+
+QUESTION: 12
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Convert the complex number -2 - 2i! to trigonometric form. 
+ANSWER:   4 cos4!3+ isin4!3 Round 5 Page 7 
+
+QUESTION: 13
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: Two charges, initially 2.0 centimeters apart, experience a repulsive force of 1.0 newtons. Providing your answer as a fraction in simplest form, when the charges are moved to 8.0 centimeters apart, what force in newtons exists between them? 
+ANSWER:   1/16 
+
+QUESTION: 13
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: A solid conducting sphere with a radius of 2 centimeters has a charge of 8 microcoulombs. Concentric with the solid sphere is a hollow conducting spherical shell with an inner radius of 4 centimeters, outer radius of 5 centimeters, and charge of -4 microcoulombs. Find the magnitude of the electric field in newtons per coulomb at a radius of 4.5 centimeters. 
+ANSWER:   ZERO 
+
+QUESTION: 14
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   short answer
+QUESTION: What is the term for the flap of elastic cartilage that prevents food from entering a humans trachea when swallowing? 
+ANSWER:   EPIGLOTTIS 
+
+QUESTION: 14
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: All of the following factors increase the release of oxygen from hemoglobin in systemic capillaries, EXCEPT: 
+		W) High temperature 
+		X) Low temperature 
+		Y) Acidic pH levels 
+		Z) Low partial pressure of oxygen 
+ANSWER:   X) LOW TEMPERATURE Round 5 Page 8 
+
+QUESTION: 15
+TYPE:     toss-up
+SUBJECT:  chemistry
+FORMAT:   multiple choice
+QUESTION: Isoelectronic atoms and ions are identical in which of the following ways? 
+		W) Electron affinity 
+		X) Ionization energy 
+		Y) Electron configuration 
+		Z) Effective nuclear charge 
+ANSWER:   Y) ELECTRON CONFIGURATION 
+
+QUESTION: 15
+TYPE:     bonus
+SUBJECT:  chemistry
+FORMAT:   short answer
+QUESTION: How many electrons with quantum number l = 1 (read as: L equals 1) are in an atom of silicon in its ground state? 
+ANSWER:   8 
+
+QUESTION: 16
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: By name or number, which of the following three choices are possible constituents of cold dark matter: 1) axions, 2) photinos, 3) quark nuggets? 
+ANSWER:   AXIONS, PHOTINOS, AND QUARK NUGGETS (ACCEPT: 1, 2, AND 3 OR ALL) 
+
+QUESTION: 16
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What is the wavelength, rounded to the nearest ten meters, for the carrier wave of the AM radio station WDOE 1410? 
+ANSWER:   210 Round 5 Page 9 
+
+QUESTION: 17
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: What is the youngest volcano in the Hawaiian chain? 
+ANSWER:   LOIHI 
+
+QUESTION: 17
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: By name or number, identify all of the following five elements which destroy ozone: 1) hydrogen, 2) nitrogen, 3) chlorine, 4) bromine, 5) argon. 
+ANSWER:   CHLORINE AND BROMINE (ACCEPT: 3 AND 4) 
+
+QUESTION: 18
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: What subatomic particle is considered the messenger of the strong force? 
+ANSWER:   GLUON 
+
+QUESTION: 18
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: When connected to a 5-volt battery, how many 5 microfarad capacitors must be connected in parallel in order to store a charge of 100 microcoulombs? 
+ANSWER:   4 Round 5 Page 10 
+
+QUESTION: 19
+TYPE:     toss-up
+SUBJECT:  energy
+FORMAT:   multiple choice
+QUESTION: Pure hydrogen is an energy carrier rather than a primary source of energy, because it lacks which of the following? 
+		W) Natural occurrence 
+		X) Sufficient heat 
+		Y) Energy density 
+		Z) Radiant emission 
+ANSWER:   W) NATURAL OCCURRENCE 
+
+QUESTION: 19
+TYPE:     bonus
+SUBJECT:  energy
+FORMAT:   multiple choice
+QUESTION: Excluding the Middle East, which of the following regions has the most proven oil reserves? 
+		W) North America 
+		X) Central and South America 
+		Y) Eurasia 
+		Z) Africa 
+ANSWER:   Y) EURASIA 
+
+QUESTION: 20
+TYPE:     toss-up
+SUBJECT:  math
+FORMAT:   multiple choice
+QUESTION: Which of the following can be constructed using only a compass and a straightedge? 
+		W) A line segment with one-third the length of a given line segment 
+		X) A cube with twice the volume of a given cube 
+		Y) An angle with one-third the measure of a given angle 
+		Z) A square with the same area as that of a given circle 
+ANSWER:   W) A LINE SEGMENT WITH ONE-THIRD THE LENGTH OF A GIVEN LINE SEGMENT 
+
+QUESTION: 20
+TYPE:     bonus
+SUBJECT:  math
+FORMAT:   short answer
+QUESTION: Let f(x) be a function with antiderivative g(x) satisfying g(1) = 2 and g(3) = 4. Calculate 2fxdx!- 5fxdx3131 (read as: the integral from 1 to 3 of 2 f of x dx minus the integral from 1 to 3 of 5 f of x dx). 
+ANSWER:   -6 Round 5 Page 11 
+
+QUESTION: 21
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: What is the name of the blue-white supergiant that is also the brightest star in the constellation Orion? 
+ANSWER:   RIGEL (ACCEPT: BETA ORIONIS) 
+
+QUESTION: 21
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: Which of the following did NOT occur during the Mesozoic era? 
+		W) Formation of the Coast Range batholith 
+		X) Assembly of Pangaea 
+		Y) Birth of the Atlantic Ocean 
+		Z) Subduction of the Pacific Plate 
+ANSWER:   X) ASSEMBLY OF PANGAEA 
+
+QUESTION: 22
+TYPE:     toss-up
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: In a Bose-Einstein condensate, what general type of particles co-exist in the lowest possible quantum state? 
+ANSWER:   BOSONS 
+
+QUESTION: 22
+TYPE:     bonus
+SUBJECT:  physics
+FORMAT:   short answer
+QUESTION: A 9-volt battery costs $1.49 and will run a portable DVD player for 6 hours, supplying 25 milliamperes of current. What is the cost per kilowatt hour of the batterys energy to the nearest $100? 
+ANSWER:   $1100 Round 5 Page 12 
+
+QUESTION: 23
+TYPE:     toss-up
+SUBJECT:  earth and space
+FORMAT:   short answer
+QUESTION: Radiosondes are released at 0 UTC and 1200 UTC daily at multiple locations around the globe. What are the corresponding times in Eastern Standard Time? 
+ANSWER:   7 AM AND 7 PM (ACCEPT: 0700 AND 1900) 
+
+QUESTION: 23
+TYPE:     bonus
+SUBJECT:  earth and space
+FORMAT:   multiple choice
+QUESTION: The most explosive type of volcanism would be expected in which of the following locations? 
+		W) Mid-ocean ridge 
+		X) Hot spot on an oceanic plate 
+		Y) Continental rift zone 
+		Z) Ocean-continent subduction zone 
+ANSWER:   Z) OCEAN-CONTINENT SUBDUCTION ZONE 
+
+QUESTION: 24
+TYPE:     toss-up
+SUBJECT:  energy
+FORMAT:   multiple choice
+QUESTION: Which of the following is measured by total harmonic distortion, a standard for gauging the quality of power provided to customers? 
+		W) How distorted the waveform is from a pure sinusoidal waveform 
+		X) How distorted a waveform is from a triangular waveform 
+		Y) The difference between a sinusoidal waveform and a triangular waveform 
+		Z) The maximum value of a sinusoidal waveform with respect to the reference point of the waveform 
+ANSWER:   W) HOW DISTORTED THE WAVEFORM IS FROM A PURE SINUSOIDAL WAVEFORM 
+
+QUESTION: 24
+TYPE:     bonus
+SUBJECT:  energy
+FORMAT:   short answer
+QUESTION: Protists are classified by how they acquire energy. What is the specific phrase used to describe the diffusion of nutrients into the organisms after they have digested organic compounds through the secretion of exoenzymes? 
+ANSWER:   HETEROTROPHIC ABSORPTION Round 5 Page 13 
+
+QUESTION: 25
+TYPE:     toss-up
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following is NOT part of initiation during translation? 
+		W) Binding of a small ribosomal subunit to mRNA and initiator tRNA 
+		X) TATA box 
+		Y) One GTP molecule 
+		Z) Protein initiation factors 
+ANSWER:   X) TATA BOX 
+
+QUESTION: 25
+TYPE:     bonus
+SUBJECT:  biology
+FORMAT:   multiple choice
+QUESTION: Which of the following would NOT be a part of protein synthesis in prokaryotes? 
+		W) Translation and transcription occurring simultaneously 
+		X) Ribosomes 
+		Y) Spliceosomes 
+		Z) RNA polymerases 
+ANSWER:   Y) SPLICEOSOMES 
+
